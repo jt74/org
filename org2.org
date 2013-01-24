@@ -1,0 +1,37 @@
+#+FILETAGS: ORG2
+* Tasks
+  :PROPERTIES:
+  :ID:       1b1b829f-e489-4a3a-8c6b-d8a429babadd
+  :END:
+** DONE inactive vs active timestamp
+   - State "DONE"       from "TODO"       [2013-01-21 Mon 09:25]
+   :PROPERTIES:
+   :ID:       4e0810eb-c3af-4962-bb9e-030993e9fed9
+   :END:
+[2012-10-26 Fri 10:59]
+[[file:~/git/org/refile.org::*Set%20up%20BBDB][Set up BBDB]]
+** DONE Maybe its just a matter of having subtrees
+** DONE f9 t command is void
+   - State "DONE"       from "TODO"       [2013-01-21 Mon 09:25]
+  :LOGBOOK:
+  CLOCK: [2012-10-26 Fri 10:59]--[2012-10-26 Fri 11:00] =>  0:01
+  :END:
+   :PROPERTIES:
+   :ID:       1ea3c8b5-50bf-44c4-b693-1bb8fba61bbb
+   :END:
+[2012-10-26 Fri 10:59]
+[[file:~/git/org/refile.org::*Set%20up%20BBDB][Set up BBDB]]
+** DONE diary integration						:ORG:
+   - State "DONE"       from "TODO"       [2013-01-21 Mon 09:26]
+  :LOGBOOK:
+  CLOCK: [2012-10-31 Wed 12:18]--[2012-10-31 Wed 12:19] =>  0:01
+  :END:
+   :PROPERTIES:
+   :ID:       cbca0a0a-b6a6-4e7e-a1f1-70b33a26edcd
+   :END:
+[2012-10-31 Wed 12:18]
+[[file:~/git/org/alaska.org::*calls][Phone calls]]
+* Notes
+  :PROPERTIES:
+  :ID:       83594d5d-afac-4a2c-a728-3ea9975abd46
+  :END:

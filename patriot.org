@@ -1,0 +1,1707 @@
+#+FILETAGS: Patriot
+* Tasks
+** Organization
+   :LOGBOOK:
+   CLOCK: [2013-01-23 Wed 17:00]--[2013-01-23 Wed 17:08] =>  0:08
+   CLOCK: [2013-01-23 Wed 13:03]--[2013-01-23 Wed 13:09] =>  0:06
+   CLOCK: [2013-01-23 Wed 10:54]--[2013-01-23 Wed 12:15] =>  1:21
+   CLOCK: [2013-01-23 Wed 09:47]--[2013-01-23 Wed 10:28] =>  0:41
+   CLOCK: [2013-01-22 Tue 13:10]--[2013-01-22 Tue 13:31] =>  0:21
+   CLOCK: [2013-01-21 Mon 15:25]--[2013-01-21 Mon 15:45] =>  0:20
+   CLOCK: [2013-01-18 Fri 16:03]--[2013-01-18 Fri 16:31] =>  0:28
+   CLOCK: [2013-01-17 Thu 10:16]--[2013-01-17 Thu 10:17] =>  0:01
+   CLOCK: [2013-01-17 Thu 10:00]--[2013-01-17 Thu 10:01] =>  0:01
+   CLOCK: [2013-01-17 Thu 09:09]--[2013-01-17 Thu 09:10] =>  0:01
+   CLOCK: [2013-01-16 Wed 13:00]--[2013-01-17 Thu 09:09] => 20:09
+   CLOCK: [2013-01-16 Wed 08:57]--[2013-01-16 Wed 08:58] =>  0:01
+   CLOCK: [2013-01-15 Tue 08:04]--[2013-01-16 Wed 08:56] => 24:52
+   CLOCK: [2013-01-14 Mon 09:42]--[2013-01-14 Mon 13:08] =>  3:26
+   CLOCK: [2013-01-14 Mon 09:18]--[2013-01-14 Mon 09:41] =>  0:23
+   CLOCK: [2012-12-27 Thu 09:11]--[2012-12-27 Thu 10:03] =>  0:52
+   CLOCK: [2012-12-26 Wed 08:05]--[2012-12-26 Wed 15:00] =>  6:55
+   CLOCK: [2012-12-21 Fri 16:41]--[2012-12-21 Fri 16:55] =>  0:14
+   CLOCK: [2012-12-21 Fri 16:22]--[2012-12-21 Fri 16:41] =>  0:19
+   CLOCK: [2012-12-21 Fri 11:57]--[2012-12-21 Fri 13:57] =>  2:00
+   CLOCK: [2012-12-21 Fri 09:01]--[2012-12-21 Fri 09:02] =>  0:01
+   CLOCK: [2012-12-21 Fri 08:11]--[2012-12-21 Fri 08:34] =>  0:23
+   CLOCK: [2012-12-21 Fri 08:08]--[2012-12-21 Fri 08:09] =>  0:01
+   CLOCK: [2012-12-20 Thu 14:47]--[2012-12-20 Thu 15:37] =>  0:50
+   CLOCK: [2012-12-20 Thu 11:30]--[2012-12-20 Thu 11:46] =>  0:16
+   CLOCK: [2012-12-20 Thu 08:23]--[2012-12-20 Thu 08:52] =>  0:29
+   CLOCK: [2012-12-20 Thu 07:56]--[2012-12-20 Thu 08:23] =>  0:27
+   CLOCK: [2012-12-19 Wed 13:47]--[2012-12-19 Wed 16:07] =>  2:20
+   CLOCK: [2012-12-19 Wed 13:15]--[2012-12-19 Wed 13:34] =>  0:19
+   CLOCK: [2012-12-19 Wed 11:33]--[2012-12-19 Wed 11:39] =>  0:06
+   CLOCK: [2012-12-19 Wed 10:22]--[2012-12-19 Wed 10:23] =>  0:01
+   CLOCK: [2012-12-19 Wed 09:12]--[2012-12-19 Wed 09:25] =>  0:13
+   CLOCK: [2012-12-19 Wed 08:59]--[2012-12-19 Wed 09:10] =>  0:11
+   CLOCK: [2012-12-19 Wed 08:17]--[2012-12-19 Wed 08:27] =>  0:10
+   CLOCK: [2012-12-19 Wed 08:01]--[2012-12-19 Wed 08:09] =>  0:08
+   CLOCK: [2012-12-18 Tue 16:48]--[2012-12-18 Tue 16:51] =>  0:03
+   CLOCK: [2012-12-18 Tue 16:22]--[2012-12-18 Tue 16:47] =>  0:25
+   CLOCK: [2012-12-18 Tue 15:35]--[2012-12-18 Tue 15:36] =>  0:01
+   CLOCK: [2012-12-18 Tue 08:07]--[2012-12-18 Tue 08:53] =>  0:46
+   CLOCK: [2012-12-17 Mon 16:57]--[2012-12-17 Mon 17:07] =>  0:10
+   CLOCK: [2012-12-17 Mon 16:40]--[2012-12-17 Mon 16:53] =>  0:13
+   CLOCK: [2012-12-17 Mon 14:52]--[2012-12-17 Mon 14:55] =>  0:03
+   CLOCK: [2012-12-17 Mon 13:07]--[2012-12-17 Mon 13:09] =>  0:02
+   CLOCK: [2012-12-17 Mon 13:05]--[2012-12-17 Mon 13:07] =>  0:02
+   CLOCK: [2012-12-17 Mon 08:11]--[2012-12-17 Mon 08:44] =>  0:33
+   CLOCK: [2012-12-17 Mon 07:56]--[2012-12-17 Mon 08:10] =>  0:14
+   CLOCK: [2012-12-14 Fri 16:59]--[2012-12-14 Fri 17:15] =>  0:16
+   CLOCK: [2012-12-14 Fri 16:42]--[2012-12-14 Fri 16:44] =>  0:02
+   CLOCK: [2012-12-14 Fri 14:44]--[2012-12-14 Fri 14:45] =>  0:01
+   CLOCK: [2012-12-14 Fri 11:34]--[2012-12-14 Fri 11:36] =>  0:02
+   CLOCK: [2012-12-14 Fri 08:49]--[2012-12-14 Fri 09:03] =>  0:14
+   CLOCK: [2012-12-13 Thu 09:03]--[2012-12-14 Fri 08:08] => 23:05
+   CLOCK: [2012-12-06 Thu 16:20]--[2012-12-06 Thu 17:05] =>  0:45
+   CLOCK: [2012-12-06 Thu 14:19]--[2012-12-06 Thu 14:20] =>  0:01
+   CLOCK: [2012-12-06 Thu 07:50]--[2012-12-06 Thu 08:30] =>  0:40
+   CLOCK: [2012-12-05 Wed 17:00]--[2012-12-05 Wed 17:16] =>  0:16
+   CLOCK: [2012-12-05 Wed 15:16]--[2012-12-05 Wed 15:17] =>  0:01
+   CLOCK: [2012-12-05 Wed 15:06]--[2012-12-05 Wed 15:09] =>  0:03
+   CLOCK: [2012-12-05 Wed 15:01]--[2012-12-05 Wed 15:02] =>  0:01
+   CLOCK: [2012-12-05 Wed 14:44]--[2012-12-05 Wed 14:48] =>  0:04
+   CLOCK: [2012-12-05 Wed 14:17]--[2012-12-05 Wed 14:23] =>  0:06
+   CLOCK: [2012-12-05 Wed 08:07]--[2012-12-05 Wed 08:09] =>  0:02
+   CLOCK: [2012-12-04 Tue 17:07]--[2012-12-05 Wed 08:03] => 14:56
+   CLOCK: [2012-12-04 Tue 08:02]--[2012-12-04 Tue 08:12] =>  0:10
+   CLOCK: [2012-12-03 Mon 12:30]--[2012-12-03 Mon 12:35] =>  0:05
+   CLOCK: [2012-12-03 Mon 12:00]--[2012-12-03 Mon 12:01] =>  0:01
+   CLOCK: [2012-12-03 Mon 11:50]--[2012-12-03 Mon 11:59] =>  0:09
+   CLOCK: [2012-12-03 Mon 11:13]--[2012-12-03 Mon 11:43] =>  0:30
+   CLOCK: [2012-12-03 Mon 11:05]--[2012-12-03 Mon 11:10] =>  0:05
+   CLOCK: [2012-12-03 Mon 10:57]--[2012-12-03 Mon 10:58] =>  0:01
+   CLOCK: [2012-12-03 Mon 07:54]--[2012-12-03 Mon 10:56] =>  3:02
+   CLOCK: [2012-12-03 Mon 07:53]--[2012-12-03 Mon 07:54] =>  0:01
+   CLOCK: [2012-11-30 Fri 15:51]--[2012-11-30 Fri 17:04] =>  1:13
+   CLOCK: [2012-11-30 Fri 11:30]--[2012-11-30 Fri 11:34] =>  0:04
+   CLOCK: [2012-11-30 Fri 11:11]--[2012-11-30 Fri 11:30] =>  0:19
+   CLOCK: [2012-11-30 Fri 07:53]--[2012-11-30 Fri 07:54] =>  0:01
+   CLOCK: [2012-11-30 Fri 07:52]--[2012-11-30 Fri 07:53] =>  0:01
+   CLOCK: [2012-11-29 Thu 16:08]--[2012-11-29 Thu 16:16] =>  0:08
+   CLOCK: [2012-11-29 Thu 15:53]--[2012-11-29 Thu 16:04] =>  0:11
+   CLOCK: [2012-11-29 Thu 13:56]--[2012-11-29 Thu 13:59] =>  0:03
+   CLOCK: [2012-11-29 Thu 12:03]--[2012-11-29 Thu 12:33] =>  0:30
+   CLOCK: [2012-11-29 Thu 10:48]--[2012-11-29 Thu 11:50] =>  1:02
+   CLOCK: [2012-11-28 Wed 16:16]--[2012-11-28 Wed 17:06] =>  0:50
+   CLOCK: [2012-11-28 Wed 15:40]--[2012-11-28 Wed 15:41] =>  0:01
+   CLOCK: [2012-11-28 Wed 15:12]--[2012-11-28 Wed 15:29] =>  0:17
+   CLOCK: [2012-11-28 Wed 15:07]--[2012-11-28 Wed 15:08] =>  0:01
+   CLOCK: [2012-11-28 Wed 14:54]--[2012-11-28 Wed 15:07] =>  0:13
+   CLOCK: [2012-11-28 Wed 09:25]--[2012-11-28 Wed 13:33] =>  4:08
+   CLOCK: [2012-11-28 Wed 08:43]--[2012-11-28 Wed 09:25] =>  0:42
+   CLOCK: [2012-11-27 Tue 17:19]--[2012-11-27 Tue 17:32] =>  0:13
+   CLOCK: [2012-11-27 Tue 15:24]--[2012-11-27 Tue 16:16] =>  0:52
+   CLOCK: [2012-11-26 Mon 17:11]--[2012-11-27 Tue 14:31] => 21:20
+   CLOCK: [2012-11-26 Mon 15:03]--[2012-11-26 Mon 16:13] =>  1:10
+   CLOCK: [2012-11-26 Mon 14:33]--[2012-11-26 Mon 14:34] =>  0:01
+   CLOCK: [2012-11-26 Mon 14:26]--[2012-11-26 Mon 14:31] =>  0:05
+   CLOCK: [2012-11-26 Mon 12:43]--[2012-11-26 Mon 13:42] =>  0:59
+   CLOCK: [2012-11-26 Mon 12:12]--[2012-11-26 Mon 12:16] =>  0:04
+   CLOCK: [2012-11-26 Mon 12:10]--[2012-11-26 Mon 12:11] =>  0:01
+   CLOCK: [2012-11-26 Mon 11:59]--[2012-11-26 Mon 12:10] =>  0:11
+   CLOCK: [2012-11-26 Mon 11:15]--[2012-11-26 Mon 11:16] =>  0:01
+   CLOCK: [2012-11-26 Mon 10:07]--[2012-11-26 Mon 10:08] =>  0:01
+   CLOCK: [2012-11-26 Mon 07:56]--[2012-11-26 Mon 08:29] =>  0:33
+   CLOCK: [2012-11-21 Wed 08:08]--[2012-11-21 Wed 08:09] =>  0:01
+   CLOCK: [2012-11-20 Tue 14:34]--[2012-11-20 Tue 17:00] =>  2:26
+   CLOCK: [2012-11-20 Tue 14:27]--[2012-11-20 Tue 14:28] =>  0:01
+   CLOCK: [2012-11-20 Tue 14:13]--[2012-11-20 Tue 14:20] =>  0:07
+   CLOCK: [2012-11-20 Tue 11:01]--[2012-11-20 Tue 11:02] =>  0:01
+   CLOCK: [2012-11-20 Tue 10:59]--[2012-11-20 Tue 11:00] =>  0:01
+   CLOCK: [2012-11-20 Tue 10:58]--[2012-11-20 Tue 10:59] =>  0:01
+   CLOCK: [2012-11-16 Fri 16:06]--[2012-11-16 Fri 16:08] =>  0:02
+   CLOCK: [2012-11-16 Fri 16:05]--[2012-11-16 Fri 16:06] =>  0:01
+   CLOCK: [2012-11-16 Fri 12:25]--[2012-11-16 Fri 12:43] =>  0:18
+   CLOCK: [2012-11-16 Fri 12:15]--[2012-11-16 Fri 12:24] =>  0:09
+   CLOCK: [2012-11-16 Fri 11:46]--[2012-11-16 Fri 11:55] =>  0:09
+   CLOCK: [2012-11-16 Fri 10:35]--[2012-11-16 Fri 10:37] =>  0:02
+   CLOCK: [2012-11-16 Fri 09:29]--[2012-11-16 Fri 09:33] =>  0:04
+   CLOCK: [2012-11-16 Fri 08:17]--[2012-11-16 Fri 08:20] =>  0:03
+   CLOCK: [2012-11-16 Fri 07:39]--[2012-11-16 Fri 07:50] =>  0:11
+   CLOCK: [2012-11-15 Thu 16:48]--[2012-11-15 Thu 16:59] =>  0:11
+   CLOCK: [2012-11-15 Thu 16:43]--[2012-11-15 Thu 16:48] =>  0:05
+   CLOCK: [2012-11-15 Thu 14:48]--[2012-11-15 Thu 15:01] =>  0:13
+   CLOCK: [2012-11-15 Thu 13:02]--[2012-11-15 Thu 13:31] =>  0:29
+   CLOCK: [2012-11-15 Thu 12:37]--[2012-11-15 Thu 13:01] =>  0:24
+   CLOCK: [2012-11-15 Thu 10:09]--[2012-11-15 Thu 10:10] =>  0:01
+   CLOCK: [2012-11-15 Thu 09:29]--[2012-11-15 Thu 09:31] =>  0:02
+   CLOCK: [2012-11-15 Thu 07:45]--[2012-11-15 Thu 08:31] =>  0:46
+   :END:
+:PROPERTIES:
+:CLOCK_MODELINE_TOTAL: today
+:ID:       eb155a82-92b2-4f25-a3c6-0304591af2f9
+:ORDERED: t
+:END:
+** DONE [#A] Fire Station 12, bring foundation up 1 ft, PCWIN
+   DEADLINE: <2012-11-16 Fri>
+   - State "DONE"       from "WAITING"    [2012-12-03 Mon 11:40]
+     - learned our software does not perform calcs from layers of rebar
+   - State "WAITING"    from "TODO"       [2012-11-16 Fri 10:34] \\
+     Waiting on call back from Sandeep or Max
+  :LOGBOOK:
+  CLOCK: [2012-11-20 Tue 11:00]--[2012-11-20 Tue 11:01] =>  0:01
+  CLOCK: [2012-11-16 Fri 11:45]--[2012-11-16 Fri 11:46] =>  0:01
+  CLOCK: [2012-11-16 Fri 11:12]--[2012-11-16 Fri 11:22] =>  0:10
+  CLOCK: [2012-11-16 Fri 10:34]--[2012-11-16 Fri 10:35] =>  0:01
+  CLOCK: [2012-11-16 Fri 10:13]--[2012-11-16 Fri 10:15] =>  0:02
+  CLOCK: [2012-11-16 Fri 10:12]--[2012-11-16 Fri 10:13] =>  0:01
+  CLOCK: [2012-11-16 Fri 09:59]--[2012-11-16 Fri 10:09] =>  0:10
+  CLOCK: [2012-11-16 Fri 09:44]--[2012-11-16 Fri 09:48] =>  0:04
+  CLOCK: [2012-11-16 Fri 09:33]--[2012-11-16 Fri 09:43] =>  0:10
+  CLOCK: [2012-11-16 Fri 09:19]--[2012-11-16 Fri 09:20] =>  0:01
+  CLOCK: [2012-11-16 Fri 08:20]--[2012-11-16 Fri 08:26] =>  0:06
+  CLOCK: [2012-11-15 Thu 16:42]--[2012-11-15 Thu 16:43] =>  0:01
+  :END:
+[2012-11-15 Thu 16:42]
+[[file:~/git/org/patriot.org::*IT%20hardware%20wish%20list][IT hardware wish list]]
+*** PHONE [[bbdb:Sandeep Mane][Sandeep Mane]] - Patriot Tower				      :PHONE:
+re: two layers of rebar in Enercalc foundation design
+- no answer, left message
+  :LOGBOOK:
+  CLOCK: [2012-11-16 Fri 10:09]--[2012-11-16 Fri 10:12] =>  0:03
+  :END:
+[2012-11-16 Fri 10:09]
+*** PHONE [[bbdb:Max Gregersen][Max Gregersen]] - Patriot Tower				      :PHONE:
+re: foundation design in Enercalc
+
+  :LOGBOOK:
+  CLOCK: [2012-11-16 Fri 10:15]--[2012-11-16 Fri 10:34] =>  0:19
+  :END:
+[2012-11-16 Fri 10:15]
+*** PHONE [[bbdb:Yoo Jin Kim][Yoo Jin Kim]]						      :PHONE:
+re: Enercalc design
+  :LOGBOOK:
+  CLOCK: [2012-11-16 Fri 11:22]--[2012-11-16 Fri 11:45] =>  0:23
+  :END:
+[2012-11-16 Fri 11:22]
+** DONE PCWIN Mnt Bigelow dwg review
+  - State "DONE"       from "TODO"       [2012-11-16 Fri 15:56]
+  :LOGBOOK:
+  CLOCK: [2012-11-16 Fri 15:48]--[2012-11-16 Fri 15:56] =>  0:08
+  :END:
+[2012-11-16 Fri 15:48]
+[[file:~/git/org/patriot.org::*IT%20hardware%20wish%20list][IT hardware wish list]]
+
+** CANCELLED Holden CAD work <2012-11-30 Fri>			  :CANCELLED:
+   - State "CANCELLED"  from "TODO"       [2012-12-05 Wed 09:41] \\
+     Delegated back to jngo [2012-12-04 Tue]
+   :PROPERTIES:
+   :Effort:   3:00
+   :END:
+M:\Motorola\7 - CBP\Houlton\Site Folders\SM - Mount Harris\Peaked 2
+[2012-11-29 Thu 09:21]
+** DONE Hours <2012-12-03 Mon>
+   - State "DONE"       from "NEXT"       [2012-12-17 Mon 14:52]
+   :LOGBOOK:
+   CLOCK: [2012-12-17 Mon 13:09]--[2012-12-17 Mon 14:52] =>  1:43
+   :END:
+[2012-12-03 Mon 07:54]
+[[id:eb155a82-92b2-4f25-a3c6-0304591af2f9][Organization]]
+** DONE Email
+   - State "DONE"       from "NEXT"       [2012-12-17 Mon 14:53]
+  :LOGBOOK:
+  CLOCK: [2012-12-03 Mon 08:11]--[2012-12-03 Mon 08:12] =>  0:01
+  CLOCK: [2012-12-03 Mon 08:10]--[2012-12-03 Mon 08:11] =>  0:01
+  CLOCK: [2012-12-03 Mon 07:55]--[2012-12-03 Mon 08:10] =>  0:15
+  :END:
+   [2012-12-03 Mon 07:55]
+** DONE DPS tower review <2013-01-18 Fri>
+   - State "DONE"       from "NEXT"       [2013-01-23 Wed 10:24]
+   :LOGBOOK:
+   CLOCK: [2013-01-21 Mon 11:42]--[2013-01-21 Mon 12:02] =>  0:20
+   CLOCK: [2013-01-21 Mon 10:34]--[2013-01-21 Mon 10:42] =>  0:08
+   CLOCK: [2013-01-18 Fri 15:15]--[2013-01-18 Fri 16:03] =>  0:48
+   CLOCK: [2013-01-18 Fri 09:49]--[2013-01-18 Fri 15:05] =>  5:16
+   :END:
+*** Notes
+*** Questions
+   1. Why are the double angles different thicknesses? 
+  :LOGBOOK:
+  CLOCK: [2013-01-17 Thu 10:17]--[2013-01-17 Thu 15:21] =>  5:04
+  :END:
+[2013-01-17 Thu 10:17]
+[[id:eb155a82-92b2-4f25-a3c6-0304591af2f9][Organization]]
+* CBP
+** PHONE Follow up with [[bbdb:John Migliaccio][John Migliaccio]] - San Engineering re: E26 Frisco Divide re-model
+  - left message indicating urgency and email
+  :LOGBOOK:
+  CLOCK: [2012-12-03 Mon 11:10]--[2012-12-03 Mon 11:12] =>  0:02
+  CLOCK: [2012-12-03 Mon 10:58]--[2012-12-03 Mon 11:05] =>  0:07
+  :END:
+[2012-12-03 Mon 10:58]
+[[file:~/git/org/refile.org::*Pick%20up%20new%20computers][Pick up new computers <2012-12-03 Mon>]]
+** DONE [#B] Check E26 Frisco Divide <2012-12-05 Wed>
+   - State "DONE"       from "WAITING"    [2012-12-18 Tue 08:59]
+   - State "WAITING"    from "NEXT"       [2012-12-05 Wed 13:50] \\
+     jmigliaccio stamp
+   - State "NEXT"       from "WAITING"    [2012-12-05 Wed 08:37]
+  - State "WAITING"    from "NEXT"       [2012-11-30 Fri 11:53] \\
+    For migliaccio feedback
+  :LOGBOOK:
+  CLOCK: [2012-12-05 Wed 13:39]--[2012-12-05 Wed 13:50] =>  0:11
+  CLOCK: [2012-12-05 Wed 13:34]--[2012-12-05 Wed 13:39] =>  0:05
+  CLOCK: [2012-12-05 Wed 13:16]--[2012-12-05 Wed 13:32] =>  0:16
+  CLOCK: [2012-11-30 Fri 07:54]--[2012-11-30 Fri 11:11] =>  3:17
+  :END:
+  :PROPERTIES:
+  :Effort:   6:00
+  :END:
+[2012-11-30 Fri 07:53]
+[[id:eb155a82-92b2-4f25-a3c6-0304591af2f9][Organization]]
+* Freeport-McMoran
+** TASKS
+*** DONE rock anchor foundation with Dr. Kim for tower
+    - State "DONE"       from "NEXT"       [2013-01-23 Wed 10:25]
+  - Tyrone Mine
+  :LOGBOOK:
+  CLOCK: [2013-01-22 Tue 10:14]--[2013-01-22 Tue 11:10] =>  0:56
+  CLOCK: [2013-01-22 Tue 08:39]--[2013-01-22 Tue 08:40] =>  0:01
+  :END:
+[2013-01-22 Tue 08:39]
+
+** NEXT [#A] Freeport-McMoran foundatiion design
+   :LOGBOOK:
+   CLOCK: [2013-01-16 Wed 16:39]--[2013-01-16 Wed 17:02] =>  0:23
+   :END:
+*** Revisit:
+   - Risk category = III
+   - C_p, 26-27, F. 27.4-1
+   - K_(zt) F. 26.8-1
+   - why don't I enter V and M in EnerCalc
+  :LOGBOOK:
+  CLOCK: [2013-01-16 Wed 09:00]--[2013-01-16 Wed 13:00] =>  4:00
+  CLOCK: [2013-01-16 Wed 08:58]--[2013-01-16 Wed 09:00] =>  0:02
+  CLOCK: [2013-01-16 Wed 08:56]--[2013-01-16 Wed 08:57] =>  0:01
+  :END:
+[2013-01-16 Wed 08:56]
+*** Geo parameters
+**** from M:\Freeport McMoran\II-Sites\6 - Tyrone Mine\2-A&E\a-Geotechnical\SAIC Jacks Peak\Geotechnical report - Jacks Peak -AMECpdf.pdf
+    - bearing pressure = 12,000 psf, per \S 5.2.1 (for spread type foundation)
+    - passive lateral resistance (= sliding resistance?) 350 psf per \S5.2.2
+    - coefficient of friction = 0.45, per \S5.2.2
+    - seismic class B per \S 5.7
+**** from M:\Freeport McMoran\II-Sites\6 - Tyrone Mine\2-A&E\a-Geotechnical\SAIC Jacks Peak\geotechAddendumAMEC.pdf
+    - non-frost susceptible backfill >= 24" where constructed over soil; >= 6" where constructed over bedrock (w/in building outline)
+      - check addendum for NFSB gradation requirements
+    - Soil site class B
+    - Seismic: parameters provided in M:\Freeport McMoran\II-Sites\6 - Tyrone Mine\2-A&E\a-Geotechnical\SAIC Jacks Peak\geotechAddendumAMEC.pdf
+* IT
+** Website
+*** Patriot Wireless logo
+    :LOGBOOK:
+    CLOCK: [2013-01-23 Wed 08:31]--[2013-01-23 Wed 09:30] =>  0:59
+    CLOCK: [2013-01-22 Tue 13:31]--[2013-01-22 Tue 14:10] =>  0:39
+    :END:
+*** details
+**** logo
+     - font: [[http://www.fontpark.net/en/font/delphin-regular/#][Delphin]]
+     - [[http://www.gimpdome.com/text-effect/3d-text-in-gimp/][text effect]] in Gimp
+*** DONE logo clean up
+    - State "DONE"       from "NEXT"       [2013-01-22 Tue 11:18]
+    :LOGBOOK:
+    CLOCK: [2013-01-22 Tue 12:47]--[2013-01-22 Tue 13:10] =>  0:23
+    CLOCK: [2013-01-22 Tue 11:17]--[2013-01-22 Tue 11:18] =>  0:01
+    CLOCK: [2013-01-22 Tue 08:14]--[2013-01-22 Tue 10:11] =>  1:57
+    :END:
+*** DONE logo to mike
+    - State "DONE"       from "TODO"       [2013-01-21 Mon 15:45]
+*** NEXT [#B] map
+    :LOGBOOK:
+    CLOCK: [2013-01-22 Tue 14:10]--[2013-01-23 Wed 09:47] => 19:37
+    CLOCK: [2013-01-21 Mon 15:45]--[2013-01-21 Mon 17:00] =>  1:15
+    :END:
+*** DONE domain research
+    - State "DONE"       from "TODO"       [2013-01-21 Mon 15:45]
+**** available
+     - patriot-groups.com
+     - patriotgroup.com
+     - thepatriotgroups.com
+     - thepatriot-group.com
+**** not available
+    - patriotgroups.com
+    - patriot-group.com
+    - thepatriotgroup.com
+ 
+**** meetings
+***** <2013-01-21 Mon>
+  :LOGBOOK:
+  CLOCK: [2013-01-21 Mon 11:29]--[2013-01-21 Mon 11:42] =>  0:13
+  CLOCK: [2013-01-21 Mon 10:42]--[2013-01-21 Mon 11:17] =>  0:35
+  :END:
+[2013-01-21 Mon 10:42]
+*** DONE dmills computer trouble shoot
+  - State "DONE"       from "NEXT"       [2013-01-21 Mon 13:38]
+  - Windows update. Connectivity in office was okay. Recommended general system clean.
+  :LOGBOOK:
+  CLOCK: [2013-01-21 Mon 13:37]--[2013-01-21 Mon 13:38] =>  0:01
+  CLOCK: [2013-01-21 Mon 12:45]--[2013-01-21 Mon 13:37] =>  0:52
+  CLOCK: [2013-01-21 Mon 12:02]--[2013-01-21 Mon 12:26] =>  0:24
+  :END:
+[2013-01-21 Mon 12:02]
+[[file:~/git/org/refile.org::*][<2013-01-21 Mon>]]
+** Tasks
+  :LOGBOOK:
+  CLOCK: [2012-11-16 Fri 16:02]--[2012-11-16 Fri 16:05] =>  0:03
+  CLOCK: [2012-11-14 Wed 09:24]--[2012-11-14 Wed 09:25] =>  0:01
+  :END:
+*** DONE mhendricks aol issue <2012-11-20 Tue>
+    - State "DONE"       from "NEXT"       [2013-01-21 Mon 09:26]
+    :LOGBOOK:
+    CLOCK: [2012-11-20 Tue 13:20]--[2012-11-20 Tue 13:36] =>  0:16
+    :END:
+[2012-11-20 Tue 10:09]
+[[file:~/git/org/patriot.org::*Server%20status,%20move%20images][Server status, move images]]
+*** DONE [#A] Set up Sandeep to M:\Motorola\43 - City of El Paso\Sites <2012-11-29 Thu>
+  - State "DONE"       from "NEXT"       [2012-11-29 Thu 14:09]
+  - access to Sites
+  :LOGBOOK:
+  CLOCK: [2012-11-29 Thu 11:47]--[2012-11-29 Thu 12:03] =>  0:16
+  CLOCK: [2012-11-29 Thu 09:34]--[2012-11-29 Thu 09:36] =>  0:02
+  :END:
+[2012-11-29 Thu 09:34]
+[[file:~/git/org/patriot.org::*bsneed%20TOSHIBA][bsneed TOSHIBA]]
+*** DONE set up smane in office
+  - State "DONE"       from "TODO"       [2012-11-29 Thu 14:08]
+  :LOGBOOK:
+  CLOCK: [2012-11-29 Thu 13:59]--[2012-11-29 Thu 14:08] =>  0:09
+  :END:
+[2012-11-29 Thu 13:59]
+[[file:~/git/org/patriot.org::*lzak%20new%20computer,%20monitor%20fried][lzak new computer, monitor fried <2012-11-29 Thu>]]
+*** DONE Best Buy run, hardware issue with lzakAsus
+    - State "DONE"       from "NEXT"       [2012-11-29 Thu 16:01]
+  :LOGBOOK:
+  CLOCK: [2012-11-29 Thu 14:10]--[2012-11-29 Thu 15:30] =>  1:20
+  :END:
+[2012-11-29 Thu 14:10]
+[[file:~/git/org/patriot.org::*lzak%20new%20computer,%20monitor%20fried][lzak new computer, monitor fried <2012-11-29 Thu>]]
+*** DONE set up lzak new computer <2012-11-29 Thu>
+    - State "DONE"       from "NEXT"       [2012-12-17 Mon 14:55]
+  :LOGBOOK:
+  CLOCK: [2012-12-06 Thu 09:24]--[2012-12-06 Thu 09:51] =>  0:27
+  CLOCK: [2012-12-05 Wed 16:11]--[2012-12-05 Wed 16:12] =>  0:01
+  CLOCK: [2012-12-05 Wed 15:31]--[2012-12-05 Wed 16:10] =>  0:39
+  CLOCK: [2012-11-29 Thu 16:50]--[2012-11-29 Thu 17:02] =>  0:12
+  CLOCK: [2012-11-29 Thu 16:16]--[2012-11-29 Thu 16:49] =>  0:33
+  :END:
+  :PROPERTIES:
+  :Effort:   2:00
+  :END:
+[2012-11-29 Thu 16:16]
+[[id:eb155a82-92b2-4f25-a3c6-0304591af2f9][Organization]]
+*** PHONE Dan w/Qs re: VOIP services				      :PHONE:
+  :LOGBOOK:
+  CLOCK: [2012-11-29 Thu 10:34]--[2012-11-29 Thu 10:36] =>  0:02
+  :END:
+[2012-11-29 Thu 10:34]
+*** DONE Order two computers for dhall <2012-11-30 Fri>
+
+
+    - State "DONE"       from "NEXT"       [2012-11-30 Fri 14:36]
+| Employee | Computer         |   $ | Out          | Monitor 1        | In      | Monitor 2        | In      | Microsoft |
+|----------+------------------+-----+--------------+------------------+---------+------------------+---------+-----------|
+| dhall    | [[http://www.bestbuy.com/site/Toshiba---Satellite-15.6%26%2334%3B-Laptop---4GB-Memory---640GB-Hard-Drive---Mercury-Silver/6978439.p?skuId=6978439&productCategoryId=pcmcat247400050000&id=1218817841373][new laptop 15.6"]] | 400 | VGA/HDMI     | new laptop       | -       | dhall existing 2 | VGA/DVI |       200 |
+| mmink    | [[http://www.bestbuy.com/site/Toshiba---Satellite-15.6%26%2334%3B-Laptop---4GB-Memory---640GB-Hard-Drive---Mercury-Silver/6978439.p?skuId=6978439&productCategoryId=pcmcat247400050000&id=1218817841373][new laptop 15.6"]] | 400 | VGA/HDMI     | new laptop       | -       | spare 1          | VGA/DVI |       200 |
+| dferrat  | dhall existing   |   - | VGA/DVI/HDMI | dhall existing 1 | VGA/DVI | spare 2          | VGA     |         - |
+
+
+    :LOGBOOK:
+    CLOCK: [2012-11-30 Fri 11:55]--[2012-11-30 Fri 14:36] =>  2:41
+    :END:
+  :PROPERTIES:
+  :Effort:   0:45
+  :END:
+[2012-11-30 Fri 11:30]
+*** DONE Configure bsneed TOSHIBA <2012-11-30 Fri>
+    - State "DONE"       from "NEXT"       [2012-12-17 Mon 14:55]
+  :LOGBOOK:
+  CLOCK: [2012-12-03 Mon 08:12]--[2012-12-03 Mon 08:41] =>  0:29
+  CLOCK: [2012-11-29 Thu 16:49]--[2012-11-29 Thu 16:50] =>  0:01
+  :END:
+  :PROPERTIES:
+  :Effort:   0:30
+  :END:
+[2012-11-29 Thu 16:49]
+[[file:~/git/org/patriot.org::*bsneed%20TOSHIBA][bsneed TOSHIBA]]
+*** DONE Pick up new computers <2012-12-03 Mon>
+  - State "DONE"       from "NEXT"       [2012-12-03 Mon 10:56]
+  :LOGBOOK:
+  CLOCK: [2012-12-03 Mon 09:49]--[2012-12-03 Mon 10:56] =>  1:07
+  CLOCK: [2012-12-03 Mon 09:22]--[2012-12-03 Mon 09:25] =>  0:03
+  CLOCK: [2012-12-03 Mon 08:41]--[2012-12-03 Mon 09:22] =>  0:41
+  :END:
+
+  :PROPERTIES:
+  :Effort:   2:00
+  :END:
+[2012-11-30 Fri 17:07]
+[[file:~/git/org/patriot.org::*IT][IT]]
+*** DONE Configure new computers <2012-12-03 Mon>
+    - State "DONE"       from "NEXT"       [2012-12-17 Mon 14:55]
+  :LOGBOOK:
+  CLOCK: [2012-12-06 Thu 09:51]--[2012-12-06 Thu 11:59] =>  2:08
+  CLOCK: [2012-12-06 Thu 09:11]--[2012-12-06 Thu 09:24] =>  0:13
+  CLOCK: [2012-12-05 Wed 16:49]--[2012-12-05 Wed 17:00] =>  0:11
+  CLOCK: [2012-12-05 Wed 16:12]--[2012-12-05 Wed 16:26] =>  0:14
+  CLOCK: [2012-12-05 Wed 15:23]--[2012-12-05 Wed 15:31] =>  0:08
+  CLOCK: [2012-12-04 Tue 16:38]--[2012-12-04 Tue 17:07] =>  0:29
+  CLOCK: [2012-12-04 Tue 15:42]--[2012-12-04 Tue 16:17] =>  0:35
+  CLOCK: [2012-12-04 Tue 15:21]--[2012-12-04 Tue 15:39] =>  0:18
+  CLOCK: [2012-12-04 Tue 12:54]--[2012-12-04 Tue 15:09] =>  2:15
+  CLOCK: [2012-12-04 Tue 08:47]--[2012-12-04 Tue 12:42] =>  3:55
+  CLOCK: [2012-12-04 Tue 08:23]--[2012-12-04 Tue 08:46] =>  0:23
+  CLOCK: [2012-12-03 Mon 14:52]--[2012-12-03 Mon 16:56] =>  2:04
+  CLOCK: [2012-12-03 Mon 13:29]--[2012-12-03 Mon 14:44] =>  1:15
+  CLOCK: [2012-12-03 Mon 10:56]--[2012-12-03 Mon 10:57] =>  0:01
+  :END:
+[2012-12-03 Mon 10:56]
+
+*** TODO talk to Sam re: GoDaddy <2012-12-03 Mon>
+[2012-12-03 Mon 09:22]
+*** TODO Look into Crashplan data encryption for local backups
+[2012-12-03 Mon 08:10]
+[[file:~/git/org/patriot.org::*%5B#A%5D%20Fire%20Station%2012,%20bring%20foundation%20up%201%20ft,%20PCWIN][Fire Station 12, bring foundation up 1 ft, PCWIN]]
+*** TODO Ensure WPA2 encryption on wifi
+[2012-12-03 Mon 08:11]
+[[file:~/git/org/refile.org::*Email][Email]]
+*** PHONE Best buy support w/Angie				      :PHONE:
+  - requested duplication of roder placed on Friday 11/30
+  - pick up in N. Scottsdale
+  - order #: BBY01-538-090-013-683
+  - note on order re: Jared pick up of software
+  :LOGBOOK:
+  CLOCK: [2012-12-03 Mon 09:25]--[2012-12-03 Mon 09:49] =>  0:24
+  :END:
+[2012-12-03 Mon 09:25]
+*** DONE Phone jacking exploration
+    - State "DONE"       from "TODO"       [2012-12-03 Mon 12:31]
+  :LOGBOOK:
+  CLOCK: [2012-12-03 Mon 11:43]--[2012-12-03 Mon 11:50] =>  0:07
+  :END:
+[2012-12-03 Mon 11:43]
+[[file:~/git/org/patriot.org::*Tasks][Tasks]]
+*** PHONE RISA3d pricing query 	(949) 951-5815	AMBER		      :PHONE:
+  - $3000 for 1 license, $1500 for second
+  - by USB key
+  - 6 mo. maintenance
+
+RISAFoundation is $2000
+- or if buy both, dock $1000 
+  :LOGBOOK:
+  CLOCK: [2012-12-03 Mon 14:44]--[2012-12-03 Mon 14:52] =>  0:08
+  :END:
+[2012-12-03 Mon 14:44]
+*** DONE check front computer
+    - State "DONE"       from "TODO"       [2012-12-17 Mon 14:55]
+  - remove sage
+  :LOGBOOK:
+  CLOCK: [2012-12-04 Tue 15:39]--[2012-12-04 Tue 15:42] =>  0:03
+  :END:
+[2012-12-04 Tue 15:39]
+[[file:~/git/org/refile.org::*PPI%20re:%20review%20courses][PPI re: review courses]]
+*** DONE jcordell vaio crash <2012-12-05 Wed>
+    - State "DONE"       from "TODO"       [2013-01-21 Mon 09:26]
+    - State "NEXT"       from "DONE"       [2012-12-19 Wed 16:07]
+    - State "DONE"       from "TODO"       [2012-12-18 Tue 09:00]
+    - attempted vaio recovery two times [2012-12-04 Tue] and once [2012-12-05 Wed] to no avail
+      - cycles through restarts to "Operating system not found" black screen
+    - attempt fresh install from Win7 iso <2012-12-05 Wed 09:43>, fail
+    - suggested by online support that I contact Service Assistance Team at 1-888-476-6972 at <2012-12-05 Wed 13:33>
+    - one more effort of vaio care at <2012-12-05 Wed 13:53>
+    - pursue install disks [2012-12-19 Wed]
+    - install disks arrive and reinstall [2012-12-21 Fri]
+    - invoice ordered from 1-888-476-6972 (via transfer) [2012-12-21 Fri], expect in 24 hrs
+  :LOGBOOK:
+  CLOCK: [2013-01-02 Wed 13:57]--[2013-01-02 Wed 14:35] =>  0:38
+  CLOCK: [2013-01-02 Wed 10:24]--[2013-01-02 Wed 11:28] =>  1:04
+  CLOCK: [2013-01-02 Wed 09:34]--[2013-01-02 Wed 09:35] =>  0:01
+  CLOCK: [2012-12-21 Fri 15:01]--[2012-12-21 Fri 16:22] =>  1:21
+  CLOCK: [2012-12-21 Fri 13:57]--[2012-12-21 Fri 14:27] =>  0:30
+  CLOCK: [2012-12-20 Thu 08:52]--[2012-12-20 Thu 09:21] =>  0:29
+  CLOCK: [2012-12-19 Wed 16:07]--[2012-12-19 Wed 17:00] =>  0:53
+  CLOCK: [2012-12-05 Wed 14:53]--[2012-12-05 Wed 15:01] =>  0:08
+  CLOCK: [2012-12-05 Wed 13:51]--[2012-12-05 Wed 13:52] =>  0:01
+  CLOCK: [2012-12-05 Wed 13:32]--[2012-12-05 Wed 13:34] =>  0:02
+  CLOCK: [2012-12-05 Wed 09:41]--[2012-12-05 Wed 11:11] =>  1:30
+  CLOCK: [2012-12-05 Wed 08:31]--[2012-12-05 Wed 08:40] =>  0:09
+  CLOCK: [2012-12-05 Wed 08:12]--[2012-12-05 Wed 08:31] =>  0:19
+  CLOCK: [2012-12-05 Wed 08:09]--[2012-12-05 Wed 08:11] =>  0:02
+  :END:
+[2012-12-05 Wed 08:09]
+**** DONE reset bios VAIO					       :NOTE:
+     - State "DONE"       from "NEXT"       [2013-01-21 Mon 09:26]
+  - hold assist and tap f2 on restart
+   :LOGBOOK:
+   CLOCK: [2012-12-05 Wed 11:11]--[2012-12-05 Wed 11:36] =>  0:25
+   :END:
+[2012-12-05 Wed 11:11]
+[[file:~/git/org/patriot.org::*jcordell%20vaio%20crash][jcordell vaio crash <2012-12-05 Wed>]]
+*** DONE Move dhall computer for training at <2012-12-05 Wed 09:15>
+    - State "DONE"       from "NEXT"       [2012-12-17 Mon 14:55]
+  :LOGBOOK:
+  CLOCK: [2012-12-05 Wed 16:26]--[2012-12-05 Wed 16:49] =>  0:23
+  CLOCK: [2012-12-05 Wed 15:17]--[2012-12-05 Wed 15:23] =>  0:06
+  CLOCK: [2012-12-05 Wed 09:00]--[2012-12-05 Wed 09:41] =>  0:41
+  CLOCK: [2012-12-05 Wed 08:03]--[2012-12-05 Wed 08:07] =>  0:04
+  :END:
+    :PROPERTIES:
+    :Effort:   0:30
+    :END:
+[2012-12-05 Wed 08:03]
+[[file:~/git/org/patriot.org::*Tasks][Tasks]]
+*** PHONE American Technologies					      :PHONE:
+  - no Luca
+  - 
+  :LOGBOOK:
+  CLOCK: [2012-12-05 Wed 15:02]--[2012-12-05 Wed 15:06] =>  0:04
+  CLOCK: [2012-12-04 Tue 16:17]--[2012-12-04 Tue 16:38] =>  0:21
+  :END:
+[2012-12-04 Tue 16:17]
+*** email
+**** DONE Can I kill jturnbull account?
+     - State "DONE"       from "TODO"       [2012-12-18 Tue 09:01]
+**** DONE Can I kill lplante account?
+     - State "DONE"       from "TODO"       [2012-12-18 Tue 09:00]
+**** DONE Can I kill maine.warehouse account?
+     - State "DONE"       from "TODO"       [2012-12-18 Tue 09:00]
+**** DONE Can I kill mchavez account?
+     - State "DONE"       from "TODO"       [2012-12-18 Tue 09:00]
+**** DONE Kill jbray email account [2/2]
+     - State "DONE"       from "NEXT"       [2012-11-26 Mon 11:59]
+     :LOGBOOK:
+     CLOCK: [2012-11-26 Mon 11:16]--[2012-11-26 Mon 11:59] =>  0:43
+     :END:
+     - [X] Back up to V drive [2012-11-26 Mon]
+     - [X] Forward emails to jgriego
+**** DONE Kill ktrotta account
+     - State "DONE"       from "TODO"       [2012-12-18 Tue 09:00]
+**** DONE Kill tmckenzie
+     - State "DONE"       from "TODO"       [2012-12-18 Tue 09:00]
+**** DONE Kill ealvarado email account
+     - State "DONE"       from "TODO"       [2012-11-16 Fri 15:46]
+**** DONE nkiesler email password to nrodriguez
+  - nkiesler already had access
+  - State "DONE"       from "TODO"       [2012-11-14 Wed 13:33]
+  :LOGBOOK:
+  CLOCK: [2012-11-14 Wed 13:32]--[2012-11-14 Wed 13:33] =>  0:01
+  :END:
+[2012-11-14 Wed 13:32]
+
+**** DONE set up taccom@patriot-tower.com
+     - State "DONE"       from "WAITING"    [2012-12-17 Mon 15:06]
+    DEADLINE: I<2012-11-16 Fri>
+    - State "WAITING"    from "DONE"       [2012-11-16 Fri 14:04] \\
+      - Waiting for confirmations [3/4]:
+	- [X] dgray
+	- [ ] adaiello
+	- [X] mhendricks
+	- [X] awawrzyniak
+    - State "DONE"       from "NEXT"       [2012-11-16 Fri 14:04]
+  :LOGBOOK:
+  CLOCK: [2012-12-17 Mon 14:55]--[2012-12-17 Mon 15:06] =>  0:11
+  CLOCK: [2012-11-16 Fri 15:41]--[2012-11-16 Fri 15:48] =>  0:07
+  CLOCK: [2012-11-16 Fri 14:20]--[2012-11-16 Fri 15:29] =>  1:09
+  CLOCK: [2012-11-16 Fri 13:36]--[2012-11-16 Fri 14:04] =>  0:28
+  :END:
+    [2012-11-16 Fri 13:35]
+*** server
+**** DONE Server status, move images
+    - State "DONE"       from "NEXT"       [2012-11-27 Tue 16:15]
+     Started with 58.7 GB free; ended with 
+- [X] moved cordell files from M drive to G (~60GB)
+- [X] moved engineering folder to G (~10GB)
+- [ ] resized photos on M drive, and copied full sized to G drive
+  - started at 108GB [2012-11-26 Mon 11:00]
+- [ ] resized photos on P drive, and copied full sized to G drive
+  DEADLINE: <2012-11-19 Mon>
+  :LOGBOOK:
+  CLOCK: [2012-11-26 Mon 13:42]--[2012-11-26 Mon 13:53] =>  0:11
+  CLOCK: [2012-11-26 Mon 10:08]--[2012-11-26 Mon 11:15] =>  1:07
+  CLOCK: [2012-11-21 Wed 08:09]--[2012-11-21 Wed 08:56] =>  0:47
+  CLOCK: [2012-11-20 Tue 13:36]--[2012-11-20 Tue 13:40] =>  0:04
+  CLOCK: [2012-11-20 Tue 12:29]--[2012-11-20 Tue 13:00] =>  0:31
+  CLOCK: [2012-11-20 Tue 11:30]--[2012-11-20 Tue 12:03] =>  0:33
+  CLOCK: [2012-11-20 Tue 11:12]--[2012-11-20 Tue 11:24] =>  0:12
+  CLOCK: [2012-11-20 Tue 11:08]--[2012-11-20 Tue 11:10] =>  0:02
+  CLOCK: [2012-11-20 Tue 11:02]--[2012-11-20 Tue 11:07] =>  0:05
+  CLOCK: [2012-11-20 Tue 10:09]--[2012-11-20 Tue 10:40] =>  0:31
+  CLOCK: [2012-11-20 Tue 08:37]--[2012-11-20 Tue 10:09] =>  1:32
+  CLOCK: [2012-11-20 Tue 08:29]--[2012-11-20 Tue 08:30] =>  0:01
+  CLOCK: [2012-11-20 Tue 08:24]--[2012-11-20 Tue 08:29] =>  0:05
+  CLOCK: [2012-11-20 Tue 08:08]--[2012-11-20 Tue 08:23] =>  0:15
+  CLOCK: [2012-11-19 Mon 08:08]--[2012-11-19 Mon 10:00] =>  1:52
+  CLOCK: [2012-11-16 Fri 16:08]--[2012-11-16 Fri 16:43] =>  0:35
+  CLOCK: [2012-11-16 Fri 14:06]--[2012-11-16 Fri 14:20] =>  0:14
+  CLOCK: [2012-11-16 Fri 13:35]--[2012-11-16 Fri 13:36] =>  0:01
+  CLOCK: [2012-11-16 Fri 12:49]--[2012-11-16 Fri 13:35] =>  0:46
+  CLOCK: [2012-11-16 Fri 12:43]--[2012-11-16 Fri 12:45] =>  0:02
+  :END:
+     [2012-11-08 Thu 10:02]
+**** Scripts
+     1. from server D:\Drive_M
+     2. robocopy "Motorola\ . .  " G: /e /z /copyall /L /min:1000000 /xc /xc /xo > jpgtest.txt
+     3. make list with VBA script
+     4. irfanview with batch txt
+**** DONE Cordell files, psec -- > motorola folder
+  - State "DONE"       from "TODO"       [2012-11-20 Tue 14:34]
+     :LOGBOOK:
+     CLOCK: [2012-11-20 Tue 11:07]--[2012-11-20 Tue 11:08] =>  0:01
+     :END:
+     [2012-11-20 Tue 11:07]
+     [[file:~/git/org/patriot.org::*Server%20status,%20move%20images][Server status, move images]]
+**** DONE de-activate jclawson [4/4]
+**** DONE jclawson: remove email access <2012-11-01 Thu>
+**** DONE jclawson: kill vpn access <2012-11-01 Thu>
+**** DONE jclawson: disable server account <2012-11-01 Thu>
+**** DONE jclawson: forward emails to cordell <2012-11-02 Fri>
+**** HOLD move the rest of M:\Engineering to V:\Engineering <2012-11-26 Mon> :WAITING:HOLD:
+     - State "HOLD"       from "DONE"       [2012-12-18 Tue 09:01] \\
+       to be filed under future server resize
+     - State "DONE"       from "HOLD"       [2012-12-18 Tue 09:01]
+     - State "HOLD"       from "NEXT"       [2012-12-17 Mon 15:19] \\
+       We'll get this with the next M drive move
+     :LOGBOOK:
+     CLOCK: [2012-12-17 Mon 15:06]--[2012-12-17 Mon 15:19] =>  0:13
+     CLOCK: [2012-11-26 Mon 13:54]--[2012-11-26 Mon 14:26] =>  0:32
+     CLOCK: [2012-11-26 Mon 12:11]--[2012-11-26 Mon 12:12] =>  0:01
+     CLOCK: [2012-11-20 Tue 14:33]--[2012-11-20 Tue 14:34] =>  0:01
+     :END:
+     [2012-11-20 Tue 14:33]
+
+*** misc
+**** DONE Annya's speakers stopped working
+   - not plugged in
+     :LOGBOOK:
+     CLOCK: [2012-11-13 Tue 09:12]--[2012-11-13 Tue 09:18] =>  0:06
+     :END:
+     [2012-11-13 Tue 09:12]
+     [[file:~/.emacs.d/todo.org::*Organization][Organization]]
+**** DONE Find City of Phoenix folder
+    - State "DONE"       from "TODO"       [2012-11-16 Fri 12:49]
+     :LOGBOOK:
+     CLOCK: [2012-11-16 Fri 12:45]--[2012-11-16 Fri 12:49] =>  0:04
+     :END:
+     [2012-11-16 Fri 12:45]
+     [[file:~/git/org/patriot.org::*%5B#A%5D%20Server%20status,%20move%20images][Server status, move images]]
+**** DONE install "everything" on server
+    - State "DONE"       from "NEXT"       [2012-11-16 Fri 09:59]
+     :LOGBOOK:
+     CLOCK: [2012-11-16 Fri 09:55]--[2012-11-16 Fri 09:59] =>  0:04
+     CLOCK: [2012-11-16 Fri 09:48]--[2012-11-16 Fri 09:55] =>  0:07
+     :END:
+     [2012-11-16 Fri 09:43]
+     [[file:~/git/org/patriot.org::*%5B#A%5D%20Fire%20Station%2012,%20bring%20foundation%20up%201%20ft,%20PCWIN][Fire Station 12, bring foundation up 1 ft, PCWIN]]
+**** DONE Install new monitor to plottner
+    - State "DONE"       from "NEXT"       [2012-11-14 Wed 09:20]
+     :LOGBOOK:
+     CLOCK: [2012-11-14 Wed 07:45]--[2012-11-14 Wed 08:15] =>  0:30
+     CLOCK: [2012-11-13 Tue 15:59]--[2012-11-13 Tue 16:00] =>  0:01
+     CLOCK: [2012-11-13 Tue 15:58]--[2012-11-13 Tue 15:59] =>  0:01
+     CLOCK: [2012-11-13 Tue 15:32]--[2012-11-13 Tue 15:54] =>  0:22
+     :END:
+     [2012-11-13 Tue 15:31]
+**** DONE Order computer for lzak
+     - ~$700
+     - Computer bought at Best Buy <2012-11-08 Thu>
+
+     :LOGBOOK:
+     CLOCK: [2012-11-08 Thu 10:05]--[2012-11-08 Thu 11:27] =>  1:22
+     :END:
+**** DONE Set up computer for wanslow
+    - State "DONE"       from "NEXT"       [2012-11-16 Fri 07:43]
+  :LOGBOOK:
+  CLOCK: [2012-11-15 Thu 15:20]--[2012-11-15 Thu 15:34] =>  0:14
+  CLOCK: [2012-11-15 Thu 13:31]--[2012-11-15 Thu 14:41] =>  1:10
+  CLOCK: [2012-11-15 Thu 13:01]--[2012-11-15 Thu 13:02] =>  0:01
+  :END:
+[2012-11-15 Thu 13:01]
+**** DONE set up jclawson computer for dhall
+    DEADLINE: <2012-11-15 Thu>
+    - State "DONE"       from "TODO"       [2012-11-16 Fri 09:28]
+    :LOGBOOK:
+    CLOCK: [2012-11-15 Thu 14:43]--[2012-11-15 Thu 14:45] =>  0:02
+    CLOCK: [2012-11-15 Thu 14:41]--[2012-11-15 Thu 14:43] =>  0:02
+    CLOCK: [2012-11-15 Thu 12:19]--[2012-11-15 Thu 12:36] =>  0:17
+    CLOCK: [2012-11-15 Thu 10:34]--[2012-11-15 Thu 11:55] =>  1:21
+    CLOCK: [2012-11-15 Thu 10:10]--[2012-11-15 Thu 10:29] =>  0:19
+    CLOCK: [2012-11-14 Wed 16:55]--[2012-11-14 Wed 17:12] =>  0:17
+    CLOCK: [2012-11-14 Wed 15:37]--[2012-11-14 Wed 16:53] =>  1:16
+    :END:
+[2012-11-14 Wed 09:16]
+**** PHONE Joe, 480-491-3335 tech re: Timberline install	      :PHONE:
+[2012-11-15 Thu 14:43]
+**** PHONE Joe with tech, re: Timberline install		      :PHONE:
+- pushed the task to [[bbdb:Brad Ray][Brad Ray]] - Technology Specialists
+  :LOGBOOK:
+  CLOCK: [2012-11-15 Thu 14:45]--[2012-11-15 Thu 14:48] =>  0:03
+  :END:
+[2012-11-15 Thu 14:45]
+**** DONE Remote desktop for dhall
+     DEADLINE: <2012-11-16 Fri>
+     - State "DONE"       from "DONE"       [2012-11-16 Fri 09:28]
+     - State "DONE"       from "NEXT"       [2012-11-16 Fri 08:17]
+     :LOGBOOK:
+     CLOCK: [2012-11-16 Fri 09:20]--[2012-11-16 Fri 09:28] =>  0:08
+     CLOCK: [2012-11-16 Fri 07:50]--[2012-11-16 Fri 08:17] =>  0:27
+     :END:
+[2012-11-15 Thu 16:48]
+
+**** adaiello speakers and OS activation, antivirus
+     :LOGBOOK:
+     CLOCK: [2012-11-09 Fri 15:11]--[2012-11-09 Fri 16:28] =>  1:17
+     :END:
+
+**** DONE Set up lzak computer
+    :LOGBOOK:
+    CLOCK: [2012-11-08 Thu 12:39]--[2012-11-08 Thu 16:43] =>  4:04
+    :END:
+Asus Q500A
+   - [X] Windows suite
+   - [X] OpenVPN
+   - [X] Adobe
+   - [X] CrashPlan
+     - pword: Whitesox*05
+   - [X] Printers
+     - installed Maine and Scottsdale
+**** DONE Debbie's computer and Timberline <2012-11-20 Tue>
+  - State "DONE"       from "NEXT"       [2012-11-20 Tue 10:59]
+  :LOGBOOK:
+  CLOCK: [2012-11-20 Tue 10:40]--[2012-11-20 Tue 10:59] =>  0:19
+  :END:
+[2012-11-20 Tue 08:29]
+[[file:~/git/org/patriot.org::*Server%20status,%20move%20images][Server status, move images]]
+*** DONE new computer for jcordell <2012-12-06 Thu>
+  - State "DONE"       from "TODO"       [2012-12-14 Fri 14:54]
+  :LOGBOOK:
+  CLOCK: [2012-12-05 Wed 16:10]--[2012-12-05 Wed 16:11] =>  0:01
+  :END:
+[2012-12-05 Wed 16:10]
+[[file:~/git/org/patriot.org::*Computers][Computers]]
+*** DONE set up dhall on KTLAPTOP
+  - State "DONE"       from "TODO"       [2012-12-14 Fri 14:54]
+  :LOGBOOK:
+  CLOCK: [2012-12-06 Thu 11:59]--[2012-12-06 Thu 14:15] =>  2:16
+  :END:
+[2012-12-06 Thu 11:59]
+*** DONE File cabinet move
+  - State "DONE"       from "TODO"       [2012-12-14 Fri 14:54]
+  :LOGBOOK:
+  CLOCK: [2012-12-06 Thu 14:20]--[2012-12-06 Thu 16:20] =>  2:00
+  :END:
+[2012-12-06 Thu 14:20]
+*** DONE complete accToshiba1 checklist
+  - State "DONE"       from "TODO"       [2012-12-14 Fri 14:55]
+[2012-12-06 Thu 17:05]
+[[file:~/git/org/patriot.org::*accToshiba1][accToshiba1]]
+*** DONE Annya email clean up
+  - State "DONE"       from "TODO"       [2012-12-14 Fri 14:54]
+  - delete everything over 4 months old from online
+  - bring all mails into PTS
+  :LOGBOOK:
+  CLOCK: [2012-12-13 Thu 08:29]--[2012-12-13 Thu 09:03] =>  0:34
+  :END:
+[2012-12-13 Thu 08:29]
+*** DONE Debbie Quickbooks registration and QB installation on adaiello
+  - State "DONE"       from "TODO"       [2012-12-14 Fri 14:54]
+  :LOGBOOK:
+  CLOCK: [2012-12-14 Fri 08:08]--[2012-12-14 Fri 08:49] =>  0:41
+  :END:
+[2012-12-14 Fri 08:08]
+*** DONE dgray iphone to out of the box state
+  - State "DONE"       from "NEXT"       [2012-12-14 Fri 14:55]
+  :LOGBOOK:
+  CLOCK: [2012-12-14 Fri 09:03]--[2012-12-14 Fri 09:59] =>  0:56
+  :END:
+[2012-12-14 Fri 09:03]
+*** DONE lzak computer it
+  - State "DONE"       from "NEXT"       [2012-12-14 Fri 15:12]
+  - [X] wireless
+    - appears to be a common issue--best to wait for Win8 updates
+  - [X] verizon
+    - installed Win8 version for USB760
+  :LOGBOOK:
+  CLOCK: [2012-12-14 Fri 14:45]--[2012-12-14 Fri 15:12] =>  0:27
+  CLOCK: [2012-12-14 Fri 14:30]--[2012-12-14 Fri 14:44] =>  0:14
+  :END:
+[2012-12-14 Fri 14:30]
+*** DONE dferrat computer set up check
+  - State "DONE"       from "TODO"       [2012-12-17 Mon 13:08]
+  :LOGBOOK:
+  CLOCK: [2012-12-14 Fri 15:12]--[2012-12-14 Fri 16:42] =>  1:30
+  :END:
+[2012-12-14 Fri 15:12]
+*** DONE dhall ktlaptop computer questions
+  - State "DONE"       from "TODO"       [2012-12-17 Mon 13:08]
+  1. MC2 install
+  2. remote desktop questions
+  :LOGBOOK:
+  CLOCK: [2012-12-17 Mon 08:10]--[2012-12-17 Mon 08:11] =>  0:01
+  :END:
+[2012-12-17 Mon 08:10]
+[[id:eb155a82-92b2-4f25-a3c6-0304591af2f9][Organization]]
+*** DONE dferrat monitor issue
+  - State "DONE"       from "TODO"       [2012-12-17 Mon 13:08]
+  :LOGBOOK:
+  CLOCK: [2012-12-17 Mon 10:40]--[2012-12-17 Mon 11:33] =>  0:53
+  :END:
+[2012-12-17 Mon 10:40]
+[[id:d25100c3-1852-41d6-9a74-03c58404189c][Chris]]
+*** DONE dhall laptop remote access config
+  - State "DONE"       from "TODO"       [2012-12-17 Mon 13:08]
+  :LOGBOOK:
+  CLOCK: [2012-12-17 Mon 11:33]--[2012-12-17 Mon 11:54] =>  0:21
+  :END:
+[2012-12-17 Mon 11:33]
+[[id:d25100c3-1852-41d6-9a74-03c58404189c][Chris]]
+
+*** PHONE VAIO service assistance 1-888-476-6972		      :PHONE:
+  :LOGBOOK:
+  CLOCK: [2012-12-05 Wed 14:51]--[2012-12-05 Wed 14:53] =>  0:02
+  :END:
+[2012-12-05 Wed 14:51]
+*** PHONE Brad Ray 480-491-3335					      :PHONE:
+  - I'm in Brad's queue. No word as to when he'll attend to it.
+  :LOGBOOK:
+  CLOCK: [2012-12-05 Wed 15:09]--[2012-12-05 Wed 15:16] =>  0:07
+  :END:
+[2012-12-05 Wed 15:09]
+*** PHONE Kyle Zeigler 480-280-8821 Ledgerwood re: Timberline	      :PHONE:
+  - call sage support for installation at 800-551-8307
+  - our client number: 4003603902
+  :LOGBOOK:
+  CLOCK: [2012-12-06 Thu 08:30]--[2012-12-06 Thu 08:50] =>  0:20
+  :END:
+[2012-12-06 Thu 08:30]
+*** PHONE sage support for installation at 800-551-8307		      :PHONE:
+- John Mosley
+  :LOGBOOK:
+  CLOCK: [2012-12-06 Thu 08:50]--[2012-12-06 Thu 09:11] =>  0:21
+  :END:
+[2012-12-06 Thu 08:50]
+*** DONE restrada email question
+    - State "DONE"       from "TODO"       [2012-12-17 Mon 17:02]
+  :LOGBOOK:
+  CLOCK: [2012-12-17 Mon 15:19]--[2012-12-17 Mon 16:11] =>  0:52
+  :END:
+[2012-12-17 Mon 15:19]
+*** NEXT remove Great Plains from server and user computers [3/4]
+    - [X] server
+    - [X] dferrat
+    - [X] dhall
+    - [ ] jgriego
+  :LOGBOOK:
+  CLOCK: [2012-12-19 Wed 10:23]--[2012-12-19 Wed 10:37] =>  0:14
+  CLOCK: [2012-12-18 Tue 15:56]--[2012-12-18 Tue 16:22] =>  0:26
+  :END:
+[2012-12-18 Tue 15:56]
+*** DONE AVG server addition subscription
+    - State "DONE"       from "NEXT"       [2012-12-19 Wed 08:59]
+  :LOGBOOK:
+  CLOCK: [2012-12-19 Wed 08:38]--[2012-12-19 Wed 08:59] =>  0:21
+  CLOCK: [2012-12-19 Wed 08:27]--[2012-12-19 Wed 08:28] =>  0:01
+  CLOCK: [2012-12-18 Tue 16:47]--[2012-12-18 Tue 16:48] =>  0:01
+  :END:
+[2012-12-18 Tue 16:47]
+*** DONE autoCAD license inquiry
+  - State "DONE"       from "NEXT"       [2012-12-20 Thu 14:47]
+  - inquiry re: licensing submitted [2012-12-19 Wed]
+  - Caseno:07915073.
+  :LOGBOOK:
+  CLOCK: [2012-12-20 Thu 09:46]--[2012-12-20 Thu 11:13] =>  1:27
+  CLOCK: [2012-12-19 Wed 09:58]--[2012-12-19 Wed 10:22] =>  0:24
+  :END:
+[2012-12-19 Wed 09:58]
+[[file:~/git/org/patriot.org::*set%20up%20accounts%20for%20brynn][set up accounts for brynn]]
+*** DONE dferrat photo program issue
+  - State "DONE"       from "TODO"       [2012-12-20 Thu 14:47]
+  :LOGBOOK:
+  CLOCK: [2012-12-20 Thu 09:38]--[2012-12-20 Thu 09:46] =>  0:08
+  :END:
+[2012-12-20 Thu 09:38]
+*** DONE mmink m drive access
+  - State "DONE"       from "TODO"       [2012-12-20 Thu 14:47]
+  :LOGBOOK:
+  CLOCK: [2012-12-20 Thu 13:00]--[2012-12-20 Thu 13:04] =>  0:04
+  :END:
+[2012-12-20 Thu 13:00]
+*** TODO research calDAV and [[http://www.bynari.net/products-page/product-category/bynari-webdav-collaborator/][bynari]]
+[2012-12-20 Thu 08:23]
+[[file:~/git/org/patriot.org::*jcordell%20vaio%20crash][jcordell vaio crash <2012-12-05 Wed>]]
+*** NEXT bsneed old email					      :PHONE:
+  - to mike amero
+  - manifold
+  - mike.amero@deadriver.com
+
+imported to Outlook Data File - bsneed [2012-12-20 Thu]:
+1. bsneed0112
+2. bsneed060112
+  :LOGBOOK:
+CLOCK: [2012-12-20 Thu 13:11]--[2012-12-20 Thu 14:33] =>  1:22
+  CLOCK: [2012-12-20 Thu 12:17]--[2012-12-20 Thu 13:00] =>  0:43
+  :END:
+[2012-12-20 Thu 12:17]
+*** DONE MC2 re-install for dhall
+    - State "DONE"       from "NEXT"       [2012-12-21 Fri 11:15]
+    - attempted server install of MC2 [2012-12-21 Fri] on dhall server account
+    - appeared to want QB installed; installed QB
+    - error due to UAC, user access control
+    - decided server intall was too sticky, and left to see if MC2 produced future errors
+  :LOGBOOK:
+  CLOCK: [2012-12-21 Fri 10:49]--[2012-12-21 Fri 11:15] =>  0:26
+  CLOCK: [2012-12-21 Fri 09:07]--[2012-12-21 Fri 09:51] =>  0:44
+  :END:
+    [2012-12-21 Fri 09:07]
+*** NEXT [#B] cordell email backup and lkenyon computer tune up [2013-01-21 Mon]
+  :LOGBOOK:
+  CLOCK: [2013-01-23 Wed 13:09]--[2013-01-23 Wed 13:18] =>  0:09
+  CLOCK: [2013-01-22 Tue 11:10]--[2013-01-22 Tue 11:17] =>  0:07
+  CLOCK: [2013-01-21 Mon 13:38]--[2013-01-21 Mon 13:43] =>  0:05
+  CLOCK: [2013-01-21 Mon 11:17]--[2013-01-21 Mon 11:29] =>  0:12
+  CLOCK: [2013-01-21 Mon 09:43]--[2013-01-21 Mon 09:48] =>  0:05
+  :END:
+[2013-01-21 Mon 09:43]
+
+*** PHONE SANDEEP						      :PHONE:
+  - top girt at 206 to 3/16"
+  - 
+  :LOGBOOK:
+  CLOCK: [2013-01-21 Mon 12:26]--[2013-01-21 Mon 12:45] =>  0:19
+  :END:
+[2013-01-21 Mon 12:26]
+*** DONE lkenyon pts to lkenyon <2013-01-25 Fri>
+  - State "DONE"       from "TODO"       [2013-01-21 Mon 15:24]
+[2013-01-21 Mon 15:22]
+[[file:~/git/org/patriot.org::*set%20up%20accounts%20for%20brynn][set up accounts for brynn]]
+
+** network
+*** restrict user to one folder
+    1. set foler to "shared" through File Explorer
+    2. set share permissions in Server Manager > Roles > File Services > Share and Storage Manager
+    3. set user Profile > Home folder to \\ptsvr1\<shared folder>
+    4. remove Logon script from user Profile
+** Computers
+*** new computer set up checklist
+    - [ ] receipt turned in to jgriego?
+    - [ ] install Chrome
+    - [ ] OS upgraded to Pro
+    - [ ] computer added to network
+    - [ ] computer added to domain
+    - [ ] Microsoft registered
+    - [ ] product keys noted
+    - [ ] Adobe installed
+    - [ ] Printers installed
+    - [ ] OpenVPN installed
+    - [ ] TeamViewer installed
+    - [ ] CrashPlan installed
+    - [ ] Cubby installed
+    - [ ] Dropbox installed
+    - [ ] [[http://www.adobe.com/downloads/cs2_downloads/index.html][Adobe CS2]] installed
+*** new computer properties
+:PROPERTIES:
+:NAME: 
+:MODEL:
+:OS: Win7
+:RAM: 
+:EXPAND:
+:MEM:
+:PROC: 
+:SPEED:
+:SCREEN:
+:WinPro_ProductKey:
+:END:
+*** accToshiba1
+- need to remove Toshiba Recovery Media Creator and Toshiba Desktop Assistant
+    - [X] receipt turned in to jgriego?
+    - [X] OS upgraded to Pro
+    - [X] computer added to network
+    - [X] computer added to domain
+    - [X] administrator added as user
+    - [X] jtravis added as user
+    - [X] Microsoft registered
+    - [ ] Outlook configured
+    - [X] Adobe installed
+    - [ ] OpenVPN installed
+    - [ ] product keys noted
+    - [X] Printers installed
+      - [X] Main
+      - [X] Executive
+*** admToshiba1
+    - [X] receipt turned in to jgriego?
+    - [X] OS upgraded to Pro
+    - [X] computer added to network
+    - [X] computer added to domain
+    - [X] administrator added as user
+    - [X] jtravis added as user
+    - [X] Microsoft registered
+    - [ ] Outlook configured
+    - [X] Adobe installed
+    - [X] CrashPlan installed
+    - [X] OpenVPN installed
+    - [X] product keys noted
+    - [X] Printers installed
+      - [X] Main
+      - [X] Executive
+**** product keys
+==================================================
+Product Name      : Internet Explorer
+Product ID        : 00179-60323-43345-AAOEM
+Product Key       : Q33C8-WH4Q8-XG4G8-Q7T4Q-488YG
+Installation Folder : 
+Service Pack      : 
+Computer Name     : ADMTOSHIBA1
+Modified Time     : 12/3/2012 3:44:44 PM
+==================================================
+
+==================================================
+Product Name      : Microsoft Office Single Image 2010
+Product ID        : 82503-242-9391274-11400
+Product Key       : CXKGT-P29CX-JJQ9F-H4PQK-743T8
+Installation Folder : C:\Program Files (x86)\Microsoft Office\Office14\
+Service Pack      : 
+Computer Name     : ADMTOSHIBA1
+Modified Time     : 12/3/2012 3:37:06 PM
+==================================================
+
+==================================================
+Product Name      : Windows 8 Pro
+Product ID        : 00178-10518-37779-AB033
+Product Key       : 447D8-DX2XY-2X8PW-XHWX7-HXH3H
+Installation Folder : C:\WINDOWS
+Service Pack      : 
+Computer Name     : ADMTOSHIBA1
+Modified Time     : 12/4/2012 12:46:59 PM
+==================================================
+
+*** KTLAPTOP
+:PROPERTIES:
+:NAME: KTLAPTOP
+:MODEL:
+:OS: Win7
+:RAM: 8
+:EXPAND: 16 or 32
+:MEM: 750
+:PROC: Intel® CoreTM i7 2720QM
+:SPEED:2.2
+:SCREEN: 15.6
+:WinPro_ProductKey:342DG-6YJR8-X92GV-V7DCV-P4K27
+:END:
+    - [ ] receipt turned in to jgriego?
+    - [X] OS upgraded to Pro (ultimate)
+    - [X] computer added to network
+    - [X] computer added to domain
+    - [X] administrator added as user
+    - [X] jtravis added as user
+    - [X] Microsoft registered
+    - [X] Outlook configured
+    - [X] Adobe installed
+    - [X] OpenVPN installed
+    - [X] Crashplan
+    - [X] product keys noted
+    - [X] MC2 installed
+    - [X] Printers installed
+      - [X] Main
+      - [X] Executive
+**** product keys
+==================================================
+Product Name      : Internet Explorer
+Product ID        : 00426-OEM-8992662-00400
+Product Key       : 342DG-6YJR8-X92GV-V7DCV-P4K27
+Installation Folder : 
+Service Pack      : 
+Computer Name     : KTLAPTOP
+Modified Time     :  +10/6/2011 2:41:02 AM
+==================================================
+
+==================================================
+Product Name      : Microsoft Office Single Image 2010
+Product ID        : 82503-029-2588903-11835
+Product Key       : V3FCB-FJBMY-9VBVX-K4PGH-9DQ2H
+Installation Folder : C:\Program Files (x86)\Microsoft Office\Office14\
+Service Pack      : 
+Computer Name     : KTLAPTOP
+Modified Time     :  +10/26/2011 3:03:03 AM
+==================================================
+
+==================================================
+Product Name      : Windows 7 Ultimate
+Product ID        : 00426-OEM-8992662-00400
+Product Key       : 342DG-6YJR8-X92GV-V7DCV-P4K27
+Installation Folder : C:\Windows
+Service Pack      : Service Pack 1
+Computer Name     : KTLAPTOP
+Modified Time     :  +10/20/2012 4:21:39 AM
+==================================================
+**** notes
+     - Added dhall as user <2012-12-06 Thu> with QB and Sage
+*** jennifer-vaio
+:PROPERTIES:
+:NAME: jennifer-vaio
+:MODEL: SVT131A11L or SVT13118FXS
+:OS: Win7
+:RAM: 6
+:EXPAND:
+:MEM: 128
+:PROC: Intel Core_i7_3517U Processor 1.9GHz
+:SPEED:
+:SCREEN: 13.1
+:WinPro_ProductKey:
+:END:
+    - [ ] receipt turned in to jgriego?
+    - [X] install Chrome
+    - [X] OS upgraded to Pro
+    - [X] computer added to network
+    - [X] computer added to domain
+    - [X] Microsoft registered
+    - [X] product keys noted
+    - [X] Adobe installed
+    - [X] Printers installed
+    - [X] OpenVPN installed
+    - [X] TeamViewer installed
+    - [X] CrashPlan installed
+    - [ ] Cubby installed
+    - [ ] Dropbox
+**** product keys
+***** 122812
+==================================================
+Product Name      : Internet Explorer
+Product ID        : 00371-619-3902597-85543
+Product Key       : 9Y94X-6XCM6-YPC93-9G8JX-FTMCP
+Installation Folder : 
+Service Pack      : 
+Computer Name     : JENNIFER-VAIO
+Modified Time     : +12/27/2012 11:35:04 AM
+==================================================
+
+==================================================
+Product Name      : Microsoft Office Project Standard 2010
+Product ID        : 82503-199-2098817-38560
+Product Key       : TTRVV-QPR68-H2K6Q-XQYHY-8G7WH
+Installation Folder : C:\Program Files (x86)\Microsoft Office\Office14\
+Service Pack      : 
+Computer Name     : JENNIFER-VAIO
+Modified Time     : +12/28/2012 10:38:45 AM
+==================================================
+
+==================================================
+Product Name      : Microsoft Office Single Image 2010
+Product ID        : 82503-032-5284385-11157
+Product Key       : VK2C3-J82BM-T3R3B-46FC7-TRWRT
+Installation Folder : C:\Program Files (x86)\Microsoft Office\Office14\
+Service Pack      : 
+Computer Name     : JENNIFER-VAIO
+Modified Time     : +12/27/2012 3:40:41 PM
+==================================================
+
+==================================================
+Product Name      : Windows 7 Professional
+Product ID        : 00371-619-3902597-85543
+Product Key       : 9Y94X-6XCM6-YPC93-9G8JX-FTMCP
+Installation Folder : C:\Windows
+Service Pack      : Service Pack 1
+Computer Name     : JENNIFER-VAIO
+Modified Time     : +12/28/2012 9:03:27 AM
+==================================================
+***** 120412
+==================================================
+Product Name      : Internet Explorer
+Product ID        : 00371-619-3902597-85568
+Product Key       : 9Y94X-6XCM6-YPC93-9G8JX-FTMCP
+Installation Folder : 
+Service Pack      : 
+Computer Name     : JENNIFER-VAIO
+Modified Time     : 6/15/2012 2:56:58 PM
+==================================================
+
+==================================================
+Product Name      : Microsoft Office Project Standard 2010
+Product ID        : 82503-199-2098817-38920
+Product Key       : TTRVV-QPR68-H2K6Q-XQYHY-8G7WH
+Installation Folder : C:\Program Files (x86)\Microsoft Office\Office14\
+Service Pack      : 
+Computer Name     : JENNIFER-VAIO
+Modified Time     : 6/18/2012 5:08:04 PM
+==================================================
+
+==================================================
+Product Name      : Microsoft Office Single Image 2010
+Product ID        : 82503-032-5284385-11740
+Product Key       : VK2C3-J82BM-T3R3B-46FC7-TRWRT
+Installation Folder : C:\Program Files (x86)\Microsoft Office\Office14\
+Service Pack      : 
+Computer Name     : JENNIFER-VAIO
+Modified Time     : 6/15/2012 3:07:29 PM
+==================================================
+
+==================================================
+Product Name      : Windows 7 Professional
+Product ID        : 00371-619-3902597-85568
+Product Key       : 9Y94X-6XCM6-YPC93-9G8JX-FTMCP
+Installation Folder : C:\Windows
+Service Pack      : Service Pack 1
+Computer Name     : JENNIFER-VAIO
+Modified Time     : 10/11/2012 8:12:37 AM
+==================================================
+*** lzakAsus
+:PROPERTIES:
+:NAME: lzakAsus
+:MODEL: Q500A-BHI5N01
+:OS: Win8
+:RAM: 6
+:EXPAND: 8
+:MEM: 750
+:PROC: Intel® 3rd Generation Core™ i5
+:SPEED: 2.5
+:SCREEN: 15.6
+:WinPro_ProductKey: 9P462-VRDN2-HJPVY=V2YKR-HQTB2
+:END:
+    - [X] receipt turned in to jgriego?
+    - [X] OS upgraded to Pro
+    - [X] computer added to network
+    - [X] computer added to domain
+    - [X] administrator added as user
+    - [X] jtravis added as user
+    - [X] Microsoft registered
+    - [X] Outlook configured
+    - [X] Project 2007 installed
+    - [X] Adobe installed
+    - [X] OpenVPN installed
+    - [X] CrashPlan
+    - [X] VZ manager for Win8 USB760
+    - [X] product keys noted
+    - [X] Printers installed
+      - [X] Main       
+      - [X] Maine
+**** product keys
+==================================================
+Product Name      : Internet Explorer
+Product ID        : 00179-60233-42337-AAOEM
+Product Key       : W79DY-W7Q4K-F74HJ-K4V3T-9KT7T
+Installation Folder : 
+Service Pack      : 
+Computer Name     : LZAKASUS
+Modified Time     : 9/23/2012 9:18:20 PM
+==================================================
+
+==================================================
+Product Name      : Microsoft Office Project Standard 2007
+Product ID        : 84888-904-7295496-63115
+Product Key       : PG6CX-3F9M7-R6Q67-82WFM-4HGBY
+Installation Folder : C:\Program Files (x86)\Microsoft Office\Office12\
+Service Pack      : 
+Computer Name     : LZAKASUS
+Modified Time     : 12/4/2012 2:57:31 PM
+==================================================
+
+==================================================
+Product Name      : Microsoft Office Single Image 2010
+Product ID        : 82503-235-2342055-15358
+Product Key       : PP2HT-JC763-PRCXG-R4JKJ-Q7446
+Installation Folder : C:\Program Files (x86)\Microsoft Office\Office14\
+Service Pack      : 
+Computer Name     : LZAKASUS
+Modified Time     : 12/4/2012 8:04:09 AM
+==================================================
+
+==================================================
+Product Name      : Windows 8 Pro with Media Center
+Product ID        : 00180-90080-74561-AB773
+Product Key       : YD693-4JR6J-YVH7Q-2DD37-X73JC
+Installation Folder : C:\Windows
+Service Pack      : 
+Computer Name     : LZAKASUS
+Modified Time     : 12/3/2012 1:34:27 PM
+==================================================
+**** lzak (#2) computer set up <2012-11-29 Thu>
+**** lzak Computer setup on <2012-11-08 Thu>
+    :LOGBOOK:
+    CLOCK: [2012-11-09 Fri 13:15]--[2012-11-09 Fri 14:40] =>  1:25
+    CLOCK: [2012-11-09 Fri 11:24]--[2012-11-09 Fri 12:01] =>  0:37
+    CLOCK: [2012-11-09 Fri 10:25]--[2012-11-09 Fri 10:32] =>  0:07
+    :END:
+**** lzak new computer, monitor fried <2012-11-29 Thu>
+  :LOGBOOK:
+  CLOCK: [2012-11-29 Thu 13:22]--<2012-11-29 Thu 15:50> =>  2:28
+  :END:
+[2012-11-29 Thu 13:22]
+*** bhaught-LT
+:PROPERTIES:
+:NAME: bhaught-LT
+:MODEL: 
+:OS: Win7
+:RAM: 
+:EXPAND:
+:MEM:
+:PROC: 
+:SPEED:
+:SCREEN:
+:WinPro_ProductKey:
+:END:
+**** productKey
+==================================================
+Product Name      : Internet Explorer
+Product ID        : 00371-153-5650874-85314
+Product Key       : HKQXW-4KHQV-MMF9B-CV96P-2C83W
+Installation Folder : 
+Service Pack      : 
+Computer Name     : BHAUGHT-LT
+Modified Time     : +7/5/2011 2:58:30 PM
+==================================================
+
+==================================================
+Product Name      : Microsoft Office Project Professional 2010
+Product ID        : 82503-552-1403175-37042
+Product Key       : 9FMX6-3P63P-CT4TJ-4BH49-98WDY
+Installation Folder : C:\Program Files (x86)\Microsoft Office\Office14\
+Service Pack      : 
+Computer Name     : BHAUGHT-LT
+Modified Time     : +2/26/2012 7:05:38 PM
+==================================================
+
+==================================================
+Product Name      : Microsoft Office Single Image 2010
+Product ID        : 82503-030-8335187-11014
+Product Key       : D3D9T-V7PDR-9XTFK-8DY3G-TM3VW
+Installation Folder : C:\Program Files (x86)\Microsoft Office\Office14\
+Service Pack      : 
+Computer Name     : BHAUGHT-LT
+Modified Time     : +10/17/2011 9:36:45 PM
+==================================================
+
+==================================================
+Product Name      : Windows 7 Professional
+Product ID        : 00371-153-5650874-85314
+Product Key       : HKQXW-4KHQV-MMF9B-CV96P-2C83W
+Installation Folder : C:\Windows
+Service Pack      : Service Pack 1
+Computer Name     : BHAUGHT-LT
+Modified Time     : +10/11/2012 3:22:01 AM
+==================================================
+**** INSTALLATION CHECK [2013-01-18 Fri]
+    - [ ] receipt turned in to jgriego?
+    - [X] install Chrome
+    - [X] OS upgraded to Pro
+    - [X] computer added to network
+    - [X] computer added to domain
+    - [ ] Microsoft registered
+    - [X] product keys noted
+    - [ ] Adobe installed
+    - [ ] Printers installed
+    - [ ] OpenVPN installed
+    - [ ] TeamViewer installed
+    - [X] CrashPlan installed
+    - [ ] Cubby installed
+    - [ ] Dropbox installed
+    - [ ] [[http://www.adobe.com/downloads/cs2_downloads/index.html][Adobe CS2]] installed
+*** bhaught-PC
+:PROPERTIES:
+:NAME: bhaught-PC
+:INSTALLED: QB12,Timberline
+:OS: Win7
+:END:
+
+**** Product keys
+==================================================
+Product Name      : Internet Explorer
+Product ID        : 00371-153-5650883-85136
+Product Key       : M8H3G-8JG48-WJVMH-9D88K-VQ24F
+Installation Folder : 
+Service Pack      : 
+Computer Name     : BHAUGHT-PC
+Modified Time     :  +11/9/2010 11:14:50 AM
+==================================================
+
+==================================================
+Product Name      : Microsoft Office Small Business 2007
+Product ID        : 81606-904-5389764-64017
+Product Key       : C3D89-JVRG3-TTQ8Q-VWFPQ-TCBRM
+Installation Folder : C:\Program Files (x86)\Microsoft Office\Office12\
+Service Pack      : 
+Computer Name     : BHAUGHT-PC
+Modified Time     :  +2/10/2012 8:12:18 AM
+==================================================
+
+==================================================
+Product Name      : Windows 7 Professional
+Product ID        : 00371-153-5650883-85136
+Product Key       : M8H3G-8JG48-WJVMH-9D88K-VQ24F
+Installation Folder : C:\Windows
+Service Pack      : 
+Computer Name     : BHAUGHT-PC
+Modified Time     :  +10/10/2012 2:25:30 PM
+==================================================
+*** bsneed TOSHIBA
+    - [[http://www.hgst.com/hdd/support/downloads/Dft32_User_Guide_415.pdf][Drive Fitness Test]] run, error code 0x70 <2012-11-29 Thu>
+    - disk erases, DFT indicates 0x00 (No error)
+      
+*** LZAK-PC
+**** Product Keys 
+==================================================
+Product Name      : Internet Explorer
+Product ID        : 00371-153-5650874-85172
+Product Key       : HKQXW-4KHQV-MMF9B-CV96P-2C83W
+Installation Folder : 
+Service Pack      : 
+Computer Name     : LARRYZAK-PC
+Modified Time     : 11/5/2010 11:26:57 AM
+==================================================
+
+==================================================
+Product Name      : Microsoft Office Project Standard 2007
+Product ID        : 84888-904-7295496-63276
+Product Key       : PG6CX-3F9M7-R6Q67-82WFM-4HGBY
+Installation Folder : C:\Program Files (x86)\Microsoft Office\Office12\
+Service Pack      : 
+Computer Name     : LARRYZAK-PC
+Modified Time     : 3/29/2012 7:27:42 AM
+==================================================
+
+==================================================
+Product Name      : Microsoft Office Single Image 2010
+Product ID        : 82503-029-2588903-11007
+Product Key       : V3FCB-FJBMY-9VBVX-K4PGH-9DQ2H
+Installation Folder : C:\Program Files (x86)\Microsoft Office\Office14\
+Service Pack      : 
+Computer Name     : LARRYZAK-PC
+Modified Time     : 10/25/2011 5:52:34 AM
+==================================================
+
+==================================================
+Product Name      : Microsoft Office Small Business 2007
+Product ID        : 81606-904-5387676-64822
+Product Key       : WYKHB-BHMJH-6C28R-HTJKK-WTFFM
+Installation Folder : C:\Program Files (x86)\Microsoft Office\Office12\
+Service Pack      : 
+Computer Name     : LARRYZAK-PC
+Modified Time     : 3/29/2011 4:33:46 PM
+==================================================
+
+==================================================
+Product Name      : Windows 7 Professional
+Product ID        : 00371-153-5650874-85172
+Product Key       : HKQXW-4KHQV-MMF9B-CV96P-2C83W
+Installation Folder : C:\Windows
+Service Pack      : Service Pack 1
+Computer Name     : LARRYZAK-PC
+Modified Time     : 10/11/2012 8:26:34 AM
+==================================================
+
+*** PTS_HP
+:PROPERTIES:
+:NAME: PTS_HP
+:INSTALLED: AutoCAD 2012
+:OS: Win7
+
+** Software
+*** Install Quickbooks 2012
+    License #: 3148-8290-2090-641
+    Product #: 446-682
+    1. Copy QuickbooksPremier2012.exe from server to new computer desktop and run it
+    2. Install as Premier Contractor Edition
+    3. Help > About > CTRL + R + P > enter 127158
+*** Install Timberline
+    Client #:403603902
+1. Drive: Timberline Office
+2. Map to T
+3. 9.5 > Accounting > WinINst > Install
+4. Install Sage (restart later)
+5. Accounting > WinInst > DmClient > Install
+6. Install both DmClient and then DocuVault
+7. T: > old > 980AccUpdate5sim
+8. restart
+9. sage desktop (search for it)
+**** PHONE Luca with American Technolgies			      :PHONE:
+- Drive: Timberline Office
+- Map to T
+- 9.5 > Accounting > WinINst > Install
+- Install Sage (restart later)
+- Accounting > WinInst > DmClient > Install
+- Install both DmClient and then DocuVault
+- T: > old > 980AccUpdate5sim
+- restart
+- sage desktop (search for it)
+  :LOGBOOK:
+  CLOCK: [2012-11-15 Thu 15:34]--<2012-11-15 Thu 16:39> =>  1:05
+  :END:
+[2012-11-15 Thu 15:34]
+*** AutoCAD
+**** support and details
+reseller: 
+CADSoft Consulting
+1295 W Washington St
+Ste 201
+Tempe, AZ 85281
+480-820-0408
+
+AutoDesk
+Contract Manager on Contracts: 110000426023
+INVOICE #: INV7075733
+
+  - Home and business use
+  - 3 prev versions
+  - upgrades
+  - sub to July 19, 2014
+  - 3 GB cloud storage, access from home
+  - faster renders (100 cloud units per seat)
+
+This report is for informational purposes only and is non-binding. This information is considered Autodesk Confidential Information and must be treated as such. This document does not grant any rights or create any entitlements.  Autodesk reserves the right to correct and update the information contained in this report at any time.																																												
+End User CSN	End User Account Name	Alternate Account Name	Serial Number	Parent Product Line	Release	# of Seats	Asset Status	Account Type	License Type	Usage Type	Deployment	Subscription Flag	Subscription History Flag	Agreement Number	Agreement Start Date	Agreement End Date	Material Number	Material Description	Solution Division	Registration Date	Group ID	End User Contact	Contact Number	Work Phone	Work Phone Extension	Email Address	Fax Number	Street Address	Street Addr Line 2	Street Addr Line 3	Account City	Account State Province	Account Postal Code	Account Country	Account Region	Account Sales Region	Account Site	ROW_ID	Sold To Account Name	Sold To CSN	Sold To Account Country	Reseller Account Name	Reseller Account City	Reseller Account State Province
+5108544812	PATRIOT TOWER		360-96883480	AutoCAD	2012	1	Upgraded	End Customer	New	Commercial Product	Standalone	N	Y	1.1E+11	7/20/2011 0:00	7/19/2014 0:00	001D1-AB5111-1301	AutoCAD 2012 Multi-Lang 11 Commercial Product New Standalone Windows ACE	PSEB	7/20/2011 0:00		"ESTRADA, R"	20274979			restrada@patriot-tower.com		9332 N 95TH WAY STE B 203			SCOTTSDALE	AZ	85258	United States	AMER	United States	IORDER-1-5Y08H3M	1-5Y08H3M	INGRAM MICRO-AOLP/SUBS/VAR PROD	70176021	United States	CADSOFT CONSULTING INC	TUCSON	AZ
+5108544812	PATRIOT TOWER		360-96883579	AutoCAD	2012	1	Upgraded	End Customer	New	Commercial Product	Standalone	N	Y	1.1E+11	7/20/2011 0:00	7/19/2014 0:00	001D1-AB5111-1301	AutoCAD 2012 Multi-Lang 11 Commercial Product New Standalone Windows ACE	PSEB	7/20/2011 0:00		"ESTRADA, R"	20274979			restrada@patriot-tower.com		9332 N 95TH WAY STE B 203			SCOTTSDALE	AZ	85258	United States	AMER	United States	IORDER-1-5Y08H3M	1-5Y08H3M	INGRAM MICRO-AOLP/SUBS/VAR PROD	70176021	United States	CADSOFT CONSULTING INC	TUCSON	AZ
+5108544812	PATRIOT TOWER		360-96883678	AutoCAD	2012	1	Upgraded	End Customer	New	Commercial Product	Standalone	N	Y	1.1E+11	7/20/2011 0:00	7/19/2014 0:00	001D1-AB5111-1301	AutoCAD 2012 Multi-Lang 11 Commercial Product New Standalone Windows ACE	PSEB	7/20/2011 0:00		"ESTRADA, R"	20274979			restrada@patriot-tower.com		9332 N 95TH WAY STE B 203			SCOTTSDALE	AZ	85258	United States	AMER	United States	IORDER-1-5Y08H3M	1-5Y08H3M	INGRAM MICRO-AOLP/SUBS/VAR PROD	70176021	United States	CADSOFT CONSULTING INC	TUCSON	AZ
+5108544812	PATRIOT TOWER		392-73961203	AutoCAD	2013	3	Registered	End Customer	Upgrade	Commercial Product	Standalone	Y	Y	1.1E+11	7/20/2011 0:00	7/19/2014 0:00	001E1-AB5411-8001	AutoCAD 2013 Multi-Lang 11 Commercial Product Upgrade Windows From Subscription-AF Only	PSEB	3/27/2012 0:00		"ESTRADA, R"	20274979			restrada@patriot-tower.com		9332 N 95TH WAY STE B 203			SCOTTSDALE	AZ	85258	United States	AMER	United States	IORDER-1-5Y08H3M	1-5Y08H3M	INGRAM MICRO-AOLP/SUBS/VAR PROD	70176021	United States	CADSOFT CONSULTING INC	TUCSON	AZ
+
+**** seats
+We have six. Three actually, each with a home and business seat.
+1. bhaught office
+2. bhaught home
+3. jngo office
+4. jngo home
+5. wanslow office
+6. plottner office
+**** jngo
+License name: AutoCAD 2012
+Serial No.: 360-968883678
+License type: Standalone - Locked
+License behavior: Permanent
+License ID: ACD_F_S
+Computer host name: jngopc
+Product key: 001D1
+License expiration date: None
+License usage type: Commercial
+**** wanslow
+License name: AutoCAD 2012
+Serial No.: 360-968883480
+License type: Standalone - Locked
+License behavior: Permanent
+License ID: 
+Computer host name: 
+Product key: 001D1
+License expiration date: None
+License usage type: Commercial
+** General
+*** DONE Submit for vacation 12/7 -- 12/12
+    DEADLINE: <2012-11-14 Wed>
+    - State "DONE"       from "WAITING"    [2012-12-17 Mon 14:54]
+    - State "WAITING"    from "TODO"       [2012-11-14 Wed 14:23] \\
+      Waiting for feedback from adaiello re: vaction day allowance
+    - State "TODO"       from "DONE"       [2012-11-14 Wed 10:30]
+  - State "DONE"       from "NEXT"       [2012-11-14 Wed 09:51]
+  :LOGBOOK:
+  CLOCK: [2012-11-14 Wed 09:38]--[2012-11-14 Wed 09:49] =>  0:11
+  CLOCK: [2012-11-13 Tue 16:40]--[2012-11-13 Tue 16:44] =>  0:04
+  :END:
+[2012-11-13 Tue 16:40]
+*** DONE Safety meeting
+  DEADLINE: <2012-11-14 Wed 08:30>
+  - State "DONE"       from "NEXT"       [2012-11-14 Wed 09:19]
+  :LOGBOOK:
+  CLOCK: [2012-11-14 Wed 08:30]--[2012-11-14 Wed 09:19] =>  0:49
+  CLOCK: [2012-11-14 Wed 09:17]--[2012-11-14 Wed 09:18] =>  0:01
+  :END:
+[2012-11-14 Wed 09:17]
+[[file:~/git/org/patriot.org::*set%20up%20jclawson%20computer%20for%20dhall][set up jclawson computer for dhall]]
+** DONE Patriot hours
+  :PROPERTIES:
+  :ID:       8f46bc10-0c89-4c85-a8d5-fb24178afd25
+  :END:
+[2012-10-29 Mon 20:34]
+[[file:~/git/org/alaska.org::*Call%20Ryan%20at%20Alaska%20Line%20Builders%20ALB%20892-1551,%20provide%20work%20order%20number][Call Ryan at Alaska Line Builders ALB 892-1551, provide work order number]]
+** TODO IT hardware wish list
+  :LOGBOOK:
+  CLOCK: [2012-11-14 Wed 13:29]--[2012-11-14 Wed 13:30] =>  0:01
+  :END:
+[2012-11-14 Wed 13:29]
+[[file:~/git/org/refile.org::*Leslie][Leslie]
+** Scripts
+*** Robocopy
+**** Move large images
+     robocopy D:\Drive_M G:\Drive_M /z /e /copyall /r:3 /w:10 /xo /xc /xn /max:1000000 /log:it_driveMMax1MBjpbCopyToDriveG_complete.txt
+
+*** VBA
+**** Grab file names from image movt txt file
+     Sub imgList()
+     Dim fileLoc, fileName, pVal, dVal As String
+
+     Do
+     pVal = 0
+     dVal = 0
+     If ActiveCell.Offset(0, 10) <> "" Then
+     ActiveCell.Offset(1, 0).Activate
+     End If
+
+     If ActiveCell.Offset(1, 2) <> "" Then
+     dVal = 1
+     End If
+     If ActiveCell.Offset(1, 4) <> "" Then
+     pVal = 1
+     End If
+
+     If pVal = 0 Then
+     ActiveCell.EntireRow.Delete
+     ElseIf pVal = 1 And ActiveCell.Offset(0, 2) <> "" Then
+     fileLoc = ActiveCell.Offset(0, 2)
+     fileName = ActiveCell.Offset(1, 4)
+     ActiveCell.EntireRow.Delete
+     ActiveCell.Offset(0, 10) = fileLoc & fileName
+     ElseIf pVal = 1 And ActiveCell.Offset(0, 2) = "" Then
+     fileName = ActiveCell.Offset(1, 4)
+     ActiveCell.EntireRow.Delete
+     ActiveCell.Offset(0, 10) = fileLoc & fileName
+     End If
+
+     Loop
+     End Sub
+** DONE Lzak phone email accessibility issue
+  - State "DONE"       from "TODO"       [2012-11-20 Tue 10:59]
+  :LOGBOOK:
+  CLOCK: [2012-11-20 Tue 08:30]--[2012-11-20 Tue 08:37] =>  0:07
+  :END:
+[2012-11-20 Tue 08:30]
+[[file:~/git/org/patriot.org::*Server%20status,%20move%20images][Server status, move images]]
+** DONE Transfers to Joni (x220) get wrong OGM <2012-11-20 Tue>
+   - State "DONE"       from "WAITING"    [2012-11-29 Thu 16:42]
+  - State "WAITING"    from "NEXT"       [2012-11-20 Tue 14:29] \\
+    Waiting on Nikki and Michelle
+  :LOGBOOK:
+  CLOCK: [2012-11-20 Tue 14:28]--[2012-11-20 Tue 14:33] =>  0:05
+  :END:
+[2012-11-20 Tue 14:23]
+[[file:~/git/org/todo.org::*Sign%20up%20for%20PE%20Exam][Sign up for PE Exam]]
+
+** DONE plottner internet access
+  - State "DONE"       from "TODO"       [2012-11-26 Mon 14:08]
+  :LOGBOOK:
+  CLOCK: [2012-11-26 Mon 08:29]--[2012-11-26 Mon 08:42] =>  0:13
+  :END:
+[2012-11-26 Mon 08:29]
+[[file:~/git/org/patriot.org::*Move%20large%20images][Move large images]]
+** DONE adaiello crashplan warning:
+  - State "DONE"       from "TODO"       [2012-11-26 Mon 08:50]
+  CLOCK: [2012-11-26 Mon 08:42]--[2012-11-26 Mon 08:50] =>  0:08
+  :END:
+[2012-11-26 Mon 08:42]
+** TODO set up todo.txt
+[2012-11-26 Mon 12:23]
+[[file:~/git/org/alaska.org::*Re-title%20Knik%20drawings%20to%20AWARN/MOA%20Phase%20IV%20AK-12I102A%20Project][Re-title Knik drawings to AWARN/MOA Phase IV AK-12I102A Project]]
+** DONE set up accounts for brynn
+  - State "DONE"       from "NEXT"       [2012-11-27 Tue 14:44]
+  :LOGBOOK:
+  CLOCK: [2012-11-27 Tue 10:25]--[2012-11-27 Tue 10:35] =>  0:10
+  :END:
+[2012-11-27 Tue 10:25]
+| User    | Computer          | Monitor1          | Monitor2         |
+|---------+-------------------+-------------------+------------------|
+| dhall   | New laptop        | New laptop (same) | Existing dhall 1 |
+| dferrat | New PC            | New PC (same)     | Existing spare   |
+| mmink   | Existing dhall PC | Existing spare    | Existing dhall 2 |
+|         |                   |                   |                  |
+|         |                   |                   |                  |
+|         |                   |                   |                  |
+** DONE jngo iphone email issue
+   - State "DONE"       from "TODO"       [2013-01-23 Wed 09:58]
+  :LOGBOOK:
+  CLOCK: [2013-01-22 Tue 08:01]--[2013-01-22 Tue 08:14] =>  0:13
+  :END:
+[2013-01-22 Tue 08:01]
+[[file:~/git/org/patriot.org::*map][map]]
