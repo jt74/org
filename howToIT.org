@@ -1,0 +1,25 @@
+* Server
+  :PROPERTIES:
+  :ID:       231225ff-7335-421c-9f5e-ba4d8ca59cb9
+  :END:
+** Add a user
+** Add a computer
+** Add a VPN user
+Patriot uses [[http://openvpn.net/][OpenVPN]] for a VPN client. 
+
+Adding a VPN user is a command line endeavor. 
+
+1. Access the server via Remote Desktop Connection
+2. Open the command prompt [[./img/srvCmd.PNG]]
+3. =cd= into C:\Program Files\OpenVPN\easy-rsa. You can do this with tab completion.
+4. Enter =vars=
+5. Enter =build-key.bat= and the name of the new user, in this case "testGuy".
+6. 
+7. 
+8. 
+9. 
+10. 
+
+11. 
+12. 
+

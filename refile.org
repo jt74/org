@@ -1,213 +1,90 @@
-#+FILETAGS: REFILE
-* DONE internet down
-  - State "DONE"       from "TODO"       [2012-12-19 Wed 08:59]
+#+FILETAGS: REFILE*
+* PHONE Sweet touch 						      :PHONE:
+  - 602-702-9456
+  - 190 w/o Groupon,
+  - good pitch! but more expensive
   :LOGBOOK:
-  CLOCK: [2012-12-19 Wed 08:09]--[2012-12-19 Wed 08:17] =>  0:08
-  :END:
-[2012-12-19 Wed 08:09]
-[[file:~/git/org/refile.org]]
-* PHONE AVG 866-201-0003 					      :PHONE:
-  - Marie at x307 is west coast rep
-  :LOGBOOK:
-  CLOCK: [2012-12-19 Wed 08:28]--[2012-12-19 Wed 08:38] =>  0:10
-  :END:
-[2012-12-19 Wed 08:28]
-* PHONE VT Board of Engineering, Kara Shangraw 802-828-1134 	      :PHONE:
-  - no answer
-  :LOGBOOK:
-  CLOCK: [2012-12-19 Wed 09:10]--[2012-12-19 Wed 09:12] =>  0:02
-  :END:
-[2012-12-19 Wed 09:10]
-* DONE enter site address into dhall spreadsheet
-  - State "DONE"       from "TODO"       [2012-12-19 Wed 13:34]
-  :LOGBOOK:
-  CLOCK: [2012-12-19 Wed 11:39]--[2012-12-19 Wed 11:48] =>  0:09
-  :END:
-[2012-12-19 Wed 11:39]
-[[file:~/git/org/patriot.org::*jngo][jngo]]
-* PHONE VAIO support at 800-488-7669 				      :PHONE:
-  - Gilbert
-  - order: 1696 9569 under Jared Travis
-  :LOGBOOK:
-  CLOCK: [2012-12-20 Thu 09:21]--[2012-12-20 Thu 09:38] =>  0:17
-  :END:
-[2012-12-20 Thu 09:21]
-* PHONE CADSoft 480-820-0408 					      :PHONE:
-  - Todd
-  - Home and business use
-  - 3 prev versions
-  - upgrades
-  - sub to July 19, 2014
-  - 3 GB cloud storage, access from home
-  - faster renders (100 cloud units per seat)
-  :LOGBOOK:
-  CLOCK: [2012-12-20 Thu 11:13]--[2012-12-20 Thu 11:30] =>  0:17
-  :END:
-[2012-12-20 Thu 11:13]
-* PHONE [[bbdb:Huey Burnham][Huey Burnham]] - Alpine Tower & Technology :PHONE:
-  - when did we start conversation of expansion of pad at Hope
-  - he'll follow up tower light
-  - I'll follow up on Latimer re: alarming
-  :LOGBOOK:
-  CLOCK: [2012-12-20 Thu 12:00]--[2012-12-20 Thu 12:17] =>  0:17
-  :END:
-[2012-12-20 Thu 12:00]
-* DONE dferrat QB access
-  - State "DONE"       from "TODO"       [2012-12-20 Thu 14:46]
-  :LOGBOOK:
-  CLOCK: [2012-12-20 Thu 14:33]--[2012-12-20 Thu 14:46] =>  0:13
-  :END:
-[2012-12-20 Thu 14:33]
-[[file:~/git/org/refile.org::*CADSoft%20480-820-0408][CADSoft 480-820-0408]]
-* DONE dferrat adobe install
-  - State "DONE"       from "TODO"       [2013-01-14 Mon 09:41]
-  :LOGBOOK:
-  CLOCK: [2012-12-21 Fri 08:34]--[2012-12-21 Fri 09:01] =>  0:27
-  :END:
-[2012-12-21 Fri 08:34]
-[[file:~/git/org/patriot.org::*set%20up%20accounts%20for%20brynn][set up accounts for brynn]]
-* DONE Bolt code compliance research
-  - State "DONE"       from "NEXT"       [2013-01-14 Mon 09:41]
-  :LOGBOOK:
-  CLOCK: [2012-12-21 Fri 14:27]--[2012-12-21 Fri 15:01] =>  0:34
-  CLOCK: [2012-12-21 Fri 11:26]--[2012-12-21 Fri 11:57] =>  0:31
-  CLOCK: [2012-12-21 Fri 11:16]--[2012-12-21 Fri 11:23] =>  0:07l
-  :END:
-  - PSTA
-  - 956 gal diesel tank
-  - 125kW Cummings
-  - dwg call for HILTI HIT 500-SD + 5/8" HAS-R 304/316 ANCHOR W/3-1/8" EMBEDMENT (x4)
-  - as-built: 5/8¡± dia. x 5¡± long Red Head Wedge Anchor
-** generator details
-  - dry weight: tank: 3600 (cap. 956 max, 887 usable)
-  :LOGBOOK:
-  CLOCK: [2012-12-21 Fri 10:22]--[2012-12-21 Fri 10:49] =>  0:27
-  CLOCK: [2012-12-21 Fri 10:12]--[2012-12-21 Fri 10:22] =>  0:10
-  CLOCK: [2012-12-21 Fri 09:51]--[2012-12-21 Fri 10:04] =>  0:13
-  CLOCK: [2012-12-21 Fri 09:03]--[2012-12-21 Fri 09:07] =>  0:04
-  CLOCK: [2012-12-21 Fri 09:02]--[2012-12-21 Fri 09:03] =>  0:01
-  :END:
-[2012-12-21 Fri 09:02]
-* DONE code compliance, concrete slab bolster
-  - State "DONE"       from "TODO"       [2013-01-14 Mon 09:41]
-  - TFD12
-  - 8" > 16" slab
-  - 
-
-  :LOGBOOK:
-  CLOCK: [2012-12-21 Fri 10:04]--[2012-12-21 Fri 10:12] =>  0:08
-  :END:
-[2012-12-21 Fri 10:04]
-* PHONE Darrell Caldwell 520-858-5184 re: Cummins install bolts       :PHONE:
-  - left message
-  :LOGBOOK:
-  CLOCK: [2012-12-21 Fri 11:23]--[2012-12-21 Fri 11:26] =>  0:03
-  :END:
-[2012-12-21 Fri 11:23]
-* DONE Set up Kyle, timberline rep, w/server access
-  - State "DONE"       from "TODO"       [2013-01-14 Mon 09:19]
-  :LOGBOOK:
-  CLOCK: [2013-01-02 Wed 09:16]--[2013-01-02 Wed 09:34] =>  0:18
-  :END:
-[2013-01-02 Wed 09:16]
-* PHONE huey 							      :PHONE:
-  :LOGBOOK:
-  CLOCK: [2013-01-02 Wed 11:28]--[2013-01-02 Wed 13:57] =>  2:29
-  :END:
-[2013-01-02 Wed 11:28]
-* DONE mike electrician
-  - State "DONE"       from "TODO"       [2013-01-21 Mon 09:27]
-
-  :LOGBOOK:
-  CLOCK: [2013-01-02 Wed 14:35]--[2013-01-02 Wed 14:56] =>  0:21
-  :END:
-[2013-01-02 Wed 14:35]
-[[file:~/git/org/alaska.org::*Tasks][Tasks]]
-* CANCELLED [#A] free photoshop for all				  :CANCELLED:
-  - State "CANCELLED"  from "TODO"       [2013-01-14 Mon 09:19] \\
-    free = not the case
-[2013-01-07 Mon 10:50]
-[[file:~/git/org/patriot.org::*jcordell%20vaio%20crash][jcordell vaio crash <2012-12-05 Wed>]]
-* PHONE Sandeep 						      :PHONE:
-  - needs update of EnerClac file for El Paso
-  :LOGBOOK:
-  CLOCK: [2013-01-11 Fri 14:11]--[2013-01-11 Fri 14:46] =>  0:35
-  :END:
-[2013-01-11 Fri 14:11]
-* DONE shedule sky diving[2013-01-14 Mon]
-  - State "DONE"       from "TODO"       [2013-01-14 Mon 13:43]
-  - 0930 2/9
-  :LOGBOOK:
-  CLOCK: [2013-01-14 Mon 09:17]--[2013-01-14 Mon 09:18] =>  0:01
-  :END:
-[2013-01-14 Mon 09:17]
-[[id:eb155a82-92b2-4f25-a3c6-0304591af2f9][Organization]]
-* DONE call ppi re: class [2013-01-14 Mon]
-  - State "DONE"       from "TODO"       [2013-01-21 Mon 09:27]
-  :LOGBOOK:
-  CLOCK: [2013-01-14 Mon 09:41]--[2013-01-14 Mon 09:42] =>  0:01
-  :END:
-[2013-01-14 Mon 09:41]
-[[file:~/git/org/refile.org::*shedule%20sky%20diving%5B2013-01-14%20Mon%5D][shedule sky diving{2013-01-14 Mon}]]
-* DONE admToshiba to lkenyon
-  - State "DONE"       from "TODO"       [2013-01-14 Mon 13:42]
-  :LOGBOOK:
-  CLOCK: [2013-01-14 Mon 13:08]--[2013-01-14 Mon 13:42] =>  0:34
-  :END:
-[2013-01-14 Mon 13:08]
-* DONE Sky diving <2013-02-09 Sat 09:30>--<2013-02-09 Sat 12:00>
-  - State "DONE"       from "TODO"       [2013-01-21 Mon 09:27]
-  :LOGBOOK:
-  CLOCK: [2013-01-14 Mon 13:43]--[2013-01-14 Mon 13:45] =>  0:02
-  :END:
-[2013-01-14 Mon 13:43]
-[[file:~/git/org/refile.org::*shedule%20sky%20diving%5B2013-01-14%20Mon%5D][shedule sky diving{2013-01-14 Mon}]]
-* DONE sign up for Simple bank
-  - State "DONE"       from "TODO"       [2013-01-21 Mon 09:27]
-[2013-01-16 Wed 09:00]
-* DONE [#A] Send checks for PE
-  - State "DONE"       from "NEXT"       [2013-01-21 Mon 13:43]
-[2013-01-16 Wed 09:00]
-* PHONE [[bbdb:Sandeep Mane][Sandeep Mane]] - Patriot Tower 				      :PHONE:
-  - tower review
-  - no bolt size entered or number of bolts
-  :LOGBOOK:
-  CLOCK: [2013-01-17 Thu 09:10]--[2013-01-17 Thu 10:00] =>  0:50
-  :END:
-[2013-01-17 Thu 09:10]
-* DONE lzak outlook hang
-  - State "DONE"       from "TODO"       [2013-01-21 Mon 09:27]
-  :LOGBOOK:
-  CLOCK: [2013-01-17 Thu 10:01]--[2013-01-17 Thu 10:16] =>  0:15
-  :END:
-[2013-01-17 Thu 10:01]
-[[id:eb155a82-92b2-4f25-a3c6-0304591af2f9][Organization]]
-* DONE bhaught computer clean
-  - State "DONE"       from "TODO"       [2013-01-21 Mon 09:26]
-  :LOGBOOK:
-  CLOCK: [2013-01-18 Fri 07:57]--[2013-01-18 Fri 09:49] =>  1:52
-  :END:
-[2013-01-18 Fri 07:57]
-[[id:eb155a82-92b2-4f25-a3c6-0304591af2f9][Organization]]
-* DONE dferrat issue with internet explorer and deposits
-  - State "DONE"       from "TODO"       [2013-01-21 Mon 09:27]
-  :LOGBOOK:
-  CLOCK: [2013-01-18 Fri 15:05]--[2013-01-18 Fri 15:15] =>  0:10
-  :END:
-[2013-01-18 Fri 15:05]
-[[file:~/git/org/refile.org::*Questions][Questions]]
-* NEXT PO check AK <2013-01-23 Wed>
-  :LOGBOOK:
-  CLOCK: [2013-01-24 Thu 08:08]--[2013-01-24 Thu 08:20] =>  0:12
+  CLOCK: [2013-07-08 Mon 15:55]--[2013-07-08 Mon 15:56] =>  0:01
+  CLOCK: [2013-07-08 Mon 15:26]--[2013-07-08 Mon 15:51] =>  0:25
   :END:
   :PROPERTIES:
-  :ORDERED:  t
+  :ID:       1bbf7c2a-b459-4f59-9e8f-971832d8d88a
   :END:
-[2013-01-23 Wed 09:34]
-[[file:~/git/org/patriot.org::*%5B#B%5D%20Check%20E26%20Frisco%20Divide][Check E26 Frisco Divide <2012-12-05 Wed>]]
-* DONE jgriego printer issue
-  - State "DONE"       from "NEXT"       [2013-01-24 Thu 08:08]
+[2013-07-08 Mon 15:26]
+* PHONE Harry, premiere 					      :PHONE:
+  - 602-320-8020
+  - no answer; did not leave voice mail
   :LOGBOOK:
-  CLOCK: [2013-01-23 Wed 12:15]--[2013-01-23 Wed 13:03] =>  0:48
+  CLOCK: [2013-07-08 Mon 15:51]--[2013-07-08 Mon 15:52] =>  0:01
   :END:
-[2013-01-23 Wed 12:15]
+  :PROPERTIES:
+  :ID:       81022264-c2b8-4f24-8276-148c25fd3b88
+  :END:
+[2013-07-08 Mon 15:51]
+* PHONE Richard, 1-858-401-0936						      :PHONE:
+  - no answer; did not leave voicemail; followed up with email instead
+  :LOGBOOK:
+  CLOCK: [2013-07-08 Mon 15:52]--[2013-07-08 Mon 15:55] =>  0:03
+  :END:
+  :PROPERTIES:
+  :ID:       f600cc84-3aaa-4682-9afb-b7ff8d54d3e5
+  :END:
+[2013-07-08 Mon 15:52]
+* PHONE Harry, premier 						      :PHONE:
+  - 602-320-8020
+  - left vm
+  :LOGBOOK:
+  CLOCK: [2013-07-08 Mon 15:56]--[2013-07-08 Mon 16:02] =>  0:06
+  :END:
+  :PROPERTIES:
+  :ID:       dd03cf95-483e-44f7-bf84-3717d9116f63
+  :END:
+[2013-07-08 Mon 15:56]
+* PHONE sandeep 						      :PHONE:
+  - can model with 99.6 or 103, anything is ok by him
+  :LOGBOOK:
+  CLOCK: [2013-07-09 Tue 16:09]--[2013-07-09 Tue 16:32] =>  0:23
+  :END:
+  :PROPERTIES:
+  :ID:       528a8212-2753-4575-b4f1-0c2b5f3bb783
+  :END:
+[2013-07-09 Tue 16:09]
+* PHONE Brendan 						      :PHONE:
+  - today's parties interested
+  - show tomorrow at 6pm
+  :LOGBOOK:
+  CLOCK: [2013-07-10 Wed 16:37]--[2013-07-10 Wed 16:39] =>  0:02
+  :END:
+  :PROPERTIES:
+  :ID:       735cf083-68b2-448e-a2ec-62f0c6ba00de
+  :END:
+[2013-07-10 Wed 16:37]
+* PHONE Rick's carpet cleaning 					      :PHONE:
+  - 602.293.8177
+    - Brendan's number is (602) 465-0489
+    - Rick says he will call me and Brendan the morning of 7/17
+b  :LOGBOOK:
+  CLOCK: [2013-07-11 Thu 13:38]--[2013-07-11 Thu 13:44] =>  0:06
+  CLOCK: [2013-07-11 Thu 12:54]--[2013-07-11 Thu 13:38] =>  0:44
+  :END:
+  :PROPERTIES:
+  :ID:       e56d84da-a9b1-4a9c-8bd0-34c9cab29a7c
+  :END:
+[2013-07-11 Thu 12:54]
+* Eye appointment no listing
+  SCHEDULED: <2013-07-12 Fri 14:30>
+  :PROPERTIES:
+  :ID:       80e4d50a-2aae-463e-b12c-be533c32157e
+  :END:
+[2013-07-12 Fri 13:35]
+* eye appt no todo c period 
+  - <2013-07-12 Fri 03:30>
+  :LOGBOOK:
+  CLOCK: [2013-07-12 Fri 13:42]
+  :END:
+  :PROPERTIES:
+  :ID:       ef18bfa9-aef5-4a83-a426-5d42cc5f7dd1
+  :END:
+[2013-07-12 Fri 13:42]
+[[file:~/Dropbox/emacs/git/org/refile.org::*appt%20c%20period%20in%20list][appt c period in list]]
+

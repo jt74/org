@@ -1,266 +1,301 @@
 #+FILETAGS: PERSONAL
 * Personal
-** DONE Red light ticket					    :LOGBOOK:
-   - State "DONE"       from "TODO"       [2012-12-21 Fri 16:22]
+  :PROPERTIES:
+  :ID:       ced09886-7b30-4090-b889-a614ecf35723
+  :END:
+** Organization
    :LOGBOOK:
-   CLOCK: [2012-12-20 Thu 15:37]--[2012-12-20 Thu 16:13] =>  0:36
+   CLOCK: [2013-06-24 Mon 13:56]--[2013-06-24 Mon 14:23] =>  0:27
+   CLOCK: [2013-06-24 Mon 13:43]--[2013-06-24 Mon 13:56] =>  0:13
    :END:
-   CLOCK: [2012-12-20 Thu 13:57]--[2012-12-20 Thu 14:23] =>  0:26
-   :END:
-*** Phone
-**** PHONE AZ MVD re:traffic ticket with Vivian			      :PHONE:
-  - need to take traffic survival school
-  - not defensive driving class
-  - fee: azdot.gov, driver services
-  :LOGBOOK:
-  CLOCK: [2012-12-04 Tue 09:06]--[2012-12-04 Tue 10:00] =>  0:54
-  CLOCK: [2012-12-04 Tue 08:46]--[2012-12-04 Tue 08:47] =>  0:01
-  CLOCK: [2012-12-04 Tue 08:12]--[2012-12-04 Tue 08:23] =>  0:11
-  :END:
-[2012-12-04 Tue 08:12]
-**** PHONE Central Counseling 602-235-9010			      :PHONE:
-  - offer 12/7
-  - offer 12/16, $60, 8 - 5
-  - 1940 E Camelback Rd. Ste 201B
-  - behind Bank of America, enter at barbershop
-  - bring money order, id, letter
-  :LOGBOOK:
-  CLOCK: [2012-12-04 Tue 12:42]--[2012-12-04 Tue 12:53] =>  0:11
-  :END:
-[2012-12-04 Tue 12:42]
-*** DONE DMV School <2012-12-17 Mon 07:45>--<2012-12-04 Tue 17:00>
-    - State "DONE"       from "TODO"       [2012-12-18 Tue 08:57]
-  :LOGBOOK:
-  CLOCK: [2012-12-04 Tue 12:53]--[2012-12-04 Tue 12:54] =>  0:01
-  :END:
-[2012-12-04 Tue 12:53]
-[[file:~/git/org/refile.org::*Central%20Counseling%20602-235-9010][Central Counseling 602-235-9010]]
+   PROPERTIES:
+   CLOCK_MODELINE_TOTAL: today
+   ID:       eb155a82-92b2-4f25-a3c6-0304591af2f9
+   END:
+*** ptasks
+**** DONE schedule house cleaning
+  - State "DONE"       from "NEXT"       [2013-07-08 Mon 15:04]
 
-*** DONE confirmation of dmv class
-    - State "DONE"       from "NEXT"       [2012-12-18 Tue 08:57]
+ALL BOOKED OUT 1 MONTH AND/OR BAD REVIEWS
+  - [[http://www.groupon.com/deals/the-cleaning-solution-1][The Cleaning Solution]]
+    - $65 for two hours w/two cleaners (4 hrs)
+  - [[http://www.groupon.com/deals/homejoy-33][Homejoy]]
+    - $59 for three hours w/one cleaner (3 hrs)
+  - [[http://www.groupon.com/deals/pretty-in-pink-cleaning-services-3][Pretty in Pink]]
+    - $75 for two hours w/two cleaners (4 hrs)
   :LOGBOOK:
-  CLOCK: [2012-12-18 Tue 08:53]--[2012-12-18 Tue 08:57] =>  0:04
-  CLOCK: [2012-12-05 Wed 08:11]--[2012-12-05 Wed 08:12] =>  0:01
-  :END:
-[2012-12-05 Wed 08:11]
-*** DONE [#B] confirm license is not suspended
-    - State "DONE"       from "NEXT"       [2012-12-21 Fri 16:22]
-    - call [2012-12-19 Wed]
-    - faxed TSS cert [2012-12-19 Wed]
-    - called again [2012-12-20 Thu], disconnected
-    - emailed inquiry via online [[http://www.azdot.gov/mvd/contact.asp][interface]] [2012-12-20 Thu 15:36]
-      - ticket request: 1235556636, per email received [2012-12-20 Thu 15:37]
-    :LOGBOOK:
-    CLOCK: [2012-12-19 Wed 10:37]--[2012-12-19 Wed 11:33] =>  0:56
-    :END:
-** Check Alaska Airline frequent flier miles <2013-01-01 Tue>	  :CANCELLED:
-  :LOGBOOK:
-  CLOCK: [2012-11-16 Fri 12:24]--[2012-11-16 Fri 12:25] =>  0:01
-  :END:
-[2012-11-16 Fri 12:24]
-[[file:~/git/org/todo.org::*Request%20Frequent%20Flier%20miles%20for%20AK%20trip][Request Frequent Flier miles for AK trip]]
-** TODO Sign up with [[http://www.learnvest.com/talk-to-an-expert/][LearnVest]]
-[2012-11-27 Tue 17:19]
-[[id:eb155a82-92b2-4f25-a3c6-0304591af2f9][Organization]]
-** Call  jr at 480 403 1055, need to know tire size i have 90	  :CANCELLED:
-   - State "TODO"       from "DONE"       [2012-11-16 Fri 07:39]
-   - State "DONE"       from "TODO"       [2012-11-16 Fri 07:38]
-  :LOGBOOK:
-  CLOCK: [2012-11-16 Fri 07:33]--[2012-11-16 Fri 07:34] =>  0:01
-  :END:
-[2012-11-16 Fri 07:33]
-*** PHONE Jr @ 480 403 1055 re: toyo tires			      :PHONE:
-  :LOGBOOK:
-  CLOCK: [2012-11-16 Fri 07:35]--[2012-11-16 Fri 07:38] =>  0:03
-  :END:
-[2012-11-16 Fri 07:35]
-** DONE Carpet cleaning, 602-682-7722
-   DEADLINE: <2012-11-10 Sat>
-<2012-11-09 Fri 10:00-12:00>
-   :LOGBOOK:
-   CLOCK: [2012-11-14 Wed 12:32]--[2012-11-14 Wed 12:34] =>  0:02
-   CLOCK: [2012-11-14 Wed 09:25]--[2012-11-14 Wed 09:27] =>  0:02
-   CLOCK: [2012-11-14 Wed 09:18]--[2012-11-14 Wed 09:19] =>  0:01
-   CLOCK: [2012-11-14 Wed 09:16]--[2012-11-14 Wed 09:17] =>  0:01
-   CLOCK: [2012-11-14 Wed 08:29]--[2012-11-14 Wed 09:16] =>  0:47
-   CLOCK: [2012-11-13 Tue 16:49]--[2012-11-13 Tue 17:02] =>  0:13
-   CLOCK: [2012-11-13 Tue 16:44]--[2012-11-13 Tue 16:49] =>  0:05
-   CLOCK: [2012-11-13 Tue 16:35]--[2012-11-13 Tue 16:40] =>  0:05
-   CLOCK: [2012-11-13 Tue 16:00]--[2012-11-13 Tue 16:01] =>  0:01
-   CLOCK: [2012-11-13 Tue 10:39]--[2012-11-13 Tue 10:41] =>  0:02
-   CLOCK: [2012-11-13 Tue 09:41]--[2012-11-13 Tue 10:04] =>  0:23
-   CLOCK: [2012-11-13 Tue 09:10]--[2012-11-13 Tue 09:12] =>  0:02
-   CLOCK: [2012-11-13 Tue 08:59]--[2012-11-13 Tue 09:03] =>  0:04
-   CLOCK: [2012-11-13 Tue 08:54]--[2012-11-13 Tue 08:56] =>  0:02
-   CLOCK: [2012-11-13 Tue 08:47]--[2012-11-13 Tue 08:54] =>  0:07
-   CLOCK: [2012-11-13 Tue 08:24]--[2012-11-13 Tue 08:45] =>  0:21
-   CLOCK: [2012-11-13 Tue 08:17]--[2012-11-13 Tue 08:24] =>  0:07
-   CLOCK: [2012-11-12 Mon 07:48]--[2012-11-12 Mon 08:53] =>  1:05
-   :END:
-** DONE Request Frequent Flier miles for AK trip
-  DEADLINE: <2012-11-16 Fri>
-  - State "DONE"       from "TODO"       [2012-11-16 Fri 12:24]
-[2012-11-13 Tue 16:49]
-** DONE Call health insurance re: bill/co-pay
-   - State "DONE"       from "TODO"       [2012-11-14 Wed 12:31]
-Insurance contact
-United Healthcare 
-1-800-401-7265 
-For questions about this claim, you will need to provide the following:
-
-Claim #:
-3778864319
-Policy Member:
-Jared Travis
-Group ID:
-0719637
-  :LOGBOOK:
-  CLOCK: [2012-11-14 Wed 10:27]--[2012-11-14 Wed 10:28] =>  0:01
-  :END:
-[2012-11-14 Wed 10:27]
-[[file:~/git/org/todo.org::*%5B0/4%5D][{0/4}]]
-** DONE Schedule cable for house
-   - State "DONE"       from "TODO"       [2012-11-15 Thu 13:24]
-  :LOGBOOK:
-  CLOCK: [2012-11-14 Wed 13:10]--[2012-11-14 Wed 13:11] =>  0:01
-  :END:
-[2012-11-14 Wed 13:10]
-Scheduled for <2012-11-19 Mon 10:00>
-** DONE (480) 274-1085 Anjile Cleaning Service			      :PHONE:
-
-  :LOGBOOK:
-  CLOCK: [2012-10-29 Mon 13:16]--[2012-10-29 Mon 13:40] =>  0:24
+  CLOCK: [2013-07-08 Mon 14:58]--[2013-07-08 Mon 15:04] =>  0:06
+  CLOCK: [2013-07-08 Mon 14:44]--[2013-07-08 Mon 14:57] =>  0:13
   :END:
   :PROPERTIES:
-  :ID:       a5a59711-ff28-459c-bcda-355ad89b700a
+  :ID:       713db0fb-04bc-4f48-858d-d2596eeae75f
   :END:
-[2012-10-29 Mon 13:16]
-** DONE Boys dog walking days					       :NOTE:
-  - State "DONE"       from "DONE"       [2012-11-12 Mon 13:09]
-<2012-10-24 Wed>--<2012-11-01 Thu> = 9 days
-1 x 7 * 4 = 28
-3 x 2 x 4 = 24
-   :LOGBOOK:
-   CLOCK: [2012-11-12 Mon 13:08]--[2012-11-12 Mon 13:09] =>  0:01
-   CLOCK: [2012-11-12 Mon 13:07]--[2012-11-12 Mon 13:08] =>  0:01
-   CLOCK: [2012-11-12 Mon 13:04]--[2012-11-12 Mon 13:05] =>  0:01
-   CLOCK: [2012-11-12 Mon 12:29]--[2012-11-12 Mon 12:34] =>  0:05
-   :END:
-[2012-11-12 Mon 12:29]
-** DONE      Cox 
-- called    <2012-11-20 Tue>
-  - State "DONE"       from "TODO"       [2012-11-20 Tue 10:40]
-[2012-11-20 Tue 08:23]
-- Cox at house <2012-11-21 Wed 10:00>
-** DONE [#B] schedule vet visit <2012-11-29 Thu>
-  - State "DONE"       from "NEXT"       [2012-11-29 Thu 15:55]
-  - 3pm
-  - [X] fax
-     - Maryland records to be emailed to me by <2012-11-29 Thu 16:00>
-  - [X] bordatella
-[2012-11-29 Thu 09:12]
-:LOGBOOK:
-CLOCK: [2012-11-29 Thu 15:52]--[2012-11-29 Thu 15:53] =>  0:01
-  CLOCK: [2012-11-29 Thu 12:33]--<2012-11-29 Thu 13:13>
-  :END:
-** CANCELLED EcoKing, ecokingphx@gmail.com, email name and address and evening time carpet cleaning date :PHONE:CANCELLED:
+[2013-07-08 Mon 14:06]
+[[file:~/Dropbox/emacs/git/org/refile.org::*enter%20hours%206/17%20-%206/23][enter hours 6/17 - 6/23]]
+***** PHONE Cleaning Solution at 602-494-7100			      :PHONE:
+  - no availability until august
   :LOGBOOK:
-  CLOCK: [2012-10-29 Mon 13:40]--[2012-10-29 Mon 13:41] =>  0:01
+  CLOCK: [2013-07-08 Mon 14:57]--[2013-07-08 Mon 14:58] =>  0:01
   :END:
-
-*** Phone 
-**** PHONE Cox cable re: no data at house			      :PHONE:
-  - technicians to house <2012-11-15 Thu 13:00>
+[2013-07-08 Mon 14:57]
+***** Alicia, house cleaner 
+      SCHEDULED: <2013-07-16 Tue 07:00>
+      :PROPERTIES:
+      :ID:       c545e3cd-7a32-4e2b-82f3-b3c3a173a216
+      :END:
+**** TODO car detail						       :MOVE:
+     SCHEDULED: <2013-07-13 Sat 07:30>
     :LOGBOOK:
-  CLOCK: [2012-11-14 Wed 13:11]--[2012-11-14 Wed 13:21] =>  0:10
+  CLOCK: [2013-07-11 Thu 12:28]--[2013-07-11 Thu 12:29] =>  0:01
   :END:
-[2012-11-14 Wed 13:11]
-**** PHONE Leslie						      :PHONE:
-  :LOGBOOK:
-  CLOCK: [2012-11-12 Mon 11:42]--[2012-11-12 Mon 11:51] =>  0:09
+  :PROPERTIES:
+  :ID:       ee44ce84-3b09-48b2-aded-a6e9c8ca7b85
   :END:
-[2012-11-12 Mon 11:42]
-**** PHONE EWB call conference call, caller never called in	      :PHONE:
-  :LOGBOOK:
-  CLOCK: [2012-11-16 Fri 15:29]--[2012-11-16 Fri 15:41] =>  0:12
-  :END:
-[2012-11-16 Fri 15:29]
-**** PHONE [[bbdb:PetsHotel Scottsdale][PetsHotel Scottsdale]] - PetsHotel			      :PHONE:
-  - x6
-  - 
-  :LOGBOOK:
-  CLOCK: [2012-11-29 Thu 12:58]--[2012-11-29 Thu 13:06] =>  0:08
-  :END:
-[2012-11-29 Thu 12:58]
-**** PHONE [[bbdb:Banfield vet Scottsdale][Banfield vet Scottsdale]] - Banfield Vet		      :PHONE:
+[2013-07-11 Thu 12:28]
 
-  :LOGBOOK:
-  CLOCK: [2012-11-29 Thu 15:30]--[2012-11-29 Thu 15:37] =>  0:07
-  :END:
-[2012-11-29 Thu 15:30]
-** PE Exam
-     :LOGBOOK:
-  CLOCK: [2012-11-27 Tue 13:04]--[2012-11-27 Tue 14:46] =>  1:42
-  CLOCK: [2012-11-20 Tue 14:23]--[2012-11-20 Tue 14:27] =>  0:04
-  CLOCK: [2012-11-20 Tue 14:20]--[2012-11-20 Tue 14:23] =>  0:03
-  CLOCK: [2012-11-20 Tue 11:24]--[2012-11-20 Tue 11:30] =>  0:06
-  CLOCK: [2012-11-15 Thu 08:40]--[2012-11-15 Thu 08:56] =>  0:16
-  CLOCK: [2012-11-15 Thu 08:31]--[2012-11-15 Thu 08:34] =>  0:03
-  CLOCK: [2012-11-14 Wed 14:24]--[2012-11-14 Wed 14:28] =>  0:04
-  CLOCK: [2012-11-14 Wed 14:14]--[2012-11-14 Wed 14:16] =>  0:02
-  CLOCK: [2012-11-14 Wed 14:07]--[2012-11-14 Wed 14:10] =>  0:03
-  CLOCK: [2012-11-14 Wed 14:06]--[2012-11-14 Wed 14:07] =>  0:01
-  CLOCK: [2012-11-14 Wed 12:29]--[2012-11-14 Wed 12:30] =>  0:01
-  CLOCK: [2012-11-14 Wed 11:43]--[2012-11-14 Wed 11:55] =>  0:12
-  CLOCK: [2012-11-14 Wed 10:29]--[2012-11-14 Wed 10:38] =>  0:09
-  CLOCK: [2012-11-14 Wed 10:28]--[2012-11-14 Wed 10:29] =>  0:01
-  CLOCK: [2012-11-14 Wed 10:10]--[2012-11-14 Wed 10:27] =>  0:17
-  CLOCK: [2012-11-13 Tue 16:01]--[2012-11-13 Tue 16:35] =>  0:34
-  :END:
-  [2012-11-13 Tue 16:01]
-*** DONE [#B] PE Paperwork [2/2], mailed [2013-01-21 Mon]
-    - State "DONE"       from "TODO"       [2013-01-21 Mon 09:25]
+** Alaska
+*** DONE schedule carpet cleaning 				       :MOVE:
     :LOGBOOK:
-    CLOCK: [2013-01-18 Fri 16:31]--[2013-01-21 Mon 08:44] => 64:13
-    CLOCK: [2012-12-19 Wed 09:25]--[2012-12-19 Wed 09:58] =>  0:33
-    CLOCK: [2012-12-18 Tue 15:37]--[2012-12-18 Tue 15:38] =>  0:01
-    CLOCK: [2012-12-18 Tue 14:15]--[2012-12-18 Tue 15:35] =>  1:20
-    CLOCK: [2012-12-03 Mon 13:25]--[2012-12-03 Mon 13:29] =>  0:04
-    CLOCK: [2012-12-03 Mon 12:35]--[2012-12-03 Mon 13:12] =>  0:37
+    CLOCK: [2013-07-08 Mon 15:20]--[2013-07-08 Mon 15:26] =>  0:06
     :END:
     :PROPERTIES:
-    :Effort:   4:00
+    :ID:       a461a1bd-e2ef-4f0f-b05f-17aaa9779e2a
     :END:
-    - [X] Register with NCEES
-      - [X] [[http://azbtr.gov/forms/engineers.asp][need to provide forms]] [3/3]
-	- [X] Application
-	  - [X] Application Fee $100
-	- [X] Authorization and Release letter
-	- [X] Certificate of experience forms [5/5]
-	  - [X] Reference from JM
-	  - [X] Reference from MG
-	  - [X] Reference from JG
-	  - [X] Reference from DG
-	  - [X] Reference from SM
-    - [X] PE Exam Materials
-      - [X] CERM
-      - [X] NCEES sample questions and solutions (ordered [2012-11-20 Tue])
-      - [X] Water resources 6-minute solutions (ordered [2012-11-20 Tue])
-    - [X] Questions
-**** DONE [#A] [[http://vtprofessionals.org/opr1/engineers/][need verification form of FE]]
-     - State "DONE"       from "NEXT"       [2013-01-21 Mon 09:25]
-     :LOGBOOK:
-     CLOCK: [2013-01-21 Mon 08:44]--[2013-01-21 Mon 09:25] =>  0:41
-     CLOCK: [2013-01-16 Wed 13:09]--[2013-01-16 Wed 16:39] =>  3:30
-     :END:
-     - [ ] $20 processing fee
-	- called and left message [2012-11-20 Tue]
-**** DONE Forward transcript from NAU, direct from registrar's (to where?)
-     - State "DONE"       from "WAITING"    [2012-12-18 Tue 15:37]
-     - State "WAITING"    from "TODO"       [2012-12-18 Tue 15:13] \\
-       Waiting on studentclearinghouse to OK Consent to Release Info form
+**** [[http://www.groupon.com/deals/rick-s-restoration-and-carpet-cleaning-1][Rick's carpet cleaning]]
+      - 602.293.8177
+***** PHONE Rick's carpet cleaning				      :PHONE:
+      - 602.293.8177
+      - sheduled for <2013-07-17 Wed 09:00>
+****** DONE confirm payment with Rick's
+       - State "DONE"       from "TODO"       [2013-07-08 Mon 16:40]
+       - payment over the phone
+****** DONE confirm carpet appointment with Brendan		       :MOVE:
+       - State "DONE"       from "NEXT"       [2013-07-11 Thu 13:42]
+    :LOGBOOK:
+    CLOCK: [2013-07-08 Mon 15:08]--[2013-07-08 Mon 15:14] =>  0:06
+    :END:
+       :PROPERTIES:
+       :ID:       34c3d03d-ca36-4298-9ff0-6ef782cd6cc8
+       :END:
+       [2013-07-08 Mon 15:08]
+**** [[http://www.groupon.com/deals/caravan-carpet-cleaning-1][Caravan Carpet Cleaning]]
+     - 480-730-3288
+***** PHONE Caravan Carpet cleaning				      :PHONE:
+  - 480-730-3288
+  - only available in the AM of 7/16, or the next day, so stick with Rick's
+  :LOGBOOK:
+  CLOCK: [2013-07-08 Mon 15:18]--[2013-07-08 Mon 15:20] =>  0:02
+  :END:
+[2013-07-08 Mon 15:18]
+**** [[http://www.groupon.com/deals/sweettouch-carpet-cleaning-1][Sweet Touch]]
+     - 602-702-9456
 
-*** Facts and Figures
+**** CANCELLED purchase groupon for carpet cleaning		  :CANCELLED:
+     - State "CANCELLED"  from "NEXT"       [2013-07-09 Tue 16:34] \\
+       Rick said he will match Groupon, and I will pay him over the phone
+  :LOGBOOK:
+  CLOCK: [2013-07-08 Mon 15:14]--[2013-07-08 Mon 15:18] =>  0:04
+  CLOCK: [2013-07-08 Mon 15:05]--[2013-07-08 Mon 15:08] =>  0:03
+  :END:
+     :PROPERTIES:
+     :ID:       0a523465-7f16-4a30-a2cd-1c4a3ecf1ee1
+     :END:
+[2013-07-08 Mon 14:06]
+[[file:~/Dropbox/emacs/git/org/refile.org::*enter%20hours%206/17%20-%206/23][enter hours 6/17 - 6/23]]
+*** DONE wardrobe box question
+    - State "DONE"       from "TODO"       [2013-07-10 Wed 16:14]
+    :PROPERTIES:
+    :ID:       3da967aa-910e-4ccf-8a82-a0980afeeda0
+    :END:
+[2013-07-08 Mon 16:02]
+[[file:~/Dropbox/emacs/git/org/refile.org::*Harry,%20premier][Harry, premier]]
+*** DONE cancel dog hotel
+  SCHEDULED: <2013-06-26 Wed>
+  - State "DONE"       from "TODO"       [2013-06-26 Wed 11:53]
+   :PROPERTIES:
+   :ID:       95dd620a-34d3-4f6e-9321-7f7703f2915d
+   :END:
+[2013-06-24 Mon 13:56]
+*** PHONE Phone call from Harry					      :PHONE:
+  - full easy to move, queen pillow top is tricky
+  :LOGBOOK:
+  CLOCK: [2013-07-08 Mon 14:10]--[2013-07-08 Mon 14:39] =>  0:29
+  :END:
+  :PROPERTIES:
+  :ID:       a331d647-11c9-4b1e-b446-95c69dcb2577
+  :END:
+**** DONE Premier to house, secondary visit scheduled
+     <2013-07-10 Wed 13:00>
+     - State "DONE"       from ""           [2013-07-11 Thu 09:51]
+     - State "DONE"       from "TODO"       [2013-07-10 Wed 14:22]
+     :PROPERTIES:
+     :ID:       53cebdc2-1829-4603-ae44-412640edaded
+     :END:
+*** DONE contact movers re: timeframe and confirmation and sea/truck
+  - State "DONE"       from "NEXT"       [2013-07-08 Mon 13:44]
+  - Time frame
+    - auto show up in three or four weeks
+    - house show up four or five weeks
+  - confirm 07/15 date
+    - Harry will contact me in the next 48 hours
+  - confirm truck pick up date
+    - truck pick up scheduled for 7/15
+    - truck to be shipped by land only for insurance purposes
+  :LOGBOOK:
+  CLOCK: [2013-07-08 Mon 12:29]--[2013-07-08 Mon 13:47] =>  1:18
+  CLOCK: [2013-07-08 Mon 11:50]--[2013-07-08 Mon 12:28] =>  0:38
+  :END:
+  :PROPERTIES:
+  :ID:       df3936f8-6ef1-4b57-a840-a8f3cfac5e56
+  :END:
+[2013-07-08 Mon 11:50]
+[[file:~/Dropbox/emacs/git/org/diary.org::*lunch][lunch]]
+*** TODO MOVING DAY
+  :PROPERTIES:
+  :ID:       0ea1ca08-596f-45ca-8ef0-21f0bd00f98d
+  :END:
+<2013-07-15 Mon>
+[2013-07-11 Thu 16:35]
+[[file:~/Dropbox/emacs/git/org/todo.org::*Arizona][Arizona]]
+*** PHONE Ed with transport company				      :PHONE:
+  -210-499-0112
+  -left voicemail
+  :LOGBOOK:
+  CLOCK: [2013-07-12 Fri 13:17]--[2013-07-12 Fri 13:22] =>  0:05
+  :END:
+[2013-07-12 Fri 13:17]
+** Arizona
+*** rental
+**** PHONE Brendan						      :PHONE:
+  - left message
+  
+[2013-06-25 Tue 14:29]
+*** DONE Show house
+    SCHEDULED: <2013-07-11 Thu 18:00>
+    - State "DONE"       from "TODO"       [2013-07-12 Fri 13:25]
+  :LOGBOOK:
+  CLOCK: [2013-07-10 Wed 16:39]--[2013-07-10 Wed 16:43] =>  0:04
+  :END:
+  :PROPERTIES:
+  :ID:       87349d1d-ea12-4490-9088-b428ad62dcc3
+  :END:
+[2013-07-10 Wed 16:39]
+[[file:~/Dropbox/emacs/git/org/refile.org::*Brendan][Brendan]]
+** DONE test the calendars from org-mode <2013-06-28 Fri 10:00-12:00>
+   - State "DONE"       from ""           [2013-07-11 Thu 10:31]
+  :LOGBOOK:
+  CLOCK: [2013-06-27 Thu 16:35]--[2013-06-27 Thu 16:39] =>  0:04
+  :END:
+  :PROPERTIES:
+  :ID:       73d566cb-2af5-47d7-8621-06e08c2636ea
+  :END:
+[2013-06-27 Thu 16:35]
+
+** Finance
+*** WAITING benefits package from HR			     :LESLIE:WAITING:
+    - State "WAITING"    from "TODO"       [2013-07-11 Thu 10:38]
+  :LOGBOOK:
+  CLOCK: [2013-07-10 Wed 11:28]--[2013-07-10 Wed 13:21] =>  1:53
+  :END:
+  :PROPERTIES:
+  :ID:       1dc927d8-508f-499d-9835-1a11e030c5aa
+  :END:
+[2013-07-10 Wed 11:28]
+[[file:~/Dropbox/emacs/git/org/patriot.org::*Organization][Organization]]
+*** WAITING mortgage breakout to Watermark		     :LESLIE:WAITING:
+    - State "WAITING"    from "TODO"       [2013-07-11 Thu 10:38]
+  :PROPERTIES:
+  :ID:       455fc2e4-9777-4d0d-ad7e-0cbafe586d00
+  :END:
+[2013-07-10 Wed 13:21]
+[[file:~/Dropbox/emacs/git/org/patriot.org::*Organization][Organization]]
+*** TODO Watermark meeting 8AM AK time <2013-08-28 Wed 08:00>	     :LESLIE:
+  :LOGBOOK:
+  CLOCK: [2013-07-10 Wed 13:25]--[2013-07-10 Wed 13:28] =>  0:03
+  :END:
+  :PROPERTIES:
+  :ID:       f4d7f7c0-993f-40ca-89fc-924558d17fcd
+  :END:
+[2013-07-10 Wed 13:25]
+[[file:~/Dropbox/emacs/git/org/patriot.org::*Patriot%20review][Patriot review]]
+*** TODO 401k to Watermark					     :LESLIE:
+  :LOGBOOK:
+  CLOCK: [2013-07-11 Thu 10:36]--[2013-07-11 Thu 10:37] =>  0:01
+  :END:
+    :PROPERTIES:
+    :ID:       f002e557-e67e-4562-b516-198241b7e1f6
+    :END:
+[2013-07-11 Thu 10:36]
+[[file:~/Dropbox/emacs/git/org/todo.org::*Watermark%20meeting%208AM%20AK%20time][Watermark meeting 8AM AK time <2013-08-28 Wed 08:00>]]
+* Professional
+  :PROPERTIES:
+  :ID:       78551b61-d0fd-4367-a016-cda3b746fa34
+  :END:
+** Exam
+*** DONE PE Exam
+      :LOGBOOK:
+   CLOCK: [2013-06-24 Mon 14:23]--[2013-06-24 Mon 16:11] =>  1:48
+   CLOCK: [2012-11-27 Tue 13:04]--[2012-11-27 Tue 14:46] =>  1:42
+   CLOCK: [2012-11-20 Tue 14:23]--[2012-11-20 Tue 14:27] =>  0:04
+   CLOCK: [2012-11-20 Tue 14:20]--[2012-11-20 Tue 14:23] =>  0:03
+   CLOCK: [2012-11-20 Tue 11:24]--[2012-11-20 Tue 11:30] =>  0:06
+   CLOCK: [2012-11-15 Thu 08:40]--[2012-11-15 Thu 08:56] =>  0:16
+   CLOCK: [2012-11-15 Thu 08:31]--[2012-11-15 Thu 08:34] =>  0:03
+   CLOCK: [2012-11-14 Wed 14:24]--[2012-11-14 Wed 14:28] =>  0:04
+   CLOCK: [2012-11-14 Wed 14:14]--[2012-11-14 Wed 14:16] =>  0:02
+   CLOCK: [2012-11-14 Wed 14:07]--[2012-11-14 Wed 14:10] =>  0:03
+   CLOCK: [2012-11-14 Wed 14:06]--[2012-11-14 Wed 14:07] =>  0:01
+   CLOCK: [2012-11-14 Wed 12:29]--[2012-11-14 Wed 12:30] =>  0:01
+   CLOCK: [2012-11-14 Wed 11:43]--[2012-11-14 Wed 11:55] =>  0:12
+   CLOCK: [2012-11-14 Wed 10:29]--[2012-11-14 Wed 10:38] =>  0:09
+   CLOCK: [2012-11-14 Wed 10:28]--[2012-11-14 Wed 10:29] =>  0:01
+   CLOCK: [2012-11-14 Wed 10:10]--[2012-11-14 Wed 10:27] =>  0:17
+   CLOCK: [2012-11-13 Tue 16:01]--[2012-11-13 Tue 16:35] =>  0:34
+   :END:
+    [2012-11-13 Tue 16:01]
+**** DONE PE Paperwork [2/2], mailed [2013-01-21 Mon]
+     - State "DONE"       from "TODO"       [2013-01-21 Mon 09:25]
+     :LOGBOOK:
+     CLOCK: [2013-01-18 Fri 16:31]--[2013-01-21 Mon 08:44] => 64:13
+     CLOCK: [2012-12-19 Wed 09:25]--[2012-12-19 Wed 09:58] =>  0:33
+     CLOCK: [2012-12-18 Tue 15:37]--[2012-12-18 Tue 15:38] =>  0:01
+     CLOCK: [2012-12-18 Tue 14:15]--[2012-12-18 Tue 15:35] =>  1:20
+     CLOCK: [2012-12-03 Mon 13:25]--[2012-12-03 Mon 13:29] =>  0:04
+     CLOCK: [2012-12-03 Mon 12:35]--[2012-12-03 Mon 13:12] =>  0:37
+     :END:
+     :PROPERTIES:
+     :Effort:   4:00
+     :END:
+     - [X] Register with NCEES
+       - [X] [[http://azbtr.gov/forms/engineers.asp][need to provide forms]] [3/3]
+	 - [X] Application
+	   - [X] Application Fee $100
+	 - [X] Authorization and Release letter
+	 - [X] Certificate of experience forms [5/5]
+	   - [X] Reference from JM
+	   - [X] Reference from MG
+	   - [X] Reference from JG
+	   - [X] Reference from DG
+	   - [X] Reference from SM
+     - [X] PE Exam Materials
+       - [X] CERM
+       - [X] NCEES sample questions and solutions (ordered [2012-11-20 Tue])
+       - [X] Water resources 6-minute solutions (ordered [2012-11-20 Tue])
+     - [X] Questions
+***** DONE [[http://vtprofessionals.org/opr1/engineers/][need verification form of FE]]
+      - State "DONE"       from "NEXT"       [2013-01-21 Mon 09:25]
+      :LOGBOOK:
+      CLOCK: [2013-01-21 Mon 08:44]--[2013-01-21 Mon 09:25] =>  0:41
+      CLOCK: [2013-01-16 Wed 13:09]--[2013-01-16 Wed 16:39] =>  3:30
+      :END:
+      - [ ] $20 processing fee
+	 - called and left message [2012-11-20 Tue]
+***** DONE Forward transcript from NAU, direct from registrar's (to where?)
+      - State "DONE"       from "WAITING"    [2012-12-18 Tue 15:37]
+      - State "WAITING"    from "TODO"       [2012-12-18 Tue 15:13] \\
+       	Waiting on studentclearinghouse to OK Consent to Release Info form
+
+**** Facts and Figures
 | Course          | Cost  | Hours instruction |
 |-----------------+-------+-------------------|
 | PE AM Breadth   | $1655 |                40 |
@@ -275,10 +310,10 @@ CLOCK: [2012-11-29 Thu 15:52]--[2012-11-29 Thu 15:53] =>  0:01
 |-----------------+-------+-------------------|
 | /total/         | $2599 |                   |
 
-*** Phone calls
-    - Call 928-523-5191 Abramov: MEng not ABET certified [2012-11-15 Thu]
-    - Call State Board at (602) 364-4930 [2012-11-13 Tue]
-**** DONE [[bbdb:Tanya Salinas][Tanya Salinas]] - Arizona State Board of Technical Registration :PHONE:
+**** Phone calls
+     - Call 928-523-5191 Abramov: MEng not ABET certified [2012-11-15 Thu]
+     - Call State Board at (602) 364-4930 [2012-11-13 Tue]
+***** DONE [[bbdb:Tanya Salinas][Tanya Salinas]] - Arizona State Board of Technical Registration :PHONE:
      - State "DONE"       from "WAITING"    [2013-01-21 Mon 09:27]
   - State "WAITING"    from "PHONE"      [2012-12-03 Mon 13:25] \\
     waiting on call back to answer Qs
@@ -288,19 +323,19 @@ CLOCK: [2012-11-29 Thu 15:52]--[2012-11-29 Thu 15:53] =>  0:01
   CLOCK: [2012-12-03 Mon 13:22]--[2012-12-03 Mon 13:25] =>  0:03
   :END:
 [2012-12-03 Mon 13:22]
-**** PHONE Loretta Hallet 602-364-4943			    :PHONE:CANCELLED:
+***** PHONE Loretta Hallet 602-364-4943			    :PHONE:CANCELLED:
 - no answer
   :LOGBOOK:
   CLOCK: [2012-11-27 Tue 15:05]--[2012-11-27 Tue 15:24] =>  0:19
   :END:
 [2012-11-27 Tue 15:05]
-**** PHONE [[bbdb:Tanya Salinas][Tanya Salinas]] - Arizona State Board of Technical Registration re: reference mailing :PHONE:
+***** PHONE [[bbdb:Tanya Salinas][Tanya Salinas]] - Arizona State Board of Technical Registration re: reference mailing :PHONE:
 - no answer
   :LOGBOOK:
   CLOCK: [2012-11-27 Tue 14:46]--[2012-11-27 Tue 15:05] =>  0:19
   :END:
 [2012-11-27 Tue 14:46]
-**** PHONE [[bbdb:Tanya Salinas][Tanya Salinas]] - Arizona State Board of Technical Registration :PHONE:
+***** PHONE [[bbdb:Tanya Salinas][Tanya Salinas]] - Arizona State Board of Technical Registration :PHONE:
 re: PE exam reference
   - how long he has known me in his section
   - sealed envelope direct ok; so is sending it back to me
@@ -308,104 +343,67 @@ re: PE exam reference
   CLOCK: [2012-11-15 Thu 08:34]--[2012-11-15 Thu 08:40] =>  0:06
   :END:
 [2012-11-16 Fri 08:34]
-**** PHONE Vermont Board of Professional Engineering (802) 828-2191   :PHONE:
+***** PHONE Vermont Board of Professional Engineering (802) 828-2191  :PHONE:
   - Terry Gray, left message
   :LOGBOOK:
   CLOCK: [2012-11-14 Wed 14:19]--[2012-11-14 Wed 14:22] =>  0:03
   :END:
 [2012-11-14 Wed 14:19]
-**** PHONE VT Board of Professional Engineering 802-828-1134	      :PHONE:
+***** PHONE VT Board of Professional Engineering 802-828-1134	      :PHONE:
   - no answer
   :LOGBOOK:
   CLOCK: [2012-11-14 Wed 14:16]--[2012-11-14 Wed 14:19] =>  0:03
   :END:
 [2012-11-14 Wed 14:16]
-**** PHONE [[bbdb:Tanya Salinas][Tanya Salinas]] - Arizona State Board of Technical Registration :PHONE:
+***** PHONE [[bbdb:Tanya Salinas][Tanya Salinas]] - Arizona State Board of Technical Registration :PHONE:
   - 
   :LOGBOOK:
   CLOCK: [2012-11-14 Wed 14:10]--[2012-11-14 Wed 14:14] =>  0:04
   :END:
 [2012-11-14 Wed 14:10]
-**** PHONE AZ Board of Tech registration, 602-364-4930		      :PHONE:
+***** PHONE AZ Board of Tech registration, 602-364-4930		      :PHONE:
   :LOGBOOK:
   CLOCK: [2012-11-14 Wed 10:38]--[2012-11-14 Wed 11:43] =>  1:05
   :END:
 [2012-11-14 Wed 10:38]
-**** PHONE 602-364-4944						      :PHONE:
+***** PHONE 602-364-4944					      :PHONE:
 - re: PE exam
   :LOGBOOK:
   CLOCK: [2012-11-14 Wed 09:57]--[2012-11-14 Wed 10:07] =>  0:10
   :END:
 [2012-11-14 Wed 09:57]
-*** PHONE Kara Shangraw | 802 828-1134, Vermont Secretary of State    :PHONE:
+***** PHONE Kara Shangraw | 802 828-1134, Vermont Secretary of State  :PHONE:
   - $20 OPR, Vt Secretary of State, ATTN: , National Life Bldg, North FL2, Montpelier, VT 05620-3402
   :LOGBOOK:
   CLOCK: [2012-12-03 Mon 13:15]--[2012-12-03 Mon 13:22] =>  0:07
   :END:
 [2012-12-03 Mon 13:15]
-*** PHONE PPI re: review courses				      :PHONE:
+***** PHONE PPI re: review courses				      :PHONE:
   - Laura
   - I'm all signed up
   :LOGBOOK:
   CLOCK: [2012-12-04 Tue 15:09]--[2012-12-04 Tue 15:21] =>  0:12
   :END:
 [2012-12-04 Tue 15:09]
-** Dog hotel
-   - State "TODO"       from "DONE"       [2012-11-29 Thu 15:56]
-   - State "DONE"       from "NEXT"       [2012-11-29 Thu 15:56]
-*** Woody at PetsHotel <2012-12-07 Fri 08:00>--<2012-12-12 Wed 21:00>
-| Service  | Fee | Days | subtotal |
-|----------+-----+------+----------|
-| day camp |  17 |    6 |      102 |
-| boarding |  29 |    5 |      145 |
-|----------+-----+------+----------|
-| total    |     |      |      247 |
-#+TBLFM: $4=vsum(@2$4..@3$4)::@3$3=@2$3::@4$4=vsum(@2$4..@3$4)
-*** DONE - pet assessment and master board of agreement forms <2012-11-30 Fri>
-    - State "DONE"       from "NEXT"       [2012-12-18 Tue 09:01]
+***** PHONE NCEES						      :PHONE:
+1-877-536-7729
+closed at 5pm EST
+  :LOGBOOK:
+  CLOCK: [2013-06-24 Mon 14:36]--[2013-06-24 Mon 14:37] =>  0:01
+  :END:
+[2013-06-24 Mon 14:36]
+**** register for PE exam
+  :LOGBOOK:
 
-   
-  :LOGBOOK:
-CLOCK: [2012-11-29 Thu 13:06]--[2012-11-29 Thu 13:22] =>  0:16
-  CLOCK: [2012-11-29 Thu 12:45]--[2012-11-29 Thu 12:58] =>  0:13
   :END:
-    :PROPERTIES:
-    :Effort:   0:15
-    :END:
-[2012-11-29 Thu 09:12]
-** PHONE Ricky							      :PHONE:
-  - Ricky trip [2012-11-30 Fri]
-  :LOGBOOK:
-  CLOCK: [2012-11-29 Thu 16:04]--[2012-11-29 Thu 16:08] =>  0:04
-  :END:
-[2012-11-29 Thu 16:04]
-** DONE Woody to vet
-  - State "DONE"       from "TODO"       [2012-11-30 Fri 15:51]
-  :LOGBOOK:
-  CLOCK: [2012-11-30 Fri 14:40]--[2012-11-30 Fri 15:51] =>  1:11
-  :END:
-[2012-11-30 Fri 14:40]
-[[file:~/git/org/patriot.org::*Order%20two%20computers%20for%20dhall][Order two computers for dhall <2012-11-30 Fri>]]
-** NEXT ring
-  - 1.75 carat, SI2 H, $17,641.02 --> $16,700 (w/o tax)
-  :LOGBOOK:
-  CLOCK: [2012-12-14 Fri 16:44]--[2012-12-14 Fri 16:59] =>  0:15
-  CLOCK: [2012-12-14 Fri 11:36]--[2012-12-14 Fri 14:30] =>  2:54
-  :END:
-[2012-12-14 Fri 11:36]
-** TODO taxes
-*** Mohela
-    - available 1/31/12
-    - www.myedaccount.com
-*** Direct Loan
-  :LOGBOOK:
-  CLOCK: [2012-12-21 Fri 08:09]--[2012-12-21 Fri 08:11] =>  0:02
-  :END:
-[2012-12-21 Fri 08:09]
+[2013-06-24 Mon 13:40]
 
 * Appointments
   :LOGBOOK:
   CLOCK: [2012-11-09 Fri 08:17]--[2012-11-09 Fri 08:22] =>  0:05
+  :END:
+  :PROPERTIES:
+  :ID:       7e293478-48dd-49cf-8500-4a11a89105a7
   :END:
 PROPERTIES:
 CATEGORY: Appt
@@ -419,4 +417,41 @@ END:
 ** Some other Appointment
 ** Denali Health AK trip <2012-12-07 Fri>--<2012-12-12 Wed>
   
+** DONE eye appointment
+    - State "DONE"       from "NEXT"       [2013-07-08 Mon 13:57]
+    - call CostCo at (480) 948-5040, 5, 1
+    - 1100 07/09 at 15255 N Hayden Rd, Scottsdale, AZ ‎<2013-07-09 Tue 11:00-12:00>
+    - $79 for both glasses and contacts
+    :LOGBOOK:
+    CLOCK: [2013-07-08 Mon 13:50]--[2013-07-08 Mon 13:57] =>  0:07
+    :END:
+   :PROPERTIES:
+   :ID:       52ba152f-48da-4a68-aeda-82dd8669dabf
+   :END:
+[2013-06-24 Mon 15:35]
+** DONE dinner with Shields
+   - State "DONE"       from ""           [2013-07-11 Thu 09:53]
+   <2013-07-10 Wed 18:00>
+   :PROPERTIES:
+   :ID:       f7e0e9b9-8a8a-42ef-9b3c-cfddf313a7ce
+   :END:
 
+** DONE dinner with Shields
+   - State "DONE"       from ""           [2013-07-11 Thu 09:53]
+   <2013-07-15 Mon 18:00>
+   :PROPERTIES:
+   :ID:       f7e0e9b9-8a8a-42ef-9b3c-cfddf313a7ce
+   :END:
+
+** Leslie SD party
+  SCHEDULED: <2013-07-20 Sat 18:00>
+  :LOGBOOK:
+  CLOCK: [2013-07-10 Wed 14:35]--[2013-07-10 Wed 14:36] =>  0:01
+  :END:
+[2013-07-10 Wed 14:35]
+** See Matthew in SF
+  SCHEDULED: <2013-07-27 Sat>
+   :PROPERTIES:
+   :ID:       380fa6d5-57cf-48f2-a3dd-249d6405e5d3
+   :END:
+[2013-07-10 Wed 14:37]
