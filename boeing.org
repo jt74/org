@@ -57,11 +57,6 @@
    - 3.3: Again, I don't see this section at all in earlier drafts
    - 3.6
    - 3.7
-*** TODO Include previous draft of 16060			    :@office:
-    :PROPERTIES:
-    :ID:       c311b207-835e-445b-8808-059fec0b5653
-    :END:
-    
 * Patriot
   :PROPERTIES:
   :ID:       8590606a-e0d3-46ca-b49d-39746de066f7
