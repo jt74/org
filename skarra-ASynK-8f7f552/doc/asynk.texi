@@ -1,0 +1,1296 @@
+\input texinfo   @c -*-texinfo-*-
+@c %**start of header
+@setfilename asynk.info
+@settitle ASynK User Manual
+@c %**end of header
+
+@copying
+This file documents ``ASynK - Awesome Sync (by Karra)''
+
+Copyright (C) 2011, 2012 Sriram Karra <karra.etc@@gmail.com>
+
+@quotation
+Permission is granted to copy, distribute and/or modify this document
+under the terms of the GNU Free Documentation License, Version 1.3;
+with the Invariant Section being ``GNU GENERAL PUBLIC LICENSE,''
+A copy of the license is included in the section entitled
+``GNU Free Documentation License.''
+@end quotation
+@end copying
+
+@titlepage
+@title ASynK: Awesome Sync (by Karra)
+@page
+@vskip 0pt plus 1filll
+@insertcopying
+@end titlepage
+
+@c Output the table of the contents at the beginning.
+@contents
+
+@ifnottex
+@node Top, Introduction, (dir), (dir)
+@top ASynK User Manual
+
+@insertcopying
+@end ifnottex
+
+@menu
+* Introduction::                What is ASynK, and why should you be interested.
+* Installation::                Fetching and installing ASynK
+* Concepts::                    Things you must know to use ASynK
+* Using ASynK::                 How to execute ASynK. Various commands and flags.
+* Customization::               How to configure ASynK to your specific setup
+* Recipes::                     Typical user flows
+* Internals::                   Some notes on internal details for power users
+* FAQ::                         Frequently Asked Questions
+
+Appendices
+* Copying::                     The GNU General Public License gives you permission
+                         to redistribute GNU Emacs on certain terms;
+                         it also explains that there is no warranty.
+* GNU FDL::                     The license for this documentation.
+* The Index::                   Complete index.
+
+@end menu
+
+@node Introduction, Installation, Top, Top
+@chapter Introduction
+
+ASynK is a flexible Contacts synchronization program that works with a
+variety of Contacts software such as Microsoft Outlook, Google Contacts, and
+Emacs BBDB.
+
+If you would not read through this documentation from cover to cover, but
+rather learn by looking at examples, head straight to the section titled
+``Recipes''. It contains enough examples to help you get going.
+
+So, where were we? Ah, yes, introducing ASynK. Here are some of the high
+level features of ASynK:
+
+@include intro.texi
+
+@node Installation, Concepts, Introduction, Top
+@chapter Getting ASynK and Installation
+
+The official website for ASynK is at:
+@url{http://karra-asynk.appspot.com}. You will find links to latest downloads,
+complete and latest documentaiton, announcements and other information on that
+website.
+
+The source code for ASynK is hosted on Github at:
+@url{https://github.com/skarra/AsynK} (earlier hosted at:
+@url{https://github.com/skarra/Gout}) Visit the site to grab the bleeding edge
+development version, or to register an issue you have identified.
+
+@section Pre-packaged Bundle
+You can download the latest version by visiting the downloads section of the
+official website at @url{http://karra-asynk.appspot.com/downloads/}.
+
+@section From Source
+You can clone the git repository by using a command such as @kbd{git clone
+git://github.com/skarra/ASynK.git}. Then run @kbd{asynk.py} as per
+instructions given in the @ref{Using ASynK, Using ASynK}, section below.
+
+@section Dependencies / Notes
+@subsection General Dependencies
+
+@enumerate
+@item
+@strong{Python 2.7}. You can download Python from:
+@url{http://www.python.org/download/releases/}
+
+@item
+If you want to build the documentation yourself you will need some additional
+tools:
+@enumerate
+@item
+@strong{makeinfo}: Is needed to build documentation in Info, docbook and xml
+formats. Version 4.8 is known to work with our sources.
+
+@item
+@strong{texi2html}: Is needed to build documentation in html format. Version 1
+.70 is known to work with our sources.
+
+@item
+@strong{texi2pdf}: Is needed to build the documentation in PDF format. Version
+1.34 is known to work with our sources.
+@end enumerate
+@end enumerate
+
+@subsection Windows / Outlook Specific Notes
+If you want to synchronize to MS Outlook, you will need:
+
+@enumerate
+@item
+@strong{Microsoft Windows}: Any recent version should do
+
+@item 
+@strong{MS Outlook}: Outlook should be installed. Direct read/write of PST
+files is not possible. Any recent version should work. ASynK has been reported
+to work with Office 2008 and Office 2010
+
+@item
+@strong{Pywin32 for Python 2.7}: It is available for download 
+@url{http://sourceforge.net/projects/pywin32/files/pywin32}
+@end enumerate
+@cindex Windows
+
+@subsection BBDB Specific Notes
+ASynK can parse and write BBDB files without the need for Emacs or
+BBDB. However, ensure you are using BBDB at the time ASynK is reading/writing
+the database. Bad things can happen if you are not careful with this. Further,
+not the following:
+
+@enumerate
+@item
+@strong{BBDB V3}: ASynK works best with if you use BBDBV3. V3 is the future of
+BBDB and a significant rewrite of large portions of the code base, but is
+decidedly not backward compatible with most user customization. You can
+download it at @url{http://savannah.nongnu.org/projects/bbdb}.
+
+Importantly for ASynK, the file format used by V3 provides for granular time
+stamps with timezone information and ASynK will just work ``out of the
+box''. There are also other important changes to the structure of the BBDB
+record in file format version 7.
+
+@item
+@strong{Timestamp Customization}: ASynK expects timestamps to be in UTC -
+i.e. they should all end with the @kbd{+0000}. If you have customized your
+BBDB timestamp format, it can lead to confusing results.
+
+@item
+@strong{BBDB-2.x}: Starting release v0.2.1 ASynK has added limited support for
+BBDB file format version 6 which is the latest version used by the 2.x
+releases of BBDB. This version of BBDB is not actively maintained, but is more
+widely deployed because of its age and availability on XEmacs.
+
+Support is limited in the sense that the native ver 6 file format timestamps
+only store year, month and day. So BBDB will overwrite the granular ASynK
+timestamps with a yyyy-mm-dd timestamp, and your bi-directional sync will not
+quite work as you would like. 
+
+The above limitation can be overcome by applying the following simple
+patch. With this patch in place ASynK will work quite well. There is a
+downside, however - certain time-based search in BBDB may behave differently
+(search newer, search older etc. will behave differently owing to differences
+in timestamp format). But one would like to think the ability to do
+bidirectional sync outweighs this minor irritation.
+
+@verbatim
+commit eb6ba8d342a46d61c45b0ce4c1de7711ff011466
+Author: Sriram Karra <karra.etc@gmail.com>
+Date:   Wed May 16 18:09:50 2012 +0530
+
+    Include UTC time as part of timestamp
+    
+    This is a feature in file format 7 available with BBDB v3. However
+    that is not available with the 2.x series. A detailed timestamp
+    is needed to do a sync with a third party.
+    
+    The ideal way would have been to fully implement the version 7
+    changes on 2.36. However that involves a lot of changes and is
+    risky - for e.g. introducing a new key name field (affix)
+    will stretch my understanding of BBDB internals. Best to just
+    provide a quick hack for those willing to live with it only to
+    try ASynK or similar sync software.
+    
+    The obvious pitfall is that commands that work on teh timestamp
+    field (like newer or older filters and delete) will start
+    to behave differently because a string comparison is done to
+    check if a date is newer or older.
+    
+       *** You have been warned ***
+
+diff --git a/lisp/bbdb-hooks.el b/lisp/bbdb-hooks.el
+index 01de4f2..b9f0d9d 100644
+--- a/lisp/bbdb-hooks.el
++++ b/lisp/bbdb-hooks.el
+@@ -59,7 +59,7 @@
+ (defvar mh-show-buffer)
+ 
+ 
+-(defvar bbdb-time-internal-format "%Y-%m-%d"
++(defvar bbdb-time-internal-format "%Y-%m-%d %T %z"
+   "The internal date format.")
+ 
+ ;;;###autoload
+@@ -69,7 +69,7 @@ for the given record which contains the time when it was last modified.  If
+ there is such a field there already, it is changed, otherwise it is added."
+   (bbdb-record-putprop record 'timestamp (format-time-string
+                       bbdb-time-internal-format
+-                      (current-time))))
++                      (current-time) t)))
+ 
+ ;;;###autoload
+ (defun bbdb-creation-date-hook (record)
+@@ -78,7 +78,7 @@ which is the current time string."
+   ;; hey buddy, we've known about your antics since the eighties...
+   (bbdb-record-putprop record 'creation-date (format-time-string
+                           bbdb-time-internal-format
+-                          (current-time))))
++                          (current-time) t)))
+ 
+ 
+ ;;; Determining whether to create a record based on the content of the
+diff --git a/lisp/bbdb.el b/lisp/bbdb.el
+index cc12045..dabbf05 100644
+--- a/lisp/bbdb.el
++++ b/lisp/bbdb.el
+@@ -1214,7 +1214,7 @@ from string."
+ 
+ ;;; Address formatting.
+ 
+-(defcustom bbdb-time-display-format "%d %b %Y"
++(defcustom bbdb-time-display-format "%d %b %Y %T %z"
+   "The format for the timestamp to be used in the creation-date and
+ timestamp fields.  See the documentation for `format-time-string'."
+   :group 'bbdb :type 'string)
+@@ -1223,11 +1223,13 @@ timestamp fields.  See the documentation for `format-time-string'."
+   "Convert a date from the BBDB internal format to the format
+ determined by FORMAT (or `bbdb-time-display-format' if FORMAT not
+ present).  Returns a string containing the date in the new format."
+-  (let ((parts (bbdb-split date "-")))
+-    (format-time-string (or format bbdb-time-display-format)
+-                        (encode-time 0 0 0 (string-to-number (caddr parts))
+-                                     (string-to-number (cadr parts))
+-                                     (string-to-number (car parts))))))
++  (format-time-string (or format bbdb-time-display-format)
++		      (condition-case err
++			  (date-to-time date)
++			(error nil
++			       (date-to-time (concat date " 00:00:00
++			       +0000"))))
++		      t))
+ 
+ (defalias 'bbdb-format-record-timestamp 'bbdb-time-convert)
+ (defalias 'bbdb-format-record-creation-date 'bbdb-time-convert)
+
+@end verbatim
+
+@end enumerate
+@cindex BBDB, Dependencies
+
+@node Concepts, Using ASynK, Installation, Top
+@chapter Concepts
+
+This chapter explains some of the key terminology we will use through the rest
+of this documentation. This is also required reading before you can dig into
+the code, if you are so inclined.
+
+@section Your Information and How it is Organized
+@subsection @dfn{PIMDB}s
+Google, MS Outlook and BBDB are know as ``PIM Databases'', and each is a ``PIM
+DB'', or @dfn{pimdb}. PIM stands for Personal Information Manager. PIMDB is
+PIM Database.
+
+Each PIMDB is referred to using a unique two letter specifier -'bb' for
+BBDB, 'gc' for Google Contacts, and 'ol' for Outlook. This two letter
+specifier is called a @dfn{dbid}
+
+@subsection @dfn{Item}s
+Your personal information collection includes contacts, notes, appointments,
+and tasks. In AsynK we refer to each piece of PIM information in your
+databases as an @dfn{Item}. When we want to refer a specific type of Item we
+would refer to them as Items - @dfn{Contact}, @dfn{Task}, @dfn{Note}, or
+@dfn{Appointment} as applicable.
+
+Every Item has an ID known as a @dfn{ItemID} that is guaranteed to be
+unique within its containing @dfn{Folder}.
+
+A pimdb can contain one or more Item types. Outlook supports all of
+them. Google covers Contacts and Appointments well, and BBDB only does
+contacts. In future we will be able to deal with all the contact types, but
+for now, the only support is for Contacts.
+
+@subsection @dfn{Message Store}
+Instead of defining a message store in general terms, let me just give you
+what they are for each of the @dfn{PIMDB}s we have.
+
+In Google, a @dfn{Message Store} is identified by a user login/password. If
+you have two Google accounts you have access to two @dfn{Message Store}s on
+Google Contacts.
+
+With MS Outlook, there is a built in concept of a @dfn{MessageStore}. Each
+account you create becomes a @dfn{Message Store}. If you add a PST file to your
+profile, it becomes a distinct @dfn{Message Store}. Essentially, The ASynK
+@dfn{Message Store} corresponds directly with a Outlook Message Store.
+
+A Note on Outlook Profiles: ASynK only works on the default Outlook Profile,
+and the contained Stores, folders, and contacts. This is important to keep in
+mind. You cannot specify a different Outlook profile to operate on.
+
+@cindex Outlook Profile
+
+And finally, in BBDB, a BBDB file is the @dfn{Message Store}. Simple :)
+
+@subsection @dfn{Folders}
+@dfn{Message Stores} are logically divided into @dfn{Folder}s. Google and
+Outlook internally organize their items into Folders (Google actually calls
+them Groups), but there is no native folder support in BBDB. 
+
+Folders are assigned a unique ID determined by the PIMDB, and typically when
+the folder is created. ASynK provides a way of viewing the available folders,
+their names, and IDs in a given @dfn{PIMDB} / @dfn{Message Store}.
+
+@subsubsection Folders in BBDB
+The fact that there is no native folder support in BBDB is more than offset by
+the fact that is infinitely customizable, and we can support a user-level
+model of folders as we wish. This is how it works:
+
+Normally, all the contacts in a BBDB @dfn{store} will be in a folder called
+@dfn{default}. If, however, a contact has a notes field with key titled
+@dfn{folder}, it will be put into the logical folder with the name specified
+in the value part of that BBDB notes. For e.g. if @code{(``folder''
+. ``Buddies'')} is a notes field in a contact, the ASynK will treat it as
+being in the folder called @dfn{Buddies}.
+
+If you do not like the @dfn{folder} key for your BBDB notes field, and want to
+call it @dfn{group} instead, you can do that too. Refer to the Customizing
+AsynK chapter below on how this can be done.
+
+A BBDB folder's Name and ID are the same, and are taken from the value of the
+notes field as explained above.
+
+@cindex folders
+
+@section ASynK Profile
+ASynK allows you to keep any folder in a pimdb in sync with any folder in one
+of the other pimdbs. The configuration and state of synchronization between a
+pair of folders is captured in a sync @dfn{Profile}. Most ASynK operations
+operate on a specified sync profile. So you will need to set up at least one
+profile before you can play with ASynK.
+
+Each Profile has the following information associated with it:
+
+@enumerate
+@item
+@strong{Name}: A unique alphanumeric string that identifies the profile, and
+is required for most sync operations. This is specified at the time of profile
+creation, and has to be provided by the user. A profile's name cannot be
+changed after creation.
+
+@item
+@strong{Folder IDs}: The IDs for the two folders that are to be synched. The
+required IDs have to be specified by the user at the time of profile
+creation. The IDs are assigned by the PIM DBs when the folders are
+created. ASynK can be used to list the existing folders in a PIMDB and their
+IDs, so the user can user the appropriate IDs at profile creation time.
+
+@item
+@strong{DB IDs}: Two DB IDs that hold the folders that are to be synched. This
+is specified at the time of profile creation and has to be specified by the
+user. They have to one of the supported DB IDs, which are 'bb', 'gc', and
+'ol', in this version. The order in which the DB IDs are specified matters -
+as explained below.
+
+@item
+@strong{Sync Timestamps}: The start and end of the last successful sync
+operation for this profile.  The end of the last sync is the timestamp used to
+query the pimdbs for updates that have to be synched. These are initialized
+and updated automatically by the system and you do not have to worry about
+it.
+
+@item
+@strong{Conflict Resolution Direction}: Occasionally one ends up editing an
+item in multiple places or devices, and this situation leads to a conflict -
+i.e. the same item has been updated since the last sync on both ends. There is
+no magic way to figure out which is the correct version. So we have to use a
+pre-determined tie breaker. This parameter tells the system in which direction
+to resolve this conflict. This field can be specified at the time of profile
+creation, but defaults to the first dbid specified in the profile. Once
+profile is created, the direction of conflict resolution cannot be specified
+for a operation.
+@cindex conflict resolution
+
+@item
+@strong{Sync Direction}: Although ASynK is designed to be a two way sync, you
+might be interested in setting up certain profiles to sync in only one
+direction - i.e. new entries and updates to existing entries will only flow in
+one direction. This can be specified at the time of profile creation and also
+be specified for every sync operation. If it is a one way sync, currently the
+flow will be from db1 to db2 (i.e. the first db in the profile to the second
+db). Note: This has to be fixed.
+@cindex sync direction
+@end enumerate
+
+@cindex sync profile
+
+@node Using ASynK, Customization, Concepts, Top
+@chapter Using ASynK
+
+Recent releases of ASynK (v0.2.0+) only support a command line user interface
+- even on Windows. Once you have your platform-specific dependencies
+installed, there is no difference at all in the way ASynK is invoked on any
+platform.
+
+There are plans to develop a browser-based GUI, but work on that has
+not started yet.
+
+@section Invoking Help
+As of the latest version, only a command line interface is available. There
+are plans to provide a browser based UI at a later stage.
+
+To run ASynK, change to the root of the downloaded ASynK directory, and type
+@command{python asynk.py -h} to get a detailed help screen as show below. In
+the following sections we look at each of the flags and options in detail (in
+time, of course).
+@verbatim
+Cardassia:Gout sriramkarra$ python asynk.py -h
+usage: asynk.py [-h] [--dry-run]
+                [--op {list-folders,create-folder,create-store,show-folder,
+                       del-folder,list-profiles,create-profile,show-profile,
+                       del-profile,sync,startweb,clear-sync-artifacts}]
+                [--db {bb,gc,ol} [{bb,gc,ol} ...]] [--store STORE [STORE ...]]
+                [--folder FOLDER [FOLDER ...]] [--item ITEM] [--name NAME]
+                [--direction {1way,2way}] [--label-regex LABEL_REGEX]
+                [--conflict-resolve CONFLICT_RESOLVE] [--pwd PWD]
+                [--port PORT] [--log {debug,info,error,critical}] [--version]
+
+ASynK: PIM Awesome Sync by Karra
+
+optional arguments:
+  -h, --help            show this help message and exit
+  --dry-run             Do not sync, but merely show what will happen if a
+                        sync is performed.
+  --op {list-folders,create-folder,create-store,show-folder,del-folder,
+        list-profiles,create-profile,show-profile,del-profile,sync,startweb,
+        clear-sync-artifacts}
+                        Specific management operation to be performed.
+  --db {bb,gc,ol} [{bb,gc,ol} ...]
+                        DB IDs required for most actions. Some actions need
+                        two DB IDs - do it with two --db flags. When doing so
+                        remember that order might be important for certain
+                        operations.
+  --store STORE [STORE ...]
+                        Specifies store ID(s) to be operated on.
+  --folder FOLDER [FOLDER ...]
+                        For operations that need folder ids, this option
+                        specifies them. More than one can be specified
+                        separated by spaces
+  --item ITEM           For Item operations specify the ID of the Item to
+                        operate on.
+  --name NAME           For profile operations, specifies profile name. For
+                        Folder operations, specifies folder name
+  --direction {1way,2way}
+                        Specifies whether a sync has to be unidirectional or
+                        bidirectional. Defaults to bidirectional sync, i.e.
+                        "2way"
+  --label-regex LABEL_REGEX
+                        A regular expression for sync artification to be
+                        cleared from specified folder. This is to be used
+                        independently of any sync profile.
+  --conflict-resolve CONFLICT_RESOLVE
+                        Specifies how to deal with conflicts in case of a
+                        bidirectional sync and an item is modified in both
+                        places. value should be one of the two dbids that are
+                        already specified.
+  --log {debug,info,error,critical}
+                        Specify level of logging.
+  --version             show program's version number and exit
+
+Google Authentication:
+  --pwd PWD             Google password. Relevant only if --db=gc is used. If
+                        this option is not specified, user is prompted
+                        password from stdin
+@end verbatim
+
+TODO: Detailed documentation on what each of the above flags mean, etc.
+
+@node Customization, Recipes, Using ASynK, Top
+@chapter Customization
+
+ASynK differentiates between application configuration and application
+state. Configuration is user-facing key-value information, and something that
+a user does not typically change in the middle of a run. Configuration tells
+ASynK what to sync, where to put log files, etc.
+
+Application state, on the other hand, is not meant to be modified directly by
+the user. It is used internally by the program to manage various things about
+the sync, etc.
+
+In this section we only talk about application configuration. The application
+state is explained in more detail in the @ref{Internals, Internals}, section.
+
+@section @kbd{config.json}
+
+The entire application configuration is stored as a JSON file, the default of
+which is available as config.json in in the root directory of the
+application. It has copious comments and explanation of its various fields, so
+we will only list the main configurable parameters here, and will just point
+you to the source to find out more.
+
+The first time you run ASynK, a copy of the config file is made to ~/.asynk
+(which is the default per-user asynk config directory), or to a directory
+specified with the @kbd{--user-dir} command line option.
+
+It is important to note at the outset that the only way these parameters can
+be configured is by hand - you need to edit the ~/.asynk/config.json file. The
+changes will be read and processed in the next run. In future we have plans of
+implementing a html/browser interface, when we will support editing these
+through that same interface so we can finally bid goodbye to mucking with json
+files.
+
+@enumerate
+@item
+Location of directory containing logs. This should the name of a directory
+relative to the ASynK user directory, which is ~/.asynk/ by default.
+@cindex logging
+
+@item
+The prefix and separator to use for the ASynK sync tags/labels.
+
+@item
+Default values for newly created profile, like sync direction, etc.
+
+@item
+DB specific configuration. There are many instances where the capabilities of
+one PIM DB does no match another's. If care is not take to bridge this gap,
+synching back and forth could lead to loss of information. ASynK is designed
+to ensure this does not happen, and we try very hard.
+
+Bridging this gap sometimes means taking a call on how to handle a particular
+situation. We have tried to make these essentially arbitrary calls
+configurable so interested users can tweak this to their liking.
+
+@enumerate
+@item
+Outlook
+
+@enumerate
+@item
+@emph{The fields to be synched}: Outlook has a gazillion properties, many of them
+seemingly redundant. We have identified a subset of the really relevant ones
+here, and you can add or remove stuff you want or don't want.
+
+@item
+@emph{Email classification by domains}: Outlook does not really classify email
+addresses into Work, Home, Other etc. like Google does. Here you can tell
+ASynK how to do that based on the email addresses.
+@end enumerate
+
+@item
+BBDB
+
+@enumerate
+@item
+Location of directory containing backup of BBDB stores. This should the name
+of a directory relative to the asynk user directory, which is ~/.asynk/ by
+default. 
+@cindex Backup BBDB
+
+@item
+@emph{Text Encodings}: The list of text encodings that you want ASynK to try
+while attempting to read your BBDB
+
+@item
+@emph{Email classification by domains}: Same as explained for Outlook
+
+@item
+@emph{Postal address map}: Same as above, except that this is for postal
+addresses.
+
+@item
+@emph{Phones map}: Ditto, for phones
+
+@item
+@emph{Notes map}: BBDB really is really flexible, to the point that very
+basic fields are not standardized. There is no date of birth, middle name, web
+url, gender, and similar fields. However one can always have such data as a
+user-defined field. This map allows the mapping from a bbdb field name to one
+of the standard fields.
+@end enumerate
+
+@item
+Google Contacts
+
+@enumerate
+@item
+@emph{Postal Map}Google's address system is interesting - a user can either
+have a standard category, or a user defined label. A generic user defined
+label has the same problem as with others - it is hard to classify. So we need
+a map for Google as well.
+@end enumerate
+@end enumerate
+
+Note that your sync field customizations for all the databases should be
+consistent, otherwise there would be information loss as you sync your
+contacts around.
+@end enumerate
+
+@node Recipes, Internals, Customization, Top
+@chapter Recipes
+
+Note to Self: This section ideally should only give examples without really
+explaining the options, constraints  etc. in depth - that should be done in
+the previous section on ``Using ASynK'' where the complete documentation for
+every flag in the system will be documented, and will the authoritative single
+reference for such things. This will entail some reorg of the doc content and
+much additional content as well...
+
+The easiest way to get used to AsynK is to look at some examples. This chapter
+contains some of the simplest use cases. You can refer to section @ref{Using
+ASynK, Using ASynK}, for detailed documentation on each flag, legal and
+illegal options, etc.
+
+@section Basic Usage: using the default sync profiles
+@kbd{$ python asynk.py --op=sync [--dry-run] [--log=debug]}
+
+The most common use case is to sync your ~/.bbdb file with google contacts or
+your default outlook contacts folder with google contacts. ASynK comes
+preconfigured to easily do those "out of the box".
+
+When you run the above mentioned command on a windows box a default profile
+called @kbd{defgcol} kicks in and your outlook/google contacts are synched
+up. On any non-windows platform, your ~/.bbdb is attempted to be synched to
+google contacts. You are promoted on the terminal for a username and a
+password. The username is cached by ASynK and you will not be promoted for
+subsequent runs. Your password is never stored, and you will be promoted for
+it every time you run ASynK.
+
+If you want to select your bbdb file, or google contacts group to sync to,  or
+set up additional sync profiles you should read through the following
+sections, or if you are feeling particularly adventurous, edit the file
+~/.asynk/state.json (definitely not recommended for a first time user, though)
+
+@section Explore Folders and Create Synk Profile
+@enumerate
+@item
+Determine the PIMDBs you want to sync - i.e. select two from @kbd{bb},
+@kbd{gc}, and @kbd{ol}
+
+@item
+Determine the Message Stores you want to sync - remember that for Google, a
+message store is an account with login credentials, for Outlook it maps to an
+Outlook MessageStore (IDs are obtained from a @kbd{--op=list-folders} command
+shown below), and for BBDB it is a file - specified by a filename. The Stores
+are specified with the @kbd{--store=<storeid, storeid>} option.
+
+@item
+List the folders you have in your Message Stores to identify the folders that
+actually contain the Items you want to synchronize.
+@verbatim
+Cardassia:Gout sriramkarra$ python asynk.py --op=list-folders --db gc --store karra.etc < login.auth
+[18:08:08.216     INFO] Debug logging to file: /Users/sriramkarra/stuff/code/python/Gout/logs/asynk_logs.2012-05-09.18-08-08.216602
+[18:08:08.572     INFO] Logging into Google...
+[18:08:10.603     INFO] Listing all folders in PIMDB gc...
+[18:08:11.797     INFO]   0: Contacts Name: System Group: My Contacts ID: http://www.google.com/m8/feeds/groups/karra.etc%40gmail.com/base/6
+[18:08:11.797     INFO]   1: Contacts Name: System Group: Friends     ID: http://www.google.com/m8/feeds/groups/karra.etc%40gmail.com/base/d
+[18:08:11.797     INFO]   2: Contacts Name: System Group: Family      ID: http://www.google.com/m8/feeds/groups/karra.etc%40gmail.com/base/e
+[18:08:11.797     INFO]   3: Contacts Name: System Group: Coworkers   ID: http://www.google.com/m8/feeds/groups/karra.etc%40gmail.com/base/f
+[18:08:11.797     INFO]   4: Contacts Name: TestBB                    ID: http://www.google.com/m8/feeds/groups/karra.etc%40gmail.com/base/2fae451c0fe771d5
+[18:08:11.797     INFO]   5: Contacts Name: Gout                      ID: http://www.google.com/m8/feeds/groups/karra.etc%40gmail.com/base/41baff770f898d85
+[18:08:11.798     INFO]   6: Contacts Name: Starred in Android        ID: http://www.google.com/m8/feeds/groups/karra.etc%40gmail.com/base/5254f4a808c5e7d8
+[18:08:11.798     INFO] Listing all folders in PIMDB gc...done
+@end verbatim
+
+The output should be self explanatory. The group ID is the full URI in the
+last column of output. A few things to note:
+
+@enumerate
+@item
+For a google sync profile operation, if a --store option is skipped, the user
+is prompted for a username and password from stdin. If a --store option is
+given on the command line, it is used as the login name and only the password
+is prompted for.
+
+@item
+In the above example, we have stored the password (in plain text) in a file
+called ``login.auth'' and piping it to ASynK.
+@end enumerate
+@verbatim
+Cardassia:Gout sriramkarra$ python asynk.py --op=list-folders --db bb --store test/bbdb.utah.ver7
+[18:27:07.147     INFO] Debug logging to file: /Users/sriramkarra/stuff/code/python/Gout/logs/asynk_logs.2012-05-09.18-27-07.147160
+[18:27:07.149     INFO] Parsing BBDB file /Users/sriramkarra/stuff/code/python/Gout/test/bbdb.utah.ver7...
+[18:27:07.396     INFO] Successfully parsed 338 entries.
+[18:27:07.396     INFO] Listing all folders in PIMDB bb...
+[18:27:07.396     INFO]   1: Contacts.	Name: default;	GID: default;	
+[18:27:07.396     INFO] Listing all folders in PIMDB bb...done
+@end verbatim
+
+Here we passed the relative path of a BBDB file to list-folders. Recall that
+for BBBD the message store is the full BBDB file. In this instance the store
+is a typical BBDB database file where no contacts have the @kbd{folder} notes
+field, hence all of them are put in the ``default'' folder. Note how the name
+and ID of the folder are the same.
+@verbatim
+TODO: Insert a sample Outlook list-folders
+@end verbatim
+
+@cindex Folder listing
+@cindex BBDB, listing folders
+
+@item
+Optionally you would like to create a folder in one of the Message Stores to
+hold your synchronized contacts. While you can create new folders in the
+native UI of Google Contacts or Outlook and use them with ASynK, we just
+provide a convenience option of creating one from the command line.
+@verbatim
+Cardassia:Gout sriramkarra$ python asynk.py --op create-folder --name 'Demo' --db gc --store karra.etc@gmail.com < login.auth
+[22:30:00.827     INFO] Debug logging to file: /Users/sriramkarra/stuff/code/python/Gout/logs/asynk_logs.2012-05-12.22-30-00.827089
+[22:30:00.829     INFO] Logging into Google...
+[22:30:02.871     INFO] Successfully created group. ID: http://www.google.com/m8/feeds/groups/karra.etc%40gmail.com/base/6c2034580ea2ac15
+
+Cardassia:Gout sriramkarra$ python asynk.py --op=list-folders --db gc --store karra.etc < login.auth
+[22:30:08.870     INFO] Debug logging to file: /Users/sriramkarra/stuff/code/python/Gout/logs/asynk_logs.2012-05-12.22-30-08.870610
+[22:30:08.872     INFO] Logging into Google...
+[22:30:09.899     INFO] Listing all folders in PIMDB gc...
+[22:30:10.331     INFO]   0: Contacts Name: System Group: My Contacts ID: http://www.google.com/m8/feeds/groups/karra.etc%40gmail.com/base/6
+[22:30:10.332     INFO]   1: Contacts Name: System Group: Friends     ID: http://www.google.com/m8/feeds/groups/karra.etc%40gmail.com/base/d
+[22:30:10.332     INFO]   2: Contacts Name: System Group: Family      ID: http://www.google.com/m8/feeds/groups/karra.etc%40gmail.com/base/e
+[22:30:10.332     INFO]   3: Contacts Name: System Group: Coworkers   ID: http://www.google.com/m8/feeds/groups/karra.etc%40gmail.com/base/f
+[22:30:10.332     INFO]   4: Contacts Name: TestBB                    ID: http://www.google.com/m8/feeds/groups/karra.etc%40gmail.com/base/2fae451c0fe771d5
+[22:30:10.332     INFO]   5: Contacts Name: Gout                      ID: http://www.google.com/m8/feeds/groups/karra.etc%40gmail.com/base/41baff770f898d85
+[22:30:10.333     INFO]   6: Contacts Name: Starred in Android        ID: http://www.google.com/m8/feeds/groups/karra.etc%40gmail.com/base/5254f4a808c5e7d8
+[22:30:10.333     INFO]   7: Contacts Name: Demo                      ID: http://www.google.com/m8/feeds/groups/karra.etc%40gmail.com/base/6c2034580ea2ac15
+[22:30:10.333     INFO]   8: Contacts Name: For Testing OLGC          ID: http://www.google.com/m8/feeds/groups/karra.etc%40gmail.com/base/727ac1f9891121f7
+@end verbatim
+
+As we can see, the new folder has been created successfully.
+
+@item
+List your sync profiles. When you first start out, there is only a dummy sync
+profile, whose only purpose for existence is so you can do a list-profiles
+with your shiny new ASynK download :-) So let's do it.
+@verbatim
+Creating default state.json to hold application status
+[22:35:00.058     INFO] Debug logging to file: /Users/sriramkarra/stuff/code/python/ASynK/logs/asynk_logs.2012-05-12.22-35-00.058672
+[22:35:00.060     INFO] 
+[22:35:00.060     INFO] *** Profile   : sample ***
+[22:35:00.061     INFO]   Collection 1: 
+[22:35:00.061     INFO]     DB ID     : gc
+[22:35:00.061     INFO]     Store ID  : karra.etc@gmail.com
+[22:35:00.061     INFO]     Folder ID : http://www.google.com/m8/feeds/groups/karra.etc%40gmail.com/base/2fae451c0fe771d5
+[22:35:00.062     INFO]   Collection 2: 
+[22:35:00.062     INFO]     DB ID     : bb
+[22:35:00.062     INFO]     Store ID  : test/bbdb.utah.ver7
+[22:35:00.062     INFO]     Folder ID : default
+[22:35:00.062     INFO]   sync_start  : 1980-01-01T00:00:00.00+00:00
+[22:35:00.062     INFO]   sync_stop   : 1980-01-01T00:00:00.00+00:00
+[22:35:00.063     INFO]   sync_dir    : SYNC2WAY
+[22:35:00.063     INFO]   confl_res   : gc
+[22:35:00.063     INFO]   olgid       : 0x9001
+@end verbatim
+
+The output should be fairly self explanatory. The sample profile is between a
+GC folder and the default folder in a specific BBDB store. It also specifies
+that the sync should be two way, and You do not have to
+understand what ``olgid'' means. This is
+
+@item
+You would create up a sync profile that specifies the various details ASynK needs
+to know to perform a sync. (See section ASynK Profile). From here on
+your regular sync is done through a reference to the profile name, and you do
+not have to type out all the confusing IDs etc. every time.
+@verbatim
+Cardassia:Gout sriramkarra$ python asynk.py --op=create-profile --db gc bb  \
+--folder 'http://www.google.com/m8/feeds/groups/karra.etc%40gmail.com/base/2fae451c0fe771d5' \
+'default' --store karra.etc 'test/bbdb.olbb' --name etcbb3
+[00:33:39.347     INFO] Debug logging to file: /Users/sriramkarra/stuff/code/python/Gout/logs/asynk_logs.2012-05-13.00-33-39.347515
+[00:33:39.373     INFO] Successfully added profile: etcbb3
+@end verbatim
+
+The @kbd{--op=create-profile} operation takes two dbids, two store ids and two
+folder ids. The command line is quite a handful, but you should not have to
+repeat this operation too often. It is worth noting the following about the
+options passed:
+
+@itemize
+@item
+The order of values for the @kbd{--db}, @kbd{--store} and @kbd{--folder}
+options is important and should be consistent - i.e. the first value from each
+of these three will be used as one collection, and second values are used as 
+
+@item
+If "gc" is one of the dbids, and store id is missing, it will be picked up
+from stdin. 
+
+@item
+If BBDB is one of the dbids and folder id is missing it is assumed
+to be the default folder. 
+
+@item
+If ol is one of the dbids and the store id is missing, we use the default
+message store in the default profile
+@end itemize
+@verbatim
+Cardassia:Gout sriramkarra$ python asynk.py --op=list-profiles
+[00:34:44.785     INFO] Debug logging to file: /Users/sriramkarra/stuff/code/python/Gout/logs/asynk_logs.2012-05-13.00-34-44.785442
+[00:34:44.787     INFO] 
+[00:34:44.790     INFO] *** Profile   : etcbb3 ***
+[00:34:44.790     INFO]   Collection 1: 
+[00:34:44.790     INFO]     DB ID     : gc
+[00:34:44.790     INFO]     Store ID  : karra.etc
+[00:34:44.790     INFO]     Folder ID : http://www.google.com/m8/feeds/groups/karra.etc%40gmail.com/base/2fae451c0fe771d5
+[00:34:44.791     INFO]   Collection 2: 
+[00:34:44.791     INFO]     DB ID     : bb
+[00:34:44.791     INFO]     Store ID  : test/bbdb.olbb
+[00:34:44.791     INFO]     Folder ID : default
+[00:34:44.791     INFO]   sync_start  : 1980-01-01T00:00:00.00+00:00
+[00:34:44.791     INFO]   sync_stop   : 1980-01-01T00:00:00.00+00:00
+[00:34:44.791     INFO]   sync_dir    : SYNC2WAY
+[00:34:44.791     INFO]   confl_res   : gc
+[00:34:44.791     INFO]   olgid       : 0x0
+[00:34:44.792     INFO] 
+[00:34:44.792     INFO] *** Profile   : sample ***
+[00:34:44.792     INFO]   Collection 1: 
+[00:34:44.792     INFO]     DB ID     : gc
+[00:34:44.792     INFO]     Store ID  : karra.etc@gmail.com
+[00:34:44.792     INFO]     Folder ID : http://www.google.com/m8/feeds/groups/karra.etc%40gmail.com/base/3b83f70e88fa08bd
+[00:34:44.792     INFO]   Collection 2: 
+[00:34:44.792     INFO]     DB ID     : ol
+[00:34:44.792     INFO]     Store ID  : None
+[00:34:44.792     INFO]     Folder ID : AAAAADWE5+lnNclLmn8GpZUD04eCRRoA
+[00:34:44.792     INFO]   sync_start  : 1980-01-01T00:00:00.00+00:00
+[00:34:44.793     INFO]   sync_stop   : 1980-01-01T00:00:00.00+00:00
+[00:34:44.793     INFO]   sync_dir    : SYNC2WAY
+[00:34:44.793     INFO]   confl_res   : gc
+[00:34:44.793     INFO]   olgid       : 0x9001
+@end verbatim
+
+And as we can confirm the new profile is now set up and available for
+use. Please note that there is not much error checking at the time of profile
+creation. For e.g. it is the user's responsibility to ensure there is a
+specified folder and store in a given pimdb, etc. If there are any errors,
+they will show up in subsequent sync operations.
+
+@end enumerate
+
+@section Sync Actions and Related Cleanup
+@enumerate
+@item
+Perform a ``dry run'' to get a sense of how many contacts are going to get
+copied from where to where.
+@verbatim
+Cardassia:Gout sriramkarra$ python asynk.py --op=sync --dry-run --name etcbb2 < login.auth
+[00:53:10.643     INFO] Debug logging to file: /Users/sriramkarra/stuff/code/python/Gout/logs/asynk_logs.2012-05-13.00-53-10.643187
+[00:53:10.648     INFO] Logging into Google...
+[00:53:12.143     INFO] Parsing BBDB file /Users/sriramkarra/stuff/code/python/Gout/test/bbdb.utah.ver7...
+Password: [00:53:12.291     INFO] Successfully parsed 338 entries.
+[00:53:12.291     INFO] BBDB database not backed up for dry run
+[00:53:12.292     INFO] Last synk for profile etcbb2 was at: 2012-05-11T11:01:56.57Z
+[00:53:12.292     INFO] Querying Google for status of Contact Entries...
+[00:53:13.157     INFO] Response received from Google. Processing...
+[00:53:13.157     INFO] No entries in feed.
+[00:53:13.159     INFO] ==== gc =====
+[00:53:13.160     INFO]    New              :     0
+[00:53:13.160     INFO]    Modified         :     0
+[00:53:13.160     INFO]    Unchanged        :     0
+[00:53:13.160     INFO]                       =====
+[00:53:13.160     INFO]    Total Entries    :     0
+[00:53:13.160     INFO]    Deleted          :     0
+[00:53:13.160     INFO] ==== bb =====
+[00:53:13.161     INFO]    New              :     0
+[00:53:13.161     INFO]    Modified         :     0
+[00:53:13.161     INFO]    Unchanged        :   338
+[00:53:13.161     INFO]                       =====
+[00:53:13.161     INFO]    Total Entries    :   338
+[00:53:13.161     INFO]    Deleted          :     0
+[00:53:13.161     INFO] Number of entries modified both places (conflicts): 0
+[00:53:13.162     INFO] conflict resolve direction : bb. db1id: gc, db2id: bb
+[00:53:13.162     INFO] After conflict resolution, size of gc mod :     0
+[00:53:13.162     INFO] After conflict resolution, size of bb mod :     0
+@end verbatim
+
+It's not technically a complete dry run. For now we just get a summary of
+stats of what will happen during a proper sync. In the above run we see that
+there are no new entries or modifications at either end. Essentially if you
+perform a sync now, no entries need to be copied from anywhere to anywhere.
+
+Let's see one more example, this time with a sync profile containing an
+Outlook folder.
+@verbatim
+Z:\Gout>python asynk.py --op=sync --name realolbb --dry-run
+[11:26:33.790     INFO] Debug logging to file: Z:\Gout\logs\asynk_logs.2012-05-13.11-26-33.791000
+[11:26:33.868     INFO] Parsing BBDB file Z:\Gout\test/bbdb.olbb...
+[11:26:33.930     INFO] Successfully parsed 0 entries.
+[11:26:33.930     INFO] Initalizing MAPI...
+[11:26:34.368     INFO] Initalizing MAPI...done
+[11:26:34.368     INFO] Opening default profile in MAPI...
+[11:26:34.476     INFO] Opening default profile in MAPI...done
+[11:26:34.789     INFO] Looking for PIM folders in message store: Personal Folders...
+[11:26:34.805     INFO] Appointments not supported. Ignoring.
+[11:26:34.944     INFO] Looking for PIM folders in message store: Personal Folders...done
+[11:26:35.256     INFO] Looking for PIM folders in message store: Master Task List...
+[11:26:35.273     INFO] Appointments not supported. Ignoring.
+[11:26:35.273     INFO] Appointments not supported. Ignoring.
+[11:26:35.647     INFO] Looking for PIM folders in message store: Master Task List...done
+[11:26:37.674     INFO] BBDB database not backed up for dry run
+[11:26:37.690     INFO] Last synk for profile realolbb was at: 2012-05-12T02:38:08.34Z
+[11:26:37.690     INFO] Querying MAPI for status of Contact Entries
+[11:26:37.706     INFO] Data obtained from MAPI. Processing...
+[11:26:37.706     INFO] ==== bb =====
+[11:26:37.706     INFO]    New              :     0
+[11:26:37.706     INFO]    Modified         :     0
+[11:26:37.706     INFO]    Unchanged        :     0
+[11:26:37.706     INFO]                       =====
+[11:26:37.706     INFO]    Total Entries    :     0
+[11:26:37.706     INFO]    Deleted          :     0
+[11:26:37.706     INFO] ==== ol =====
+[11:26:37.706     INFO]    New              :     2
+[11:26:37.706     INFO]    Modified         :     0
+[11:26:37.706     INFO]    Unchanged        :     0
+[11:26:37.721     INFO]                       =====
+[11:26:37.721     INFO]    Total Entries    :     2
+[11:26:37.721     INFO]    Deleted          :     0
+[11:26:37.721     INFO] Number of entries modified both places (conflicts): 0
+[11:26:37.721     INFO] conflict resolve direction : bb. db1id: bb, db2id: ol
+[11:26:37.721     INFO] After conflict resolution, size of bb mod :     0
+[11:26:37.721     INFO] After conflict resolution, size of ol mod :     0
+@end verbatim
+
+@cindex Dry run
+
+@item
+Perform the actual sync. Note that we do not provide a @kbd{--name} argument
+to specify the profile name. ASynK will remember the last profile that was
+operated on and use it in case a @kbd{--name} is not explicitly specified.
+@verbatim
+Z:\Gout>python asynk.py --op=sync
+[11:26:56.769     INFO] Debug logging to file: Z:\Gout\logs\asynk_logs.2012-05-13.11-26-56.769000
+[11:26:56.769     INFO] Parsing BBDB file Z:\Gout\test/bbdb.olbb...
+[11:26:56.769     INFO] Successfully parsed 0 entries.
+[11:26:56.769     INFO] Initalizing MAPI...
+[11:26:57.144     INFO] Initalizing MAPI...done
+[11:26:57.144     INFO] Opening default profile in MAPI...
+[11:26:57.253     INFO] Opening default profile in MAPI...done
+[11:26:57.549     INFO] Looking for PIM folders in message store: Personal Folders...
+[11:26:57.579     INFO] Appointments not supported. Ignoring.
+[11:26:57.782     INFO] Looking for PIM folders in message store: Personal Folders...done
+[11:26:58.016     INFO] Looking for PIM folders in message store: Master Task List...
+[11:26:58.048     INFO] Appointments not supported. Ignoring.
+[11:26:58.063     INFO] Appointments not supported. Ignoring.
+[11:26:58.312     INFO] Looking for PIM folders in message store: Master Task List...done
+[11:27:00.591     INFO] Backedup BBDB Store (Z:\Gout\test/bbdb.olbb) to file: Z:\Gout\./backups\bbdb_backup.realolbb.2012-05-13.
+-27-00.591000
+[11:27:00.684     INFO] Last synk for profile realolbb was at: 2012-05-12T02:38:08.34Z
+[11:27:00.684     INFO] Querying MAPI for status of Contact Entries
+[11:27:00.684     INFO] Data obtained from MAPI. Processing...
+[11:27:00.684     INFO] ==== bb =====
+[11:27:00.684     INFO]    New              :     0
+[11:27:00.684     INFO]    Modified         :     0
+[11:27:00.684     INFO]    Unchanged        :     0
+[11:27:00.684     INFO]                       =====
+[11:27:00.716     INFO]    Total Entries    :     0
+[11:27:00.716     INFO]    Deleted          :     0
+[11:27:00.716     INFO] ==== ol =====
+[11:27:00.716     INFO]    New              :     2
+[11:27:00.716     INFO]    Modified         :     0
+[11:27:00.730     INFO]    Unchanged        :     0
+[11:27:00.730     INFO]                       =====
+[11:27:00.730     INFO]    Total Entries    :     2
+[11:27:00.730     INFO]    Deleted          :     0
+[11:27:00.730     INFO] Number of entries modified both places (conflicts): 0
+[11:27:00.730     INFO] conflict resolve direction : bb. db1id: bb, db2id: ol
+[11:27:00.730     INFO] After conflict resolution, size of bb mod :     0
+[11:27:00.730     INFO] After conflict resolution, size of ol mod :     0
+[11:27:00.730     INFO] =====================================================
+[11:27:00.730     INFO]    Sending New bb entries to ol
+[11:27:00.730     INFO] =====================================================
+[11:27:00.730     INFO] No new entries that need to be synched
+[11:27:00.730     INFO] =====================================================
+[11:27:00.730     INFO]    Sending Modified bb entries to ol
+[11:27:00.746     INFO] =====================================================
+[11:27:00.746     INFO] No modified entries that need to be synched
+[11:27:00.746     INFO] =====================================================
+[11:27:00.746     INFO]    Sending New ol entries to bb
+[11:27:00.746     INFO] =====================================================
+[11:27:00.746     INFO] 2 new entries to be synched.
+[11:27:00.809     INFO] Saving BBDB File Z:\Gout\test/bbdb.olbb...
+[11:27:00.809     INFO] =====================================================
+[11:27:00.996     INFO]    Sending Modified ol entries to bb
+[11:27:00.996     INFO] =====================================================
+[11:27:00.996     INFO] No modified entries that need to be synched
+@end verbatim
+
+We see that the output from a dry-run operation is repeated, and then the
+actual two way sync happens. Note the following:
+
+@enumerate
+@item
+The BBDB file is backed up before any modifications are made. The location is
+echoed to the console as an INFO message. It is also captured in a log file as
+noted.
+
+@item
+If there are *any* errors during a sync operation, the timestamps are not
+updated, however some of the database entries may well have been made
+persistent, and it is not possible to roll back. In database terms, ASynK does
+not do transactional writes and roll backs. This could create problems if
+there are too many failures. It's a lot of work to change this behaviour. So
+let's study the problem in the field and take a call on how to tackle it.
+@end enumerate
+
+@end enumerate
+
+@section Misc Housekeeping Activities
+@enumerate
+@item
+@emph{Clear Sync Flags from Contact Entries}. Recall that ASynK stores some
+tracking information (such as the contact's IDs in other remote folders) as
+custom user fields. These custom fields are readily viewable and editable in Google
+Contacts and BBDB, and as you can manually edit or delete them on a per
+contact basis, if you so desire (although it is most definitely @emph{not
+recommended)}. MS Outlook, on the other hand, does not provide any reasonable
+way to view or manipulate these fields.
+
+ASynK provides an automated way to clear out sync related tags from a
+specified folder. It is best explained through a few examples. But before you
+should know that ASynK tracks IDs using properties with labels like:
+``asynk:profile:ol''. There are three parts separated by a colon. The first
+part is always @kbd{asynk}. The middle portion is the name of the profile. The
+last portion is the PIMDB ID in whose ID we are tracking.
+
+The @kbd{--op=clear-sync-artifacts} operation takes a dbid (mandatory), a
+storeid and a folderid. If the storeid or folderid are missing ASynK tries to
+use defaults or query the user as per conventions explained earlier (TODO:
+insert ref). The final argument is the most interesting: it is a regular
+expression to match against the custom properties of contacts in the specified
+folder.
+@verbatim
+Z:\Gout>python asynk.py --op=clear-sync-artifacts --db bb --store test/bbdb.olbb --label-re="asynk:realobb"
+[10:59:05.456     INFO] Debug logging to file: Z:\Gout\logs\asynk_logs.2012-05-13.10-59-05.456000
+[10:59:05.456     INFO] Parsing BBDB file Z:\Gout\test/bbdb.olbb...
+[10:59:05.456     INFO] Successfully parsed 20 entries.
+[10:59:05.470     INFO] Found 0 contacts with matching sync tag(s).
+[10:59:05.470     INFO] Saving BBDB File Z:\Gout\test/bbdb.olbb...
+@end verbatim
+
+In the above example, we try to delete any sync labels for the realolbb
+profile. The output shows that there were 20 entries in all, but nothing was
+really cleared out as there were no matches.
+@verbatim
+Z:\Gout>python asynk.py --op=clear-sync-artifacts --db ol --folder "AAAAADWE5+lnNclLmn8GpZUD04ciRhoA" --label-re="asynk:"
+[11:08:42.651     INFO] Debug logging to file: Z:\Gout\logs\asynk_logs.2012-05-13.11-08-42.652000
+[11:08:42.667     INFO] Initalizing MAPI...
+[11:08:43.134     INFO] Initalizing MAPI...done
+[11:08:43.134     INFO] Opening default profile in MAPI...
+[11:08:43.275     INFO] Opening default profile in MAPI...done
+[11:08:43.602     INFO] Looking for PIM folders in message store: Personal Folders...
+[11:08:43.618     INFO] Appointments not supported. Ignoring.
+[11:08:43.836     INFO] Looking for PIM folders in message store: Personal Folders...done
+[11:08:44.101     INFO] Looking for PIM folders in message store: Master Task List...
+[11:08:44.101     INFO] Appointments not supported. Ignoring.
+[11:08:44.118     INFO] Appointments not supported. Ignoring.
+[11:08:44.710     INFO] Looking for PIM folders in message store: Master Task List...done
+[11:08:46.957     INFO] Querying MAPI for all data needed to clear flag
+[11:08:46.957     INFO] Data obtained from MAPI. Clearing one at a time
+[11:08:47.174     INFO] Entries cleared: 2. Errors: 0; i: 2
+@end verbatim
+
+In the above example we try to clear out all the sync tags in the specified
+outlook folder. The final line of output shows us that 2 entries had ASynK
+sync tags, and they have been cleared out.
+
+@item 
+@emph{Delete a profile}
+@verbatim
+Cardassia:Gout sriramkarra$ python asynk.py --op=del-profile  \
+--name etcbb3 < login.auth
+[11:45:09.153     INFO] Debug logging to file: /Users/sriramkarra/stuff/code/python/Gout/logs/asynk_logs.2012-05-13.11-45-09.153824
+[11:45:09.191     INFO] Logging into Google...
+[11:45:10.994     INFO] Parsing BBDB file /Users/sriramkarra/stuff/code/python/Gout/test/bbdb.olbb...
+Password: [11:45:11.073     INFO] Successfully parsed 2 entries.
+[11:45:11.073     INFO] Fetching contact entries from Google for folder TestBB...
+[11:45:14.310     INFO] Clearing sync state information...
+[11:45:14.313     INFO] Found 0 contacts with matching sync tag(s). 
+[11:45:14.321     INFO] Found 0 contacts with matching sync tag(s). 
+[11:45:14.322     INFO] Saving BBDB File /Users/sriramkarra/stuff/code/python/Gout/test/bbdb.olbb...
+[11:45:14.655     INFO] Successfully deleted the profile etcbb3 from your Asynk configuration.
+@end verbatim
+
+This does two things: remove the sync artifacts from both folders in the
+profile, and if there are no errors, remove the profile itself from the
+profile list.
+
+@item
+Show a summary of Items in a given folder. Currently implemented for Google
+Contacts, this the @kbd{--op=show-folder} operation can give you a one line
+summary of all contacts in google folder.
+@verbatim
+Cardassia:Gout sriramkarra$ python asynk.py --op=show-folder --db gc \
+--store karra.etc --folder \
+"http://www.google.com/m8/feeds/groups/karra.etc%40gmail.com/base/2fae451c0fe771d5" \
+ < login.auth
+[11:43:01.339     INFO] Debug logging to file: /Users/sriramkarra/stuff/code/python/Gout/logs/asynk_logs.2012-05-13.11-43-01.339125
+[11:43:01.389     INFO] Logging into Google...
+[11:43:03.330     INFO] Contacts.	Name: TestBB;	GID: http://www.google.com/m8/feeds/groups/karra.etc%40gmail.com/base/2fae451c0fe771d5;	
+[11:43:03.330     INFO] Summary of contained Items:
+[11:43:06.318     INFO]   Name: Nicholas F. Cianfrocco    Itemid: https://www.google.com/m8/feeds/contacts/karra.etc%40gmail.com/full/86079960ff67a85
+[11:43:06.318     INFO]   Name: K. V. Krishna Kumar       Itemid: https://www.google.com/m8/feeds/contacts/karra.etc%40gmail.com/full/2ed62fa40b90b0bd
+[11:43:06.318     INFO]   Name: ASR Murthy                Itemid: https://www.google.com/m8/feeds/contacts/karra.etc%40gmail.com/full/6c856cd68dae99df
+[11:43:06.318     INFO]   Name: Ed Herring                Itemid: https://www.google.com/m8/feeds/contacts/karra.etc%40gmail.com/full/1041bce089860054
+[11:43:06.318     INFO]   Name: Parveen Kumar Patel       Itemid: https://www.google.com/m8/feeds/contacts/karra.etc%40gmail.com/full/360448d50a2c6bda
+[11:43:06.319     INFO]   Name: Ashwin M. Krishnakumar    Itemid: https://www.google.com/m8/feeds/contacts/karra.etc%40gmail.com/full/10bec2800bd7c9e7
+@end verbatim
+
+Here we get the name and Google ID of the contact for all contacts in the
+specified folder.
+
+@end enumerate
+
+@node Internals, FAQ, Recipes, Top
+@chapter Internals
+
+@section Application and Sync State database: @kbd{state.json}
+
+The profile database, and sync state is stored in a file called
+@kbd{state.json}, which is stored in ~/.asynk/ root directory of the
+application. This file does not exist in the distribution, but is created the
+very first time you run ASynK, from a file called @kbd{state.init.json} in the
+root of the ASynK source directory.
+
+@emph{Note for older ASynK users}: Before v0.3.0 ASynK could only be executed
+from the root directory of ASynK source, and the configuration files
+(state.json and config.json) were read and written there itself. Starting with
+v0.3.0 ASynK can be invoked from any directory, and it will start using
+~/.asynk/ to read and write the configuration files.
+
+If you have been using ASynK before v0.3.0 and have a state.json with your
+sync profiles and other configurations in the ASynK source directory, you can
+migrate easily by just running ASynK from its root directory once - ASynK will
+identify that you have some state and config changes, and will copy your
+versions to ~/.asynk/ so they are now available for subsequent runs from
+anywhere. Note, however, tha once copied to ~/.asynk/ only the versions
+present there will be read and written. Any changes you make to files
+elsewhere will not be noticed.
+
+@section Software Architecture
+
+More to come here
+
+@node FAQ, Copying, Internals, Top
+@chapter FAQ
+
+Here are some Frequently Ask-able Questions, along with answers.
+
+@section What's Changed between v0.1 and v0.2?
+It's almost a total rewrite. Here are main changes:
+
+@enumerate
+@item
+v0.2.0 adds support for Emacs BBDB. At this time ASynK is the only available
+working program that does bidirectional sync of BBDB to any other PIM
+database.
+
+@item
+v0.1 was designed only for MS Outlook and Google Contacts. As a result it was
+designed to run on Windows only, and there is a mandatory dependency on
+PyWin32.
+
+v0.2 works on Linux, Mac and Windows. Only if MS Outlook support is needed, a
+third party library called PyWin32 is needed.
+
+@item
+v0.1 was distributed as a packaged Windows binary and the only user interface
+was a GUI built with WxPython (required the user to install an additional
+third party library)
+
+v0.2 UI is purely command line, even on Windows.
+
+@item 
+v0.2 introduces the concept of sync profiles and folder-folder sync, which is
+much more advanced than what we had earlier. v0.1 always did a sync between the
+default contacts folder in the default message store with a newly created
+folder called Gout on google.
+
+@end enumerate
+
+@section Other Comparable Tools
+@subsection What's wrong with Google's tools?
+
+Google's tools are not as versatile as ASynK. I started work on ASynK because
+I was unhappy with the state of sync solutions for Android and MS Outlook
+(more on this later). Subsequently I added BBDB support and the made the
+application flexible enough that I can sync my contacts between BBDB and MS
+Outlook directly. Google has no tools to do that, of course. Further, the
+platform is flexible enough to add support for any number of additional PIM
+data providers.
+
+Fundamentally, Google does not have a coherent and integrated strategy for
+Personal Information Management (PIM). Contacts, Calendar, Notes and Tasks are
+unrelated products with big differences in their APIs. The Tasks program
+itself is of very limited functionality. This applies equally to Android as
+well as for the cloud products. So it is hardly surprising that they do not
+have a tightly integrated PIM sync solution for Android like Blackberry and
+Nokia's sync software with MS Outlook, say.
+
+Google does provide a few options for people who want to get data into their
+Google account from Outlook.
+
+@enumerate
+@item 
+A two-way Contacts sync tool for customers of their 'Google Apps for Business
+users'. That is to say, it is not available for regular non-paying customers
+like you and me. I haven't tried this even once.
+
+@item
+A one-way migration Contacts migration tool from MS Outlook, which only works
+if you are saying goodbye to Outlook and moving home to Android. This is not
+practical for people who use Outlook at work, but who want to use their
+contacts on Android on their phone.
+
+Even if you're willing to keep all your edits in Outlook, there are various
+other problems: 
+
+@itemize 
+@item
+It is so slow it is impractical for frequent use - migrating 1000 contacts
+took more than 10 minutes. ASynK takes roughly a tenth of that time.
+
+@item
+It is very inflexible: all contacts get dumped in your 'My Contacts' mother
+group. If you would like to neatly isolate your Outlook contacts neatly into a
+separate group, no go.
+
+@item
+Older versions of this tool had issues with extracting email addresses from
+Outlook entries - EX email addresses for those who care. Incidentally, this EX
+email address problem plagues a number of sync solutions, including an
+otherwise excellent product from TouchDown for Outlook PST.
+@end itemize
+
+@item
+A two-way Calendar sync tool that works quite well, and available for all
+users, include retail consumers. 
+
+@item
+And finally, their import from CSV. Let's just say, if you're happy with this
+option you wouldn't be reading this right now.
+@end enumerate
+
+@subsection What is wrong with tools from HTC and other vendors?
+
+These tools generally sync with MS Outlook, but are not available easily for
+generic Android users. For e.g. owners of the pure Google phones such as Nexus
+S. Further these are closed source, and adding BBDB support is, well, not
+possible.
+
+@cindex Other Sync Programs
+
+@subsection What is wrong with GoContactSync?
+
+GoContactSync (@url{http://sourceforge.net/projects/gocontactsync} is a GPL-ed
+two way sync solution between MS Outlook and Google Contacts. It has
+favourable reviews on the general internet. The drawback is it is written in
+.NET, a language I do not know and have no desire to learn at this
+time. Python was versatile enough to work on Windows and Unix, and allowed me
+to extend to a third PIM data provider (BBDB). As noted earlier, ASynK is the
+only two way sync solution for BBDB today.
+
+@cindex Other Sync Programs
+
+@node Copying, GNU FDL, FAQ, Top
+@appendix GNU AGPL
+@include agpl-3.0.texi
+
+@node GNU FDL, The Index, Copying, Top
+@appendix GNU FDL
+@include doclicense.texi
+
+@node The Index,  , GNU FDL, Top
+@unnumbered Index
+
+@printindex cp
+
+@bye

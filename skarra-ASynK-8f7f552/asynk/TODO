@@ -1,0 +1,155 @@
+-*- org -*- 
+
+Created	      : Tue Jul 12 18:45:48 IST 2011
+Last Modified : Tue Apr 03 19:19:30 IST 2012
+
+* TODO
+
+** Bugs
+
+*** ol.prep_contact_lists() only works on startup
+
+If we invoke this routine once, do some operation and then invoke it
+again, we only get zero stats. This potentially exists for the gc
+version as well.
+
+*** need to store both the self link and edit link
+
+Both of these are needed for different activities. This needs to be
+done once we are pretty sure about the changes and we can take a
+branch out to experiment this.
+
+** Features
+
+*** BBDB Support
+
+    As of April 2012, significant rewrite has happened on the f_tasks branch
+    setting the ground for supporting BBDB as a third database
+    provider. Interesting times lie ahead.
+
+*** Support more than one message store
+
+    We need to iterate and grab all the message store contents
+    
+    There could be more than one message store in the default Outlook
+    Profile. Need to be able to look into all of them for contact items.
+
+    some preliminary support is now implemented. Not really user visible.
+
+* Done
+
+** Sync tag is lost on OL side aftear a mod update from GC
+
+    Tue Apr 03 19:02:43 IST 2012
+
+    There is a problem in the way we blow up all the props and then
+    repopulate. In this approach the original synctag is lost... This needs to
+    be fixed, and as of now this is the only known bug with the sync logic.
+
+** Support more contact fields to be uploaded
+
+    More contact fields need to get synched, including: 
+
+    - IM ... done
+
+
+** Many key changes related to Gmail -> OL are missing
+
+    Thu Aug 25 18:04:31  2011
+
+    All the confusion related to the return of the TechM laptop has
+    appeared to have resulted in some 'bit rot' after all.
+
+    I just noticed today that the version on github is missing 2 key
+    pieces of the sync puzzle -> sync new gmail contacts to Outlook
+    and also sync modified gmail contacts to Outlook. These changes
+    are nowhere to be found - definitely not on the Transend. It was a
+    lot of code changeand as I remember it, was even working quite
+    well... It's a severe setback.
+
+    Approach now is to continue making the fixes to other parts of the
+    code base, and hope either the MacBook or the Scorpio will have
+    it, and in good shape. That is the hope.
+
+    Updated: Mon Oct 17 12:16:45 IST 2011
+
+    after searching far and wide I have given up on this thing, and have
+    implemented most of the stuff again. Life has to move on.
+
+** Contact.fields keeps growing in size
+
+    With every Contact object the number of fields in the array
+    appears to keep growing by 4. 
+
+    Fixed: Commit c52fd0475b6
+
+** Track contacts that are uploaded
+
+Completed: Tue Jul 12 18:43:20  2011
+
+Store the ID of the newly created entry and store it in some user
+defined field in Outlook.
+
+** Refactor to make contacts.py more object oriented
+
+The code is a mess overall. Should really have MapiMsgStore,
+MapiFolder, Message etc. type wrapper objects. It is not a pretty
+sight at the moment
+
+** Upate fields
+
+*** Address Upload
+
+   The postal address information is not getting uploaded properly. There is
+   no problem in reading it from the Outlook addressbook. There is some
+   problem in uploading it with the right schema
+
+   Fixed: 2ecb408dcd
+
+** The outlook time stamp is in UTC
+
+When comparind timestamps, the outlook last modified time we get is in
+UTC, but without a timezone notifier. We need to get the time zones
+normalized before comparison.
+
+Fixed in ol_wrapper.py:prep_lists
+
+** Sync "Other" phone details
+
+number marked as Other is not getting synched to google.
+
+** Sync Logic outline
+
+  - for each contact in outlook with gc_id:
+  
+    -- present -is he on gmail?
+    -- if not present 
+
+       --- if google says fellow has been deleted:
+       	   -- delete from outlook
+       --- else:
+       	   -- should not really happen, but we could create a new
+       	   -- contact on google and reset the gc_id in outlook
+
+    -- else (contact present):
+
+       --- if neither updated since last sync: we are done w/this chap
+
+       --- if only updtate on outlook side since last sync, sync
+           across to google
+
+       --- if only update on gmail side since last sync, sync across
+           to outlook
+
+       --- if both sides have been updated since last sync:
+
+           --- resolve direction based on config parameter
+           --- sync accordingly
+
+  - for each contact in gmail created since last sync:
+    -- copy them to outlook
+
+
+  - might require some local store of all outlook coctact entryids to
+    be able to figure out deletes in outlook to be reflected properly
+    in gmail. this we will keep for later.

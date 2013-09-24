@@ -1,0 +1,88 @@
+- Created       : Wed Aug 24 22:41:42 IST 2011
+- Last Modified : Thu Jul 05 15:22:22 IST 2012
+
+This is only a short introduction and some key points of interest. For more
+details on how to use ASynK please refer to the included documentation, or the
+official website for ASynK is at: http://karra-asynk.appspot.com You will find
+links to latest download, complete documentaiton, and other information on
+that website.
+
+* About
+
+  ASynK - Awesome Sync (by Karra), is a flexible PIM synchronization platform
+  written in Python. ASynK was earlier known as Gout. High level features
+  include:
+
+  - ASynK allows two-way sync of Contacts across any two support sources -
+    Google Contacts, Microsoft Outlook, and Emacs BBDB.
+  
+  - ASynK is the only two-way synchronization option for BBDB known to be in
+    existence today. So if you are keen to keep your BBDB content synchronized
+    with a mobile device or Outlook, look no further.
+  
+  - ASynK works on Windows, MacOS X, and Linux. Outlook synchronization
+    only works on Windows.
+  
+  - Synchronization is granular to the level of 'Folders', i.e. you can
+    synchronize one folder of Google Contacts with a Outlook folder (on
+    Windows at work, say), and another Google folder in the same account with
+    BBDB (On your Mac, say)
+  
+  - The infrastructure is there to add more database and item types
+    (i.e. tasks, notes, etc.), but currently only Contacts synchronization for
+    Google Contacts, BBDB and Outlook supported
+    
+  - It is free software, and released under the GNU AGPL (Affero GPL) version
+    3
+
+* Installation
+
+** Dependencies
+
+   - You need Python (tested with 2.7, try earlier versions at your
+     discretion; may not work with Python 3)
+
+   - If you wish to sync to Outlook you can do that only on Windows. Further
+     you will need MS Outlook installed, along with a third party python
+     library called Pywin32 from Mark Hammond
+
+   - On Debian (and likely Ubuntu) you will need the following packages:
+        sudo apt-get install python-argparse
+        
+** Building Documentation
+
+   There is no build or installation required to use the main program. You can
+   go the section on Usage in the documentation
+
+   If you wish to build the documentation from source, you can try one of the
+   following: 
+
+   - $ cd doc
+   - $ make pdf
+   - $ make 			# Builds all the targets
+   - $ make clean
+   - $ make distclean
+
+   The supported doc types are: 'pdf', 'html', 'info', 'docbook', and 'text' 
+
+   You may have to install additional programs like makeinfo, texi2html
+   etc. See the "Dependencies" section in the documentation
+
+** Usage
+
+   The recommended way to use ASynK is to first create your own 'sync profile'
+   which specifies which folders and PIM DBs you want to keep in sync. Refer
+   to the documentation for more details.
+
+   For the really impatient, ASynK comes with two default sync profiles that
+   kick in if no other profile is configured.
+   
+   $ python asynk.py --op=sync [--dry-run] [--log=debug]
+
+   If you run the above command on Windows, the entire default outlook
+   contacts folder will get synched to "My Contacts" on Google Contacts. (You
+   will be prompted for your google username and password). 
+
+   On any non-windows platform your ~/.bbdb will be synced to google.
+
+   For further usage help, try "python asynk.py -h"
