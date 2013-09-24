@@ -1,0 +1,81 @@
+body {
+    font-family: "Trebuchet MS", Trebuchet, Verdana, Arial;
+    margin-top: 20px;
+    padding-right: 20px;
+    margin-right: 20px;
+    font-size: 14px;
+    line-height: 140%;
+    background: url('/images/ricepaper.png?881083570');   
+}
+
+h1 {
+    font-family: "Trebuchet MS", Trebuchet, Verdana, Arial;
+    margin-top: 20px;
+    font-size: 26px;
+    color: #666666;
+}
+
+h2 {
+    font-family: "Trebuchet MS", Trebuchet, Verdana, Arial;
+    margin-top: 20px;
+    font-size: 20px;
+    color: #666666;
+}
+
+h3 {
+    font-family: "Trebuchet MS", Trebuchet, Verdana, Arial;
+    margin-top: 20px;
+    font-size: 15px;
+    color: #666666;
+}
+
+.content_table {
+    margin-left: 200px;
+}
+
+.command {
+    font-family: courier;
+    color: blue;
+}
+
+.copyright {
+    font-size: 90%;
+    text-align: center;
+}
+
+.toolbar {
+    font-size: 73%;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: #bbbbbb;
+}
+
+a:link {
+    color: #555555;
+    }
+
+a:visited {
+    color: #666666;
+}
+
+a:hover {
+    color: blue;
+    }
+
+a:active {
+    color: #D0D0D0;
+    }
+
+li { 
+    margin-top: 0.5em; 
+}
+
+kbd, pre.verbatim {
+    font-size: 80%;
+    font-family: courier;
+    color: blue;
+}
+
