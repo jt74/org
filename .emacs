@@ -728,9 +728,9 @@ When not restricted, skip project and sub-project tasks, habits, and project rel
 (setq org-mobile-inbox-for-pull "c:/documents and settings/leslie cayco/my documents/downloads/dropboxportableahk/dropboxportableahk/dropbox/emacs/mobileorg/flagged.org")
 
 ;; org-sync orgsync
-(add-to-list 'load-path "~/emacs/elisp/org-sync")
-(mapc 'load
-      '("org-element" "os" "os-bb" "os-github" "os-rmine" "os-rtm"))
+;(add-to-list 'load-path "~/emacs/elisp/org-sync")
+;(mapc 'load
+;      '("org-element" "os" "os-bb" "os-github" "os-rmine" "os-rtm"))
 
 ;; Enable habit tracking
 ;;(require 'org-habit)
@@ -1538,10 +1538,10 @@ When not restricted, skip project and sub-project tasks, habits, and project rel
 ;(run-at-time "24:01" nil 'bh/org-agenda-to-appt)
 
 ;;toodledo set up
-       (push "~/emacs/elisp/org-toodledo" load-path)
-       (require 'org-toodledo)
-       (setq org-toodledo-userid "td4d014eabd8a69")   ;   << *NOT* your email!
-       (setq org-toodledo-password "QHnZb5ly5heA")
+;       (push "~/emacs/elisp/org-toodledo" load-path)
+;       (require 'org-toodledo)
+;       (setq org-toodledo-userid "td4d014eabd8a69")   ;   << *NOT* your email!
+;       (setq org-toodledo-password "QHnZb5ly5heA")
     
        ;; Useful key bindings for org-mode
 ;       (add-hook 'org-mode-hook
