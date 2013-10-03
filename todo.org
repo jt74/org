@@ -1,38 +1,12 @@
-* TASKS
-  :PROPERTIES:
-  :ToodledoLastSync: 1379924132
-  :OrgToodledoVersion: 2.14
-  :ToodledoLastEdit: 1310885736
-  :ToodledoLastDelete: 1310885736
-  :END:
 #+Filetags: Personal
-** TODO [#D] add PianoBar to linux
-   :PROPERTIES:
-   :ToodledoID: 39976705
-   :ToodledoFolder: Home
-   :Hash:     6991f5fd34dfb6044acf0b6655c96dbb
-   :END:
-** TODO [#D] Research SET Navajo and APS-Buckeye
-   DEADLINE: <2010-12-17 Fri >
-   :PROPERTIES:
-   :ToodledoID: 40043333
-   :ToodledoFolder: Patriot
-   :Hash:     8d0edd95b41c9e5ebcac9a7219e82d42
-   :END:
-   M:\Patriot Solar\Business Development
-** TODO [#D] explore solar hot water heater calculator
-   :PROPERTIES:
-   :ToodledoID: 40271279
-   :ToodledoFolder: Grand Canyon
-   :Hash:     548f60d76d65cea3a25f21f9c702b246
-   :END:
-   http://www.infinitepower.org/calc_water.htm
 * Personal
   :PROPERTIES:
   :ID:       ced09886-7b30-4090-b889-a614ecf35723
   :END:
 ** Organization
    :LOGBOOK:
+   CLOCK: [2013-10-02 Wed 16:15]--[2013-10-02 Wed 16:34] =>  0:19
+   CLOCK: [2013-10-02 Wed 16:04]--[2013-10-02 Wed 16:15] =>  0:11
    CLOCK: [2013-06-24 Mon 13:56]--[2013-06-24 Mon 14:23] =>  0:27
    CLOCK: [2013-06-24 Mon 13:43]--[2013-06-24 Mon 13:56] =>  0:13
    :END:
@@ -40,10 +14,10 @@
    CLOCK_MODELINE_TOTAL: today
    ID:       eb155a82-92b2-4f25-a3c6-0304591af2f9
    END:
-** Alaska
-** Arizona
-*** rental
-** Finance
+*** House
+*** Finance
+*** Arizona
+**** rental
 * Professional
   :PROPERTIES:
   :ID:       78551b61-d0fd-4367-a016-cda3b746fa34
