@@ -21,29 +21,11 @@
   :END:
 [2013-10-02 Wed 12:44]
 [[file:~/emacs/org/todo.org::*Organization][Organization]]
-* TODO Cover letter for Conoco Phillips
-  :LOGBOOK:
-  CLOCK: [2013-10-02 Wed 12:44]--[2013-10-02 Wed 12:45] =>  0:01
-  :END:
-[2013-10-02 Wed 12:44]
-[[file:~/emacs/org/todo.org::*Organization][Organization]]
-* TODO Build fence for Woody
-[2013-10-02 Wed 12:45]
-[[file:~/emacs/org/todo.org::*Organization][Organization]]
-* TODO Register at Watermark site
-[2013-10-02 Wed 12:45]
-[[file:~/emacs/org/todo.org::*Organization][Organization]]
-* TODO figure out nntp news sources
-[2013-10-02 Wed 13:01]
-[[file:~/emacs/org/todo.org::*Organization][Organization]]
 * PHONE Mom 							      :PHONE:
   :LOGBOOK:
   CLOCK: [2013-10-02 Wed 13:05]--[2013-10-02 Wed 14:56] =>  1:51
   :END:
 [2013-10-02 Wed 13:05]
-* TODO Richard Jensen letter
-[2013-10-02 Wed 14:57]
-[[file:~/emacs/org/refile.org::*Help%20Mom%20with%20computer][Help Mom with computer]]
 * DONE set up orgmode contact sync with google
   - State "DONE"       from "NEXT"       [2013-10-02 Wed 15:57]
   :LOGBOOK:
@@ -52,9 +34,11 @@
   :END:
 [2013-10-02 Wed 15:02]
 [[bbdb:June%20Travis][June Travis]]
-* TODO Check on Phoenix rental
-[2013-10-02 Wed 16:04]
-[[file:~/emacs/org/todo.org::*Arizona][Arizona]]
-* TODO set up gnus for offline use
-[2013-10-02 Wed 16:15]
-[[file:~/emacs/org/refile.org::*Build%20fence%20for%20Woody][Build fence for Woody]]
+* DONE Order truck title from AZ
+  - mailed 10/04/13, should take 6 weeks
+  - State "DONE"       from "TODO"       [2013-10-03 Thu 03:53]
+[2013-10-03 Thu 03:16]
+[[file:~/emacs/org/todo.org]]
+* TODO forward contact info to Kurt
+[2013-10-07 Mon 10:11]
+[[file:~/emacs/org/todo.org::*Check%20on%20Phoenix%20rental][Check on Phoenix rental]]

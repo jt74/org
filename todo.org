@@ -5,6 +5,7 @@
   :END:
 ** Organization
    :LOGBOOK:
+   CLOCK: [2013-10-07 Mon 10:24]--[2013-10-07 Mon 18:07] =>  7:43
    CLOCK: [2013-10-02 Wed 16:15]--[2013-10-02 Wed 16:34] =>  0:19
    CLOCK: [2013-10-02 Wed 16:04]--[2013-10-02 Wed 16:15] =>  0:11
    CLOCK: [2013-06-24 Mon 13:56]--[2013-06-24 Mon 14:23] =>  0:27
@@ -15,14 +16,52 @@
    ID:       eb155a82-92b2-4f25-a3c6-0304591af2f9
    END:
 *** House
-*** Finance
+**** Finance
+     :LOGBOOK:
+     CLOCK: [2013-10-07 Mon 10:15]--[2013-10-07 Mon 10:22] =>  0:07
+     :END:
+**** NEXT Check on Phoenix rental
+     :LOGBOOK:
+     CLOCK: [2013-10-07 Mon 10:11]--[2013-10-07 Mon 10:14] =>  0:03
+     CLOCK: [2013-10-07 Mon 10:08]--[2013-10-07 Mon 10:11] =>  0:03
+     CLOCK: [2013-10-04 Fri 10:02]--[2013-10-07 Mon 10:08] => 72:06
+     :END:
+[2013-10-02 Wed 16:04]
+[[file:~/emacs/org/todo.org::*Arizona][Arizona]]
+**** TODO Register at Watermark site
+[2013-10-02 Wed 12:45]
+[[file:~/emacs/org/todo.org::*Organization][Organization]]
 *** Arizona
 **** rental
+** DONE set up phone with Straight Talk
+  - State "DONE"       from "NEXT"       [2013-10-04 Fri 09:56]
+  :LOGBOOK:
+  CLOCK: [2013-10-04 Fri 09:21]--[2013-10-04 Fri 09:56] =>  0:35
+  :END:
+[2013-10-04 Fri 08:57]
+** TODO figure out nntp news sources
+[2013-10-02 Wed 13:01]
+[[file:~/emacs/org/todo.org::*Organization][Organization]]
+** TODO Richard Jensen letter
+[2013-10-02 Wed 14:57]
+[[file:~/emacs/org/refile.org::*Help%20Mom%20with%20computer][Help Mom with computer]]
+** TODO set up gnus for offline use
+[2013-10-02 Wed 16:15]
+[[file:~/emacs/org/refile.org::*Build%20fence%20for%20Woody][Build fence for Woody]]
+** TODO Build fence for Woody
+[2013-10-02 Wed 12:45]
+[[file:~/emacs/org/todo.org::*Organization][Organization]]
 * Professional
   :PROPERTIES:
   :ID:       78551b61-d0fd-4367-a016-cda3b746fa34
   :END:
 ** Exam
+** TODO Cover letter for Conoco Phillips
+  :LOGBOOK:
+  CLOCK: [2013-10-02 Wed 12:44]--[2013-10-02 Wed 12:45] =>  0:01
+  :END:
+[2013-10-02 Wed 12:44]
+[[file:~/emacs/org/todo.org::*Organization][Organization]]
 * Appointments
   :LOGBOOK:
   CLOCK: [2012-11-09 Fri 08:17]--[2012-11-09 Fri 08:22] =>  0:05
