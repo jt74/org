@@ -1,36 +1,90 @@
-* MOVING DAY 
+* MOVING DAY
+  :PROPERTIES:
+  :ID:       f4fbbd48-ed60-40af-a623-9d8f9d142567
+  :END: 
   <2013-07-15 Mon 07:00>--<2013-07-15 Mon 16:00>
-* eye appt no todo c period 
+* eye appt no todo c period
+  :PROPERTIES:
+  :ID:       8b3e5971-346f-4f0e-a60e-7263d6247bd2
+  :END: 
   <2013-07-12 Fri 03:30>--<2013-07-12 Fri 04:30>
-* SC: See Matthew in SF 
+* SC: See Matthew in SF
+  :PROPERTIES:
+  :ID:       def6c226-0b3f-45c5-ba08-fe82fd3fec49
+  :END: 
   <2013-07-26 Fri 17:00>--<2013-07-27 Sat 17:00>
-* SC: Leslie SD party 
+* SC: Leslie SD party
+  :PROPERTIES:
+  :ID:       b6d62e66-50cc-4a65-818f-162fbf4f7bb7
+  :END: 
   <2013-07-20 Sat 18:00>--<2013-07-20 Sat 19:00>
-* dinner with Shields 
+* dinner with Shields
+  :PROPERTIES:
+  :ID:       c4b9f600-d348-4656-8f85-97563c434f49
+  :END: 
   <2013-07-10 Wed 18:00>--<2013-07-10 Wed 19:00>
-* eye appointment 
+* eye appointment
+  :PROPERTIES:
+  :ID:       4d77c801-f4ed-4b22-9ab9-80ae84af0cf4
+  :END: 
   <2013-07-09 Tue 11:00>--<2013-07-09 Tue 12:00>
-* 401k to Watermark 
+* 401k to Watermark
+  :PROPERTIES:
+  :ID:       1a5ea5dc-5249-45d3-acc3-f3c12e5f405d
+  :END: 
   <2013-08-28 Wed 08:00>--<2013-08-28 Wed 09:00>
-* SC: Show house 
+* SC: Show house
+  :PROPERTIES:
+  :ID:       3ce998d4-43d1-436b-8f2d-7a57d7490f63
+  :END: 
   <2013-07-11 Thu 18:00>--<2013-07-11 Thu 19:00>
-* Premier to house\, secondary visit scheduled 
+* Premier to house\, secondary visit scheduled
+  :PROPERTIES:
+  :ID:       27cbc2f2-d669-4f7c-bc1d-a1e5995970cb
+  :END: 
   <2013-07-10 Wed 13:00>--<2013-07-10 Wed 14:00>
-* SC: cancel dog hotel 
+* SC: cancel dog hotel
+  :PROPERTIES:
+  :ID:       889c72ae-d588-4b1b-8d90-24448be1dc10
+  :END: 
   <2013-06-25 Tue 17:00>--<2013-06-26 Wed 17:00>
-* Rick's carpet cleaning 
+* Rick's carpet cleaning
+  :PROPERTIES:
+  :ID:       c5f7c335-cab9-46fd-88b1-8041672f9b69
+  :END: 
   <2013-07-17 Wed 09:00>--<2013-07-17 Wed 10:00>
-* SC: car detail 
+* SC: car detail
+  :PROPERTIES:
+  :ID:       dd0d42a4-3639-4ee6-b344-e69e397c82ab
+  :END: 
   <2013-07-13 Sat 07:30>--<2013-07-13 Sat 08:30>
-* SC: Alicia\, house cleaner 
+* SC: Alicia\, house cleaner
+  :PROPERTIES:
+  :ID:       c66c3fe8-0f69-4fbf-bd3a-a8102b5c2189
+  :END: 
   <2013-07-16 Tue 07:00>--<2013-07-16 Tue 08:00>
-* SC: Eye appointment no listing 
+* SC: Eye appointment no listing
+  :PROPERTIES:
+  :ID:       85765fea-4b6a-4acb-93d9-aafdd48625b8
+  :END: 
   <2013-07-12 Fri 14:30>--<2013-07-12 Fri 15:30>
-* SC: Irving City Hall meeting with smane 
+* SC: Irving City Hall meeting with smane
+  :PROPERTIES:
+  :ID:       1122e334-a7a1-4fca-be55-3108cecb92e8
+  :END: 
   <2013-07-08 Mon 09:30>--<2013-07-08 Mon 10:30>
-* SC: two computers downstairs 
+* SC: two computers downstairs
+  :PROPERTIES:
+  :ID:       f802fee8-2996-48b5-b826-2d4a940e077e
+  :END: 
   <2013-06-25 Tue 13:00>--<2013-06-25 Tue 15:00>
-* IT how-to's [2/7] 
+* IT how-to's [2/7]
+  :PROPERTIES:
+  :ID:       a53942fd-349f-4325-8454-64e58a21756d
+  :END: 
   <2013-06-26 Wed 14:00>--<2013-06-26 Wed 17:00>
-* SC: Burnt Mtn punch walk 
+* SC: Burnt Mtn punch walk
+  :PROPERTIES:
+  :ID:       a5dae25f-cb60-4cfb-9ed2-ead28bebe03a
+  :END: 
   <2013-06-25 Tue 07:30>--<2013-06-25 Tue 12:00>

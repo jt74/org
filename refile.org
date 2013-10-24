@@ -19,11 +19,17 @@
   :LOGBOOK:
   CLOCK: [2013-10-02 Wed 13:03]--[2013-10-02 Wed 13:05] =>  0:02
   :END:
+  :PROPERTIES:
+  :ID:       dc8fad5e-214b-4c53-a411-0723205d30a3
+  :END:
 [2013-10-02 Wed 12:44]
 [[file:~/emacs/org/todo.org::*Organization][Organization]]
 * PHONE Mom 							      :PHONE:
   :LOGBOOK:
   CLOCK: [2013-10-02 Wed 13:05]--[2013-10-02 Wed 14:56] =>  1:51
+  :END:
+  :PROPERTIES:
+  :ID:       d068dbad-069e-447e-bcf7-6d33f6473913
   :END:
 [2013-10-02 Wed 13:05]
 * DONE set up orgmode contact sync with google
@@ -32,13 +38,27 @@
   CLOCK: [2013-10-02 Wed 15:03]--[2013-10-02 Wed 15:57] =>  0:54
   CLOCK: [2013-10-02 Wed 15:02]--[2013-10-02 Wed 15:03] =>  0:01
   :END:
+  :PROPERTIES:
+  :ID:       6989b2e3-2f66-4b46-b053-ef3c87dcda84
+  :END:
 [2013-10-02 Wed 15:02]
 [[bbdb:June%20Travis][June Travis]]
 * DONE Order truck title from AZ
+  :PROPERTIES:
+  :ID:       1af59766-c5b1-4672-b2c2-7a2d4ff7a6fb
+  :END:
   - mailed 10/04/13, should take 6 weeks
   - State "DONE"       from "TODO"       [2013-10-03 Thu 03:53]
 [2013-10-03 Thu 03:16]
 [[file:~/emacs/org/todo.org]]
-* TODO forward contact info to Kurt
-[2013-10-07 Mon 10:11]
-[[file:~/emacs/org/todo.org::*Check%20on%20Phoenix%20rental][Check on Phoenix rental]]
+* DONE deduct dishwasher from rent
+  - State "DONE"       from "NEXT"       [2013-10-17 Thu 17:46]
+  :LOGBOOK:
+  CLOCK: [2013-10-17 Thu 16:55]--[2013-10-17 Thu 17:46] =>  0:51
+  CLOCK: [2013-10-16 Wed 22:54]--[2013-10-16 Wed 22:55] =>  0:01
+  :END:
+  :PROPERTIES:
+  :ID:       8de41d3e-d098-4c94-ad79-7a14626b5093
+  :END:
+[2013-10-16 Wed 22:54]
+[[mu4e:msgid:399D25A924A21A4EBCE931DF116CC99D02C8D6D9C1CF@Ops-exchmail-1.ENSTAR.LAN][ENSTAR - Auto Pay]]

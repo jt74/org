@@ -1,4 +1,5 @@
 #+Filetags: Personal
+#+DRAWERS: SUMMARY
 * Personal
   :PROPERTIES:
   :ID:       ced09886-7b30-4090-b889-a614ecf35723
@@ -20,7 +21,23 @@
      :LOGBOOK:
      CLOCK: [2013-10-07 Mon 10:15]--[2013-10-07 Mon 10:22] =>  0:07
      :END:
-**** NEXT Check on Phoenix rental
+***** DONE check Capital One for AmEx payment
+      - State "DONE"       from "TODO"       [2013-10-18 Fri 13:10]
+[2013-10-17 Thu 17:46]
+[[file:~/emacs/org/refile.org::*deduct%20dishwasher%20from%20rent][deduct dishwasher from rent]]
+***** DONE Pay back Capital One acount
+      - State "DONE"       from "NEXT"       [2013-10-22 Tue 15:02]
+  [[mu4e:msgid:1.770ee0ec72cf0f0773e1@EPRDEMSOBMT04][External Withdrawal Notice]]
+  :LOGBOOK:
+  CLOCK: [2013-10-22 Tue 14:38]--[2013-10-22 Tue 15:02] =>  0:24
+  CLOCK: [2013-10-18 Fri 13:06]--[2013-10-18 Fri 13:08] =>  0:02
+  :END:
+      :PROPERTIES:
+      :ID:       7ce749c3-1165-4fec-bf8b-8b6de1589e7a
+      :END:
+[2013-10-18 Fri 13:06]
+**** DONE Check on Phoenix rental
+     - State "DONE"       from "NEXT"       [2013-10-15 Tue 17:00]
      :LOGBOOK:
      CLOCK: [2013-10-07 Mon 10:11]--[2013-10-07 Mon 10:14] =>  0:03
      CLOCK: [2013-10-07 Mon 10:08]--[2013-10-07 Mon 10:11] =>  0:03
@@ -28,40 +45,253 @@
      :END:
 [2013-10-02 Wed 16:04]
 [[file:~/emacs/org/todo.org::*Arizona][Arizona]]
+
 **** TODO Register at Watermark site
+     :PROPERTIES:
+     :ID:       190cef0f-4b7d-4faa-9306-c95221ae7ddf
+     :END:
 [2013-10-02 Wed 12:45]
 [[file:~/emacs/org/todo.org::*Organization][Organization]]
-*** Arizona
-**** rental
+**** DONE Build fence for Woody
+     - State "DONE"       from "TODO"       [2013-10-21 Mon 16:13]
+[2013-10-02 Wed 12:45]
+[[file:~/emacs/org/todo.org::*Organization][Organization]]
+**** DONE [#A] call ENSTAR
+     - State "DONE"       from "TODO"       [2013-10-17 Thu 16:55]
+[2013-10-16 Wed 19:34]
+**** TODO forward contact info to Kurt
+     :PROPERTIES:
+     :ID:       5ea0b9d4-1dcc-4ac4-8943-06924ea54d33
+     :END:
+[2013-10-07 Mon 10:11]
+[[file:~/emacs/org/todo.org::*Check%20on%20Phoenix%20rental][Check on Phoenix rental]]
 ** DONE set up phone with Straight Talk
   - State "DONE"       from "NEXT"       [2013-10-04 Fri 09:56]
   :LOGBOOK:
   CLOCK: [2013-10-04 Fri 09:21]--[2013-10-04 Fri 09:56] =>  0:35
   :END:
 [2013-10-04 Fri 08:57]
-** TODO figure out nntp news sources
-[2013-10-02 Wed 13:01]
-[[file:~/emacs/org/todo.org::*Organization][Organization]]
-** TODO Richard Jensen letter
+** DONE Richard Jensen letter
+   - State "DONE"       from "TODO"       [2013-10-14 Mon 10:39]
 [2013-10-02 Wed 14:57]
 [[file:~/emacs/org/refile.org::*Help%20Mom%20with%20computer][Help Mom with computer]]
-** TODO set up gnus for offline use
-[2013-10-02 Wed 16:15]
-[[file:~/emacs/org/refile.org::*Build%20fence%20for%20Woody][Build fence for Woody]]
-** TODO Build fence for Woody
-[2013-10-02 Wed 12:45]
-[[file:~/emacs/org/todo.org::*Organization][Organization]]
-* Professional
+* Job Hunt
   :PROPERTIES:
-  :ID:       78551b61-d0fd-4367-a016-cda3b746fa34
+  :ID:       2ebd8332-7f20-4164-988a-e87fc0ce9b75
+  :END: 
+** State of Alaska
+*** NEXT Engineering Assistant III
+:SUMMARY:
+Job Description
+
+Job #: 02531
+
+Job Title: Engineering Assistant III (PCN 25-0463)
+
+Opening Date/Time: 2013-10-16 00:00:00.0
+
+Closing Date/Time: 2013-10-28 17:00:00.0
+
+Position Open To: Alaska Residents Only
+
+Job Type: Full Time
+
+Range: 21
+
+Salary: $5,651.00/Month
+
+Department: Transportation & Public Facilities
+
+Division: Statewide Public Facilities
+
+Location: Anchorage, Alaska
+
+Bargaining Unit: General Government
+
+Print Job Information-Apply 
+Job Description Benefits Supplemental Questions
+
+
+ATTENTION ALASKA RESIDENTS ONLY!
+
+The Department of Transportation and Public Facilities (DOT&PF) Statewide Public Facilities section, is seeking an eager and professionalEngineering Assistant IIIto join our team and help usKeep Alaska Moving!
+
+This Engineering Assistant III functions as a Project Engineer under the supervision of a Senior Project Manager. This position monitors construction activity, schedule and budget; prepares paperwork and reports; and deals with contractors and stakeholders. Project values will range from $500,000 to $10,000,000+!
+
+The Engineering Assistant III may supervise subordinate project inspectors and interns on large projects. The position is based in Anchorage, however, project location will vary and temporary relocation to another community for the duration of a construction project may be required..
+
+We are looking for applicants with the following demonstrated strengths: 
+- Strong skills in Microsoft Word, Excel and Projects; 
+- Excellent communication skills, both verbal and written; 
+- Self-motivated and ability to work independently or in a group setting as required; 
+- Experience or training in reading, reviewing, understanding and interpreting building construction plans; 
+- Experience inspecting work performed by the contractor for compliance with plans and specifications; 
+- Experience inspecting for quality workmanship on building construction contracts; and 
+- Experience in negotiating construction change orders and reviewing schedules of value for progress payments.
+
+Please Note: Occasional travel in light aircraft to remote locations may be required. "Occasional" may be up to 33% of the timeandessential to the position.
+Minimum Qualifications:
+
+EngineeringAssistant III:
+Bachelor's degree with a major in engineering, architecture or land surveying from an institution accredited by ABET.
+AND
+Two years of engineering, architectural or land surveying experience of which one year was at the working or intermediate trainee level. The specific experience includes such work as an Engineering Assistant II with the State of Alaska or the equivalent elsewhere.
+
+Or:
+A bachelor's degree with a major in a branch of engineering from an institution not accredited by ABET.
+AND
+An Engineer-In-Training (EIT) certificate issued by a state or the National Council of Examiners for Engineers and Surveyors; or verification of passing the Fundamentals of Engineering (FE) examination.
+AND
+Two years of engineering, architectural or land surveying experience of which one year was at the working or intermediate trainee level. The specific experience includes such work as an Engineering Assistant II with the State of Alaska or the equivalent elsewhere.
+
+Substitutions:
+Four years of any combination of ABET accredited postsecondary education in engineering, architecture, or land surveying (3 semester/4 quarter hours equal one month) and/or engineering, architectural or land surveying experience may substitute for the required degree.
+
+Graduate study in engineering or architecture may be substituted for the required experience (2 semester/3 quarter hours equal one month).
+
+Additional Required Information:
+
+**NOTE: PLEASE READ THE FOLLOWING CAREFULLY**
+
+ALASKA RESIDENTS ONLY
+This recruitment is open to AlaskaResidents Only. ApplicantsmustmeetAlaska Residency Requirementsin order to be considered for employment at this time. Non-Alaska Residents Need Not Apply.
+
+COVER LETTER REQUIRED
+You are required to use the cover letter to write in as much detail as necessary to report on these three objectives:
+1) Provide a written response as to how you meet the Minimum Qualifications. Please describe any work experience as it relates to this position.
+2) Provide written response to support the DEMONSTRATED STRENGTHS bulleted in the Job Description.
+3) Provide a written statement on your educational background, if applicable.
+
+Your cover letter is the key to an interview for this position. If you do not provide a written response in the cover letter addressing the three objectives listed above, youWILL NOTadvance to the next step in the selection process and your application will be processed as INCOMPLETE.
+
+At the time of the interview, applicants must submit:
+1) A minimum of three references, including names and phone numbers, with knowledge of your experience and abilities for this position.
+2) A copy of academic transcripts, if applicable
+3) A complete job history/resume showing all previous employment including employer contacts (names, addresses, e-mail addresses and telephone numbers), dates of employment, and any breaks in employment, if applicable.
+
+WORK EXPERIENCE
+When utilizing work experience not already documented in your Applicant Profile, also provide the employer name, your job title, dates of employment and whether full-time or part-time within your cover letter. Applications and Resumes will be reviewed to determine if the minimum qualifications are clearly met. If they are not, the applicant may not advance to the interview and selection phase of the recruitment.
+
+EDUCATION
+If post-secondary education is required or is used as a substitution to meet the minimum qualifications, it is required to complete the Education and Training section of the Application. If you have not obtained a degree,please indicate the number of credit hours earned in the Degrees Obtained field. Copies of transcripts will be required at time of interview.
+
+SPECIAL INSTRUCTIONS FOR FOREIGN EDUCATION
+Education completed in foreign colleges or universities may be used to meet the above requirements, if applicable. If utilizing this education you must show that the education credentials have been submitted to a private organization that specializes in interpretation of foreign educational credentials and that such education has been deemed to be at least equivalent to that gained in conventional U.S. education programs; or an accredited U.S. state university reports the other institution as one whose transcript is given full value, or full value is given in subject areas applicable to the curricula at the state university. It is your responsibility to provide such evidence when applying.
+
+RECRUITMENT NOTICE
+This recruitment may be used for more than one (1) vacancy. The applicant pool acquired during this recruitment may be used for future vacancies for up to ninety days after this recruitment closes. Interested applicants are encouraged to apply to each recruitment notice to ensure consideration for all vacancies.
+
+NOTICE
+Questions regarding the application process can be directed to the Workplace Alaska hotline at 800-587-0430 (toll free) or (907) 465- 4095. If you choose to be contacted by email, please ensure your email address is correct on your application and that the spam filter will permit email from the ‘govermentjobs.com’ domains. For information on allowing emails from the ‘governmentjobs.com’ domains, visit the Lost Password Help page located athttps://www.governmentjobs.com/js_lostpswd.cfm?&topheader=alaska.
+
+EEO STATEMENT
+The State of Alaska complies with Title I of the Americans with Disabilities Act (ADA). Individuals with disabilities, who require accommodation, auxiliary aides or services, or alternative communication formats, please call 1-800-587-0430 or 465-4095 in Juneau or (907) 465-3412 (TTY) or correspond with the Division of Personnel & Labor Relations at the address above. The State of Alaska is an equal opportunity employer.
+:END:
+    :LOGBOOK:
+    CLOCK: [2013-10-21 Mon 15:17]--[2013-10-21 Mon 16:14] =>  0:57
+    :END:
+    :PROPERTIES:
+    :ID:       f017a8a5-b733-4bc6-a057-690b28870a4c
+    :END:
+** Lounsbury and Associates
+*** WAITING Civil Engineer [1/2]				    :WAITING:
+    - State "WAITING"    from "NEXT"       [2013-10-21 Mon 11:41] \\
+      Waiting for response
+    - [X] Applied <2013-10-21 Mon 11:22> by email to j.sawhill@lounsburyinc.com and via careerbuilder 
+      - [[mu4e:msgid:MAILSM4e26d87704e6e4704858bfb3c48067efb@MAILSM4][Application Received: More Jobs Like Civil Engineer]]
+    - [ ] Accepted/Denied
+    :SUMMARY:
+JOB DESCRIPTION
+
+CIVIL ENGINEER ANCHORAGE Lounsbury & Associates is seeking civil engineers. We are a general civil engineering firm with a wide variety of work, which includes preparing plans for Municipal roads, utility improvements, residential development, commercial site development, and highway design. Requires a degree in civil engineering, EIT certificate and 0-6 years experience; AutoCAD/Civil 3D proficiency is desired. We offer a competitive compensation and benefits package including health insurance, life insurance, and 401K. Resumes may be submitted in confidence to Lounsbury & Associates, 5300 A Street Anchorage, Alaska 99518 or via fax to 272-9065 or e-mail to [Click Here to Email Your Resumé]. 
+
+Source - Anchorage Daily News
+JOB REQUIREMENTS
+
+Please refer to the Job Description to view the requirements for this job
+JOB SNAPSHOT
+
+Other Pay	0
+Employment Type	Full-Time
+Job Type	Skilled Labor - Trades
+Education	Not Specified
+Experience	Not Specified
+Manages Others	No
+Relocation	No
+Industry	Industrial
+Required Travel	Not Specified
+Job ID	0000727281-01
   :END:
-** Exam
-** TODO Cover letter for Conoco Phillips
+  :LOGBOOK:
+  CLOCK: [2013-10-21 Mon 10:46]--[2013-10-21 Mon 15:17] =>  4:31
+  CLOCK: [2013-10-21 Mon 10:43]--[2013-10-21 Mon 10:45] =>  0:02
+  :END:
+    :PROPERTIES:
+    :ID:       18a721c7-9f52-4ce7-ac8d-78f54d39287d
+    :END:
+[2013-10-21 Mon 10:43]
+[[mu4e:msgid:CAL6osqgUR1WjVPxzE9R5tU72oua3dQ33DW9NHK_VquGCx1_n1A@mail.gmail.com][No subject]]
+** ANTHC
+** Michael Baker
+   - [X] applied: [[mu4e:msgid:CAC_VOnHDO-uoN2%2B5RKQ1nP1Gof1nB2pKDiGaj0WkvpmHcReyhQ@mail.gmail.com][Fwd: Michael Baker Corporation]]
+   - [X] rejected: [[mu4e:msgid:CAC_VOnEi1Xx3zeeCBpsqOQnwv7V1MDkEkTOZX0%2Bi%3D1frt9R-Sg@mail.gmail.com][Fwd: Michael Baker Corporation]]
+*** Civil Associate II
+    Michael Baker Civil Associate II interview 
+    <2013-10-24 Thu 10:00>
+**** TODO [#A] Baker form for interview
+[[mu4e:msgid:9A86D6E5C0E0664F9572F2C83A6AD43C435A6A@DCEXMBX2.bkr.mbakercorp.com][Jared Travis_In Person Interview_Civil Associate II]]
+  :LOGBOOK:
+  CLOCK: [2013-10-22 Tue 13:59]--[2013-10-22 Tue 14:00] =>  0:01
+  :END:
+     :PROPERTIES:
+     :ID:       9077f369-c6ff-45ee-9705-7d68dd21d36f
+     :END:
+[2013-10-22 Tue 13:59]
+[[mu4e:msgid:9A86D6E5C0E0664F9572F2C83A6AD43C435A6A@DCEXMBX2.bkr.mbakercorp.com][Jared Travis_In Person Interview_Civil Associate II]]
+** Conoco Phillips
+   - [X] applied: [[mu4e:msgid:CAC_VOnFq8tOCRPnk5VZOvGs7tdwWouxvYt-A8T7DAEWMo8R3CQ@mail.gmail.com][Fwd: Alaska - Civil/Structural Engineer-00KI0 at ConocoPhillips]]
+   - [X] rejected: [[mu4e:msgid:1405089983.1329565.1382099165445.JavaMail.rcc@127.0.0.1][Alaska - Civil/Structural Engineer-00KI0 at ConocoPhillips]]
+*** Cover letter for Conoco Phillips
+   - State "DONE"       from "TODO"       [2013-10-18 Fri 13:01]
   :LOGBOOK:
   CLOCK: [2013-10-02 Wed 12:44]--[2013-10-02 Wed 12:45] =>  0:01
   :END:
 [2013-10-02 Wed 12:44]
 [[file:~/emacs/org/todo.org::*Organization][Organization]]
+* Org
+  :PROPERTIES:
+  :ID:       f3516e9e-f587-4bf6-9ecc-76abc6366c41
+  :END:
+** HOLD figure out nntp news sources			       :WAITING:HOLD:
+   - State "HOLD"       from "TODO"       [2013-10-18 Fri 17:48] \\
+     not a priority
+   :PROPERTIES:
+   :ID:       0759d5f8-e660-49a8-afc8-ed42b4e92a0c
+   :END:
+[2013-10-02 Wed 13:01]
+[[file:~/emacs/org/todo.org::*Organization][Organization]]
+** CANCELLED set up gnus for offline use			  :CANCELLED:
+   - State "CANCELLED"  from "TODO"       [2013-10-22 Tue 15:02] \\
+     using mu4e
+   :PROPERTIES:
+   :ID:       ab4865db-20af-4aa6-9f16-067bbbb95e12
+   :END:
+[2013-10-02 Wed 16:15]
+[[file:~/emacs/org/refile.org::*Build%20fence%20for%20Woody][Build fence for Woody]]
+
+*** Arizona
+**** rental
+
+** DONE set up org-mobile on thinkpad
+   - State "DONE"       from "TODO"       [2013-10-22 Tue 15:03]
+   :PROPERTIES:
+   :ID:       eda85b56-3e03-4276-9014-578b7d3b613e
+   :END:
+[2013-10-17 Thu 14:42]
+* Exam
+  :PROPERTIES:
+  :ID:       f4767929-6834-4f25-9f5c-3617c736f8e6
+  :END:
 * Appointments
   :LOGBOOK:
   CLOCK: [2012-11-09 Fri 08:17]--[2012-11-09 Fri 08:22] =>  0:05
