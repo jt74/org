@@ -232,13 +232,138 @@ Job ID	0000727281-01
 [2013-10-21 Mon 10:43]
 [[mu4e:msgid:CAL6osqgUR1WjVPxzE9R5tU72oua3dQ33DW9NHK_VquGCx1_n1A@mail.gmail.com][No subject]]
 ** ANTHC
+*** Assistant Civil Engineer - Full Time - DEHE Engineering
+    - interviewed [2013-10-24 Thu]
+:SUMMARY:
+Tracking Code
+20130636
+Job Description
+JOB SUMMARY
+Under close supervision, provides design services and coordination of sanitation and health facilities projects for the Division of Environmental Health and Engineering (DEHE).
+REPRESENTATIVE DUTIES
+Assists in project design and coordination services for the construction of sanitation and health facilities projects in rural communities. Provides assistance in preparing construction drawings and documents.
+Investigates sites, analyzes soil samples and surveying work. Collaborates with specialists and other engineers to produce construction plans. Reviews designs and specifications submitted by vendors and contractors. Assists with the development of project plan sets and engineering designs.
+Provides computer aided design for civil engineering projects.
+Researches technical specifications for material and equipment purchases. Monitors quality control and assurance programs. Provides technical support to field staff to facilitate construction. Provides technical assistance for and engineering evaluations of health and sanitation facilities. Performs other duties as assigned or required.
+Required Skills
+Knowledge of principles and practices of construction.
+Knowledge of applicable environmental health statutes, rules, regulations, ordinances, codes administrative orders and other operational guidelines and directives.
+Knowledge of the principles and practices of engineering.
+Knowledge of AutoCAD, Civil 3D, and Land Desktop.
+Skill in analyzing environmental health issues and preparing recommendations based on findings.
+Skill in assessing and prioritizing multiple tasks, projects and demands.
+Skill in design and layout of civil site design.
+Skill in effectively working with teams.
+Skill in reading and evaluating technical drawings and schematics.
+Skill in establishing and maintaining cooperative working relationships with co-workers, contractors, and representatives from village communities and state and Federal agencies.
+Skill in operating a personal computer, utilizing a variety of software applications.
+Skill in oral and written communication.
+Required Experience
+A Bachelor's degree in Civil or Environmental Engineering or related field from an Accreditation Board of Engineering and Technology (ABET) accredited university or college program.
+Travels frequently within Alaska in small fixed wing aircraft; travels outside Alaska. An Alaska driver''s license with a clean driving record is required. Must be able to lift approximately 50 pounds.  May be exposed to infectious diseases and hazardous working environments with heavy equipment and extreme weather conditions.
+Job Location
+Anchorage, Alaska, United States
+Position Type
+Full-Time/Regular
+:END:
+*** Associate Civil Engineer - Full Time - DEHE Engineering
+    - interviewed [2013-10-24 Thu]
+:SUMMARY:
+Tracking Code
+20130635
+Job Description
+JOB SUMMARY
+Under general supervision, provides design services and coordination of sanitation and health facilities projects for the Division of Environmental Health and Engineering (DEHE).
+REPRESENTATIVE DUTIES
+Provides minor design and inspection services for the construction of sanitation and health facilities projects in rural communities. Prepares construction drawings and documents.
+Works with managers to develop project scopes; collaborates with specialists and other engineers as a team member in construction document production. Investigates sites, analyzes samples and participates in surveying work.
+Reviews designs and specifications submitted by vendors and contractors and makes recommendations to project managers. Completes necessary calculations as directed. Designs project components under supervision of the Senior Engineer.
+Aids in creation of project plan sets and design sheets. Provides technical support to field staff to facilitate construction. Provides computer aided design for civil engineering projects.
+Researches technical specifications for material and equipment purchases. Writes engineering memoranda and status reports.
+Provides technical assistance and engineering evaluations for health and sanitation facilities. Identifies, researches and suggests resolution processes for emergent problems.
+Performs other duties as assigned or required.
+Required Skills
+Knowledge of principles and practices of construction.
+Knowledge of applicable environmental health statutes, rules, regulations, ordinances, codes administrative orders and other operational guidelines and directives.
+Knowledge of the principles and practices of engineering.
+Knowledge of AutoCAD, Civil 3D and Land Desktop.
+Skill in analyzing environmental health issues and preparing recommendations based on findings.
+Skill in assessing and prioritizing multiple tasks, projects and demands.
+Skill in design and layout of civil site design.
+Skill in effectively working with teams.
+Skill in reading and evaluating technical drawings and schematics.
+Skill in establishing and maintaining cooperative working relationships with co-workers, contractors, and representatives from village communities and state and Federal agencies.
+Skill in operating a personal computer, utilizing a variety of software applications.
+Skill in oral and written communication.
+Required Experience
+A Bachelor's degree in Civil or Environmental Engineering or related field from an Accreditation Board of Engineering and Technology (ABET) accredited university or college program.
+MINIMUM EXPERIENCE QUALIFICATION
+Non-supervisory - Two (2) years of civil or environmental engineering experience. A Master’s Degree may be substituted for one year of experience. An equivalent combination of relevant education and/or training may be substituted for experience.
+MINIMUM CERTIFICATION QUALIFICATION
+Candidate must possess a Fundamentals of Engineering (FE), also known as an Engineer-in-Training (EIT).
+ADDITIONAL REQUIREMENTS
+Travels frequently within Alaska in small fixed wing aircraft; travels outside Alaska. An Alaska driver’s license with a clean driving record is required.
+MINIMUM PHYSICAL REQUIREMENTS
+The following demands are representative of those that must be met by an employee to successfully perform the essential functions of this job. Must be able to lift approximately 50 pounds. May be exposed to infectious diseases and hazardous working environments with heavy equipment and extreme weather conditions.
+Job Location
+Anchorage, Alaska, United States
+Position Type
+Full-Time/Regular
+:END:
+*** Engineering Project Manager - Full Time - DEHE
+    - ~interviewed [2013-10-24 Thu]
+      - met with PM manager, said I should contact him if I don't accept offer for Assistant or Associate
+:SUMMARY:
+Tracking Code
+20130540
+Job Description
+JOB SUMMARY
+Under general supervision, the Project Manager manages multiple complex rural sanitation projects involving all phases including planning, scope development, funding acquisition, design, construction and final project closeout.  The Project Manager is responsible for the overall success of projects by completing the scope on-schedule and within budget.   The Project Manager is instrumental in providing facilities that promote the highest quality of health services in partnership the Alaska Native people and the Alaska Tribal Health System.
+REPRESENTATIVE DUTIES
+Manages multiple sanitation projects in collaboration with customers, funding agencies, design engineers, construction personnel and other project management staff. Provides local program coordination with other Federal, State, Tribal and local programs. Serves as the technical point of contact with multiple communities providing engineering recommendations for project and non-project related requests. Provides leadership, direction and guidance to teams in project development, design and construction activities.  
+Collects and inputs facility deficiency information into the Indian Health Service data systems and develops scopes of work and cost estimates for planning, design and construction phases. Oversees community facility master planning from development of consultant contracts to contract closeout. Works collaboratively with communities to secure project funding. 
+Reviews and approves standard cooperative project agreements and develops project work plans. Schedules and adjusts project activities as necessary to accommodate changing conditions and establishes and manages consultant contracts to meet schedules. Develops and maintains required project documentation, tracks project progress using standardized project management tools, completes progress reports for external funding agencies.  Monitors quality control/quality assurance for all project related activities and develops, manages and monitors project budgets and contracts. 
+Develops general engineering design concepts in consultation with in-house design staff and approves final conceptual design options ensuring project design meets program requirements. Coordinates and/or inspects construction performed by contractors and/or in-house crews and prepares punch-list items and beneficial use agreements. Completes project closeout procedures including financial reviews, grant closeouts, transfers of ownership, and final reports.  and prepares project closeout documents.
+Assists and supports ANTHC leadership in the achievement of ANTHC goals and objectives.
+Required Skills
+Knowledge of applicable Federal, State, and Tribal law, regulations, rules, policies, processes, codes and operational guidelines.
+Knowledge of Alaska Tribal Health System, ANTHC, and Alaska Native culture(s) and politics.
+Knowledge of project management principles related to the engineering, design and construction of health and sanitation facilities with respect to managing scope, schedule, budget, quality and risk.
+Knowledge of principles of engineering and construction of sanitation facilities for rural communities.
+Knowledge of the principles and practices of funding capital infrastructure projects.
+Knowledge in developing and managing consultant and construction contract scopes of work. 
+Skill in using analytical and research skills to define and solve problems. 
+Skill in assessing and prioritizing multiple tasks, projects and demands.
+Skill in effectively managing and leading teams, and delegating tasks and authority.
+Skill in evaluating the work of contractors and consultants for compliance with project plans, specifications and applicable laws, ordinances and policies. 
+Skill in reading and evaluating technical drawings and schematics. 
+Skill in establishing and maintaining cooperative working relationships with federal and state agencies, co-workers, contractors, and individuals with wide array of cultural, political, educational, socio-economic, geographic and linguistic backgrounds. communities and state and federal agencies. 
+Skill in operating a personal computer, utilizing a variety of software applications.
+Skill in verbal and written communication.
+Required Experience
+MINIMUM EDUCATION QUALIFICATION
+B.S. in Engineering or engineering related degree.
+MINIMUM EXPERIENCE QUALIFICATION
+Non-supervisory
+Six years of project and/or construction management experience of public works projects; with at least two years experience in sanitation related projects preferred. Relevant M.S. or B.A. degree or may be substituted for one year of required experience.
+MINIMUM CERTIFICATION QUALIFICATION
+Engineer-In-Training (EIT)
+Job Location
+Anchorage, Alaska, United States
+Position Type
+Full-Time/Regular
+:END:
 ** Michael Baker
    - [X] applied: [[mu4e:msgid:CAC_VOnHDO-uoN2%2B5RKQ1nP1Gof1nB2pKDiGaj0WkvpmHcReyhQ@mail.gmail.com][Fwd: Michael Baker Corporation]]
    - [X] rejected: [[mu4e:msgid:CAC_VOnEi1Xx3zeeCBpsqOQnwv7V1MDkEkTOZX0%2Bi%3D1frt9R-Sg@mail.gmail.com][Fwd: Michael Baker Corporation]]
 *** Civil Associate II
+    :PROPERTIES:
+    :ID:       9089b740-7a4f-424d-a40c-100a05c44d8d
+    :END:
     Michael Baker Civil Associate II interview 
     <2013-10-24 Thu 10:00>
-**** TODO [#A] Baker form for interview
+**** DONE [#A] Baker form for interview
+     - State "DONE"       from "TODO"       [2013-10-24 Thu 15:22]
 [[mu4e:msgid:9A86D6E5C0E0664F9572F2C83A6AD43C435A6A@DCEXMBX2.bkr.mbakercorp.com][Jared Travis_In Person Interview_Civil Associate II]]
   :LOGBOOK:
   CLOCK: [2013-10-22 Tue 13:59]--[2013-10-22 Tue 14:00] =>  0:01

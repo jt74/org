@@ -62,3 +62,9 @@
   :END:
 [2013-10-16 Wed 22:54]
 [[mu4e:msgid:399D25A924A21A4EBCE931DF116CC99D02C8D6D9C1CF@Ops-exchmail-1.ENSTAR.LAN][ENSTAR - Auto Pay]]
+* TODO call Chris
+  :PROPERTIES:
+  :ID:       0335036c-a24e-4c3b-a6b8-722d3e602750
+  :END:
+[2013-10-24 Thu 15:35]
+[[file:~/emacs/org/todo.org::*Engineering%20Project%20Manager%20-%20Full%20Time%20-%20DEHE][Engineering Project Manager - Full Time - DEHE]]
