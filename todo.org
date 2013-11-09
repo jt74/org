@@ -59,28 +59,90 @@
 **** DONE [#A] call ENSTAR
      - State "DONE"       from "TODO"       [2013-10-17 Thu 16:55]
 [2013-10-16 Wed 19:34]
-**** TODO forward contact info to Kurt
+**** DONE forward contact info to Kurt
+     - State "DONE"       from "TODO"       [2013-10-30 Wed 14:16]
      :PROPERTIES:
      :ID:       5ea0b9d4-1dcc-4ac4-8943-06924ea54d33
      :END:
 [2013-10-07 Mon 10:11]
 [[file:~/emacs/org/todo.org::*Check%20on%20Phoenix%20rental][Check on Phoenix rental]]
-** DONE set up phone with Straight Talk
+*** Tasks
+**** DONE set up phone with Straight Talk
   - State "DONE"       from "NEXT"       [2013-10-04 Fri 09:56]
   :LOGBOOK:
   CLOCK: [2013-10-04 Fri 09:21]--[2013-10-04 Fri 09:56] =>  0:35
   :END:
 [2013-10-04 Fri 08:57]
-** DONE Richard Jensen letter
+**** DONE Richard Jensen letter
    - State "DONE"       from "TODO"       [2013-10-14 Mon 10:39]
 [2013-10-02 Wed 14:57]
 [[file:~/emacs/org/refile.org::*Help%20Mom%20with%20computer][Help Mom with computer]]
+**** TODO call Chris
+  :PROPERTIES:
+  :ID:       0335036c-a24e-4c3b-a6b8-722d3e602750
+  :END:
+[2013-10-24 Thu 15:35]
+[[file:~/emacs/org/todo.org::*Engineering%20Project%20Manager%20-%20Full%20Time%20-%20DEHE][Engineering Project Manager - Full Time - DEHE]]
+**** TODO schedule gutter cleaning					    :@home:
+  :LOGBOOK:
+  CLOCK: [2013-11-07 Thu 09:27]--[2013-11-07 Thu 09:29] =>  0:02
+  :END:
+     :PROPERTIES:
+     :ID:       df537bb5-de70-4afc-b5f1-b91f50b7e13e
+     :END:
+[2013-11-07 Thu 09:27]
+[[mu4e:msgid:1383795660.664.YahooMailNeo@web165002.mail.bf1.yahoo.com][Re: November at Locarno]]
+- [[mu4e:msgid:1383795660.664.YahooMailNeo@web165002.mail.bf1.yahoo.com][Re: November at Locarno]]
+**** NEXT sand and media for fireplaces			      :@home:LOCARNO:
+  :LOGBOOK:
+  CLOCK: [2013-11-07 Thu 09:54]--[2013-11-07 Thu 10:06] =>  0:12
+  CLOCK: [2013-11-07 Thu 09:53]--[2013-11-07 Thu 09:54] =>  0:01
+  :END:
+     :PROPERTIES:
+     :ID:       65ece662-ecc6-4e81-980e-478d0a374cab
+     :END:
+[2013-11-07 Thu 09:53]
+**** PHONE Dishwasher install, afternoon Monday, 3 - 5	      :PHONE:LOCARNO:
+<2013-11-11 Mon 15:00-17:00> 		    
+  :LOGBOOK:
+  CLOCK: [2013-11-08 Fri 11:01]--[2013-11-08 Fri 11:03] =>  0:02
+  :END:
+[2013-11-08 Fri 11:01]
+** TODO Truck maintenance
+  1. Plugs, wires, cap and rotor
+  2. Belts
+  3. PVC
+     - easiest to remove upper/plenum, so also do valve cover gaskets and replace old hoses and vacuum lines
+  4. Seafoam
+  5. O2 sensor, from dealership?
+  6. EGR delete?
+  :LOGBOOK:
+  CLOCK: [2013-11-04 Mon 16:16]--[2013-11-04 Mon 16:17] =>  0:01
+  :END:
+   :PROPERTIES:
+   :ID:       82b03416-bd4d-423c-9cdc-1adaad3f9794
+   :END:
+[2013-11-04 Mon 16:16] 
+* redtravis
+  :PROPERTIES:
+  :ID:       7c3cc07f-c0fe-4c5c-9aaa-abc905416777
+  :END:
+[2013-10-30 Wed 14:05]
+** emails
+[[mu4e:msgid:20131030214412.A6C5220060@volcano.dreamhost.com][Just another Piwigo gallery]]
+[[mu4e:msgid:20131030214412.A6C5220060@volcano.dreamhost.com][Piwigo password email]]
+[[mu4e:msgid:20131030214412.A6C5220060@volcano.dreamhost.com][Piwigo password email]]
 * Job Hunt
   :PROPERTIES:
   :ID:       2ebd8332-7f20-4164-988a-e87fc0ce9b75
   :END: 
-** State of Alaska
-*** NEXT Engineering Assistant III
+** State of Alaska						  :CANCELLED:
+*** Transportation 
+    - lots of work in interior article:
+      [[mu4e:msgid:5277f978.e3bf420a.4a7b.ffff8c34SMTPIN_ADDED_MISSING@mx.google.com][ADN.com -- State News: Interior Alaska to see multiple 2014 road projects]]
+*** CANCELLED Engineering Assistant III				  :CANCELLED:
+    - State "CANCELLED"  from "NEXT"       [2013-10-31 Thu 20:10] \\
+      Not interested due to time commitments
 :SUMMARY:
 Job Description
 
@@ -193,7 +255,7 @@ The State of Alaska complies with Title I of the Americans with Disabilities Act
     :PROPERTIES:
     :ID:       f017a8a5-b733-4bc6-a057-690b28870a4c
     :END:
-** Lounsbury and Associates
+** Lounsbury and Associates					    :WAITING:
 *** WAITING Civil Engineer [1/2]				    :WAITING:
     - State "WAITING"    from "NEXT"       [2013-10-21 Mon 11:41] \\
       Waiting for response
@@ -231,7 +293,7 @@ Job ID	0000727281-01
     :END:
 [2013-10-21 Mon 10:43]
 [[mu4e:msgid:CAL6osqgUR1WjVPxzE9R5tU72oua3dQ33DW9NHK_VquGCx1_n1A@mail.gmail.com][No subject]]
-** ANTHC
+** ANTHC							    :WAITING:
 *** Assistant Civil Engineer - Full Time - DEHE Engineering
     - interviewed [2013-10-24 Thu]
 :SUMMARY:
@@ -353,10 +415,56 @@ Anchorage, Alaska, United States
 Position Type
 Full-Time/Regular
 :END:
-** Michael Baker
+** Michael Baker						    :WAITING:
    - [X] applied: [[mu4e:msgid:CAC_VOnHDO-uoN2%2B5RKQ1nP1Gof1nB2pKDiGaj0WkvpmHcReyhQ@mail.gmail.com][Fwd: Michael Baker Corporation]]
    - [X] rejected: [[mu4e:msgid:CAC_VOnEi1Xx3zeeCBpsqOQnwv7V1MDkEkTOZX0%2Bi%3D1frt9R-Sg@mail.gmail.com][Fwd: Michael Baker Corporation]]
 *** Civil Associate II
+:SUMMARY:
+Job Title		Civil Associate II
+Location		Anchorage, AK, US
+Professional Discipline		Civil
+Department Description		
+Description / Requirements		
+Michael Baker Jr., Inc., an engineering unit of Michael Baker Corporation, is seeking a Civil Associate II for our Anchorage, Alaska office. 
+ 
+The Civil Associate will assist Civil Engineers and Project Managers with the plan, design and analysis on civil engineering projects such as roads, airports, and pipelines.  Prepares plans, specification, quantities, estimates, and engineering reports.  Participates in field studies to collect engineering data.
+ 
+ 
+Requirements:
+·         BSCE from ABET accredited university
+·         2-4 years of experience
+·         EIT
+·         Computer Skills:  AutoCAD, Civil 3D, Word, Excel
+
+Preferences:
+
+·         North Slope certification training or experience
+·         Survey experience and understanding of surveying methods
+ ·         Water resources
+Corporate Overview		
+Founded in 1940, Michael Baker Corporation (NYSE Amex: BKR) through its affiliates, provides professional engineering, architectural and other professional consulting services for its public and private sector clients’ most complex challenges worldwide. The Company’s markets of focus include Aviation, Construction Management, Defense, Environmental, Facilities, Geospatial Information Technologies, Homeland Security, Municipal & Civil, Oil & Gas, Telecom & Utilities, Rail & Transit, Surveying, Transportation and Water. Baker’s services span the complete life cycle of infrastructure and managed asset projects, including planning, design, construction services, asset management and asset renewal. With more than 3,200 employees in over 100 offices nationwide and internationally, Baker is consistently ranked by Engineering News Record among the top 10% of the 500 largest U.S. design firms.
+
+To Learn More About Baker		
+Visit our Web site at www.mbakercorp.com, EOE, M/F/D/V/E-Verify
+How To Apply		
+Click the Apply Now button!
+
+Note: If you have not registered through Baker's recruiting site, you will be asked to do the following:
+
+1. Enter your email address for your user account name and choose a password.
+
+2. Upload your resume.
+
+3. Enter your contact information and other voluntary information.
+
+4. Your resume submission has been completed.
+
+If you experience any technical issues, please contact us at bakerhrms@mbakercorp.com
+
+Currency		USD
+Amount of Travel		Moderate Travel
+Work At Home		
+:END:
     :PROPERTIES:
     :ID:       9089b740-7a4f-424d-a40c-100a05c44d8d
     :END:
@@ -387,7 +495,7 @@ Full-Time/Regular
   :PROPERTIES:
   :ID:       f3516e9e-f587-4bf6-9ecc-76abc6366c41
   :END:
-** HOLD figure out nntp news sources			       :WAITING:HOLD:
+** figure out nntp news sources				    :WAITING:
    - State "HOLD"       from "TODO"       [2013-10-18 Fri 17:48] \\
      not a priority
    :PROPERTIES:
@@ -413,6 +521,11 @@ Full-Time/Regular
    :ID:       eda85b56-3e03-4276-9014-578b7d3b613e
    :END:
 [2013-10-17 Thu 14:42]
+** BBDB
+   sync: 
+   python asynk.py --op=sync --dry-run --name asynkContacts
+   python asynk.py --op=sync --name asynkContacts
+
 * Exam
   :PROPERTIES:
   :ID:       f4767929-6834-4f25-9f5c-3617c736f8e6
@@ -428,12 +541,14 @@ PROPERTIES:
 CATEGORY: Appt
 ARCHIVE:  %s_archive::* Appointments
 END:      
+** Family
+*** Travis
+%%(org-anniversary 1970 6 30) Sean Travis is %d years old 
 ** Holidays
 PROPERTIES:
 Category: Holiday
 END:
 %%(org-calendar-holiday)
-** Some other Appointment
-
   
+
 

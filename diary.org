@@ -37,5 +37,21 @@ blank
      :END:
 [2013-07-09 Tue 10:30]
 ** 2013-09 September
+*** 2013-09-13 Friday
+
+**** CONCEPTION?
+     <2013-09-13 Fri>
 *** 2013-09-22 Sunday
+** 2013-11 November
+*** 2013-11-05 Tuesday
+**** Zombie							   :PREGNANCY:
+Leslie worked a hard call shift last night at Providence. She performed a C-section for a couple that had requested her presence, so that worked out well.
+
+She has been receiving comments pertaining to her apparent state of exhaustion recently. This morning, after the brutal shift, a nurse said that she looked "like a zombie"!
+Leslie be present
+     :LOGBOOK:
+     CLOCK: [2013-11-05 Tue 12:04]--[2013-11-05 Tue 12:08] =>  0:04
+     :END:
+[2013-11-05 Tue 12:04]
+*** 2013-11-08 Friday
 

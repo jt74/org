@@ -62,9 +62,14 @@
   :END:
 [2013-10-16 Wed 22:54]
 [[mu4e:msgid:399D25A924A21A4EBCE931DF116CC99D02C8D6D9C1CF@Ops-exchmail-1.ENSTAR.LAN][ENSTAR - Auto Pay]]
-* TODO call Chris
-  :PROPERTIES:
-  :ID:       0335036c-a24e-4c3b-a6b8-722d3e602750
+* DONE remove hoses						    :LOCARNO:
+  :LOGBOOK:
   :END:
-[2013-10-24 Thu 15:35]
-[[file:~/emacs/org/todo.org::*Engineering%20Project%20Manager%20-%20Full%20Time%20-%20DEHE][Engineering Project Manager - Full Time - DEHE]]
+  - State "DONE"       from "TODO"       [2013-11-08 Fri 17:48]
+  :PROPERTIES:
+  :ID:       f6a46f46-c92f-4ab4-9bfc-ab4b441ddff6
+  :END:
+  - email: [[mu4e:msgid:1383624171.53721.YahooMailNeo@web165002.mail.bf1.yahoo.com][Re: November at Locarno]]
+[2013-11-05 Tue 12:22]
+[[mu4e:msgid:1383624171.53721.YahooMailNeo@web165002.mail.bf1.yahoo.com][Re: November at Locarno]]
+
