@@ -1,0 +1,70 @@
+blank
+* 2013
+  :PROPERTIES:
+  :ID:       c2f53de8-4460-4749-be78-30a979f7f341
+  :END:
+** 2013-06 June
+*** 2013-06-26 Wednesday
+**** lunch
+     :LOGBOOK:
+     CLOCK: [2013-06-28 Fri 12:00]--[2013-06-28 Fri 13:00] =>  1:00
+     CLOCK: [2013-06-26 Wed 11:00]--[2013-06-26 Wed 11:48] =>  0:48
+     :END:
+[2013-06-26 Wed 11:00]
+*** 2013-06-27 Thursday
+**** lunch
+     :LOGBOOK:
+     CLOCK: [2013-06-27 Thu 11:17]--[2013-06-27 Thu 13:17] =>  2:00
+     :END:
+[2013-06-27 Thu 11:17]
+*** 2013-06-28 Friday
+**** lunch
+     :LOGBOOK:
+     CLOCK: [2013-06-28 Fri 13:28]--[2013-06-28 Fri 13:30] =>  0:02
+     :END:
+[2013-06-28 Fri 13:28]
+** 2013-07 July
+*** 2013-07-08 Monday
+**** lunch
+     :LOGBOOK:
+     CLOCK: [2013-07-08 Mon 11:24]--[2013-07-08 Mon 11:50] =>  0:26
+     :END:
+[2013-07-08 Mon 11:24]
+*** 2013-07-09 Tuesday
+**** eye appointment and lunch
+     :LOGBOOK:
+     CLOCK: [2013-07-09 Tue 10:30]--[2013-07-09 Tue 13:25] =>  2:55
+     :END:
+[2013-07-09 Tue 10:30]
+** 2013-09 September
+*** 2013-09-13 Friday
+
+**** CONCEPTION?
+     <2013-09-13 Fri>
+*** 2013-09-22 Sunday
+** 2013-11 November
+*** 2013-11-05 Tuesday
+**** Zombie							   :PREGNANCY:
+Leslie worked a hard call shift last night at Providence. She performed a C-section for a couple that had requested her presence, so that worked out well.
+
+She has been receiving comments pertaining to her apparent state of exhaustion recently. This morning, after the brutal shift, a nurse said that she looked "like a zombie"!
+Leslie be present
+     :LOGBOOK:
+     CLOCK: [2013-11-05 Tue 12:04]--[2013-11-05 Tue 12:08] =>  0:04
+     :END:
+[2013-11-05 Tue 12:04]
+*** 2013-11-08 Friday
+** 2013-12 December
+*** 2013-12-16 Monday
+**** lunch
+     :LOGBOOK:
+     CLOCK: [2013-12-16 Mon 12:50]--[2013-12-16 Mon 13:45] =>  0:55
+     :END:
+[2013-12-16 Mon 12:50]
+*** 2013-12-17 Tuesday
+**** lunch
+     :LOGBOOK:
+     CLOCK: [2013-12-17 Tue 12:04]--[2013-12-17 Tue 12:46] =>  0:42
+     :END:
+[2013-12-17 Tue 12:04]
+

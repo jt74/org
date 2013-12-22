@@ -1,0 +1,8 @@
+
+
+* TODO make CTRL + D archive emails in Outlook
+  :PROPERTIES:
+  :ID:       d562c69a-4718-4488-9c63-5188e30b5706
+  :END:
+[2013-12-19 Thu 12:50]
+[[file:c:/Users/Jared.Travis/ownCloud/org/baker.org::*Projects][Projects]]

@@ -1,0 +1,404 @@
+#+Filetags: Personal
+#+DRAWERS: SUMMARY
+* Personal
+  :PROPERTIES:
+  :ID:       ced09886-7b30-4090-b889-a614ecf35723
+  :END:
+
+** Truck maintenance
+  - [X] Plugs, wires, cap and rotor
+    - done 11/13 a ~225K
+  - [ ] Belts
+  - [ ] PVC
+    - easiest to remove upper/plenum, so also do valve cover gaskets and replace old hoses and vacuum lines
+  - [X] Seafoam
+    - done 11/13 a ~225K
+  - [ ] O2 sensor, from dealership?
+  - [ ] EGR delete?
+  :LOGBOOK:
+  CLOCK: [2013-11-04 Mon 16:16]--[2013-11-04 Mon 16:17] =>  0:01
+  :END:
+   :PROPERTIES:
+   :ID:       82b03416-bd4d-423c-9cdc-1adaad3f9794
+   :END:
+[2013-11-04 Mon 16:16] 
+** DONE Pick up the bird!
+   - State "DONE"       from "TODO"       [2013-12-02 Mon 09:49]
+   :PROPERTIES:
+   :ID:       4783a20b-945c-4101-bea5-5bb59bde728b
+   :END:
+<2013-11-22 Fri 10:00>
+[2013-11-21 Thu 10:25]
+[[file:~/ownCloud/todo.org::*call%20Chris][call Chris]]q
+
+** TODO call Chris
+  :PROPERTIES:
+  :ID:       0335036c-a24e-4c3b-a6b8-722d3e602750
+  :END:
+[2013-10-24 Thu 15:35]
+[[file:~/emacs/org/todo.org::*Engineering%20Project%20Manager%20-%20Full%20Time%20-%20DEHE][Engineering Project Manager - Full Time - DEHE]]
+** DONE remove hoses						    :LOCARNO:
+  :LOGBOOK:
+  :END:
+  - State "DONE"       from "TODO"       [2013-11-08 Fri 17:48]
+  :PROPERTIES:
+  :ID:       f6a46f46-c92f-4ab4-9bfc-ab4b441ddff6
+  :END:
+  - email: [[mu4e:msgid:1383624171.53721.YahooMailNeo@web165002.mail.bf1.yahoo.com][Re: November at Locarno]]
+[2013-11-05 Tue 12:22]
+[[mu4e:msgid:1383624171.53721.YahooMailNeo@web165002.mail.bf1.yahoo.com][Re: November at Locarno]]
+** DONE Pick up tire
+  - State "DONE"       from "TODO"       [2013-11-22 Fri 12:34]
+  :PROPERTIES:
+  :ID:       8d6cea85-197f-46bc-bf42-8c7dfffcfe26
+  :END: 
+[2013-11-18 Mon 13:30]
+[[mu4e:msgid:B35DF67C26E3FA46AA97E2165F5543F39BDB0443@dhr-mbx2-v.dest1.com][William Paid Verification]]
+
+** Archive							    :ARCHIVE:
+*** DONE Eye appointment no listing
+  SCHEDULED: <2013-07-12 Fri 14:30>
+  - State "DONE"       from "TODO"       [2013-10-02 Wed 15:59]
+  :PROPERTIES:
+  :ID:       80e4d50a-2aae-463e-b12c-be533c32157e
+  :ARCHIVE_TIME: 2013-12-13 Fri 15:43
+  :END:
+[2013-07-12 Fri 13:35]
+*** DONE eye appt no todo c period
+  - State "DONE"       from "TODO"       [2013-10-02 Wed 16:00]
+  - <2013-07-12 Fri 03:30>
+  :PROPERTIES:
+  :ID:       ef18bfa9-aef5-4a83-a426-5d42cc5f7dd1
+  :ARCHIVE_TIME: 2013-12-13 Fri 15:43
+  :END:
+[2013-07-12 Fri 13:42]
+[[file:~/Dropbox/emacs/git/org/refile.org::*appt%20c%20period%20in%20list][appt c period in list]]
+*** DONE Help Mom with computer
+  - State "DONE"       from "NEXT"       [2013-10-02 Wed 14:56]
+  :LOGBOOK:
+  CLOCK: [2013-10-02 Wed 13:03]--[2013-10-02 Wed 13:05] =>  0:02
+  :END:
+  :PROPERTIES:
+  :ID:       dc8fad5e-214b-4c53-a411-0723205d30a3
+  :ARCHIVE_TIME: 2013-12-13 Fri 15:43
+  :END:
+[2013-10-02 Wed 12:44]
+[[file:~/emacs/org/todo.org::*Organization][Organization]]
+*** PHONE Mom							      :PHONE:
+  :LOGBOOK:
+  CLOCK: [2013-10-02 Wed 13:05]--[2013-10-02 Wed 14:56] =>  1:51
+  :END:
+  :PROPERTIES:
+  :ID:       d068dbad-069e-447e-bcf7-6d33f6473913
+  :ARCHIVE_TIME: 2013-12-13 Fri 15:43
+  :END:
+[2013-10-02 Wed 13:05]
+*** DONE set up orgmode contact sync with google
+  - State "DONE"       from "NEXT"       [2013-10-02 Wed 15:57]
+  :LOGBOOK:
+  CLOCK: [2013-10-02 Wed 15:03]--[2013-10-02 Wed 15:57] =>  0:54
+  CLOCK: [2013-10-02 Wed 15:02]--[2013-10-02 Wed 15:03] =>  0:01
+  :END:
+  :PROPERTIES:
+  :ID:       6989b2e3-2f66-4b46-b053-ef3c87dcda84
+  :ARCHIVE_TIME: 2013-12-13 Fri 15:43
+  :END:
+[2013-10-02 Wed 15:02]
+[[bbdb:June%20Travis][June Travis]]
+*** DONE Order truck title from AZ
+  :PROPERTIES:
+  :ID:       1af59766-c5b1-4672-b2c2-7a2d4ff7a6fb
+  :ARCHIVE_TIME: 2013-12-13 Fri 15:43
+  :END:
+  - mailed 10/04/13, should take 6 weeks
+  - State "DONE"       from "TODO"       [2013-10-03 Thu 03:53]
+[2013-10-03 Thu 03:16]
+[[file:~/emacs/org/todo.org]]
+*** DONE deduct dishwasher from rent
+  - State "DONE"       from "NEXT"       [2013-10-17 Thu 17:46]
+  :LOGBOOK:
+  CLOCK: [2013-10-17 Thu 16:55]--[2013-10-17 Thu 17:46] =>  0:51
+  CLOCK: [2013-10-16 Wed 22:54]--[2013-10-16 Wed 22:55] =>  0:01
+  :END:
+  :PROPERTIES:
+  :ID:       8de41d3e-d098-4c94-ad79-7a14626b5093
+  :ARCHIVE_TIME: 2013-12-13 Fri 15:43
+  :END:
+[2013-10-16 Wed 22:54]
+[[mu4e:msgid:399D25A924A21A4EBCE931DF116CC99D02C8D6D9C1CF@Ops-exchmail-1.ENSTAR.LAN][ENSTAR - Auto Pay]]
+** DONE Register at Watermark site
+     - State "DONE"       from "TODO"       [2013-11-22 Fri 12:34]
+     :PROPERTIES:
+     :ID:       190cef0f-4b7d-4faa-9306-c95221ae7ddf
+     :END:
+[2013-10-02 Wed 12:45]
+[[file:~/emacs/org/todo.org::*Organization][Organization]]
+** CANCELLED schedule gutter cleaning			    :@home:CANCELLED:
+     - State "CANCELLED"  from "TODO"       [2013-11-18 Mon 13:10] \\
+       It snowed. Gutters are frozen. Find assistance in the spring.
+  :LOGBOOK:
+  CLOCK: [2013-11-07 Thu 09:27]--[2013-11-07 Thu 09:29] =>  0:02
+  :END:
+     :PROPERTIES:
+     :ID:       df537bb5-de70-4afc-b5f1-b91f50b7e13e
+     :END:
+[2013-11-07 Thu 09:27]
+[[mu4e:msgid:1383795660.664.YahooMailNeo@web165002.mail.bf1.yahoo.com][Re: November at Locarno]]
+- [[mu4e:msgid:1383795660.664.YahooMailNeo@web165002.mail.bf1.yahoo.com][Re: November at Locarno]]
+** DONE sand and media for fireplaces			      :@home:LOCARNO:
+     - State "DONE"       from "NEXT"       [2013-11-18 Mon 13:11]
+  :LOGBOOK:
+  CLOCK: [2013-11-07 Thu 09:54]--[2013-11-07 Thu 10:06] =>  0:12
+  CLOCK: [2013-11-07 Thu 09:53]--[2013-11-07 Thu 09:54] =>  0:01
+  :END:
+     :PROPERTIES:
+     :ID:       65ece662-ecc6-4e81-980e-478d0a374cab
+     :END:
+[2013-11-07 Thu 09:53]
+** Tasks
+*** PHONE Dishwasher install, afternoon Monday, 3 - 5	      :PHONE:LOCARNO:
+<2013-11-11 Mon 15:00-17:00> 		    
+  :LOGBOOK:
+  CLOCK: [2013-11-08 Fri 11:01]--[2013-11-08 Fri 11:03] =>  0:02
+  :END:
+     :PROPERTIES:
+     :ID:       41bf94b8-f02b-46ed-9400-225eaff8a4a1
+     :END:
+[2013-11-08 Fri 11:01]
+*** Archive							    :ARCHIVE:
+**** DONE set up phone with Straight Talk
+  - State "DONE"       from "NEXT"       [2013-10-04 Fri 09:56]
+  :LOGBOOK:
+  CLOCK: [2013-10-04 Fri 09:21]--[2013-10-04 Fri 09:56] =>  0:35
+  :END:
+      :PROPERTIES:
+      :ARCHIVE_TIME: 2013-12-13 Fri 15:43
+      :END:
+[2013-10-04 Fri 08:57]
+**** DONE Richard Jensen letter
+   - State "DONE"       from "TODO"       [2013-10-14 Mon 10:39]
+      :PROPERTIES:
+   :ARCHIVE_TIME: 2013-12-13 Fri 15:43
+      :END:
+[2013-10-02 Wed 14:57]
+[[file:~/emacs/org/refile.org::*Help%20Mom%20with%20computer][Help Mom with computer]]
+** House
+*** Finance
+    :LOGBOOK:
+    CLOCK: [2013-10-07 Mon 10:15]--[2013-10-07 Mon 10:22] =>  0:07
+    :END:
+***** Archive							    :ARCHIVE:
+      :PROPERTIES:
+      :ARCHIVE_TIME: 2013-12-13 Fri 15:43
+      :END:
+****** DONE check Capital One for AmEx payment
+      - State "DONE"       from "TODO"       [2013-10-18 Fri 13:10]
+       :PROPERTIES:
+      :ARCHIVE_TIME: 2013-12-13 Fri 15:43
+       :END:
+[2013-10-17 Thu 17:46]
+[[file:~/emacs/org/refile.org::*deduct%20dishwasher%20from%20rent][deduct dishwasher from rent]]
+****** DONE Pay back Capital One acount
+      - State "DONE"       from "NEXT"       [2013-10-22 Tue 15:02]
+  [[mu4e:msgid:1.770ee0ec72cf0f0773e1@EPRDEMSOBMT04][External Withdrawal Notice]]
+  :LOGBOOK:
+  CLOCK: [2013-10-22 Tue 14:38]--[2013-10-22 Tue 15:02] =>  0:24
+  CLOCK: [2013-10-18 Fri 13:06]--[2013-10-18 Fri 13:08] =>  0:02
+  :END:
+      :PROPERTIES:
+      :ID:       7ce749c3-1165-4fec-bf8b-8b6de1589e7a
+      :ARCHIVE_TIME: 2013-12-13 Fri 15:43
+      :END:
+[2013-10-18 Fri 13:06]
+*** Archive							    :ARCHIVE:
+**** DONE Build fence for Woody
+     - State "DONE"       from "TODO"       [2013-10-21 Mon 16:13]
+      :PROPERTIES:
+     :ARCHIVE_TIME: 2013-12-13 Fri 15:43
+      :END:
+[2013-10-02 Wed 12:45]
+[[file:~/emacs/org/todo.org::*Organization][Organization]]
+**** DONE [#A] call ENSTAR
+     - State "DONE"       from "TODO"       [2013-10-17 Thu 16:55]
+      :PROPERTIES:
+     :ARCHIVE_TIME: 2013-12-13 Fri 15:43
+      :END:
+[2013-10-16 Wed 19:34]
+**** DONE forward contact info to Kurt
+     - State "DONE"       from "TODO"       [2013-10-30 Wed 14:16]
+     :PROPERTIES:
+     :ID:       5ea0b9d4-1dcc-4ac4-8943-06924ea54d33
+     :ARCHIVE_TIME: 2013-12-13 Fri 15:43
+     :END:
+[2013-10-07 Mon 10:11]
+[[file:~/emacs/org/todo.org::*Check%20on%20Phoenix%20rental][Check on Phoenix rental]]
+** NEXT Return bike to Tina
+<2013-12-21 Sat 09:00>
+  :LOGBOOK:
+  CLOCK: [2013-12-17 Tue 09:59]--[2013-12-17 Tue 10:04] =>  0:05
+  :END:
+   :PROPERTIES:
+   :ID:       b21237fd-12e5-4a31-bcbb-88d7309ea85f
+   :END:
+[2013-12-17 Tue 10:28]
+
+* redtravis
+  :PROPERTIES:
+  :ID:       7c3cc07f-c0fe-4c5c-9aaa-abc905416777
+  :END:
+[2013-10-30 Wed 14:05]
+** emails
+[[mu4e:msgid:20131030214412.A6C5220060@volcano.dreamhost.com][Just another Piwigo gallery]]
+[[mu4e:msgid:20131030214412.A6C5220060@volcano.dreamhost.com][Piwigo password email]]
+[[mu4e:msgid:20131030214412.A6C5220060@volcano.dreamhost.com][Piwigo password email]]
+* Org
+  :PROPERTIES:
+  :ID:       f3516e9e-f587-4bf6-9ecc-76abc6366c41
+  :END:
+** figure out nntp news sources				    :WAITING:
+   - State "HOLD"       from "TODO"       [2013-10-18 Fri 17:48] \\
+     not a priority
+   :PROPERTIES:
+   :ID:       0759d5f8-e660-49a8-afc8-ed42b4e92a0c
+   :END:
+[2013-10-02 Wed 13:01]
+[[file:~/emacs/org/todo.org::*Organization][Organization]]
+** BBDB
+   sync: 
+   python asynk.py --op=sync --dry-run --name asynkContacts
+   python asynk.py --op=sync --name asynkContacts
+
+** Archive							    :ARCHIVE:
+*** CANCELLED set up gnus for offline use			  :CANCELLED:
+   - State "CANCELLED"  from "TODO"       [2013-10-22 Tue 15:02] \\
+     using mu4e
+   :PROPERTIES:
+   :ID:       ab4865db-20af-4aa6-9f16-067bbbb95e12
+   :ARCHIVE_TIME: 2013-12-13 Fri 15:43
+   :END:
+[2013-10-02 Wed 16:15]
+[[file:~/emacs/org/refile.org::*Build%20fence%20for%20Woody][Build fence for Woody]]
+
+**** Arizona
+***** rental
+
+*** DONE set up org-mobile on thinkpad
+   - State "DONE"       from "TODO"       [2013-10-22 Tue 15:03]
+   :PROPERTIES:
+   :ID:       eda85b56-3e03-4276-9014-578b7d3b613e
+   :ARCHIVE_TIME: 2013-12-13 Fri 15:43
+   :END:
+[2013-10-17 Thu 14:42]
+* Exam
+  :PROPERTIES:
+  :ID:       f4767929-6834-4f25-9f5c-3617c736f8e6
+  :END:
+* Habits
+  - use C-c C-x p (org-set-property) to set the STYLE property
+  :PROPERTIES:
+  :LOGGING:  DONE(!)
+  :ARCHIVE:  %s_archive::* Habits
+  :ID:       e0cac59b-bce4-401f-86b6-f92de5cf9445
+  :END:
+** TODO Bike to work
+   SCHEDULED: <2013-12-20 Fri +1d>
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2013-12-20 Fri 08:48]
+   - State "DONE"       from "TODO"       [2013-12-19 Thu 08:05]
+   - State "DONE"       from "TODO"       [2013-12-18 Wed 07:53]
+   - State "DONE"       from "TODO"       [2013-12-17 Tue 09:57]
+   :END:
+
+:PROPERTIES:
+:STYLE: habit
+:ID:       a8e92c2b-0a28-4120-a422-0d034d4c55d9
+:END:
+
+** TODO Floss
+   SCHEDULED: <2013-12-20 Fri +1d>
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2013-12-19 Thu 08:49]
+   - State "DONE"       from "TODO"       [2013-12-18 Wed 08:06]
+   - State "DONE"       from "TODO"       [2013-12-17 Tue 08:52]
+   :END:
+   :PROPERTIES:
+   :STYLE:    habit
+   :ID:       9a634a68-7fba-498b-b53a-53dfaefe5244
+   :END:
+** TODO Study for PE
+   SCHEDULED: <2013-12-21 Sat +1d>
+   - State "DONE"       from "TODO"       [2013-12-21 Sat 21:43]
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2013-12-19 Thu 08:49]
+   - State "DONE"       from "TODO"       [2013-12-18 Wed 08:06]
+   - State "DONE"       from "TODO"       [2013-12-17 Tue 08:56]
+   :END:
+   :PROPERTIES:
+   :STYLE:    habit
+   :ID:       905b735b-07b2-4bd9-8e2a-c22d0ce0210a
+   :END:
+   [2013-12-17 Tue 13:49]
+** TODO 100 push ups
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2013-12-19 Thu 08:50]
+   - State "DONE"       from "TODO"       [2013-12-18 Wed 08:06]
+   :END:
+   [2013-12-17 Tue 11:52]
+  SCHEDULED: <2013-12-20 Fri +1d>
+:PROPERTIES:
+:STYLE: habit
+:ID:       150e8c6f-7515-4689-9e48-d59f76e1bf64
+:END:
+
+[2013-12-17 Tue 09:02]
+* Appointments
+  :LOGBOOK:
+  CLOCK: [2012-11-09 Fri 08:17]--[2012-11-09 Fri 08:22] =>  0:05
+  :END:
+  :PROPERTIES:
+  :ID:       7e293478-48dd-49cf-8500-4a11a89105a7
+  :END:
+PROPERTIES:
+CATEGORY: Appt
+ARCHIVE:  %s_archive::* Appointments
+END:      
+** Family
+*** Travis
+%%(org-anniversary 1970 6 30) Sean Travis is %d years old 
+** Holidays
+PROPERTIES:
+Category: Holiday
+END:
+%%(org-calendar-holiday)
+  
+
+
+** Canyons and Ice presentation at UAA Bookstore
+CANYONS AND ICE: THE WILDERNESS TRAVELS of DICK GRIFFITH will be presented by
+DICK GRIFFITH and KAYLENE JOHNSON from 5 to 7pm at the UAA Campus Bookstore.
+Canyons and Ice, Kaylene Johnson recounts the wilderness adventures of Dick
+Griffith who, for over six decades, journeyed across Alaska, Canada, Mexico,
+and the American West. For more information contact Rachel at
+repstein2@uaa.alaska.edu or 786-4782 or see http://www.uaa.alaska.edu/bookstore[12]
+. Remember, there is free parking for bookstore events in the South Lot, the
+West Campus Central Lot (behind Rasmuson Hall), the Sports Lot and the Sports
+NW Lot.
+<2013-12-02 Mon 17:00-19:00>
+  :LOGBOOK:
+  CLOCK: [2013-11-22 Fri 12:38]--[2013-11-22 Fri 12:40] =>  0:02
+  :END:
+[2013-11-22 Fri 12:38]
+[[mu4e:msgid:528FA0DF.7060106@gci.net][{whatsup} What's Up 11/21/13 Email Version]]
+** Neighborhood crime watch
+   :PROPERTIES:
+   :ID:       17733ecf-a9ce-45d1-a59d-fb3b62bd1563
+   :END:
+   <2013-11-11 Mon 19:00-20:00>
+** Expect Coin Card!
+   :PROPERTIES:
+   :ID:       823d31e8-d06a-432e-a4ed-e057a755d770
+   :END:
+   Rough estimate arrival, beginning of summer 2014
+  https://mail.google.com/mail/u/0/?shva=1#inbox/1425a72be66986b3
+   <2014-06-15 Sun>
+
