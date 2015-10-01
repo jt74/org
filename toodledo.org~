@@ -1,0 +1,25 @@
+* TASKS
+  :PROPERTIES:
+  :ToodledoLastSync: 1443716900
+  :OrgToodledoVersion: 2.16
+  :ToodledoLastEdit: 1443716899
+  :ToodledoLastDelete: 1443659917
+  :END:
+** TODO [#D] Get Chaz quote					      :@home:
+   :PROPERTIES:
+   :ToodledoID: 213929467
+   :Hash:     e0c37ed4eddf577312bd31b752881f98
+   :END:
+** DONE [#D] Phoenix rent					      :@home:
+   CLOSED: [2015-10-01 Thu 08:40] SCHEDULED: <2015-10-01 Thu>
+   :PROPERTIES:
+   :ToodledoID: 213931797
+   :Hash:     4ba2a8bfd99b5c7b8d8ed126ff0cd1e0
+   :END:
+** TODO [#D] Emacs: magit-mode Tutorial				      :@home:
+      SCHEDULED: <2015-10-01 Thu>
+   :PROPERTIES:
+   :ToodledoID: 213931995
+   :Hash:     4ff56cf10a75fdfea8174b867d741b44
+   :END:
+   http://ergoemacs.org/emacs/emacs_magit-mode_tutorial.html

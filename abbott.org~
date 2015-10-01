@@ -1,0 +1,1206 @@
+#+FILETAGS: ABBOTT 
+140811, Task 1: Marketing
+143833 Task 3 [[outlook:00000000910682B0D29B304A8E16A9B42C4ACF5B07000282B60224BDCA439465B2C86147F76C00006087000B00000282B60224BDCA439465B2C86147F76C0000611144E50000][MESSAGE: Abbott Rd PN, Tasks and Budgets (Christianson, Derek M)]]
+
+
+:PROPERTIES:
+:ID:       5da146f2-1168-456c-b543-bf957bd838d7
+:END:
+** Archive                                                         :ARCHIVE:
+*** DONE Abbott Tasks
+CLOSED: [2014-11-19 Wed 07:47]
+:LOGBOOK:
+- State "DONE"       from "HOLD"       [2014-11-19 Wed 07:47]
+CLOCK: [2014-11-19 Wed 07:41]--[2014-11-19 Wed 07:47] =>  0:06
+CLOCK: [2014-11-17 Mon 13:23]--[2014-11-17 Mon 14:13] =>  0:50
+CLOCK: [2014-11-17 Mon 11:32]--[2014-11-17 Mon 12:33] =>  1:01
+- State "HOLD"       from "TODO"       [2014-11-13 Thu 11:58] \\
+  hold items as listed
+CLOCK: [2014-11-12 Wed 13:45]--[2014-11-12 Wed 14:24] =>  0:39
+CLOCK: [2014-11-12 Wed 07:35]--[2014-11-12 Wed 09:22] =>  1:47
+CLOCK: [2014-11-10 Mon 13:58]--[2014-11-10 Mon 16:52] =>  2:54
+CLOCK: [2014-11-10 Mon 13:13]--[2014-11-10 Mon 13:57] =>  0:44
+:END:
+:PROPERTIES:
+:ID:       b4add6f6-6624-40d7-977f-575ccb0763fb
+:ARCHIVE_TIME: 2015-01-05 Mon 07:55
+:END:
+   [2014-10-22 Wed 13:46]
+**** CANCELLED Provide DOT with date for traffic stuff         :CANCELLED:
+CLOSED: [2014-11-10 Mon 15:33]
+:LOGBOOK:
+- State "CANCELLED"  from "NEXT"       [2014-11-10 Mon 15:33] \\
+  not sure what this task means or who it goes to
+:END:
+:PROPERTIES:
+:ID:       48f3837d-6572-468b-b492-713dd2470e5b
+:END:
+**** DONE List of Pay Items to activate (traffic control)
+CLOSED: [2014-11-10 Mon 16:10]
+:LOGBOOK:
+CLOCK: [2014-11-07 Fri 11:36]--[2014-11-07 Fri 16:04] =>  4:28
+CLOCK: [2014-11-07 Fri 10:12]--[2014-11-07 Fri 11:07] =>  0:55
+CLOCK: [2014-11-07 Fri 08:11]--[2014-11-07 Fri 09:53] =>  1:42
+:END:
+| ITEM NO. | ITEM DESCRIPTION                                   | UNIT           | QUANTITY  | UNIT BID PRICE | AMOUNT BID |
+|----------+----------------------------------------------------+----------------+-----------+----------------+------------|
+| 643 (2)  | TRAFFIC MAINTENANCE                                | LUMP SUM       | All Req'd | LUMP SUM       |            |
+| 643 (3)  | PERMANENT CONSTRUCTION SIGNS                       | LUMP SUM       | All Req'd | LUMP SUM       |            |
+| 643 (15) | FLAGGING                                           | CONTINGENT SUM | All Req'd | CONTINGENT SUM |            |
+| 643 (20) | DETOUR                                             | LUMP SUM       | All Req'd | LUMP SUM       |            |
+| 643 (23) | TRAFFIC PRICE ADJUSTMENT                           | CONTINGENT SUM | All Req'd | CONTINGENT SUM |            |
+| 643 (25) | TRAFFIC CONTROL                                    | CONTINGENT SUM | All Req'd | CONTINGENT SUM |            |
+| 643 (36) | INTERIM LANE CONFIGURATION TRAFFIC CONTROL DEVICES | LUMPS SUM      | All Req'd | LUMP SUM       |            |
+
+**** DONE Contact ASD                                          :prj:karin:
+CLOSED: [2014-11-19 Wed 07:47]
+:LOGBOOK:
+- State "DELEGATED"  from "TODO"       [2014-11-05 Wed 13:32] \\
+  delegated to Karin
+:END:
+:PROPERTIES:
+:ID:       1f4b2506-626f-4a1f-a4fe-0c8dad0853cb
+:on:       <2014-11-07 Fri 12:31>
+:at:       Telephone
+:END:
+**** DONE Get blue book, research specs
+   CLOSED: [2014-10-30 Thu 13:40]
+  :LOGBOOK:
+  CLOCK: [2014-10-29 Wed 07:34]--[2014-10-29 Wed 09:37] =>  2:03
+  CLOCK: [2014-10-28 Tue 13:35]--[2014-10-28 Tue 17:33] =>  3:58
+  CLOCK: [2014-10-28 Tue 10:32]--[2014-10-28 Tue 12:13] =>  1:41
+  CLOCK: [2014-10-27 Mon 15:22]--[2014-10-27 Mon 15:50] =>  0:28
+  :END:
+:PROPERTIES:
+:ID:       02c9fe48-824e-4754-b1db-448cef680ab0
+:END:
+[2014-10-27 Mon 15:22]
+[[file:~/git/org/abbott.org::*Garrett][Garrett]]
+
+Available online at [[http://www.dot.state.ak.us/stwddes/dcsspecs/index.shtml ]]
+
+**** DONE BIDTABS accounts for Jared and Garrett
+CLOSED: [2014-11-13 Thu 12:48]
+   :LOGBOOK:
+   - State "DONE"       from "HOLD"       [2014-11-13 Thu 12:48]
+   CLOCK: [2014-10-30 Thu 13:24]--[2014-10-30 Thu 13:39] =>  0:15
+   :END:
+[2014-10-29 Wed 12:41]
+
+[[outlook:00000000910682B0D29B304A8E16A9B42C4ACF5B07000282B60224BDCA439465B2C86147F76C00006087000B00000282B60224BDCA439465B2C86147F76C0000611145320000][MESSAGE: Bidtab account (Marvin, LeEric S (DOT))]]
+
+
+[2014-11-07 Fri 10:51]
+**** DONE Set up meeting with AWWU
+CLOSED: [2014-10-28 Tue 10:32]
+:PROPERTIES:
+:ID:       e13d55b3-b700-4155-8563-17cdac6423d5
+:END:
+**** DONE Utility Conflicts                                           :RH:
+CLOSED: [2014-10-24 Fri 08:10]
+:PROPERTIES:
+:ID:       fe864ad7-6e53-43aa-8014-7301cc4ba776
+:END:
+[2014-10-22 Wed 12:20]
+
+- [[outlook:00000000910682B0D29B304A8E16A9B42C4ACF5B07000282B60224BDCA439465B2C86147F76C00006087000B00000282B60224BDCA439465B2C86147F76C0000611144DF0000][MESSAGE: Abbott Rd Rehab - AWWU Conflicts (Hebnes, RaeAnne)]]
+**** DONE List of details
+CLOSED: [2014-11-07 Fri 08:04]
+:LOGBOOK:
+CLOCK: [2014-11-07 Fri 07:29]--[2014-11-07 Fri 08:04] =>  0:35
+CLOCK: [2014-11-06 Thu 14:50]--[2014-11-06 Thu 16:40] =>  1:50
+:END:
+   [2014-11-06 Thu 13:53]
+A. note that I didn't see any pertinent details sheets in [[http://www.dot.state.ak.us/creg/design/highways/acad/drawings/Regional_Details/]]
+B. The following is a list compiled from all [[http://www.dot.state.ak.us/creg/design/highways/Projects/][project plans listed on the DOT FTP site.]]
+   1. 51922: HSIP: International Airport Road at Jewel Lake Road
+      + TEMPORARY TRAFFIC SIGNALS SPAN WIRE DETAILS
+      + TEMPORARY WOOD TRAFFIC POLE DETAILS OVERHEAD SERVICE
+      + TEMPORARY WOOD TRAFFIC POLE DETAILS UNDERGROUND SERVICE
+   2. 54985: Parks Highway M.P. 72-83, Willow to Kashwitna
+      + TRAFFIC CONTROL TYPICAL CONSTRUCTION SEQUENCE SIGNING (no lane closure, two-way)
+      + TRAFFIC CONTROL PERMANENT CONSTRUCTION SIGNS
+      + TRAFFIC CONTROL TYPICAL CONSTRUCTION SEQUENCE
+   3. 55967: Glenn Highway Chickaloon Bridge
+      + TEMPORARY TRAFFIC CONTROL ADVANCE SIGNING
+      + TEMPORARY PAVEMENT MARKINGS
+      + TEMPORARY TRAFFIC CONTROL SINGLE LANE CLOSURE LAYOUT (WITH FLAGGERS)
+      + TEMPORARY TRAFFIC CONTROL SINGLE LANE CLOSURE LAYOUT (WITH SIGNALS)
+      + TEMPORARY TRAFFIC CONTROL SINGLE LANE CLOSURE LAYOUT (WITH TEMPORARY BARRIER)
+      + TEMPORARY TRAFFIC CONTROL SIGN INSTALLATION WOOD POSTS
+   4. 56530: Muldoon Road Landscaping and Pedestrian Improvements, Phase III
+      + PERMANENT CONSTRUCTION SIGNS
+      + TEMPORARY SIDEWALK
+      + SHIFTING TAPER TO 2-WAY LEFT TURN LANE
+      + MERGING TAPER WITH LANE DROP
+   5. 57057: Girdwood Streets and Drainage Improvements
+      + PERMANENT CONSTRUCTION SIGNS
+      + TRAFFIC CONTROL PHASE 1 - 4 (contains DETOUR MAP and LEGEND)
+      + devices required for EMBANKMENT SECTION, BACKSLOPE SECTION, CUT AND GUTTER SECTION, FORESLOPE SECTION
+   6. 59770: Seward Highway: 92nd Avenue Connector
+      + PERMANENT CONSTRUCTION SIGNS
+      + PERMANENT CONSTRUCTION SIGN DETAILS
+      + TRAFFIC CONTROL PHASE I - IV
+      + TRAFFIC CONTROL CONSTRUCTION DETOUR TAPER PHASE I & II
+      + TRAFFIC CONTROL DEVICES FOR ROADSIDES
+      + TRAFFIC CONTROL DETOUR PHASE I - II
+C. The following checked details I consider pertinent to the Abbott Road project 	
+   - [X] DEVICES REQUIRED for EMBANKMENT SECTION, BACKSLOPE SECTION, CUT AND GUTTER SECTION, FORESLOPE SECTION
+   - [X] MERGING TAPER WITH LANE DROP
+   - [X] PERMANENT CONSTRUCTION SIGN DETAILS
+   - [X] PERMANENT CONSTRUCTION SIGNS
+   - [X] SHIFTING TAPER TO 2-WAY LEFT TURN LANE
+     - or right turn lane
+   - [X] TEMPORARY PAVEMENT MARKINGS
+   - [X] TEMPORARY SIDEWALK
+   - [X] TEMPORARY TRAFFIC CONTROL SIGN INSTALLATION WOOD POSTS
+   - [X] TEMPORARY TRAFFIC CONTROL SINGLE LANE CLOSURE LAYOUT (WITH FLAGGERS)
+   - [X] TEMPORARY TRAFFIC CONTROL SINGLE LANE CLOSURE LAYOUT (WITH SIGNALS)
+   - [X] TEMPORARY TRAFFIC CONTROL SINGLE LANE CLOSURE LAYOUT (WITH TEMPORARY BARRIER)
+   - [X] TEMPORARY TRAFFIC SIGNALS SPAN WIRE DETAILS
+   - [X] TEMPORARY WOOD TRAFFIC POLE DETAILS OVERHEAD SERVICE
+   - [X] TRAFFIC CONTROL CONSTRUCTION DETOUR TAPER PHASE I & II
+   - [X] TRAFFIC CONTROL DETOUR PHASE I - II
+   - [X] TRAFFIC CONTROL PHASE 1 - 4 (contains DETOUR MAP and LEGEND)
+   - [X] TRAFFIC CONTROL PHASE I - IV
+   - [X] TRAFFIC CONTROL TYPICAL CONSTRUCTION SEQUENCE SIGNING (no lane closure, two-way)
+   - [ ] PERMANENT CONSTRUCTION SIGNS
+   - [ ] PERMANENT CONSTRUCTION SIGNS
+   - [ ] TEMPORARY TRAFFIC CONTROL ADVANCE SIGNING
+   - [ ] TEMPORARY WOOD TRAFFIC POLE DETAILS UNDERGROUND SERVICE
+   - [ ] TRAFFIC CONTROL DEVICES FOR ROADSIDES
+   - [ ] TRAFFIC CONTROL PERMANENT CONSTRUCTION SIGNS
+   - [ ] TRAFFIC CONTROL TYPICAL CONSTRUCTION SEQUENCE
+
+
+**** PROJECT USED FOR REFERENCE
+- [[T:\AKDOT\143833 - DOT&PF Abbott Rd Design\04 CADD\Working\JT\specsAndProvisions\Sample PJs][52119 Northern Lights Blvd at UAA Drive]]
+- 
+
+
+
+**** DONE Traffic control plan
+CLOSED: [2014-11-13 Thu 09:10] DEADLINE: <2014-11-13 Thu>
+:LOGBOOK:
+CLOCK: [2014-11-13 Thu 07:56]--[2014-11-13 Thu 09:10] =>  1:14
+- State "WAITING"    from "TODO"       [2014-11-12 Wed 16:08] \\
+  on comments from Derek and Garrett
+CLOCK: [2014-11-12 Wed 15:57]--[2014-11-12 Wed 16:02] =>  0:05
+CLOCK: [2014-11-11 Tue 07:39]--[2014-11-11 Tue 07:54] =>  0:15
+CLOCK: [2014-11-10 Mon 10:01]--[2014-11-10 Mon 10:03] =>  0:02
+CLOCK: [2014-11-06 Thu 13:53]--[2014-11-06 Thu 13:58] =>  0:05
+CLOCK: [2014-11-06 Thu 12:57]--[2014-11-06 Thu 13:10] =>  0:13
+CLOCK: [2014-11-06 Thu 12:41]--[2014-11-06 Thu 12:55] =>  0:14
+CLOCK: [2014-11-06 Thu 10:01]--[2014-11-06 Thu 11:59] =>  1:58
+CLOCK: [2014-11-06 Thu 07:53]--[2014-11-06 Thu 09:29] =>  1:36
+CLOCK: [2014-11-05 Wed 13:31]--[2014-11-05 Wed 16:53] =>  3:22
+CLOCK: [2014-10-31 Fri 10:13]--[2014-10-31 Fri 11:13] =>  1:00
+CLOCK: [2014-10-31 Fri 10:03]--[2014-10-31 Fri 10:13] =>  0:10
+CLOCK: [2014-10-30 Thu 08:24]--[2014-10-30 Thu 12:00] =>  3:36
+CLOCK: [2014-10-30 Thu 07:52]--[2014-10-30 Thu 08:24] =>  0:32
+CLOCK: [2014-10-29 Wed 12:03]--[2014-10-29 Wed 16:19] =>  4:16
+CLOCK: [2014-10-29 Wed 11:03]--[2014-10-29 Wed 11:27] =>  0:24
+:END:
+:PROPERTIES:
+:ID:       48f00ca9-65c8-4ce2-9cbf-1d2f6c416457
+:END:
+***** Details
+***** DWGs
+[2014-11-10 Mon 13:15]
+***** Similar projects for reference
+****** Special provisions guide
+- [[http://www.dot.state.ak.us/creg/design/highways/specs/Specification_Provision_Guides/CR_Project_Provisions-Guide-060113NavPane.doc][Project Provisions guide .doc]]
+[2014-10-28 Tue 15:35]
+****** 88th Street Improvements, 54601
+- [[http://www.dot.state.ak.us/creg/design/highways/specs/Proj_Specs_Archive/54601-BID-043014.doc][Standard specs .doc]]
+[2014-10-28 Tue 15:32]
+[2014-10-28 Tue 15:32]
+****** Northern Lights at UAA Drive
+- [[T:\AKDOT\143833 - DOT&PF Abbott Rd Design\04 CADD\Working\JT\specsAndProvisions\Sample PJs][T:\AKDOT\143833 - DOT&PF Abbott Rd Design\04 CADD\Working\JT\specsAndProvisions\Sample PJs]]
+***** DONE Garrett's list
+CLOSED: [2014-11-10 Mon 13:13]
+    :LOGBOOK:
+    CLOCK: [2014-11-11 Tue 16:27]--[2014-11-11 Wed 07:35] => 15:08
+    CLOCK: [2014-11-11 Tue 15:45]--[2014-11-11 Tue 16:27] =>  0:42
+    CLOCK: [2014-11-05 Wed 13:22]--[2014-11-05 Wed 13:31] =>  0:09
+    CLOCK: [2014-11-05 Wed 07:35]--[2014-11-05 Wed 12:35] =>  5:00
+    CLOCK: [2014-11-04 Tue 12:53]--[2014-11-04 Tue 16:45] =>  3:52
+    CLOCK: [2014-11-04 Tue 12:52]--[2014-11-04 Tue 12:53] =>  0:01
+    CLOCK: [2014-11-04 Tue 11:31]--[2014-11-04 Tue 12:01] =>  0:30
+    CLOCK: [2014-11-04 Tue 08:11]--[2014-11-04 Tue 11:30] =>  3:19
+    CLOCK: [2014-11-03 Mon 07:48]--[2014-11-03 Mon 07:57] =>  0:09
+    CLOCK: [2014-10-30 Thu 12:30]--[2014-10-30 Thu 16:45] =>  3:04
+    CLOCK: [2014-10-30 Thu 13:23]--[2014-10-30 Thu 13:24] =>  0:01
+    :END:
+    [[outlook:00000000910682B0D29B304A8E16A9B42C4ACF5B07000282B60224BDCA439465B2C86147F76C00006087000B00000282B60224BDCA439465B2C86147F76C0000611145200000][MESSAGE: FW: Abbott Road Example Project for ESCP/Traffic Control (Thatcher, Garrett)]]
+****** EFFORT 2 103114
+******* DONE Compile word doc of specs
+CLOSED: [2014-11-06 Thu 14:50]
+:LOGBOOK:
+CLOCK: [2014-11-05 Wed 13:34]--[2014-11-05 Wed 16:41] =>  3:07
+CLOCK: [2014-11-03 Mon 13:17]--[2014-11-05 Wed 13:34] => 48:17
+CLOCK: [2014-11-03 Mon 07:57]--[2014-11-03 Mon 12:05] =>  4:08
+CLOCK: [2014-10-31 Fri 14:04]--[2014-10-31 Fri 17:00] =>  2:56
+CLOCK: [2014-10-31 Fri 11:13]--[2014-10-31 Fri 13:07] =>  1:54
+:END:
+[2014-10-31 Fri 11:13]
+******** DONE Follow up required
+CLOSED: [2014-11-05 Wed 13:33]
+- [ ] 643-3.02 Roadway characteristics during construction
+- [ ] 643-3.08 Lane restriction schedule
+- [ ] 643-3.09 INTERIM PAVEMENT MARKING
+- [ ] 643-4.01 METHOD OF MEASUREMENT
+- [ ] 643-5.01 BASIS OF PAYMENT
+- [ ] TABLE 643-4
+  - Steel F Barrier?
+[2014-11-03 Mon 11:31]
+[2014-11-03 Mon 11:28]
+******** Special Provisions
+  - 643-CR6431-021414
+    - [ ] CR306
+    - [ ] CR409.408.401
+    - [ ] CR6068.7.6.5.4.3.2.1
+    - [ ] CR615
+    - [ ] CR246
+    - [ ] E85.84.8
+    - [ ] CR81.86
+******** Standard modifications
+- from [[U:/MTravis/ref/DOT/stdmods_eng.pdf][2014 standard modifications, local]]
+  [[http://www.dot.state.ak.us/stwddes/dcsspecs/assets/pdf/hwyspecs/stdmods/stdmods_eng.pdf][- online: 2014 Standard Modifications]]
+  - STANDARD MODIFICATION 10/04/10
+- [[http://www.dot.state.ak.us/creg/design/highways/specs/Specification_Provision_Guides/CR_Project_Provisions-Guide-060113NavPane.doc][GUIDE, SPECIAL PROVISION]]
+E 75 Replaces E 62
+******** Pay items
+- 643(15) Flagging
+- 643(23) Traffic Price Adjustment
+- 643(25) Traffic Control
+[2014-11-03 Mon 11:30]
+[2014-11-03 Mon 11:30]
+****** EFFORT 1 103014
+Hey Garrett, here's my progress on your tasks:
+******** Questions/Notes
+Tasks listed below
+     1. Task 1
+        - Has this already been done? (Regional and standard drawings are listed on project's title page).
+	- Note that there are standard drawings listed on project plan's title page which are not availabe at [[http://www.dot.state.ak.us/stwddes/dcsprecon/stddwgspages/traffic_eng.shtml][DOT webpage]](C-05.10, G-00.01, G-04.06S, G-04.07W, G-20.10, S-00100, S-31.00 and T-21.02)
+        - Will we require a Standard drawing or standard drawing modification for fish culvert? (Maybe this is a detail?)
+	- Will we include a modification to I-20.14 Parallel Curb Ramp (as 54601 88th Ave upgrade did)?
+     2. Task 2
+	- Please review consolidated list above
+	- I went through several DOT plans sets for sample details, and established what might be considered a standard list of details. I did not come across the slope requiring guard rail detail you mentioned you used in northern region.
+     3. Task 3
+	- I'm not 100% sure that [[http://www.dot.state.ak.us/creg/design/highways/specs/AllProvisions/643-CR6431-021414.doc][643-CR6431-021414.doc]] is the most recent Spec 643. 021313 is incorporated in the document title (643-CR6431-021414.doc), but all versions were uploaded on the same date (13-Mar-2014) 
+	- There is no language in 643-CR6431-021414.doc pertaining to half width construction or ramping.
+	  * I can make an effort at the language . . . but should we wait to see what the construction plan is?
+     4. Task 4
+	- I'll hold until we hear from Derek.
+     
+******** Task list
+********* Provide a list to DOT concerning which traffic control standard drawings need to be placed in the planset.
+       - Consolidated standard drawings list
+	   * [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/c0310.pdf][C-03.10 Pedestrian TrafficControl]]
+	   * [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/c0412.pdf][C-04.12 Location of Double Traffic Fine Signs]]
+	   * [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/c_0520.pdf][C-05.20 Interim Pavement Markings]]
+	   * [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/d0102.pdf][D-01.02 Culvert Pipe and Arch Installation Details]]
+	   * [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/d0421a.pdf][D-04.21 Pipe and Arch Tables 1]], [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/d0421b.pdf][D-04.21 Pipe and Arch Tables 2]], [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/d0421c.pdf][D-04.21 Pipe and Arch Tables 3]], [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/d0421d.pdf][D-04.21 Pipe and Arch Tables 4]]
+	   * [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/d0610a.pdf][D-06.10 Culvert End Sections 1]], [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/d0610b.pdf][Culvert End Sections 2]], [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/d0610c.pdf][Culvert End Sections 3]]
+	   * [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/d2003.pdf][D-20.03 Manholes, Frame, and Cover]]
+	   * [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/d2201.pdf][D-22.01 Stormdrain Manhole Frame & Grate Details]]
+	   * [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/d2301.pdf][D-23.01 Curb Inlet Box, Frame, and Grate]]
+	   * [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/d2400.pdf][D-24.00 Inlet Frame and Grates]]
+	   * [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/d2500a.pdf][D-25.00 High Capacity Curb Inlet Box, Frame & Grate (1 of 2)]], [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/d2500b.pdf][D-25.00 High Capacity Curb Inlet Box, Frame & Grate (2 of 2)]]
+	   * [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/d2602.pdf][D-26.02 Type "A" Inlet Boxes]]
+	   * [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/d3001.pdf][D-30.01 Headwalls]]
+	   * [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/d3500.pdf][D-35.00 48" Stormdrain Manhole]]
+	   * [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/d3600.pdf][D-36.00 72" Stormdrain Manhole]]
+	   * [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/g1001.pdf][G-10.01 Beam Guardrail Post Installation]]
+	   * [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/g2800.pdf][G-28.00 Long Span W Beam Guardrail]]
+	   * [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/g3100.pdf][G-31.00 Bridge Rail Thrie Beam Transition]]
+	   * [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/i20_14.pdf][I-20.14 Curb Cut, Curb and Gutter, and Curb Ramp Details]]
+	   * [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/i21_02.pdf][I-21.02 Parallel Curb Ramp]]
+	   * [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/i22_02.pdf][I-22.02 Perpendicular Curb Ramp]]
+	   * [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/l30_10.pdf][L-30.10 Concrete Street Pole Light Foundations]]
+	   * [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/m20_13.pdf][M-20.13 Mailbox Location]]
+	   * [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/m2312p1.pdf][M-23.12 Mailbox Installation]], [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/m2312p2.pdf][M-23.12 Mailbox Mounting and Anchoring Details]]
+	   * [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/s00_11.pdf][S-00.11 Sign Framing and Post Spacing]]
+	   * [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/s0100.pdf][S-01.00 Bracing for Signs Mounted on Single Post]]
+	   * [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/s0501.pdf][S-05.01 Post Mounted Sign Offset and Height]]
+	   * [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/s2010.pdf][S-20.10 Sign to Sign Post Connections]]
+	   * [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/s3003.pdf][S-30.03 Light Sign Structure Post Embedment]]
+	   * [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/s3200.pdf][S-32.00 Sign Post Base and Foundation Behind Barrier]]
+	   * [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/t0510.pdf][T-05.10 Guide Marker Placement]]
+	   * [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/t20_03.pdf][T-20.03 Pavement Marking Applications]]
+	   * [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/t21_03.pdf][T-21.03 Pavement Marking Applications]]
+	   * [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/t2203.pdf][T-22.03 Pavement Marking Symbol Dimensions]]
+	   * [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/t2300.pdf][T-23.00 Crosswalk Location at Intersections]]
+       - For reference, I used the plan set for [[http://www.dot.state.ak.us/creg/design/highways/Projects/54601/54601_Plans.pdf][54601 88th Ave upgrade]] which references the following standard drawings:
+	 * C-03.10, C-04.12, C-05.20
+	 * D-01.02, D-04.21, D-06.10, D-20.03, D-22.01, D-23.01, D-24.00, D-25.00, D26.02, D-35.00, D-36.00
+	 * I-20.14 (modified), I-21.02, I-22.02
+	 * L-30.10
+	 * M-20.13, M-23.12
+	 * S-00.11, S-01.00, S-05.01, S-20.10, S-30.03
+	 * T-21.03, T-22.03, T-23.00
+       - I used 54601 and the current Abbott plan set to develop the consolidated list above. The checked items below comprise the consolidated list above:
+	 + C - Construction-Barricades & Signing [3/3]
+	   * [X] [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/c0310.pdf][C-03.10 Pedestrian TrafficControl]]
+	   * [X] [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/c0412.pdf][C-04.12 Location of Double Traffic Fine Signs]]
+	   * [X] [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/c_0520.pdf][C-05.20 Interim Pavement Markings]]
+	 + D - Drainage-Culverts & Sewers [12/24]
+	   * [X] [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/d0102.pdf][D-01.02 Culvert Pipe and Arch Installation Details]]
+	   * [X] [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/d0421a.pdf][D-04.21 Pipe and Arch Tables 1]], [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/d0421b.pdf][D-04.21 Pipe and Arch Tables 2]], [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/d0421c.pdf][D-04.21 Pipe and Arch Tables 3]], [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/d0421d.pdf][D-04.21 Pipe and Arch Tables 4]]
+	   * [X] [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/d0610a.pdf][D-06.10 Culvert End Sections 1]], [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/d0610b.pdf][Culvert End Sections 2]], [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/d0610c.pdf][Culvert End Sections 3]]
+	   * [ ] [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/d0700.pdf][D-07.00 Culvert Bevels]]
+	   * [ ] D-09.00 Culvert Marker Post  
+	   * [ ] D-10.02 Culvert Thaw Pipe  
+	   * [ ] D-11.01 Culvert Circulating Thaw Pipe  
+	   * [ ] D-13.10 Culvert Thaw Wire Installation (1 of 2)  
+	   * [ ] D-13.10 Culvert Thaw Wire Installation (2 of 2)  
+	   * [ ] D-14.10 Remote Thaw Wire Installation  
+	   * [X] [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/d2003.pdf][D-20.03 Manholes, Frame, and Cover]]
+	   * [X] [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/d2201.pdf][D-22.01 Stormdrain Manhole Frame & Grate Details]]
+	   * [X] [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/d2301.pdf][D-23.01 Curb Inlet Box, Frame, and Grate]]
+	   * [X] [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/d2400.pdf][D-24.00 Inlet Frame and Grates]]
+	   * [X] [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/d2500a.pdf][D-25.00 High Capacity Curb Inlet Box, Frame & Grate (1 of 2)]], [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/d2500b.pdf][D-25.00 High Capacity Curb Inlet Box, Frame & Grate (2 of 2)]]
+	   * [X] [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/d2602.pdf][D-26.02 Type "A" Inlet Boxes]]
+	   * [X] [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/d3001.pdf][D-30.01 Headwalls]]
+	   * [X] [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/d3500.pdf][D-35.00 48" Stormdrain Manhole]]
+	   * [X] [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/d3600.pdf][D-36.00 72" Stormdrain Manhole]]
+	   * [ ] D-37.01 84" — 144" Stormdrain Manhole  
+	   * [ ] D-42.11 Type "C" Inlet Box, 18-Inch Pipe on 4:1 Slope  
+	   * [ ] D-43.11 Type "D" Inlet Box, 18-Inch Pipe on 4:1 Slope  
+	   * [ ] D-44.11 Type "C" Inlet Box, 24-Inch Pipe on 4:1 Slope  
+	   * [ ] D-45.11 Type "D" Inlet Box, 24-Inch Pipe on 4:1 Slope
+	 + G - Guardrail, Median Barr. & Crash Cush. [3/25]
+	   * [ ] G-00.02 Standard Guardrail Hardware (Nuts, Bolts, Washers)
+	   * [ ] G-00.02 Standard Guardrail Hardware (Rails and Splices)
+	   * [ ] G-00.02 Standard Guardrail Hardware (Terminal Connectors)
+	   * [ ] G-00.02 Standard Guardrail Hardware (Miscellaneous)
+	   * [ ] G-01.02 GIS Cable Guardrail
+	   * [ ] G-03.02 G3S Box Beam Guardrail
+	   * [ ] G-04.10S Steel Post W-Beam Guardrail
+	   * [ ] G-04.10W Wood Post W-Beam Guardrail
+	   * [ ] G-09.04S Steel Post Modified Thrie-Beam Guardrail
+	   * [ ] G-09.04W Wood Post Thrie-Beam Guardrail
+	   * [X] [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/g1001.pdf][G-10.01 Beam Guardrail Post Installation]]
+	   * [ ] G-13.00 W Beam Guardrail Downstream End Anchor
+	   * [ ] G-15.10 Beam Guardrail Buried-In-Backslope Terminal
+	   * [ ] G-15.10 Beam Guardrail Buried-In-Backslope Terminal Concrete Anchor and Misc.
+	   * [ ] G-15.10 Beam Guardrail Buried-In-Backslope Terminal Rub-rail and Post Anchors
+	   * [ ] G-20.11 Widening for Guardrail End Terminals
+	   * [ ] G-25.21W Wood Post Controlled Release Terminal (CRT)
+	   * [ ] G-25.21W Wood Post Controlled Release Terminal Anchors
+	   * [ ] G-25.21W Wood Post Controlled Release Terminal Anchor Posts
+	   * [ ] G-27.11 Guardrail Stiffening at Obstacles (1 of 2), G-27.11 Guardrail Stiffening at Obstacles (2 of 2)
+	   * [X] [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/g2800.pdf][G-28.00 Long Span W Beam Guardrail]]
+	   * [ ] G-30.00 Bridge Rail W Beam Transition
+	   * [X] [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/g3100.pdf][G-31.00 Bridge Rail Thrie Beam Transition]]
+	   * [ ] G-46.11 Sheet 1 Precast Concrete "F" Shape Barrier
+	   * [ ] G-46.11 Sheet 2 Precast Concrete "F" Shape Barrier
+	 + I - Intersections, Approaches & Pvmt [3/5]
+	   * [X] [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/i20_14.pdf][I-20.14 Curb Cut, Curb and Gutter, and Curb Ramp Details]]
+	   * [X] [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/i21_02.pdf][I-21.02 Parallel Curb Ramp]]
+	   * [X] [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/i22_02.pdf][I-22.02 Perpendicular Curb Ramp]]
+	   * [ ] I-30.10 Accessible Parking
+	   * [ ] I-81.00 Superelevation Transition
+	 + L - Luminaires & Lighting Standards [1/6]
+	   * [ ] L-03.10 Lighting Standard  
+	   * [ ] L-23.01 Junction Boxes for Electrolier  
+	   * [ ] L-24.00 Type 1 Load Center (1 of 2), L-24.00 Type 1 Load Center (2 of 2)  
+	   * [ ] L-25.00 Type 1A Load Center  
+	   * [ ] L-26.00 Type 2 and 3 Load Centers  
+	   * [X] [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/l30_10.pdf][L-30.10 Concrete Street Pole Light Foundations]]
+	 + M - Miscellaneous [2/6]
+	   * [ ] M-01.00 Concrete Stairs  
+	   * [ ] M-05.00 Wooden Stairs  
+	   * [ ] M-13.01 Survey Monument  
+	   * [ ] M-16.01 Brass Cap Monument and Monument Case  
+	   * [X] [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/m20_13.pdf][M-20.13 Mailbox Location]]
+	   * [X] [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/m2312p1.pdf][M-23.12 Mailbox Installation]], [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/m2312p2.pdf][M-23.12 Mailbox Mounting and Anchoring Details]]
+	 + S - Sign & Sign Supports [6/12]
+	   * [X] [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/s00_11.pdf][S-00.11 Sign Framing and Post Spacing]]
+	   * [X] [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/s0100.pdf][S-01.00 Bracing for Signs Mounted on Single Post]]
+	   * [X] [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/s0501.pdf][S-05.01 Post Mounted Sign Offset and Height]]
+	   * [X] [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/s2010.pdf][S-20.10 Sign to Sign Post Connections]]
+	   * [ ] S-22.00 Standard Overhead Sign and Base Structure  
+	   * [ ] S-22.00 Overhead Sign Structure and Assembly Details  
+	   * [ ] S-23.00 Pole and Mastarm Sign Mounting  
+	   * [X] [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/s3003.pdf][S-30.03 Light Sign Structure Post Embedment]]
+	   * [ ] S-31.01 Sign and Post Base and Foundation
+	   * [X] [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/s3200.pdf][S-32.00 Sign Post Base and Foundation Behind Barrier]]
+	   * [ ] S-41.02 Cantilever Sign Support  
+	   * [ ] S-52.01 Overhead Sign Mounting
+         + T - Traffic Control [5/19]
+	   * [X] [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/t0510.pdf][T-05.10 Guide Marker Placement]]
+	   * [ ] T-06.00 Recessed Pavement Markers  
+	   * [X] [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/t20_03.pdf][T-20.03 Pavement Marking Applications]]
+	   * [X] [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/t21_03.pdf][T-21.03 Pavement Marking Applications]]
+	   * [X] [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/t2203.pdf][T-22.03 Pavement Marking Symbol Dimensions]]
+	   * [X] [[http://www.dot.state.ak.us/stwddes/dcsprecon/assets/pdf/stddwgs/eng/t2300.pdf][T-23.00 Crosswalk Location at Intersections]]
+	   * [ ] T-25.00 Milled Rumble Strip (1 of 3), T-25.00 Milled Rumble Strip (2 of 3), T-25.00 Milled Rumble Strip (3 of 3)  
+	   * [ ] T-30.11 Traffic Signal Hardware (1 of 2), T-30.11 Traffic Signal Hardware (2 of 2)
+	   * [ ] T-31.00 Traffic Signal and Accessories Foundation  
+	   * [ ] T-32.10 Loop Detector Installation  
+	   * [ ] T-34.01 Junction Boxes for Traffic Signals  
+	   * [ ] T-35.00 Controller Cabinet Foundation  
+	   * [ ] T-40.00 Slip Base for Post Mounted Traffic Signals  
+	   * [ ] T-52.20 Concrete 42" Diameter Signal Pole Foundation  
+	   * [ ] T-53.00 Concrete 48" Diameter Signal Pole Foundation
+	   * [ ] T-56.00 Signal Pole with 55' to 65' Mastarm   
+	   * [ ] T-54.00 Signal Pole with 15' to 35' Mastarm  
+	   * [ ] T-55.00 Signal Pole with 40' to 50' Mastarm  
+	   * [ ] T-57.00 Signal Pole with 70' to 75' Mastarm   
+********* Traffic Control Details
+       - Consolidated details list
+	 + Approach details
+	 + Curb & Gutter details
+	 + Driveway details
+	 + ESCP detail
+	 + Erosion Control details
+	 + Insulation Board detail
+	 + Light Sign Framing and Attachment detail
+	 + Perpendicular curb ramp detail
+	 + Sign Attachment details
+	 + Silt Fence details
+	 + Storm Drain and Structure Conflict details
+	 + Storm Drain detail
+	 + Unidirectional Curb Ramp and Warning Tile details
+       - Plans reviewed for details
+	 * [[http://www.dot.state.ak.us/creg/design/highways/Projects/54601/54601_Plans.pdf][54601 Plans 88th AVE UPGRADE]]
+	   + Driveway details
+	   + Approach details
+	   + Curb & Gutter details
+	   + Unidirectional Curb Ramp and Warning Tile details
+	   + Storm Drain and Structure Conflict details
+	   + Sign Attachment details
+	 * [[http://www.dot.state.ak.us/creg/design/highways/Projects/54713/54713_Plans.pdf][54713 Plans HSIP12: GLENN HIGHWAY AND MULDOON ROAD INTERCHANGE SIGNALS]]
+	 * [[http://www.dot.state.ak.us/creg/design/highways/Projects/50946/50946FinalDraftPlans7-31-09.pdf][50946 Plans AMATS: OLD GLENN HIGHWAY S. BIRCHWOOD LOOP TO PETERS CREEK]]
+	   + Silt Fence details
+	   + Erosion Control details
+	   + Light Sign Framing and Attachment Details
+	   + Sign Attachment details
+	 * [[http://www.dot.state.ak.us/creg/design/highways/Projects/51922/51922_plans.pdf][51922 Plans HSIP: INTERNATIONAL AIRPORT ROAD AT JEWEL LAKE ROAD]]
+	   + Curb & Gutter detail
+	   + Perpendicular curb ramp detail
+	   + Storm Drain detail
+	   + Insulation Board detail
+	   + Sign Attachment detail
+	   + Light Sign Framing and Attachment detail
+	   + ESCP detail
+********* Specifications
+       - [[http://www.dot.state.ak.us/creg/design/highways/specs/AllProvisions/643-CR6431-021414.doc][Most recent Spec 643]]
+********** Pay Items and Estimate
+***** DONE cross check culvert tally with DSR
+CLOSED: [2014-11-10 Mon 13:13]
+:LOGBOOK:
+CLOCK: [2014-11-10 Mon 12:57]--[2014-11-10 Mon 13:13] =>  0:16
+CLOCK: [2014-11-10 Mon 11:34]--[2014-11-10 Mon 12:20] =>  0:46
+:END:
+  - note which culverts are to be extended vs replaced
+   [2014-11-10 Mon 11:32]
+  - no culvert tally in [[T:\AKDOT\143833 - DOT&PF Abbott Rd Design\03 Reference Material][DSR]]
+  - culverts in solid heavy line are to be 100% replaced
+    - [[outlook:00000000910682B0D29B304A8E16A9B42C4ACF5B07000282B60224BDCA439465B2C86147F76C00006087000B00000282B60224BDCA439465B2C86147F76C0000611145B00000][MESSAGE: RE: Culverts replaced vs extended (Hartman, Gregory J (DOT))]]
+***** DONE asphalt calc
+CLOSED: [2014-11-11 Tue 15:40]
+:LOGBOOK:
+- Note taken on [2014-11-12 Wed 14:06] \\
+  Tonnage edited to 2575 tons. Am looking into removing temp asphalt component.
+CLOCK: [2014-11-11 Tue 12:39]--[2014-11-11 Tue 15:40] =>  3:01
+CLOCK: [2014-11-11 Tue 09:48]--[2014-11-11 Tue 12:20] =>  2:32
+CLOCK: [2014-11-11 Tue 07:54]--[2014-11-11 Tue 09:45] =>  1:51
+:END:
+:PROPERTIES:
+:on:       <2014-11-11 Tue 13:00>
+:END:
+[2014-11-11 Tue 07:54]
+[[file:~/git/org/abbott.org::*Sharepoint][Sharepoint]]
+[[outlook:00000000910682B0D29B304A8E16A9B42C4ACF5B07000282B60224BDCA439465B2C86147F76C00006087000B00000282B60224BDCA439465B2C86147F76C0000611145D80000][MESSAGE: RE: WebEx (Travis, Jared M)]]
+
++Temporary asphalt estimated tonnage: 2715 tons+ 
+
+ASSUMPTIONS:
+1.	Asphalt volumes include new and removed pipe trench top surface and road widening (per Bob Anderson, DOT)
+2.	6 ft invert depth below Abbott (with the exception of Campbell Creek, with 15 ft depth)
+3.	4 ft invert depth below side roads and driveways
+4.	Base of trench width = pipe diameter plus 1 ft (with the exception of Campbell Creek, with plus 5 ft)
+5.	Trenching with a 2:1 slope (m=2)
+6.	2 in depth of asphalt
+7.	145 lbs/ft3 asphalt
+8.	½ width construction leaving south side of Abbott open to traffic (temporary asphalt only counted for south side of Abbott)
+9.	10% bonus asphalt for good measure
+10.	I did not account for temp asphalt for affected sidewalk areas
+[[outlook:00000000910682B0D29B304A8E16A9B42C4ACF5B0700C0A793B8F8B0314D968219788477D54F000000105F5C00000282B60224BDCA439465B2C86147F76C0000611148530000][MESSAGE: Abbott: Temporary Asphalt tonnage estimate (Travis, Jared M)]]
+
+
+****** DONE Call [[bbdb:Robert%20Anderson][Robert Anderson]] re: temp asphalt
+CLOSED: [2014-11-11 Tue 07:39]
+  :LOGBOOK:
+  - State "DONE"       from "HOLD"       [2014-11-11 Tue 07:39]
+  - Note taken on [2014-11-11 Tue 07:38] \\
+    We will include temp asphalt is pay item estimate for areas above culverts and areas of new/widened road
+    [[outlook:00000000910682B0D29B304A8E16A9B42C4ACF5B07000282B60224BDCA439465B2C86147F76C00006087000B00000282B60224BDCA439465B2C86147F76C0000611145D50000][MESSAGE: Re: Abbott Rd. Rehab temp asphalt tonnage question (Anderson, Robert L (DOT))]]
+  CLOCK: [2014-11-11 Tue 07:34]--[2014-11-11 Tue 07:39] =>  0:05
+  - State "HOLD"       from "TODO"       [2014-11-10 Mon 15:31] \\
+    Emailed 111014 1530 
+    - [[outlook:00000000910682B0D29B304A8E16A9B42C4ACF5B0700C0A793B8F8B0314D968219788477D54F000000105F5C00000282B60224BDCA439465B2C86147F76C0000611148490000][MESSAGE: Abbott Rd. Rehab temp asphalt tonnage question (Travis, Jared M)]]
+  CLOCK: [2014-11-10 Mon 13:57]--[2014-11-10 Mon 13:58] =>  0:01
+  :END:
+[2014-11-10 Mon 13:57]
+[[file:~/git/org/abbott.org::*List%20of%20details][List of details]]
+
+- Will we calc temp asphalt for the entire length, south side Abbott?
+**** DONE call Bob Anderson re: temp asphalt quantitiesn
+CLOSED: [2014-11-12 Wed 14:26]
+:LOGBOOK:
+CLOCK: [2014-11-12 Wed 09:25]--[2014-11-12 Wed 11:43] =>  2:18
+:END:
+[2014-11-12 Wed 09:25]
+
+|                                                                                                                    |       |  +10% | +10%   |
+|                                                                                                                    | (yd3) | (yd3) | (tons) |
+| Sum asphalt volume based on culvert trench length, 1/2 width construction with south side of Abbott open:          |    91 |   100 | 199    |
+| South side widening asphalt volume:                                                                                |  1080 |  1188 | 2,373  |
+| 1/2 width construction, south side open to traffic, culvert trench patch, and road widening TEMPORARY ASPHALT SUM: |  1170 |  1287 | 2,572  |
+
+
+Abbott is 40 to 60 feet wide
+
+Widening is 10 - 20 feet on either side
+
+Also, two message boards: Section 643-5.01
+**** PHONE [[bbdb:Robert%20Anderson][Robert Anderson]]             :PHONE:
+:LOGBOOK:
+CLOCK: [2014-11-12 Wed 14:24]--[2014-11-12 Wed 14:28] => -4:24
+:END:
+[2014-11-12 Wed 14:24]
+
+From Bob: 
+1. Do not include temporary asphalt for widening
+
+**** PHONE [[bbdb:Robert%20Anderson][Robert Anderson]]             :PHONE:
+:LOGBOOK:
+CLOCK: [2014-11-12 Wed 09:22]--[2014-11-12 Wed 09:25] =>  0:03
+:END:
+[2014-11-12 Wed 09:22]
+
+re: temp asphalt calcs
+
+left message 
+**** DONE move provision folder to task folder structure
+  CLOSED: [2014-11-12 Wed 15:57]
+[2014-11-11 Tue 16:27]
+**** DONE QC work for Derek
+CLOSED: [2014-11-13 Thu 11:51]
+:LOGBOOK:
+CLOCK: [2014-11-12 Wed 15:26]--[2014-11-12 Wed 15:57] =>  0:31
+:END:
+[2014-11-12 Wed 15:26]
+[[file:~/git/org/abbott.org::*643-3.08%20CONSTRUCTION%20SEQUENCING][643-3.08 CONSTRUCTION SEQUENCING]]
+
+[[outlook:00000000910682B0D29B304A8E16A9B42C4ACF5B07000282B60224BDCA439465B2C86147F76C00006087000B00000282B60224BDCA439465B2C86147F76C000061114C8E0000][MESSAGE: RE: 143833 Abbott Rd Design: QC Checklist (Christianson, Derek M)]]
+[[outlook:00000000910682B0D29B304A8E16A9B42C4ACF5B07000282B60224BDCA439465B2C86147F76C00006087000B00000282B60224BDCA439465B2C86147F76C0000611143E10000][MESSAGE: FW: DOT.CR.HwyDes FW: Identifying Responsible Charge for QC/QA for all Consultant and in house submittals (Derek M Christianson)]]
+**** DONE Standard Details
+CLOSED: [2014-11-19 Wed 07:45]
+:LOGBOOK:
+- State "DONE"       from "HOLD"       [2014-11-19 Wed 07:45]
+- State "HOLD"       from "TODO"       [2014-11-13 Thu 11:50] \\
+  hold for next meeting
+CLOCK: [2014-11-13 Thu 09:10]--[2014-11-13 Thu 09:13] =>  0:03
+:END:
+:PROPERTIES:
+:dowith:   greg
+:END:
+[2014-11-13 Thu 09:11]
+[[file:~/git/org/abbott.org::*QC%20work%20for%20Derek][QC work for Derek]]
+
+- [ ] Per the cover sheet memo template: C-03.10 needs to be modified so that the typical shown in the Standard Drawing is ADA compliant
+  - this doesn't appear to have been modified in recent projects . ..  what modification(s) are required?
+- [ ] Details needed?
+  1. Detail for Portable Message Boards
+  2. Detail for roadside hazards
+**** DONE Memo
+CLOSED: [2014-11-13 Thu 11:04]
+:LOGBOOK:
+CLOCK: [2014-11-14 Fri 16:00]--[2014-11-14 Fri 16:32] =>  0:32
+CLOCK: [2014-11-13 Thu 10:50]--[2014-11-13 Thu 11:09] =>  0:19
+CLOCK: [2014-11-13 Thu 09:56]--[2014-11-13 Thu 10:50] =>  0:54
+CLOCK: [2014-11-13 Thu 09:13]--[2014-11-13 Thu 09:34] =>  0:21
+:END:
+[2014-11-13 Thu 09:13]
+[[file:~/git/org/abbott.org::*QC%20work%20for%20Derek][QC work for Derek]]
+
+[[T:\AKDOT\143833 - DOT&PF Abbott Rd Design\02 Project Documents\03 PS&E\01 TCP\working\Sample PJs][samples and templates]]
+
+- [ ] Who of TO:
+- [ ] Who for FROM:
+**** DONE revisit 654 PAY ITEMS
+CLOSED: [2014-11-19 Wed 07:47]
+:LOGBOOK:
+- State "DONE"       from "WAITING"    [2014-11-19 Wed 07:47]
+- State "WAITING"    from "HOLD"       [2014-11-13 Thu 14:11] \\
+  waiting
+- State "HOLD"       from "TODO"       [2014-11-13 Thu 11:48] \\
+  hold for next meeting
+:END:
+  :PROPERTIES:
+  :dowith:   DOT
+  :END:
+[2014-11-13 Thu 09:57]
+[[file:~/git/org/refile.org::*%5B%5Bbbdb:Garrett%2520Thatcher%5D%5BGarrett%20Thatcher%5D%5D][Garrett Thatcher*]]
+
+643(20) Detour and 643(36) Interim Lane Configuration Traffic Control Devices
+**** DONE Follow up on 643-3.08 Traffic Restrictions hours
+CLOSED: [2014-11-19 Wed 07:45]
+:LOGBOOK:
+- State "DONE"       from "HOLD"       [2014-11-19 Wed 07:45]
+- State "HOLD"       from "TODO"       [2014-11-13 Thu 11:49] \\
+  hold for next meeting
+:END:
+  :PROPERTIES:
+  :dowith:   DOT
+  :END:
+[2014-11-13 Thu 10:50]
+[[file:~/git/org/refile.org::*%5B%5Bbbdb:Garrett%2520Thatcher%5D%5BGarrett%20Thatcher%5D%5D][Garrett Thatcher*]]
+**** DONE compile TCP
+CLOSED: [2014-11-13 Thu 15:35]
+  :LOGBOOK:
+  CLOCK: [2014-11-13 Thu 14:51]--[2014-11-13 Thu 14:53] =>  0:02
+  CLOCK: [2014-11-13 Thu 13:22]--[2014-11-13 Thu 14:51] =>  1:29
+  CLOCK: [2014-11-13 Thu 11:17]--[2014-11-13 Thu 11:52] =>  0:35
+  :END:
+[2014-11-13 Thu 13:22]
+
+**** DONE Abbott TCP edits
+CLOSED: [2014-11-19 Wed 07:46]
+  :LOGBOOK:
+  CLOCK: [2014-11-17 Mon 14:14]--[2014-11-17 Mon 14:31] =>  0:17
+  :END:
+[2014-11-17 Mon 14:14]
+***** DONE Find and integrate 2012 standard drawings
+   CLOSED: [2014-11-17 Mon 14:31]
+***** DONE Memo update
+CLOSED: [2014-11-17 Mon 14:46]
+   :LOGBOOK:
+   CLOCK: [2014-11-17 Mon 14:31]--[2014-11-17 Mon 14:46] =>  0:15
+   :END:
+***** DONE Standard drawing and details update
+CLOSED: [2014-11-19 Wed 07:46]
+:LOGBOOK:
+CLOCK: [2014-11-18 Tue 14:03]--[2014-11-18 Tue 16:28] =>  2:25
+CLOCK: [2014-11-18 Tue 13:32]--[2014-11-18 Tue 13:35] =>  0:03
+CLOCK: [2014-11-18 Tue 07:25]--[2014-11-18 Tue 11:48] =>  4:23
+CLOCK: [2014-11-17 Mon 16:03]--[2014-11-17 Mon 16:39] =>  0:36
+CLOCK: [2014-11-17 Mon 15:27]--[2014-11-17 Mon 15:31] =>  0:04
+CLOCK: [2014-11-17 Mon 14:46]--[2014-11-17 Mon 15:26] =>  0:40
+:END:
+
+Three details are attached:
+1. PERMANENT CONSTRUCTION SIGN DETAIL
+2. how to treat roadside slope, 
+3. G-46.11 PRECAST CONCRETE "F" SHAPE BARRIER
+4. C-05.20 INTERIM PAVEMENT MARKINGS
+***** DONE Specs update
+CLOSED: [2014-11-17 Mon 16:03]
+:LOGBOOK:
+CLOCK: [2014-11-17 Mon 15:31]--[2014-11-17 Mon 15:34] =>  0:03
+:END:
+
+- [ ] 643-3.02
+
+** AWWU
+- [[T:\AKDOT\143833 - DOT&PF Abbott Rd Design\03 Reference Material\AWWU]]
+  + [[outlook:00000000910682B0D29B304A8E16A9B42C4ACF5B07000282B60224BDCA439465B2C86147F76C00006087000B00000282B60224BDCA439465B2C86147F76C0000611144D40000][MESSAGE: Abbott Rd. Rehab: AWWU As-Builts (Hartman, Gregory J (DOT))]]
+*** Sample docs
+- [[outlook:00000000910682B0D29B304A8E16A9B42C4ACF5B07000282B60224BDCA439465B2C86147F76C00006087000B00000282B60224BDCA439465B2C86147F76C0000611144FD0000][Thermal analysis]]
+- [[outlook:00000000910682B0D29B304A8E16A9B42C4ACF5B07000282B60224BDCA439465B2C86147F76C00006087000B00000282B60224BDCA439465B2C86147F76C0000611144FD0000][Culvert, fish passage]]
+[2014-10-28 Tue 09:07]
+** MISC
+- [[\\ANCHFS1.bkr.mbakercorp.com\PROJECTS\AKDOT\143833 - DOT&PF Abbott Rd Design\03 Reference Material\ESCP][Garrett's ref materials]]
+[2014-10-27 Mon 13:19]
+- MISC DOCs on Sharepoint [[outlook:00000000910682B0D29B304A8E16A9B42C4ACF5B07000282B60224BDCA439465B2C86147F76C00006087000B00000282B60224BDCA439465B2C86147F76C0000611144D90000][MESSAGE: Abbott Rehab (Hartman, Gregory J (DOT))]]
+[2014-10-22 Wed 14:56]
+[2014-10-24 Fri 08:12]
+** REFS
+*** Standard specs
+- https://www.evernote.com/shard/s15/nl/1651877/a29037de-0a69-42e8-b01a-6e7ec4ef72a3
+- [[http://www.dot.state.ak.us/stwddes/dcsspecs/index.shtml][Blue Book online]]
+*** MUTCD
+- [[http://mutcd.fhwa.dot.gov/pdfs/2009r1r2/pdf_index.htm][MUTCD online]]
+*** Samples
+- [[http://www.dot.state.ak.us/creg/design/highways/Projects/54985/J01-J07.pdf][Sample traffic control plan]]
+- [[http://www.dot.state.ak.us/creg/design/highways/][Sample DOT projects]]
+- [[T:\AKDOT\143833 - DOT&PF Abbott Rd Design\04 CADD\Working\JT\specsAndProvisions\Sample PJs][JT sample PJ folder]]
+[2014-10-27 Mon 15:38]
+** Schedule, Derek, Gantt 102314
+- [[outlook:00000000910682B0D29B304A8E16A9B42C4ACF5B07000282B60224BDCA439465B2C86147F76C00006087000B00000282B60224BDCA439465B2C86147F76C0000611145060000][MESSAGE: Abbott Rd Eng: PS&E Review Schedule (Christianson, Derek M)]]
+** DSR
+- [[T:\AKDOT\143833 - DOT&PF Abbott Rd Design\03 Reference Material][Abbott Road Design Study Report]]
+[2014-11-10 Mon 11:44]
+** Utility conflicts list by RaeAnne                                :xls:RH:
+- [[outlook:00000000910682B0D29B304A8E16A9B42C4ACF5B07000282B60224BDCA439465B2C86147F76C00006087000B00000282B60224BDCA439465B2C86147F76C0000611144F50000][MESSAGE: Abbott Road - AWWU Conflicts (Hebnes, RaeAnne)]]
+[2014-10-27 Mon 13:43]
+- [[outlook:00000000910682B0D29B304A8E16A9B42C4ACF5B07000282B60224BDCA439465B2C86147F76C00006087000B00000282B60224BDCA439465B2C86147F76C0000611144DF0000][MESSAGE: Abbott Rd Rehab - AWWU Conflicts (Hebnes, RaeAnne)]]
+[2014-10-24 Fri 08:11]
+** DONE Abbott Traffic control
+CLOSED: [2015-05-29 Fri 15:03]
+:LOGBOOK:  
+CLOCK: [2015-05-29 Fri 12:22]--[2015-05-29 Fri 15:05] =>  2:43
+CLOCK: [2015-05-29 Fri 10:07]--[2015-05-29 Fri 12:01] =>  1:54
+:END:      
+*** DONE Specs, phase 1 & 2
+CLOSED: [2015-05-29 Fri 14:16]
+  :LOGBOOK:  
+  CLOCK: [2015-05-11 Mon 14:00]--[2015-05-11 Mon 14:01] =>  0:01
+  :END:      
+[2015-05-11 Mon 14:00]
+[[file:~/git/org/refile.org::*School%20signing%20and%20striping][School signing and striping]]
+
+*** DONE School signing and striping
+CLOSED: [2015-05-29 Fri 15:03]
+:LOGBOOK:  
+- State "DONE"       from "WAITING"    [2015-05-29 Fri 15:03]
+- State "WAITING"    from "NEXT"       [2015-05-29 Fri 15:02] \\
+  waiting on feedback from Kristen
+CLOCK: [2015-05-26 Tue 13:42]--[2015-05-26 Tue 15:12] =>  1:30
+CLOCK: [2015-05-26 Tue 09:49]--[2015-05-26 Tue 12:11] =>  2:22
+CLOCK: [2015-05-14 Thu 07:41]--[2015-05-14 Thu 08:29] =>  0:48
+CLOCK: [2015-05-13 Wed 14:32]--[2015-05-13 Wed 16:41] =>  2:09
+CLOCK: [2015-05-13 Wed 12:50]--[2015-05-13 Wed 14:24] =>  1:34
+CLOCK: [2015-05-13 Wed 08:03]--[2015-05-13 Wed 11:55] =>  3:52
+CLOCK: [2015-05-12 Tue 16:04]--[2015-05-12 Tue 16:43] =>  0:39
+CLOCK: [2015-05-12 Tue 12:52]--[2015-05-12 Tue 13:50] =>  0:58
+CLOCK: [2015-05-12 Tue 10:38]--[2015-05-12 Tue 11:56] =>  1:18
+:END:      
+[2015-05-11 Mon 14:00]
+[[file:~/git/org/refile.org::*Hilcorps%20specs][Hilcorps specs]]
+
+[[T:\AKDOT\143833 - DOT&PF Abbott Rd Design\04 CADD\Received\2015.04.27]]
+
+[[T:\AKDOT\143833 - DOT&PF Abbott Rd Design\04 CADD\Working\JT\CAD\SIGNS AND STRIPES][WORKING FOLDER]]
+
+**** Notes                                                            :NOTES:
+53942 references 10/22/2014 dwg set located [[T:\AKDOT\143833 - DOT&PF Abbott Rd Design\04 CADD\Received\2014.10.22][here]]
+**** 
+[2015-05-13 Wed 13:18]
+
+*** DONE Divvy engineer's estimate to Phase 1 and Phase 2
+CLOSED: [2015-05-29 Fri 15:03]
+:LOGBOOK:  
+CLOCK: [2015-05-27 Wed 16:36]--[2015-05-27 Wed 16:40] =>  0:04
+CLOCK: [2015-05-27 Wed 13:42]--[2015-05-27 Wed 15:07] =>  1:25
+:END:      
+[[T:\AKDOT\143833 - DOT&PF Abbott Rd Design\02 Project Documents\03 PS&E]]
+*** DONE [#A] Review comments meeting comments for comments
+CLOSED: [2015-05-29 Fri 15:03]
+:LOGBOOK:  
+CLOCK: [2015-05-28 Thu 15:47]--[2015-05-28 Thu 15:48] =>  0:01
+CLOCK: [2015-05-28 Thu 13:10]--[2015-05-28 Thu 13:27] =>  0:17
+CLOCK: [2015-05-28 Thu 10:48]--[2015-05-28 Thu 12:18] =>  1:30
+CLOCK: [2015-05-28 Thu 09:16]--[2015-05-28 Thu 10:06] =>  0:50
+CLOCK: [2015-05-27 Wed 15:09]--[2015-05-27 Wed 16:36] =>  1:27
+:END:      
+pick up on p. 28 of [[T:\AKDOT\143833 - DOT&PF Abbott Rd Design\02 Project Documents\03 PS&E\04 PS&E Review\04 Review Mtg 20141217\Abbott PSE Review Mtg 20141217.pdf][Abbott PSE Review Mtg 20141217.pdf]]
+** PHONE DEC water people” 269-7517                                  :PHONE:
+:LOGBOOK:  
+CLOCK: [2015-05-18 Mon 08:33]--[2015-05-18 Mon 08:38] =>  0:05
+:END:      
+[2015-05-18 Mon 08:33]
+
+left message with Jessica
+
+** Abbott noise study
+  :LOGBOOK:  
+  CLOCK: [2015-05-19 Tue 15:24]--[2015-05-19 Tue 15:30] =>  0:06
+  CLOCK: [2015-05-19 Tue 13:49]--[2015-05-19 Tue 13:59] =>  0:10
+  CLOCK: [2015-05-19 Tue 11:34]--[2015-05-19 Tue 11:49] =>  0:15
+  :END:      
+[2015-05-18 Mon 09:14]
+
+Noise report: [[T:\AKDOT\133989 - DOT&PF Abbott Road PI Amend 01\2 - Project Data\Environmental document PCE]]
+
+ENV files: [[T:\AKDOT\143833 - DOT&PF Abbott Rd Design\02 Project Documents\01 Env Activities]]
+*** MEETING with Abbott noise                                     :MEETING:
+  :LOGBOOK:  
+  CLOCK: [2015-05-20 Wed 14:38]--[2015-05-20 Wed 14:39] =>  0:01
+  CLOCK: [2015-05-20 Wed 14:26]--[2015-05-20 Wed 14:37] =>  0:11
+  :END:      
+[2015-05-20 Wed 14:26]
+
+*** MEETING with Abbott re: noise                                   :MEETING:
+  :LOGBOOK:  
+  CLOCK: [2015-05-19 Tue 13:59]--[2015-05-19 Tue 15:24] =>  1:25
+  :END:      
+[2015-05-19 Tue 13:59]
+*** DONE Transfer noise files, update device firmware
+CLOSED: [2015-05-26 Tue 10:10]
+  :LOGBOOK:  
+  CLOCK: [2015-05-21 Thu 12:41]--[2015-05-21 Thu 12:56] =>  0:15
+  CLOCK: [2015-05-21 Thu 12:03]--[2015-05-21 Thu 12:07] =>  0:04
+  CLOCK: [2015-05-21 Thu 09:11]--[2015-05-21 Thu 10:13] =>  1:02
+  :END:      
+[2015-05-21 Thu 09:11]
+
+*** DONE field study
+CLOSED: [2015-05-28 Thu 14:37]
+  :LOGBOOK:  
+  CLOCK: [2015-05-21 Thu 14:30]--[2015-05-21 Thu 17:39] => -6:51
+  :END:      
+[2015-05-21 Thu 14:30]
+** Campbell_Creek_Culvert
+Summary email [[outlook:00000000910682B0D29B304A8E16A9B42C4ACF5B07000282B60224BDCA439465B2C86147F76C00006087000B00000282B60224BDCA439465B2C86147F76C0000611166160000][MESSAGE: RE: Separation query: Cross culvert fish passage and AWWU water line (Brannan, Thomas W (DEC))]]
+*** DONE Field work, Abbott noise
+  CLOSED: [2015-05-21 Thu 07:56]
+  :LOGBOOK:  
+  CLOCK: [2015-05-20 Wed 14:54]--[2015-05-20 Wed 18:30] => -6:59
+  :END:      
+[2015-05-21 Thu 07:54]
+[[file:~/git/org/refile.org::*with%20Abbott%20noise][with Abbott noise]]
+*** PHONE TW from ADEQ                                              :PHONE:
+  :LOGBOOK:  
+  CLOCK: [2015-05-20 Wed 14:37]--[2015-05-20 Wed 14:38] =>  0:01
+  :END:      
+[2015-05-20 Wed 14:37]
+*** DONE email to ADEQ
+  CLOSED: [2015-05-21 Thu 08:34]
+  :LOGBOOK:  
+  CLOCK: [2015-05-21 Thu 10:13]--[2015-05-21 Thu 10:17] =>  0:04
+  CLOCK: [2015-05-21 Thu 08:15]--[2015-05-21 Thu 08:35] =>  0:20
+  CLOCK: [2015-05-21 Thu 07:56]--[2015-05-21 Thu 08:00] =>  0:04
+  CLOCK: [2015-05-20 Wed 14:39]--[2015-05-20 Wed 14:54] =>  0:15
+  :END:      
+[2015-05-20 Wed 14:39]
+[[file:~/git/org/refile.org::*with%20Abbott%20noise][with Abbott noise]]
+
+*** Response from ADEC
+  :LOGBOOK:  
+  CLOCK: [2015-05-21 Thu 08:35]--[2015-05-21 Thu 09:11] =>  0:01
+  :END:      
+[2015-05-21 Thu 08:35]
+[[file:~/git/org/refile.org::*email%20to%20ADEQ][email to ADEQ]]
+
+<2015-05-25 Mon 09:00>
+*** DONE call TW Brannan re: Abbott, Campbell Creek, clearance
+CLOSED: [2015-05-21 Thu 08:43]
+
+*** DONE Contact ADEQ re: separation requirement between Little Campbell Creek culvert and water main
+CLOSED: [2015-05-21 Thu 08:44]
+:LOGBOOK:  
+CLOCK: [2015-05-20 Wed 14:03]--[2015-05-20 Wed 14:04] =>  0:01
+CLOCK: [2015-05-18 Mon 08:38]--[2015-05-18 Mon 08:51] =>  0:13
+CLOCK: [2015-05-18 Mon 08:32]--[2015-05-18 Mon 08:33] =>  0:01
+CLOCK: [2015-05-14 Thu 08:29]--[2015-05-14 Thu 08:45] =>  0:16
+:END:      
+[2015-05-12 Tue 07:37]
+
+[[outlook:00000000910682B0D29B304A8E16A9B42C4ACF5B07000282B60224BDCA439465B2C86147F76C00006087000B00000282B60224BDCA439465B2C86147F76C0000611161710000][MESSAGE: FW: Question about water main clearance (Christianson, Derek M)]]
+
+Clearance email: [[outlook:00000000910682B0D29B304A8E16A9B42C4ACF5B07000282B60224BDCA439465B2C86147F76C00006087000B00000282B60224BDCA439465B2C86147F76C0000611160D70000][MESSAGE: FW: Abbott Rehab: Campbell Creek Crossing (Christianson, Derek M)]]
+
+drawing: [[T:\AKDOT\143833 - DOT&PF Abbott Rd Design\04 CADD\Drawings\PDF]]
+
+*** PHONE DEC water people, 269-7517                                :PHONE:
+  :LOGBOOK:  
+  CLOCK: [2015-05-20 Wed 14:04]--[2015-05-20 Wed 14:26] =>  0:22
+  :END:      
+[2015-05-20 Wed 14:04]
+
+- gave my message to 269-3076, TW Brannan
+
+*** DONE Communications log re: separation distance
+  CLOSED: [2015-05-21 Thu 12:03]
+  :LOGBOOK:  
+  CLOCK: [2015-05-21 Thu 10:47]--[2015-05-21 Thu 12:03] =>  1:16
+  :END:      
+[2015-05-21 Thu 10:47]
+[[file:~/git/org/abbott.org::*Abbott%20noise%20study][Abbott noise study]]
+
+** MEETING with Abbott                                             :MEETING:
+:LOGBOOK:  
+CLOCK: [2015-05-26 Tue 15:12]--[2015-05-26 Tue 16:03] =>  0:51
+:END:      
+[2015-05-26 Tue 15:12]
+
+*** DONE [#A] Contact Greg re: sign move toward Birch
+CLOSED: [2015-07-01 Wed 11:20]
+:LOGBOOK:  
+- State "DONE"       from "WAITING"    [2015-07-01 Wed 11:20]
+- State "WAITING"    from "NEXT"       [2015-05-28 Thu 15:46] \\
+  waiting on email response from Kristen to
+  [[outlook:00000000910682B0D29B304A8E16A9B42C4ACF5B0700C0A793B8F8B0314D968219788477D54F000000105F5C00000282B60224BDCA439465B2C86147F76C0000611164FC0000][MESSAGE: Abbott ASD comments clarification (Travis, Jared M)]]
+
+Kristen called at 1600 05/28/15 for clarification of comment chronology. She'll pass the email on to other DOT parties to respond.
+CLOCK: [2015-05-28 Thu 14:36]--[2015-05-28 Thu 15:47] =>  0:41
+:END:      
+*** DONE Check MUTCD for "ALL" sign
+CLOSED: [2015-05-29 Fri 15:03]
+[2015-05-26 Tue 15:40]
+[2015-05-26 Tue 15:40]
+[2015-05-26 Tue 15:39]
+** DONE Abbott DWG check for Achilles
+  CLOSED: [2015-06-10 Wed 16:39]
+  :LOGBOOK:
+  CLOCK: [2015-06-10 Wed 13:55]--[2015-06-10 Wed 16:39] =>  2:44
+  :END:
+[2015-06-10 Wed 13:55]
+[[file:~/git/org/baker.org::*Proposals][Proposals]]
+
+** DONE Abbott ASD comm compile
+  CLOSED: [2015-06-19 Fri 13:34]
+  :LOGBOOK:
+  CLOCK: [2015-06-15 Mon 13:06]--[2015-06-15 Mon 16:19] =>  3:13
+  :END:
+[2015-06-15 Mon 13:06]
+* Meetings                                                          :MEETING:
+** Meet w/Baker re: Abbott Rd Rehab DOT PJ#53942                      :PHONE:
+:PROPERTIES:
+:ID:       owncloud-f90281fb48efc720ef08a49a2d381aec
+:END:
+<2014-11-07 Fri 14:00-14:30>
+**** WEBEX DETAILS 
+ 
+ ***DO NOT DELETE OR CHANGE ANY OF THE TEXT BELOW THIS LINE***
+ 
+ Jared Travis has scheduled this WebEx meeting.
+ 
+ Meet w/Baker re: Abbot Rd Rehap DOT PJ#53942
+ Host: Jared Travis
+ 
+ When it's time, start or join the WebEx meeting from here:
+ https://meetings.mbakercorp.com/orion/joinmeeting.do?MK=995783131
+ 
+ Access Information
+ 
+ Meeting Number: 995 783 131
+ Meeting Password: This meeting does not require a password. 
+ 
+ Audio Connection
+ 
+ 571-209-6390 (Cisco WebEx)
+ 
+ Access Code:
+ 995 783 131 
+ 
+ Hosts, need your host access code or key? Go to the meeting information page: 
+ https://meetings.mbakercorp.com/orion/meeting/meetingInfo?MeetingKey=995783131
+ 
+ Delivering the power of collaboration
+ The meetings.mbakercorp.com team
+ 
+ Need help?
+ http://compass.mbakercorp.com/communities/DigitalSvc/Pages/default.aspx
+**** NOTES
+:PROPERTIES:
+:on:       <2014-11-07 Fri 13:51>
+:at:       Telephone
+:with:     Bob Ken Garrett
+:END:
+;;; Usage
+;;;;;;;;;
+;;
+;; Do C-c w to say with whom you are meeting (a space-separated list
+;; of names). Maybe do also C-c W to say where you are. Then do C-c a
+;; j to see:
+;; - Todo items defined with TODO (ie, mine) in which the
+;; =dowith= property matches any of the people with me.
+;; - Todo items defined with TODO in which the =doat= property
+;; matches my current location.
+;; - Todo items defined with TASK that are tagged with the name
+;; of any of the people with me (this is, assigned to them).
+;; - Stuck projects tagged with the name of the people with me.
+;;
+;; Use C-c j to add meta-data with the people with me, the
+;; location and the time to entries.
+
+- [X] SLOPE DETAILS
+
+***** 643-3.08 CONSTRUCTION SEQUENCING
+- There will be no Night time work due to noise restrictions
+- No traffic restriction:
+  + 0001 - 0900
+  + 1800 - 2400
+  + (working between 9am and 6pm)
+- 2-way traffic at all times when not working
+- potential for 1-way traffic if  necessary and actively working
+  + 1-way downhill
+  + detour uphill
+  + no flaggers
+  + eligible for further evaluation when contractor gets to site
+  + not preferred
+  + open lane must be paved
+- 2-way at all times may be possible by widening first
+- work in 1-mile stretches/phasing
+  + use standard special for gravel surfaces
+- *one paved lane at all times*
+
+***** Cambell Creek culvert
+- STA 123+75, between Little Creek Drive and Little Brook St.
+- Pre-build it and set it complete
+  - Weekend closure is goal
+  - Weekday closure will not be an option in contract language
+- Excavation spoil can be piled on road during weekend closure
+- Communicate in TCP that construction is feasible
+***** Similar projects
+- Sterling Hwy MP 48-58 (or so)
+***** Details
+- standard detail sheet
+  - positive protection
+  - no need to include direction re: use of concrete barrier
+***** Archive                                                   :ARCHIVE:
+****** DONE Additional TCP and Details
+CLOSED: [2014-11-13 Thu 11:50]
+:PROPERTIES:
+:ARCHIVE_TIME: 2015-01-05 Mon 07:55
+:END:
+- build it knowing that it will be adjusted/tweaked later
+- temp asphalt pay item (643-5.01)
+
+* Phone
+** Archive                                                         :ARCHIVE:
+*** PHONE [[bbdb:Garrett%20Thatcher][Garrett Thatcher]]             :PHONE:
+  :LOGBOOK:
+  CLOCK: [2014-11-06 Thu 13:10]--[2014-11-06 Thu 13:53] =>  0:43
+  :END:
+:PROPERTIES:
+:ARCHIVE_TIME: 2015-01-05 Mon 07:55
+:END:
+[2014-11-06 Thu 13:10]
+
+We tried Ken Thomas and Bob Anderson. Set time to call Ken tomorrow, and left message with Bob.
+
+*
+*** PHONE [[bbdb:Garrett%20Thatcher][Garrett Thatcher]]             :PHONE:
+  :LOGBOOK:
+  CLOCK: [2014-11-06 Thu 12:55]--[2014-11-06 Thu 12:57] =>  0:02
+  :END:
+:PROPERTIES:
+:ARCHIVE_TIME: 2015-01-05 Mon 07:55
+:END:
+[2014-11-06 Thu 12:55]
+
+
+-left message re: Abbott specs and impending conversation with Bob Anderson
+*** PHONE greg                                                      :PHONE:
+  :LOGBOOK:
+  CLOCK: [2014-11-06 Thu 09:34]--[2014-11-06 Thu 09:35] =>  0:01
+  :END:
+:PROPERTIES:
+:ARCHIVE_TIME: 2015-01-05 Mon 07:55
+:END:
+[2014-11-06 Thu 09:34]
+*** PHONE [[bbdb:Greg%20Hartman][Greg Hartman]]                     :PHONE:
+  :LOGBOOK:
+  CLOCK: [2014-11-06 Thu 09:37]--[2014-11-06 Thu 10:01] =>  0:24
+  :END:
+:PROPERTIES:
+:ARCHIVE_TIME: 2015-01-05 Mon 07:55
+:END:
+[2014-11-06 Thu 09:37]
+
+*** PHONE                                                           :PHONE:
+  :LOGBOOK:
+  CLOCK: [2014-11-06 Thu 09:29]--[2014-11-06 Thu 09:34] =>  0:05
+  :END:
+:PROPERTIES:
+:ARCHIVE_TIME: 2015-01-05 Mon 07:55
+:END:
+[2014-11-06 Thu 09:29]
+*** PHONE [[bbdb:David%20A%20Freese][David A Freese]]               :PHONE:
+  :LOGBOOK:
+  CLOCK: [2014-11-10 Mon 09:56]--[2014-11-10 Mon 10:00] =>  0:04
+  :END:
+:PROPERTIES:
+:ARCHIVE_TIME: 2015-01-05 Mon 07:55
+:END:
+[2014-11-10 Mon 09:56]
+
+Expect sample PJ by email
+*** PHONE [[bbdb:Garrett%20Thatcher][Garrett Thatcher]]             :PHONE:
+  :LOGBOOK:
+  CLOCK: [2014-11-10 Mon 11:21]--[2014-11-10 Mon 11:32] =>  0:11
+  :END:
+:PROPERTIES:
+:ARCHIVE_TIME: 2015-01-05 Mon 07:55
+:END:
+[2014-11-10 Mon 11:21]
+
+
+*** PHONE [[bbdb:Garrett%20Thatcher][Garrett Thatcher]]             :PHONE:
+  :LOGBOOK:
+  CLOCK: [2014-11-07 Fri 09:53]--[2014-11-07 Fri 10:11] =>  0:18
+  :END:
+:PROPERTIES:
+:ARCHIVE_TIME: 2015-01-05 Mon 07:55
+:END:
+[2014-11-07 Fri 09:53]
+
+
+*** PHONE [[bbdb:Greg%20Hartman][Greg Hartman]]                     :PHONE:
+  :LOGBOOK:
+  CLOCK: [2014-11-12 Wed 16:02]--[2014-11-12 Wed 16:04] =>  0:02
+  :END:
+:PROPERTIES:
+:ARCHIVE_TIME: 2015-01-05 Mon 07:55
+:END:
+[2014-11-12 Wed 16:02]
+
+left message re: TCP "memo" and "coversheet"
+*** PHONE [[bbdb:Garrett%20Thatcher][Garrett Thatcher]]             :PHONE:
+  :LOGBOOK:
+  CLOCK: [2014-11-13 Thu 09:34]--[2014-11-13 Thu 09:56] =>  0:22
+  :END:
+:PROPERTIES:
+:ARCHIVE_TIME: 2015-01-05 Mon 07:55
+:END:
+[2014-11-13 Thu 09:34]
+
+643(20) is for specific detour, we should delte it
+
+pull out (20)
+*** PHONE [[bbdb:Garrett%20Thatcher][Garrett Thatcher]]             :PHONE:
+  :LOGBOOK:
+  CLOCK: [2014-11-13 Thu 11:09]--[2014-11-13 Thu 11:17] =>  0:08
+  :END:
+:PROPERTIES:
+:ARCHIVE_TIME: 2015-01-05 Mon 07:55
+:END:
+[2014-11-13 Thu 11:09]
+
+Temp asphalt spec in specials?
+
+Traffic maintenance spec or separate pay item
+subsidiary to 643(2)
+
+Traffic maintenance money veries a lot, because it's a catch all pay item
+Small projects often get big 
+
+How is the contract set up. 
+
+Garrett will make assumption re: the contract for now.
+*** PHONE Jorge                                                     :PHONE:
+  :LOGBOOK:
+  CLOCK: [2014-11-18 Tue 13:35]--[2014-11-18 Tue 14:02] =>  0:27
+  :END:
+:PROPERTIES:
+:ARCHIVE_TIME: 2015-01-05 Mon 07:55
+:END:
+[2014-11-18 Tue 13:35]
+
+12:21 
+dwgs copied 
+*** PHONE [[bbdb:Kristen%20Keifer][Kristen Keifer]]                 :PHONE:
+  :LOGBOOK:
+  CLOCK: [2014-11-18 Tue 14:02]--[2014-11-18 Tue 14:03] =>  2:26
+  :END:
+:PROPERTIES:
+:ARCHIVE_TIME: 2015-01-05 Mon 07:55
+:END:
+[2014-11-18 Tue 14:02]
+
+left message re: standard dwgs, and followed up with email
+-[[outlook:00000000910682B0D29B304A8E16A9B42C4ACF5B0700C0A793B8F8B0314D968219788477D54F000000105F5C00000282B60224BDCA439465B2C86147F76C00006111488A0000][MESSAGE: Inclusion of standard drawings in submittal (Travis, Jared M)]]
+* Sharepoint
+- [[https://projects.mbakercorp.com/arrehab/Engineering%20Support%20Services/Forms/AllItems.aspx?InitialTabId=Ribbon.Library&VisibilityContext=WSSListAndLibrary]]
+- [[outlook:00000000910682B0D29B304A8E16A9B42C4ACF5B07000282B60224BDCA439465B2C86147F76C00006087000B00000282B60224BDCA439465B2C86147F76C0000611144C80000][MESSAGE: Welcome to the SharePoint group: Abbott Road Rehabilitation Members for site: Abbott Road Rehabilitation (SharePoint Admin)]]
+[2014-10-22 Wed 11:27]
+ 

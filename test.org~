@@ -1,0 +1,65 @@
+:PROPERTIES:
+#+PROPERTY: board-name AKLNG
+#+PROPERTY: board-id 54d3e44e1a68b4252909c0f9
+#+PROPERTY: SDAs 54d3e54a43a73b1146a17daa
+#+PROPERTY: MWASI 54d3e45bf910af2cd6640094
+#+PROPERTY: JARED 54d3e45971f5846f5384a3a1
+#+PROPERTY: TASKS 54d3e4570b7d7d521eb29f74
+#+TODO: TASKS JARED MWASI SDAs
+#+PROPERTY: orgtrello-user-jaredtravis 50e5faba55efbd6404000411
+#+PROPERTY: :blue
+#+PROPERTY: :purple
+#+PROPERTY: :red
+#+PROPERTY: :orange
+#+PROPERTY: :yellow
+#+PROPERTY: :green
+#+PROPERTY: orgtrello-user-me jaredtravis
+:END:
+II
+* TASKS YUKON CROSSING REPORT
+:PROPERTIES:
+:orgtrello-id: 54d3e4c09d453edb9881421c
+:orgtrello-local-checksum: 86e950abd6e92c73f6ca6afcaed15a4b1c328105bcb2c38ff636a285cb2c095c
+:END:
+
+* TASKS SURFACES
+:PROPERTIES:
+:orgtrello-local-checksum: a45e51df2a9613db64c226a54855ddff633dba221c7d85662993fa47b2708cbb
+:orgtrello-id: 54d3e4e976832aa5271d01b3
+:END:
+
+  - [-] SDAs :PROPERTIES: {"orgtrello-id":"54d3e4f5ca2940fd16ca7976","orgtrello-local-checksum":"ef5ed2fc5ac544dea09857aef4d2f9699d0fff5f71fe8265f2a2215fdc81e984"}
+    - [ ] DENALI :PROPERTIES: {"orgtrello-id":"54d3e4fa17a15e7a3cb0ba5a","orgtrello-local-checksum":"ca2d9e02e02523c3f3884556075638d93c3511686f4638ad68cdeb8a4a216795"}
+    - [ ] ATIGUN :PROPERTIES: {"orgtrello-id":"54d3e4fc13c8e0ae1e72d01a","orgtrello-local-checksum":"096f87f2963f0fc91342f61e26449964530f2d98525d253c3a590a79c05abc04"}
+    - [X] YUKON :PROPERTIES: {"orgtrello-id":"54d3e506beee9f00463a1757","orgtrello-local-checksum":"c24e57c7e3570cd5ec37c0ab762d6b532b470cccc395c90d212d34fcabb4e89b"}
+    - [ ] WINDY :PROPERTIES: {"orgtrello-id":"54d3e509abe3f259466ca778","orgtrello-local-checksum":"7b2f73e9a4751b78a4491f783ab56586b603021110e9a573d44620a739f14687"}
+* JARED DENALI CROSSING DWGS
+:PROPERTIES:
+:orgtrello-id: 54d3e4e3957e35d29858e922
+:orgtrello-local-checksum: bbd1fcdffb66833aa1cf226dd2adff18b5e0aee8940b402f479d2b96837e72e1
+:END:
+
+* SDAs YUKON
+:PROPERTIES:
+:orgtrello-id: 54d3e555089e32ac273f7d37
+:orgtrello-local-checksum: 5a375dd045ba0ed47954f12faed7c108be5d44b3e0f2c34b0e5fb596168c90a8
+:END:
+
+* SDAs ATIGUN
+:PROPERTIES:
+:orgtrello-id: 54d3e558a13525f620f15279
+:orgtrello-local-checksum: 149cec77474ffefe52b5b02e40b244a9aae6f5d4272ab45de80cc90a154f7b51
+:END:
+
+* SDAs DENALI
+:PROPERTIES:
+:orgtrello-id: 54d3e55d97a08c391795e3b7
+:orgtrello-local-checksum: c3944d2952b6e50436223a4ca0ab4b91f3f77912e526a211883c885a7a43b513
+:END:
+
+* SDAs NENANA AT WINDY
+:PROPERTIES:
+:orgtrello-id: 54d3e562b35c789429ffa102
+:orgtrello-local-checksum: 401717d553135ff892fa9225859a2403111cb908fe47d1e9f3ca172d8fd457ec
+:END:
+

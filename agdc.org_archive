@@ -1,0 +1,298 @@
+
+Archived entries from file c:/Users/jared.travis/Dropbox/git/org/agdc.org
+
+
+* Archived Tasks
+
+    ** DONE Develop comment resolution matrix for Yukon HDD
+      CLOSED: [2015-04-28 Tue 11:50]
+      :LOGBOOK:
+      CLOCK: [2015-04-28 Tue 10:49]--[2015-04-28 Tue 11:48] =>  0:59
+      CLOCK: [2015-04-28 Tue 08:18]--[2015-04-28 Tue 08:57] =>  0:39
+      CLOCK: [2015-04-28 Tue 07:39]--[2015-04-28 Tue 07:54] =>  0:15
+      :END:
+    :PROPERTIES:
+    :ARCHIVE_TIME: 2015-06-10 Wed 10:43
+    :ARCHIVE_FILE: ~/git/org/agdc.org
+    :ARCHIVE_OLPATH: AGDC
+    :ARCHIVE_CATEGORY: agdc
+    :ARCHIVE_TODO: DONE
+    :ARCHIVE_ITAGS: AGDC
+    :END:
+    [2015-04-28 Tue 07:39]
+    [[file:~/git/org/aklng.org::*Yukon%20dwg%20update][Yukon dwg update]]
+
+    - [[outlook:00000000910682B0D29B304A8E16A9B42C4ACF5B07000282B60224BDCA439465B2C86147F76C00006087000B00000282B60224BDCA439465B2C86147F76C0000611160BA0000][MESSAGE: AKLNG Yukon SDA (Little, Cynthia M)]]
+    - from [[outlook:00000000910682B0D29B304A8E16A9B42C4ACF5B07000282B60224BDCA439465B2C86147F76C00006087000B00000282B60224BDCA439465B2C86147F76C000061115F580000][MESSAGE: FW: Yukon crossing (Little, Cynthia M)]]
+
+    ** DONE V6.1 into SDA Tanana dwgs and update report
+         CLOSED: [2015-05-12 Tue 10:34]
+    :LOGBOOK:  
+    CLOCK: [2015-05-12 Tue 07:47]--[2015-05-12 Tue 10:34] =>  2:47
+    CLOCK: [2015-05-05 Tue 10:52]--[2015-05-05 Tue 11:35] =>  0:43
+    CLOCK: [2015-05-05 Tue 10:08]--[2015-05-05 Tue 10:52] =>  0:44
+    CLOCK: [2015-05-05 Tue 07:37]--[2015-05-05 Tue 10:07] =>  2:30
+    CLOCK: [2015-05-04 Mon 14:16]--[2015-05-04 Mon 16:45] =>  2:29
+    CLOCK: [2015-05-04 Mon 08:31]--[2015-05-04 Mon 14:05] =>  5:34
+    CLOCK: [2015-05-01 Fri 12:30]--[2015-05-01 Fri 16:27] =>  3:57
+    CLOCK: [2015-05-01 Fri 12:29]--[2015-05-01 Fri 12:30] =>  0:01
+    CLOCK: [2015-05-01 Fri 10:37]--[2015-05-01 Fri 11:32] =>  0:55
+    CLOCK: [2015-05-01 Fri 10:01]--[2015-05-01 Fri 10:03] =>  0:02
+    CLOCK: [2015-05-01 Fri 09:34]--[2015-05-01 Fri 10:01] =>  0:27
+    CLOCK: [2015-05-01 Fri 07:39]--[2015-05-01 Fri 07:46] =>  0:07
+    CLOCK: [2015-04-30 Thu 13:46]--[2015-04-30 Thu 16:47] =>  3:01
+    :END:      
+    :PROPERTIES:
+    :ARCHIVE_TIME: 2015-08-12 Wed 09:49
+    :ARCHIVE_FILE: ~/git/org/agdc.org
+    :ARCHIVE_OLPATH: AGDC/SDA/Tanana
+    :ARCHIVE_CATEGORY: agdc
+    :ARCHIVE_TODO: DONE
+    :ARCHIVE_ITAGS: AGDC SDA
+    :END:
+    [2015-04-30 Thu 13:46]
+
+    - [ ] [[T:\AGDC\CAD\HDD\Tanana River\005 tananaSDA_FalseROWP&P.dwg]]
+    - [[T:\AGDC\138382-Civil Work Plan\Task 8 - Special Design Areas\Tanana\Report Tanana River Crossing\Appendices]]
+
+    ** PHONE Tanana H&H SDA phone meeting                                :PHONE:
+      :LOGBOOK:  
+      CLOCK: [2015-05-20 Wed 07:59]--[2015-05-20 Wed 08:28] =>  0:29
+      :END:      
+    :PROPERTIES:
+    :ARCHIVE_TIME: 2015-08-12 Wed 09:49
+    :ARCHIVE_FILE: ~/git/org/agdc.org
+    :ARCHIVE_OLPATH: AGDC/SDA/Tanana
+    :ARCHIVE_CATEGORY: agdc
+    :ARCHIVE_TODO: PHONE
+    :ARCHIVE_ITAGS: AGDC SDA
+    :END:
+    [2015-05-20 Wed 07:59]
+
+    ** DONE Tanana bathymetry creation
+      CLOSED: [2015-05-19 Tue 11:34]
+    :LOGBOOK:  
+    CLOCK: [2015-05-20 Wed 14:02]--[2015-05-20 Wed 14:03] =>  0:01
+    CLOCK: [2015-05-20 Wed 08:30]--[2015-05-20 Wed 09:22] =>  0:52
+    CLOCK: [2015-05-18 Mon 12:59]--[2015-05-18 Mon 14:43] =>  1:44
+    CLOCK: [2015-05-18 Mon 09:14]--[2015-05-18 Mon 10:34] =>  1:20
+    CLOCK: [2015-05-18 Mon 08:51]--[2015-05-18 Mon 09:14] =>  0:23
+    :END:      
+    :PROPERTIES:
+    :ARCHIVE_TIME: 2015-08-12 Wed 09:49
+    :ARCHIVE_FILE: ~/git/org/agdc.org
+    :ARCHIVE_OLPATH: AGDC/SDA/Tanana
+    :ARCHIVE_CATEGORY: agdc
+    :ARCHIVE_TODO: DONE
+    :ARCHIVE_ITAGS: AGDC SDA
+    :END:
+    [2015-05-18 Mon 08:51]
+    [[file:~/git/org/agdc.org::*V6.1%20into%20SDA%20Tanana%20dwgs%20and%20update%20report][V6.1 into SDA Tanana dwgs and update report]]
+
+    ** DONE Tanana Report comments
+      CLOSED: [2015-05-20 Wed 14:03]
+    :LOGBOOK:  
+    CLOCK: [2015-05-18 Mon 14:43]--[2015-05-18 Mon 16:05] =>  1:22
+    :END:      
+    :PROPERTIES:
+    :ARCHIVE_TIME: 2015-08-12 Wed 09:49
+    :ARCHIVE_FILE: ~/git/org/agdc.org
+    :ARCHIVE_OLPATH: AGDC/SDA/Tanana
+    :ARCHIVE_CATEGORY: agdc
+    :ARCHIVE_TODO: DONE
+    :ARCHIVE_ITAGS: AGDC SDA
+    :END:
+    [2015-05-18 Mon 14:43]
+    [[file:~/git/org/aklng.org::*AKLNG%20Chulitna%20bore%20log%20profile][AKLNG Chulitna bore log profile]]
+
+    ** DONE Surface generation, merged bathymetry for Tanana Xing
+         CLOSED: [2015-05-26 Tue 10:23]
+      :LOGBOOK:  
+      CLOCK: [2015-05-26 Tue 08:18]--[2015-05-26 Tue 09:49] =>  1:31
+      CLOCK: [2015-05-22 Fri 13:21]--[2015-05-22 Fri 14:59] =>  1:38
+      CLOCK: [2015-05-22 Fri 08:08]--[2015-05-22 Fri 12:37] =>  4:29
+      CLOCK: [2015-05-21 Thu 12:56]--[2015-05-21 Thu 14:30] =>  1:34
+      CLOCK: [2015-05-21 Thu 10:17]--[2015-05-21 Thu 10:47] =>  0:30
+      :END:      
+    :PROPERTIES:
+    :ARCHIVE_TIME: 2015-08-12 Wed 09:49
+    :ARCHIVE_FILE: ~/git/org/agdc.org
+    :ARCHIVE_OLPATH: AGDC/SDA/Tanana
+    :ARCHIVE_CATEGORY: agdc
+    :ARCHIVE_TODO: DONE
+    :ARCHIVE_ITAGS: AGDC SDA
+    :END:
+    [2015-05-21 Thu 10:17]
+    [[file:~/git/org/abbott.org::*Campbell_Creek_Culvert][Campbell_Creek_Culvert]]
+
+    ** DONE Merge Tanana Report H&H
+         CLOSED: [2015-05-28 Thu 09:16]
+    :LOGBOOK:  
+    CLOCK: [2015-05-28 Thu 15:48]--[2015-05-28 Thu 16:19] =>  0:31
+    CLOCK: [2015-05-28 Thu 13:27]--[2015-05-28 Thu 14:36] =>  1:09
+    CLOCK: [2015-05-28 Thu 09:00]--[2015-05-28 Thu 09:16] =>  0:16
+    CLOCK: [2015-05-27 Wed 13:02]--[2015-05-27 Wed 13:42] =>  0:40
+    CLOCK: [2015-05-27 Wed 11:55]--[2015-05-27 Wed 11:57] =>  0:02
+    CLOCK: [2015-05-27 Wed 08:40]--[2015-05-27 Wed 11:02] =>  2:22
+    :END:      
+    :PROPERTIES:
+    :ARCHIVE_TIME: 2015-08-12 Wed 09:49
+    :ARCHIVE_FILE: ~/git/org/agdc.org
+    :ARCHIVE_OLPATH: AGDC/SDA/Tanana
+    :ARCHIVE_CATEGORY: agdc
+    :ARCHIVE_TODO: DONE
+    :ARCHIVE_ITAGS: AGDC SDA
+    :END:
+    [2015-05-27 Wed 08:40]
+
+    [[T:\AGDC\138382-Civil Work Plan\Task 8 - Special Design Areas\Tanana\Report Tanana River Crossing\Rev B]]
+
+    ** DONE Complete Tanana SDA report
+         CLOSED: [2015-05-29 Fri 10:06]
+      :LOGBOOK:  
+      CLOCK: [2015-05-29 Fri 07:56]--[2015-05-29 Fri 10:06] =>  2:10
+      CLOCK: [2015-05-28 Thu 16:19]--[2015-05-28 Thu 16:35] =>  0:16
+      :END:      
+    :PROPERTIES:
+    :ARCHIVE_TIME: 2015-08-12 Wed 09:49
+    :ARCHIVE_FILE: ~/git/org/agdc.org
+    :ARCHIVE_OLPATH: AGDC/SDA/Tanana
+    :ARCHIVE_CATEGORY: agdc
+    :ARCHIVE_TODO: DONE
+    :ARCHIVE_ITAGS: AGDC SDA
+    :END:
+    [2015-05-28 Thu 16:19]
+
+    [[T:\AGDC\138382-Civil Work Plan\Task 8 - Special Design Areas\Tanana\Report Tanana River Crossing\Rev B]]
+
+    *** DONE print dwgs
+          CLOSED: [2015-05-29 Fri 10:06]
+
+    ** DONE Tanana dwg Cindie comments
+      CLOSED: [2015-06-02 Tue 08:10]
+    :LOGBOOK:  
+    CLOCK: [2015-06-02 Tue 08:02]--[2015-06-02 Tue 08:10] =>  0:08
+    CLOCK: [2015-06-01 Mon 13:59]--[2015-06-01 Mon 15:05] =>  1:06
+    CLOCK: [2015-06-01 Mon 12:59]--[2015-06-01 Mon 13:59] =>  1:00
+    CLOCK: [2015-06-01 Mon 11:31]--[2015-06-01 Mon 11:52] =>  0:21
+    :END:      
+    :PROPERTIES:
+    :ARCHIVE_TIME: 2015-08-12 Wed 09:49
+    :ARCHIVE_FILE: ~/git/org/agdc.org
+    :ARCHIVE_OLPATH: AGDC/SDA/Tanana
+    :ARCHIVE_CATEGORY: agdc
+    :ARCHIVE_TODO: DONE
+    :ARCHIVE_ITAGS: AGDC SDA
+    :END:
+    [2015-06-01 Mon 11:31]
+    [[file:~/git/org/aklng.org::*AKLNG%20Chulitna%20bore%20log%20profile][AKLNG Chulitna bore log profile]]
+
+    ** DONE Move pdf
+      CLOSED: [2015-06-02 Tue 08:13]
+      :LOGBOOK:  
+      CLOCK: [2015-06-02 Tue 08:10]--[2015-06-02 Tue 08:13] =>  0:03
+      :END:      
+    :PROPERTIES:
+    :ARCHIVE_TIME: 2015-08-12 Wed 09:49
+    :ARCHIVE_FILE: ~/git/org/agdc.org
+    :ARCHIVE_OLPATH: AGDC/SDA/Tanana
+    :ARCHIVE_CATEGORY: agdc
+    :ARCHIVE_TODO: DONE
+    :ARCHIVE_ITAGS: AGDC SDA
+    :END:
+    [2015-06-01 Mon 13:59]
+    [[file:~/git/org/aklng.org::*Make%20Rev%20B%20into%20Rev%20B1][Make Rev B into Rev B1]]
+
+    [[T:\AGDC\138382-Civil Work Plan\Task 8 - Special Design Areas\Tanana\Report Tanana River Crossing\Rev B\Appendices]]
+
+    ** DONE Bring Figure 4 jpg into Tanana report
+         CLOSED: [2015-06-02 Tue 08:16]
+    :PROPERTIES:
+    :ARCHIVE_TIME: 2015-08-12 Wed 09:49
+    :ARCHIVE_FILE: ~/git/org/agdc.org
+    :ARCHIVE_OLPATH: AGDC/SDA/Tanana
+    :ARCHIVE_CATEGORY: agdc
+    :ARCHIVE_TODO: DONE
+    :ARCHIVE_ITAGS: AGDC SDA
+    :END:
+    [2015-06-01 Mon 16:14]
+    [[file:~/git/org/aklng.org::*Make%20Rev%20B%20into%20Rev%20B1][Make Rev B into Rev B1]]
+
+    [[T:\AGDC\138382-Civil Work Plan\Task 8 - Special Design Areas\Tanana\Report Tanana River Crossing\Rev B]]
+
+    ** DONE Tanana doc number update
+         CLOSED: [2015-06-19 Fri 13:34]
+    :LOGBOOK:
+    CLOCK: [2015-06-10 Wed 07:40]--[2015-06-10 Wed 10:30] =>  2:50
+    :END:
+    :PROPERTIES:
+    :ARCHIVE_TIME: 2015-08-12 Wed 09:49
+    :ARCHIVE_FILE: ~/git/org/agdc.org
+    :ARCHIVE_OLPATH: AGDC/SDA/Tanana
+    :ARCHIVE_CATEGORY: agdc
+    :ARCHIVE_TODO: DONE
+    :ARCHIVE_ITAGS: AGDC SDA
+    :END:
+    [2015-06-10 Wed 08:33]
+
+    ** DONE Moody edits
+      CLOSED: [2015-05-20 Wed 14:02]
+      :LOGBOOK:  
+      CLOCK: [2015-05-20 Wed 13:52]--[2015-05-20 Wed 14:02] =>  0:10
+      CLOCK: [2015-05-20 Wed 12:33]--[2015-05-20 Wed 12:42] =>  0:09
+      CLOCK: [2015-05-20 Wed 09:22]--[2015-05-20 Wed 12:19] =>  2:57
+      :END:      
+    :PROPERTIES:
+    :ARCHIVE_TIME: 2015-08-12 Wed 09:49
+    :ARCHIVE_FILE: ~/git/org/agdc.org
+    :ARCHIVE_OLPATH: AGDC/SDA/Moody
+    :ARCHIVE_CATEGORY: agdc
+    :ARCHIVE_TODO: DONE
+    :ARCHIVE_ITAGS: AGDC SDA
+    :END:
+    [2015-05-20 Wed 09:22]
+
+    ** DONE NEXT Moody Pile estimate
+      CLOSED: [2015-06-09 Tue 16:51]
+      :LOGBOOK:  
+      CLOCK: [2015-06-08 Mon 13:41]--[2015-06-08 Mon 16:59] =>  3:18
+
+      CLOCK: [2015-06-08 Mon 12:52]--[2015-06-08 Mon 13:26] =>  0:34
+      :END:      
+    :PROPERTIES:
+    :ARCHIVE_TIME: 2015-08-12 Wed 09:49
+    :ARCHIVE_FILE: ~/git/org/agdc.org
+    :ARCHIVE_OLPATH: AGDC/SDA/Moody
+    :ARCHIVE_CATEGORY: agdc
+    :ARCHIVE_TODO: DONE
+    :ARCHIVE_ITAGS: AGDC SDA
+    :END:
+    [2015-06-08 Mon 12:52]
+    [[file:~/git/org/aklng.org::*Make%20Rev%20B%20into%20Rev%20B1][Make Rev B into Rev B1]]
+
+
+    [[S:\02 Project Documents\SDA Reports\Nenana River at Windy\Rev B][Windy SDA report]]
+
+  ** DONE Benefits elections
+       CLOSED: [2014-11-24 Mon 07:39] DEADLINE: <2014-11-21 Fri>
+        :PROPERTIES:
+        :ARCHIVE_TIME: 2015-09-29 Tue 11:24
+        :ARCHIVE_FILE: ~/git/org/agdc.org
+        :ARCHIVE_OLPATH: AGDC/2015 Open Enrollment Webinar/NOTES/Archive
+        :ARCHIVE_CATEGORY: agdc
+        :ARCHIVE_TODO: DONE
+        :ARCHIVE_ITAGS: AGDC ARCHIVE
+        :END:
+
+       [2014-11-07 Fri 11:33]
+
+
+    :LOGBOOK:
+    - Note taken on [2015-01-26 Mon 09:29] \\
+      ORIGINAL EMAIL
+      [[outlook:00000000910682B0D29B304A8E16A9B42C4ACF5B07000282B60224BDCA439465B2C86147F76C00006087000B00000282B60224BDCA439465B2C86147F76C00006111504A0000][MESSAGE: Road Design Criteria (Little, Cynthia M)]]
+    CLOCK: [2015-01-26 Mon 09:29]--[2015-01-26 Mon 09:39] =>  0:10
+    :END:
+  [2015-01-26 Mon 09:29]
+  [[file:~/git/org/abbott.org::*Potholing%20follow%20up][Potholing follow up]]
+

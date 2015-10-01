@@ -1,0 +1,36 @@
+:PROPERTIES:
+#+PROPERTY: board-name Home
+#+PROPERTY: board-id 560ae13665a0e798f79c7030
+#+PROPERTY: DONE 560b29e66f7510e566373b4c
+#+PROPERTY: TODO 560b29e5c73a57460cd44d6f
+#+TODO: TODO | DONE
+#+PROPERTY: orgtrello-user-jaredtravis 50e5faba55efbd6404000411
+#+PROPERTY: :blue
+#+PROPERTY: :purple
+#+PROPERTY: :orange
+#+PROPERTY: :red
+#+PROPERTY: :yellow
+#+PROPERTY: :green
+#+PROPERTY: orgtrello-user-me jaredtravis
+:END:
+* TODO test2 from trello
+:PROPERTIES:
+:orgtrello-id: 560b2c11028abd311494fd16
+:orgtrello-local-checksum: ea1d76f53e9be8340a0ab7669613d9c37f511323003e4d671412484141dc66bc
+:END:
+
+* TODO HOME2 TODO
+:PROPERTIES:
+:orgtrello-id: orgtrello-marker-d008639c56c2c19ba41e14c7bb4b6086a29bae7c
+:END:
+
+* TODO Get 5 amp fuse for truck
+:PROPERTIES:
+:orgtrello-id: orgtrello-marker-d954ad06c54c4a6c43ce90ed0110c391ee75d4af
+:END:
+  [2015-09-29 Tue 16:20]
+  [[file:~/git/org/home.org]]
+
+
+
+

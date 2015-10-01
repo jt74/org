@@ -1,0 +1,52 @@
+
+Archived entries from file c:/Users/jared.travis/Dropbox/git/org/Getting Started with Orgzly.org
+
+
+* Archived Tasks
+
+** DONE Task is a note prefixed with TODO
+CLOSED: [2015-06-25 Thu 16:06]
+:PROPERTIES:
+:ARCHIVE_TIME: 2015-08-12 Wed 09:49
+:ARCHIVE_FILE: ~/git/org/Getting Started with Orgzly.org
+:ARCHIVE_OLPATH: Notes
+:ARCHIVE_CATEGORY: Getting Started with Orgzly
+:ARCHIVE_TODO: DONE
+:END:
+
+TODO is a state. You can have any number of different states (type of notes). You can add new states in Settings.
+
+** DONE Task can be completed by setting its state to DONE
+CLOSED: [2015-02-20 Fri 20:17]
+:PROPERTIES:
+:ARCHIVE_TIME: 2015-08-12 Wed 09:49
+:ARCHIVE_FILE: ~/git/org/Getting Started with Orgzly.org
+:ARCHIVE_OLPATH: Notes
+:ARCHIVE_CATEGORY: Getting Started with Orgzly
+:ARCHIVE_TODO: DONE
+:END:
+
+Time is automatically added.
+
+** DONE You can set scheduled time
+CLOSED: [2015-06-24 Wed 14:08] SCHEDULED: <2015-06-24 Wed 15:15>
+:PROPERTIES:
+:ARCHIVE_TIME: 2015-08-12 Wed 09:49
+:ARCHIVE_FILE: ~/git/org/Getting Started with Orgzly.org
+:ARCHIVE_OLPATH: Notes
+:ARCHIVE_CATEGORY: Getting Started with Orgzly
+:ARCHIVE_TODO: DONE
+:END:
+
+** DONE You can set deadline time
+CLOSED: [2015-06-24 Wed 14:07] DEADLINE: <2015-06-25 Thu> SCHEDULED: <2015-06-23>
+:PROPERTIES:
+:ARCHIVE_TIME: 2015-08-12 Wed 09:49
+:ARCHIVE_FILE: ~/git/org/Getting Started with Orgzly.org
+:ARCHIVE_OLPATH: Notes
+:ARCHIVE_CATEGORY: Getting Started with Orgzly
+:ARCHIVE_TODO: DONE
+:END:
+
+Both scheduled and deadline times can be used.
+

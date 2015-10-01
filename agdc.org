@@ -1,0 +1,74 @@
+#+FILETAGS: AGDC
+143833
+* AGDC
+  :PROPERTIES:
+  :ID:       abc1b776-fd3d-4343-a843-12bf73874300
+  :END:
+** Meetings
+** H&H
+*** DONE H&H reports
+    CLOSED: [2015-08-12 Wed 14:22]
+  138575 10
+    :LOGBOOK:
+    CLOCK: [2015-08-07 Fri 07:57]--[2015-08-07 Fri 16:36] =>  8:39
+    CLOCK: [2015-08-04 Tue 13:51]--[2015-08-04 Tue 16:52] =>  3:01
+    CLOCK: [2015-08-04 Tue 07:42]--[2015-08-04 Tue 13:18] =>  5:36
+    CLOCK: [2015-08-03 Mon 16:00]--[2015-08-03 Mon 16:42] =>  0:42
+    :END:
+  [2015-08-03 Mon 16:00]
+
+  [[T:\AGDC\138575-2014 Waterways Work\10 - Major Crossings Design\Draft Report]]
+**** DONE Chulitna
+     CLOSED: [2015-08-12 Wed 14:21]
+**** DONE Troublesome
+     CLOSED: [2015-08-12 Wed 14:22]
+ 
+
+ 
+**** MEETING with Abbott team					    :MEETING:
+   :LOGBOOK:
+   CLOCK: [2015-07-20 Mon 13:21]--[2015-07-20 Mon 13:43] =>  0:22
+   :END:
+   [2015-07-20 Mon 13:21]
+** RR									 :RR:
+** SDA 								:SDA:
+*** Tanana
+Project delivery number is 002-14-917-016 [[outlook:00000000910682B0D29B304A8E16A9B42C4ACF5B07000282B60224BDCA439465B2C86147F76C00006087000B00000282B60224BDCA439465B2C86147F76C00006111668A0000][MESSAGE: Tanana (Little, Cynthia M)]]
+*** Yukon
+
+
+*** Moody
+** Workpad								:PAD:
+** 2015 Open Enrollment Webinar
+   :LOGBOOK:
+   CLOCK: [2014-11-07 Fri 11:07]--[2014-11-07 Fri 11:36] =>  0:29
+   :END:
+:PROPERTIES:
+:ID:       owncloud-87fd0c899c47607ada1daf2d4d73b51d
+:END:
+<2014-11-07 Fri 11:00-12:00>
+https://meetings.mbakercorp.com/orion/meeting/meetingInfo?MeetingKey=994850634&siteurl=meetings 
+ 
+ Call in number: 571-209-6390
+ Access code: 994 850 634
+ 
+*** NOTES
+**** PTO
+   - sick plus vacation was 16 days (6 + 10), or 200 hour carry over, 2 personal days, unlimited sick time
+   - accrual limit effective 2016
+   - can accrue up to 125% of allowable accrual amount
+   - NEW POLICY IS (For 1-4 yr employees):
+     - 15 days PTO (accruable per calendar year)
+     - accrual limit - 150 hours or 18.75 days
+     - USE EM OR LOSE EM, hours above accrual will be lost on Jan 1
+   - No more sick time; all PTO
+   - injury of illness exceeding 5 days eligible for short term disability
+   - 8 paid holidays (as usual), different distribution
+     - 1/1, 1/19, 5/25, 7/3, 9/7, 11/11, 11/26, 12/25
+   - bereavement = 3 days
+   - jury = 5 days
+   - new accrual rates kick in 01/15
+**** Open enrollment
+    - default = 80/60
+**** Medical Plan
+**** Archive							    :ARCHIVE:

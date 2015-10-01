@@ -1,0 +1,66 @@
+#+FILETAGS: IGU 142265
+* IGU
+** Tasks
+[2014-12-04 Thu 09:13]
+*** DONE 408 dwg set
+CLOSED: [2015-08-18 Tue 11:47]
+    :LOGBOOK:
+    CLOCK: [2015-04-28 Tue 08:57]--[2015-04-28 Tue 10:49] =>  1:52
+    CLOCK: [2015-04-28 Tue 07:22]--[2015-04-28 Tue 07:39] =>  0:17
+    CLOCK: [2015-04-27 Mon 13:44]--[2015-04-27 Mon 15:40] =>  1:56
+    CLOCK: [2015-04-27 Mon 12:22]--[2015-04-27 Mon 13:23] =>  3:06
+    CLOCK: [2015-04-27 Mon 11:02]--[2015-04-27 Mon 12:00] =>  3:06
+    CLOCK: [2015-04-27 Mon 07:43]--[2015-04-27 Mon 10:49] =>  3:06
+    CLOCK: [2015-04-22 Wed 13:57]--[2015-04-22 Wed 14:30] =>  0:33
+    CLOCK: [2015-04-22 Wed 13:36]--[2015-04-22 Wed 13:52] =>  0:16
+    :END:
+  [2015-04-17 Fri 16:10]
+
+  **** DONE Steepen HDD profile at levee
+  CLOSED: [2015-08-18 Tue 11:47]
+  **** DONE Smooth profile
+  CLOSED: [2015-08-18 Tue 11:48]
+       [2015-04-17 Fri 16:12]
+
+  *** DONE IGU surface generation
+  CLOSED: [2015-08-18 Tue 11:48]
+    :LOGBOOK:
+    CLOCK: [2015-04-28 Tue 11:48]--[2015-04-28 Tue 12:05] =>  0:17
+    :END:
+  [2015-04-28 Tue 11:48]
+  [[file:~/git/org/refile.org::*Develop%20comment%20resolution%20matrix%20for%20Yukon%20HDD][Develop comment resolution matrix for Yukon HDD]]
+
+  ** Notes
+  *** Task and Project Number
+      [2014-10-17 Fri 08:02]
+      - 142265 Task 3.04.DS
+      [[outlook:00000000910682B0D29B304A8E16A9B42C4ACF5B07000282B60224BDCA439465B2C86147F76C00006087000B00000282B60224BDCA439465B2C86147F76C0000611144A60000][MESSAGE: RE: Project and Task No. for IGU (Christianson, Derek M)]]
+  *** Project Folder
+      - [[T:\AKDOT\Abbott Rd Rehab Enviro & Design Support Svcs]]
+	- 
+      [2014-10-22 Wed 09:39]
+  *** Project website
+      -[[http://www.abbottroadrehab.com/]]
+      [2014-10-22 Wed 09:40]
+  *** Scope of Work (SOW), contacts, etc.
+     - [[outlook:00000000910682B0D29B304A8E16A9B42C4ACF5B07000282B60224BDCA439465B2C86147F76C00006087000B00000282B60224BDCA439465B2C86147F76C0000611144A60000][MESSAGE: RE: Project and Task No. for IGU (Christianson, Derek M)]]
+  [2014-10-17 Fri 08:02]
+  ** Archive							    :ARCHIVE:
+  *** PHONE Marc							      :PHONE:
+  :LOGBOOK:
+  CLOCK: [2014-11-11 Tue 09:45]--[2014-11-11 Tue 09:48] =>  0:03
+  :END:
+      :PROPERTIES:
+      :ARCHIVE_TIME: 2015-01-05 Mon 07:55
+      :END:
+  [2014-11-11 Tue 09:45]
+
+  - his car won't start
+  ** HDD
+  ** Meetings
+  ** Meetings
+  *** IGU - Section 408 Engineering Coordination
+      :LOGBOOK:
+      CLOCK: [2015-04-17 Fri 15:00]--[2015-04-17 Fri 15:49] =>  0:49
+      :END:
+  <2015-04-17 Fri 15:00>

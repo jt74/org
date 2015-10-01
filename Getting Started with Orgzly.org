@@ -1,0 +1,59 @@
+Welcome to Orgzly. Check some of the features by going through these notes.
+
+* Notes
+  ** Click on a plus icon to create a new note
+  ** Note has a title
+
+  Note can also have a body.
+
+  ** Click and hold the note to select it
+
+  You can select multiple notes and edit them.
+
+  *** You can create a sub-note
+  **** You can have as many levels as you like
+
+  Collapsing notes will be supported soon.
+
+  ** Note can have tags :tutorial:help:tags:
+  ** [#A] Note can have a priority
+* Searching
+  ** You can search notes by clicking the search icon
+  ** You can search for text occurring anywhere in the note
+  ** You can use search operators to narrow down the results
+
+  b.Notebook – notes from notebook “Notebook”
+  i.todo – notes with “TODO” state
+  .i.done – notes which do not have “DONE” state
+  s.today – notes scheduled for today or earlier
+  t.help – notes with a tag “help”
+
+  ** If you are searching from a notebook, default search operator will be added for you
+  ** There are two saved searches in navigation drawer
+
+  Try them and notice the operators used.
+
+* Settings
+
+    Settings button is located in the menu or in the top right corner, if your device doesn't have a menu button.
+
+    ** Go through available settings
+
+    Modify them to your liking to improve your experience with Orgzly.
+
+* Syncing
+
+    Notebooks can be saved to your Dropbox in plain-text. Org mode file format is used.
+
+    ** Add a repository from Settings
+
+    Repository is a directory inside Dropbox.
+
+    ** Dropbox is one of the syncing methods
+
+    You can also sync notebooks with a directory on your device. Soon you will be able to sync using Git, SSH and more.
+
+    ** Start sync
+
+    Syncing is currently manual. Button is located in the navigation drawer.
+

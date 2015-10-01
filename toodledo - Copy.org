@@ -1,0 +1,241 @@
+#+SEQ_TODO: TODO(t) DELEGATED(g) SOMEDAY(s) WAITING(w) | DONE(d) CANCELLED(c) REFERENCE(r) 
+* TASKS
+:PROPERTIES:
+:ToodledoLastSync: 1443643149
+:OrgToodledoVersion: 2.16
+:ToodledoLastEdit: 1443643147
+:ToodledoLastDelete: 1310885736
+:END:
+* Donlin
+:PROPERTIES:
+:ToodledoFolderID: 3899905
+:END:
+** DONE Merge PDFs fence diagrams for delivery
+   CLOSED: [2015-09-30 Wed 15:45]
+:PROPERTIES:
+:ToodledoID: 213910987
+:Hash:     730c21a22b29335ce69f44be4e9ea81d
+:END:
+:LOGBOOK:
+CLOCK: [2015-09-30 Wed 11:09]--[2015-09-30 Wed 11:58] =>  0:49
+:END:
+Donlin
+144912 3
+[[T:\DONLIN\144912 - 2015 Pipeline Eng\08-CADD\3D_DONLIN\Production Drawings]]
+** DONE Geo Donlin Alignment 1
+   CLOSED: [2015-08-03 Mon 15:59]
+   :PROPERTIES:
+   :ToodledoID: 213910989
+   :Hash:     af592da62307b5ea7d913aa1aeee10be
+   :END:
+  :LOGBOOK:
+  CLOCK: [2015-07-27 Mon 08:20]--[2015-07-27 Mon 16:34] =>  8:14
+  CLOCK: [2015-07-24 Fri 08:09]--[2015-07-24 Fri 16:57] =>  8:48
+  CLOCK: [2015-07-23 Thu 13:02]--[2015-07-23 Thu 16:36] =>  3:34
+  CLOCK: [2015-07-23 Thu 08:26]--[2015-07-23 Thu 12:16] =>  3:50
+  CLOCK: [2015-07-22 Wed 12:38]--[2015-07-22 Wed 16:50] =>  4:12
+  CLOCK: [2015-07-22 Wed 08:00]--[2015-07-22 Wed 12:06] =>  4:06
+  CLOCK: [2015-07-21 Tue 12:23]--[2015-07-21 Tue 16:31] =>  4:08
+  CLOCK: [2015-07-21 Tue 07:51]--[2015-07-21 Tue 12:01] =>  4:10
+  CLOCK: [2015-07-20 Mon 13:43]--[2015-07-20 Mon 17:11] =>  3:28
+  CLOCK: [2015-07-20 Mon 13:00]--[2015-07-20 Mon 13:21] =>  0:21
+  CLOCK: [2015-07-20 Mon 08:17]--[2015-07-20 Mon 12:02] =>  3:45
+  CLOCK: [2015-07-17 Fri 07:46]--[2015-07-17 Fri 16:33] =>  8:47
+  CLOCK: [2015-07-16 Thu 08:13]--[2015-07-16 Thu 16:47] =>  8:34
+  CLOCK: [2015-07-15 Wed 12:43]--[2015-07-15 Wed 16:49] =>  4:06
+  CLOCK: [2015-07-15 Wed 07:54]--[2015-07-15 Wed 12:00] =>  4:06
+  CLOCK: [2015-07-14 Tue 12:49]--[2015-07-14 Tue 15:00] =>  2:11
+  CLOCK: [2015-07-14 Tue 07:48]--[2015-07-14 Tue 12:00] =>  4:12
+  CLOCK: [2015-07-13 Mon 12:47]--[2015-07-13 Mon 16:43] =>  3:56
+  CLOCK: [2015-07-13 Mon 08:02]--[2015-07-13 Mon 12:11] =>  4:09
+  CLOCK: [2015-07-09 Thu 13:19]--[2015-07-09 Thu 17:08] =>  3:49
+  CLOCK: [2015-07-09 Thu 07:43]--[2015-07-09 Thu 12:00] =>  4:17
+  CLOCK: [2015-07-08 Wed 12:51]--[2015-07-08 Wed 16:34] =>  3:43
+  CLOCK: [2015-07-08 Wed 09:27]--[2015-07-08 Wed 12:03] =>  2:36
+  CLOCK: [2015-07-08 Wed 07:58]--[2015-07-08 Wed 08:59] =>  1:01
+  CLOCK: [2015-07-07 Tue 13:04]--[2015-07-07 Tue 16:38] =>  3:34
+  CLOCK: [2015-07-07 Tue 08:21]--[2015-07-07 Tue 12:05] =>  3:44
+  CLOCK: [2015-07-06 Mon 09:01]--[2015-07-06 Mon 17:11] =>  8:10
+  CLOCK: [2015-07-02 Thu 12:35]--[2015-07-02 Thu 16:59] =>  4:24
+  CLOCK: [2015-07-02 Thu 11:30]--[2015-07-02 Thu 12:13] =>  0:43
+  :END:
+[2015-07-02 Thu 11:30]
+[[file:~/.bash_history]]
+
+[[T:\DONLIN\144912 - 2015 Pipeline Englist\08-CADD]]
+
+[[T:\DONLIN\144912 - 2015 Pipeline Eng\08-CADD\3D_DONLIN\Production Drawings]]
+ 
+** DONE Geo DONLIN ALIGNMENT 2
+   CLOSED: [2015-09-24 Thu 14:54]
+   :PROPERTIES:
+   :ToodledoID: 213910991
+   :Hash:     a5e392cc26b28b91691adec7ed4b8f8e
+   :END:
+   :LOGBOOK:
+   CLOCK: [2015-09-28 Mon 09:11]--[2015-09-28 Mon 10:26] =>  1:15
+   CLOCK: [2015-09-24 Thu 13:17]--[2015-09-24 Thu 14:46] =>  1:29
+   CLOCK: [2015-09-24 Thu 08:02]--[2015-09-24 Thu 11:57] =>  3:55
+   CLOCK: [2015-09-23 Wed 12:38]--[2015-09-23 Wed 16:51] =>  4:13
+   CLOCK: [2015-09-23 Wed 07:53]--[2015-09-23 Wed 12:21] =>  4:28
+   CLOCK: [2015-09-22 Tue 13:47]--[2015-09-22 Tue 17:40] =>  3:53
+   CLOCK: [2015-09-22 Tue 12:23]--[2015-09-22 Tue 13:46] =>  1:23
+   CLOCK: [2015-09-22 Tue 08:24]--[2015-09-22 Tue 11:58] =>  3:34
+   CLOCK: [2015-09-22 Tue 08:09]--[2015-09-22 Tue 08:23] =>  0:14
+   CLOCK: [2015-09-21 Mon 17:46]--[2015-09-21 Mon 18:00] =>  0:14
+   CLOCK: [2015-09-21 Mon 13:12]--[2015-09-21 Mon 17:46] =>  4:34
+   CLOCK: [2015-09-21 Mon 08:05]--[2015-09-21 Mon 11:55] =>  3:50
+   CLOCK: [2015-09-18 Fri 16:01]--[2015-09-18 Fri 17:35] =>  1:34
+   CLOCK: [2015-09-18 Fri 12:40]--[2015-09-18 Fri 16:01] =>  3:21
+   CLOCK: [2015-09-18 Fri 08:32]--[2015-09-18 Fri 12:10] =>  3:38
+   CLOCK: [2015-09-18 Fri 08:13]--[2015-09-18 Fri 08:32] =>  0:19
+   CLOCK: [2015-09-17 Thu 12:48]--[2015-09-17 Thu 17:12] =>  4:24
+   CLOCK: [2015-09-17 Thu 11:09]--[2015-09-17 Thu 12:05] =>  0:56
+   CLOCK: [2015-09-17 Thu 09:46]--[2015-09-17 Thu 10:52] =>  1:06
+   CLOCK: [2015-09-16 Wed 16:13]--[2015-09-16 Wed 16:36] =>  0:23
+   CLOCK: [2015-09-16 Wed 12:00]--[2015-09-16 Wed 16:13] =>  4:13
+   CLOCK: [2015-09-16 Wed 08:03]--[2015-09-16 Wed 11:59] =>  3:56
+   CLOCK: [2015-09-15 Tue 08:18]--[2015-09-15 Tue 16:39] =>  8:21
+   CLOCK: [2015-09-15 Tue 08:00]--[2015-09-15 Tue 08:12] =>  0:12
+   CLOCK: [2015-09-14 Mon 12:45]--[2015-09-14 Mon 16:42] =>  3:57
+   CLOCK: [2015-09-14 Mon 08:02]--[2015-09-14 Mon 12:05] =>  4:03
+   CLOCK: [2015-09-11 Fri 13:42]--[2015-09-11 Fri 16:42] =>  3:00
+   CLOCK: [2015-09-11 Fri 09:34]--[2015-09-11 Fri 12:13] =>  2:39
+   CLOCK: [2015-09-11 Fri 08:15]--[2015-09-11 Fri 08:55] =>  0:40
+   CLOCK: [2015-09-10 Thu 15:29]--[2015-09-10 Thu 16:43] =>  1:14
+   CLOCK: [2015-09-10 Thu 13:24]--[2015-09-10 Thu 15:29] =>  2:05
+   CLOCK: [2015-09-10 Thu 08:04]--[2015-09-10 Thu 11:44] =>  3:40
+   CLOCK: [2015-09-09 Wed 07:55]--[2015-09-09 Wed 16:49] =>  8:54
+   CLOCK: [2015-09-08 Tue 13:05]--[2015-09-08 Tue 17:06] =>  4:01
+   CLOCK: [2015-09-08 Tue 09:18]--[2015-09-08 Tue 12:03] =>  2:45
+   :END:
+144912 3
+ [[T:\DONLIN\144912 - 2015 Pipeline Eng\08-CADD]]
+
+[[T:\DONLIN\144912 - 2015 Pipeline Eng\08-CADD\3D_DONLIN\Production Drawingsa]]
+
+-LA S C-ROAD-PROF-TTLB
+*** DONE MPs 150 - 170                                              :jamie:
+    CLOSED: [2015-09-16 Wed 11:59]
+    :PROPERTIES:
+    :ToodledoID: 213910993
+    :Hash:     92e5d6724aeaf4e6cad582842f21cd02
+    :END:
+  :LOGBOOK:  
+  CLOCK: [2015-09-15 Tue 08:12]--[2015-09-15 Tue 08:18] =>  0:06
+  :END:      
+[2015-09-15 Tue 08:12]
+
+** DONE xxGeo Donlin Alignment 2
+CLOSED: [2015-09-30 Wed 11:59]
+:PROPERTIES:
+:ToodledoID: 213910995
+:Hash:     2734d99d6ef91c7d3018853878df0ed7
+:END:
+144912 3
+ :LOGBOOK:
+ CLOCK: [2015-08-28 Fri 08:41]--[2015-08-28 Fri 12:16] =>  3:35
+ CLOCK: [2015-08-27 Thu 08:21]--[2015-08-27 Thu 12:08] =>  3:47
+ CLOCK: [2015-08-26 Wed 15:45]--[2015-08-26 Wed 15:49] =>  0:04
+ CLOCK: [2015-08-26 Wed 15:34]--[2015-08-26 Wed 15:36] =>  0:02
+ CLOCK: [2015-08-26 Wed 13:40]--[2015-08-26 Wed 15:05] =>  1:25
+ CLOCK: [2015-08-25 Tue 12:33]--[2015-08-25 Tue 12:34] =>  0:01
+ CLOCK: [2015-08-25 Tue 08:38]--[2015-08-25 Tue 12:01] =>  3:23
+ CLOCK: [2015-08-24 Mon 13:16]--[2015-08-24 Mon 16:32] =>  3:16
+ CLOCK: [2015-08-24 Mon 08:54]--[2015-08-24 Mon 10:33] =>  1:39
+ CLOCK: [2015-08-24 Mon 08:10]--[2015-08-24 Mon 08:11] =>  0:01
+ CLOCK: [2015-08-21 Fri 15:04]--[2015-08-21 Fri 16:42] =>  1:38
+ CLOCK: [2015-08-21 Fri 12:59]--[2015-08-21 Fri 13:18] =>  0:19
+ CLOCK: [2015-08-21 Fri 08:01]--[2015-08-21 Fri 11:58] =>  3:57
+ CLOCK: [2015-08-20 Thu 13:15]--[2015-08-20 Thu 16:45] =>  3:30
+ CLOCK: [2015-08-20 Thu 07:54]--[2015-08-20 Thu 12:30] =>  4:36
+ CLOCK: [2015-08-19 Wed 11:10]--[2015-08-19 Wed 12:09] =>  0:59
+ :END:
+ [2015-08-19 Wed 11:10]
+ [[file:~/git/org/baker.org::*Geo%20Donlin%20Alignment%201n][Geo Donlin Alignment 1n]]
+
+xx
+
+
+** DONE MPs 200 - 216                                                :jamie:
+  CLOSED: [2015-09-25 Fri 11:09]
+  :PROPERTIES:
+  :ToodledoID: 213910997
+  :Hash:     3b86497be699452587a16bba3a838b60
+  :END:
+  :LOGBOOK:  
+  CLOCK: [2015-09-16 Wed 11:59]--[2015-09-16 Wed 12:00] =>  0:01
+  :END:      
+[2015-09-16 Wed 11:59]
+[[file:~/git/org/baker.org::*MPs%20150%20-%20170][MPs 150 - 170]]
+** DONE Print MP 195-196.5 to PDF
+  CLOSED: [2015-09-25 Fri 11:09]
+  :PROPERTIES:
+  :ToodledoID: 213910999
+  :Hash:     32fd141c694e9d339bee8053ea7da356
+  :END:
+[2015-09-16 Wed 16:13]
+[[file:~/git/org/baker.org::*Sight%20triangle%20drawing][Sight triangle drawing]]
+** DONE DATA BAND 150 - 200                                          :jamie:
+  CLOSED: [2015-09-25 Fri 11:09]
+  :PROPERTIES:
+  :ToodledoID: 213911001
+  :Hash:     6f8986152c9e601b23b12f797ef1b581
+  :END:
+[2015-09-18 Fri 08:32]
+[[file:~/git/org/baker.org::*Geo%20DONLIN%20ALIGNMENT%202][Geo DONLIN ALIGNMENT 2]]
+** DONE rename 231-234 w>Model
+  CLOSED: [2015-09-25 Fri 11:09]
+  :PROPERTIES:
+  :ToodledoID: 213911003
+  :Hash:     8edfde621ce5dd198dcd7f21d46405d3
+  :END:
+  :LOGBOOK:  
+  CLOCK: [2015-09-22 Tue 08:23]--[2015-09-22 Tue 08:24] =>  0:01
+  :END:      
+[2015-09-22 Tue 08:23]
+[[file:t:/DONLIN/144912%20-%202015%20Pipeline%20Eng/08-CADD/3D_DONLIN/Production%20Drawings/229.5%20-%20231.bak][file:t:/DONLIN/144912 - 2015 Pipeline Eng/08-CADD/3D_DONLIN/Production Drawings/229.5 - 231.bak]]
+** DONE print all sheets > 200 for page number update
+  CLOSED: [2015-09-25 Fri 11:09]
+  :PROPERTIES:
+  :ToodledoID: 213911005
+  :Hash:     e081670fe566c6659bcc568c0f1443c3
+  :END:
+  :LOGBOOK:  
+  CLOCK: [2015-09-22 Tue 13:46]--[2015-09-22 Tue 13:47] =>  0:01
+  :END:      
+[2015-09-22 Tue 13:46]
+* Kotzebue                                                            :@KOTZ:
+:PROPERTIES:
+:ToodledoFolderID: 3899897
+:END:
+** DONE [#B] Sadie Creek DWGs
+   CLOSED: [2015-09-30 Wed 14:52]
+:PROPERTIES:
+:ToodledoID: 213907467
+:Hash:     0
+:END:
+
+** DONE [#C] Erosion typicals
+CLOSED: [2015-09-30 Wed 14:17]
+:PROPERTIES:
+:ToodledoID: 213908119
+:ToodledoFolder: Kotzebue
+:Hash:     6a9a1129d24b35a34e3ccaad276fda81
+:END:
+    [2015-09-25 Fri 10:14]
+
+    128262  Task 6.3
+** DONE [#C] Sadie dwgs
+CLOSED: [2015-09-30 Wed 14:17]
+:PROPERTIES:
+:ToodledoID: 213908121
+:ToodledoFolder: Kotzebue
+:Hash:     09b1e564158bed21c076a4e08a43a91a
+:END:
+    128262  Task 6.3
+    T:\128262 - Kotzebue Cape Blossom EA\02 Project Documents\6.1 Sadie Creek H&H
+    [[outlook:00000000910682B0D29B304A8E16A9B42C4ACF5B07000282B60224BDCA439465B2C86147F76C00006087000B00000282B60224BDCA439465B2C86147F76C0000611170510000][MESSAGE: Emailing: DOT bridge alignment 09172015.dwg (Smith, Alaina)]]
+
+    [2015-09-25 Fri 11:43]
+ 

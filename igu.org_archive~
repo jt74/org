@@ -1,0 +1,322 @@
+
+Archived entries from file c:/Users/jared.travis/Dropbox/git/org/igu.org
+
+
+* Archived Tasks
+
+** DONE IGU estimate
+    CLOSED: [2015-04-28 Tue 07:22]
+  :LOGBOOK:
+  - State "DONE"       from "WAITING"    [2015-04-28 Tue 07:22]
+  CLOCK: [2015-04-27 Mon 10:49]--[2015-04-27 Mon 11:02] =>  0:13
+  CLOCK: [2015-04-24 Fri 07:32]--[2015-04-24 Fri 16:04] =>  8:32
+  CLOCK: [2015-04-23 Thu 12:59]--[2015-04-23 Thu 16:58] =>  3:59
+  CLOCK: [2015-04-23 Thu 10:17]--[2015-04-23 Thu 12:23] =>  2:06
+  CLOCK: [2015-04-23 Thu 07:43]--[2015-04-23 Thu 09:30] =>  1:47
+  CLOCK: [2015-04-22 Wed 14:30]--[2015-04-22 Wed 16:13] =>  1:43
+  - State "WAITING"    from "TODO"       [2015-04-22 Wed 13:34] \\
+    for feedback from Garrett
+  CLOCK: [2015-04-22 Wed 12:28]--[2015-04-22 Wed 13:36] =>  1:08
+  CLOCK: [2015-04-22 Wed 11:44]--[2015-04-22 Wed 11:57] =>  0:13
+  CLOCK: [2015-04-22 Wed 10:08]--[2015-04-22 Wed 11:06] =>  0:58
+  CLOCK: [2015-04-22 Wed 07:20]--[2015-04-22 Wed 09:43] =>  2:23
+  CLOCK: [2015-04-21 Tue 07:37]--[2015-04-21 Tue 16:37] =>  9:00
+  CLOCK: [2015-04-20 Mon 16:12]--[2015-04-20 Mon 16:27] =>  0:15
+  CLOCK: [2015-04-20 Mon 16:05]--[2015-04-20 Mon 16:12] =>  0:07
+  CLOCK: [2015-04-20 Mon 15:51]--[2015-04-20 Mon 16:05] =>  0:14
+  CLOCK: [2015-04-20 Mon 12:32]--[2015-04-20 Mon 15:50] =>  3:18
+  CLOCK: [2015-04-20 Mon 07:47]--[2015-04-20 Mon 12:01] =>  4:14
+  CLOCK: [2015-04-17 Fri 15:49]--[2015-04-17 Fri 16:10] =>  0:21
+  CLOCK: [2015-04-17 Fri 14:51]--[2015-04-17 Fri 15:00] =>  0:09
+  CLOCK: [2015-04-17 Fri 14:24]--[2015-04-17 Fri 14:51] =>  0:27
+  CLOCK: [2015-04-17 Fri 08:19]--[2015-04-17 Fri 12:17] =>  3:58
+  CLOCK: [2015-04-17 Fri 07:31]--[2015-04-17 Fri 08:13] =>  0:42
+  CLOCK: [2015-04-16 Thu 12:47]--[2015-04-16 Thu 16:29] =>  3:42
+  CLOCK: [2015-04-16 Thu 07:49]--[2015-04-16 Thu 11:54] =>  4:05
+  CLOCK: [2015-04-15 Wed 13:01]--[2015-04-15 Wed 16:27] =>  3:26
+  :END:
+:PROPERTIES:
+:ARCHIVE_TIME: 2015-06-10 Wed 10:43
+:ARCHIVE_FILE: ~/git/org/igu.org
+:ARCHIVE_OLPATH: IGU/Tasks
+:ARCHIVE_CATEGORY: igu
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: IGU 142265
+:END:
+[2015-04-15 Wed 13:01]
+[[file:~/git/org/refile.org::*IGU%20T&R,%20etc.%20dwg%20integration][IGU T&R, etc. dwg integration]]
+[[outlook:00000000910682B0D29B304A8E16A9B42C4ACF5B07000282B60224BDCA439465B2C86147F76C00006087000B00000282B60224BDCA439465B2C86147F76C000061115FF50000][MESSAGE: FW: bid tabs as requested (Christianson, Derek M)]]
+
+[[T:\IGU\142265\04 - Submittals\02 Phase I PDC\05 100%\Pipe\Bid Tabs]]
+
+[[T:\IGU\142265\03 - CADD\Working\JTravis\ESTIMATE]]
+
+- [[T:\IGU\142265\04 - Submittals\02 Phase I PDC\05 100%\Pipe\Bid Tabs][BID TABS CONSTRUCTION]]
+- [[T:\IGU\142265\04 - Submittals\02 Phase I PDC\05 100%\Clearing][BID TABS CLEARING]]
+*** DONE Cost per foot for 8" ARRC casing, vs. 14" from PDC
+     CLOSED: [2015-04-20 Mon 15:46]
+     :PROPERTIES:
+     :dowith:   garrett
+     :END:
+     - [X] lessened the 14" bid by 10% to account for 8" casing diameter
+*** DONE Valves
+     CLOSED: [2015-04-28 Tue 07:21]
+  :LOGBOOK:
+  CLOCK: [2015-04-17 Fri 08:13]--[2015-04-17 Fri 08:14] =>  0:01
+  :END:
+[2015-04-17 Fri 08:13]
+
+*** DONE Bedding
+     CLOSED: [2015-04-21 Tue 08:42]
+  :LOGBOOK:
+  - State "DONE"       from "WAITING"    [2015-04-21 Tue 08:42]
+  - State "WAITING"    from "TODO"       [2015-04-17 Fri 08:25] \\
+    Garrett is placing valves
+  :END:
+  :PROPERTIES:
+  :dowith:   garrett
+  :END:
+[2015-04-17 Fri 08:14]
+[[file:~/git/org/refile.org::*Valves][Valves]]
+*** DONE What is the average trench width?
+     CLOSED: [2015-04-21 Tue 08:42]
+     :PROPERTIES:
+     :dowith:   garrett
+     :END:
+     [2015-04-17 Fri 08:37]
+*** DONE Dimensions for bedding
+     CLOSED: [2015-04-21 Tue 08:42]
+     :PROPERTIES:
+     :dowith:   garrett
+     :END:
+[[T:\IGU\142265\03 - CADD\Working\JTravis\ESTIMATE]]
+*** DONE update language detail
+  CLOSED: [2015-04-22 Wed 13:29]
+:LOGBOOK:
+CLOCK: [2015-04-20 Mon 15:50]--[2015-04-20 Mon 15:51] =>  0:01
+:END:
+[2015-04-20 Mon 15:50]
+
+- [[outlook:00000000910682B0D29B304A8E16A9B42C4ACF5B07000282B60224BDCA439465B2C86147F76C00006087000B00000282B60224BDCA439465B2C86147F76C00006111603E0000][MESSAGE: IGU link (Anderson, Eric S)]]
+*** DONE POL spec comment to Suttie                                 :jamie:
+  CLOSED: [2015-04-22 Wed 13:29]
+  :PROPERTIES:
+  :on:       <2015-04-21 Tue 08:37>
+  :with:     jamie
+  :END:
+[2015-04-20 Mon 16:05]
+*** DONE delete incidentals from cost estimate sheet--check forumals
+  CLOSED: [2015-04-22 Wed 13:29]
+[2015-04-20 Mon 16:12]
+*** DONE Populate Derek's estimate sheet
+     CLOSED: [2015-04-28 Tue 07:22]
+  :LOGBOOK:
+  CLOCK: [2015-04-22 Wed 13:52]--[2015-04-22 Wed 13:57] =>  0:05
+  :END:
+[2015-04-22 Wed 13:52]
+[[file:~/git/org/igu.org::*408%20dwg%20set][408 dwg set]]
+
+*** DONE Report number
+  CLOSED: [2015-04-23 Thu 16:59]
+  :LOGBOOK:
+  CLOCK: [2015-04-23 Thu 14:32]--[2015-04-23 Thu 16:58] =>  2:26
+  :END:
+[2015-04-23 Thu 14:32]
+[[file:~/git/org/igu.org::*IGU%20estimate][IGU estimate]]
+
+
+DONE: [[outlook:00000000910682B0D29B304A8E16A9B42C4ACF5B07000282B60224BDCA439465B2C86147F76C00006087000B00000282B60224BDCA439465B2C86147F76C00006111607C0000][MESSAGE: RE: Report number for IGU 65% estimate (Onuska, Michelle)]]
+
+** DONE IGU T&R, etc. dwg integration
+    CLOSED: [2015-04-22 Wed 13:34]
+  :LOGBOOK:
+  CLOCK: [2015-04-15 Wed 12:45]--[2015-04-15 Wed 13:01] =>  0:16
+  CLOCK: [2015-04-15 Wed 07:49]--[2015-04-15 Wed 12:05] =>  4:16
+  CLOCK: [2015-04-14 Tue 12:59]--[2015-04-14 Tue 16:32] =>  3:33
+  CLOCK: [2015-04-14 Tue 10:09]--[2015-04-14 Tue 12:11] =>  2:02
+  :END:
+:PROPERTIES:
+:ARCHIVE_TIME: 2015-06-10 Wed 10:43
+:ARCHIVE_FILE: ~/git/org/igu.org
+:ARCHIVE_OLPATH: IGU/Tasks
+:ARCHIVE_CATEGORY: igu
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: IGU 142265
+:END:
+[2015-04-14 Tue 10:09]
+
+** DONE Comments
+    CLOSED: [2015-04-23 Thu 14:23]
+  :LOGBOOK:
+  CLOCK: [2015-04-17 Fri 08:17]--[2015-04-17 Fri 08:19] =>  0:02
+  :END:
+:PROPERTIES:
+:ARCHIVE_TIME: 2015-06-10 Wed 10:43
+:ARCHIVE_FILE: ~/git/org/igu.org
+:ARCHIVE_OLPATH: IGU/Tasks
+:ARCHIVE_CATEGORY: igu
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: IGU 142265
+:END:
+[2015-04-17 Fri 08:14]
+
+[[outlook:00000000910682B0D29B304A8E16A9B42C4ACF5B07000282B60224BDCA439465B2C86147F76C00006087000B00000282B60224BDCA439465B2C86147F76C00006111600F0000][MESSAGE: FW: IGU 65% Design Internal Review Comments (Thatcher, Garrett)]]
+
+** DONE Specs
+    CLOSED: [2015-04-23 Thu 14:23]
+  :LOGBOOK:
+  CLOCK: [2015-04-17 Fri 08:14]--[2015-04-17 Fri 08:17] =>  0:03
+  :END:
+:PROPERTIES:
+:ARCHIVE_TIME: 2015-06-10 Wed 10:43
+:ARCHIVE_FILE: ~/git/org/igu.org
+:ARCHIVE_OLPATH: IGU/Tasks
+:ARCHIVE_CATEGORY: igu
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: IGU 142265
+:END:
+[2015-04-17 Fri 08:14]
+[[file:~/git/org/refile.org::*Comments][Comments]]
+
+- [ ] Update specs for 8" casing at ARRC crossings
+  - PDC had 14"
+- [ ] Update specs for HDD >20FT
+
+** DONE Design basis
+    CLOSED: [2015-04-23 Thu 14:23]
+:LOGBOOK:
+CLOCK: [2015-04-17 Fri 16:10]--[2015-04-17 Fri 16:31] =>  0:21
+:END:
+:PROPERTIES:
+:ARCHIVE_TIME: 2015-06-10 Wed 10:43
+:ARCHIVE_FILE: ~/git/org/igu.org
+:ARCHIVE_OLPATH: IGU/Tasks
+:ARCHIVE_CATEGORY: igu
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: IGU 142265
+:END:
+[2015-04-17 Fri 16:10]
+[[file:~/git/org/refile.org::*408%20dwg%20set][408 dwg set]]
+
+** DONE IGU details
+   CLOSED: [2015-04-10 Fri 09:01]
+  :LOGBOOK:
+  CLOCK: [2015-04-08 Wed 08:24]--[2015-04-08 Wed 15:01] =>  6:37
+  CLOCK: [2015-04-07 Tue 17:17]--[2015-04-07 Tue 21:23] =>  4:06
+  CLOCK: [2015-04-07 Tue 12:25]--[2015-04-07 Tue 17:01] =>  4:36
+  CLOCK: [2015-04-07 Tue 07:30]--[2015-04-07 Tue 12:00] =>  4:30
+  CLOCK: [2015-04-06 Mon 12:45]--[2015-04-06 Mon 18:17] =>  5:32
+  CLOCK: [2015-04-06 Mon 10:20]--[2015-04-06 Mon 11:58] =>  1:38
+  CLOCK: [2015-04-06 Mon 07:42]--[2015-04-06 Mon 09:56] =>  2:14
+  CLOCK: [2015-04-03 Fri 16:09]--[2015-04-03 Fri 16:34] =>  0:25
+  CLOCK: [2015-04-03 Fri 13:07]--[2015-04-03 Fri 16:09] =>  3:02
+  CLOCK: [2015-04-03 Fri 09:33]--[2015-04-03 Fri 12:26] =>  2:53
+  CLOCK: [2015-03-24 Tue 07:47]--[2015-03-24 Tue 11:12] =>  3:25
+  :END:
+:PROPERTIES:
+:ARCHIVE_TIME: 2015-06-10 Wed 10:43
+:ARCHIVE_FILE: ~/git/org/igu.org
+:ARCHIVE_OLPATH: IGU
+:ARCHIVE_CATEGORY: igu
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: IGU 142265
+:END:
+[2015-03-24 Tue 07:47]
+[[file:~/git/org/refile.org::*Abbott][Abbott]]
+
+[[T:\IGU\142265\03 - CADD\Drawings\Blocks]]
+
+[[T:\IGU\142265\03 - CADD\Drawings\Deliverables\Phase II\100-Scale ]]
+
+
+- [ ] ARRC
+- [ ] TAPS (Z0NE B)
+- [ ] DRILLING ADOT
+- [ ] DIRECTIONAL DRILLING SLOUGH CROSSING
+- [ ] GVEA FUEL TRANS MAIN CROSSING
+- [ ] CANOL / EILESON FUEL LINE
+- [ ] ROADWAY WITH CURB
+- [ ] MOLING
+- [ ] FNSB/CITY NP ROADWAYS
+- [ ] DIVIDED HIGHWAY
+- [ ] CONSTRUCTION SECTION
+- [ ] OPEN TRENCH
+- [ ] 8" DISTRIBUTION / FUTURE 10" TRANSMISSION
+- [ ] FROZEN SOIL
+- [ ] TRENCH TRANSITION TO FROST SUSCEPTIBLE SOILS
+- [ ] 2" LATERAL TO 4" OR 8" MAIN
+- [ ] LOCATE STATION / TRACING WIRE
+- [ ] BELOW LOCATE STATION
+- [ ] BALL VALVE/VALVE BOX
+- [ ] 2" CAPPED END
+- [ ] 4" OR 8" CAPPED END
+- [ ] ASPHALT SAWCUT & PATCH
+- [ ] CULVERT INSTALLATION
+- [ ] TYPCIAL BIKE PATHM 2
+
+** MEETING with IGU                                                :MEETING:
+  :LOGBOOK:
+  CLOCK: [2015-04-23 Thu 09:30]--[2015-04-23 Thu 10:17] =>  0:47
+  :END:
+:PROPERTIES:
+:ARCHIVE_TIME: 2015-06-10 Wed 10:43
+:ARCHIVE_FILE: ~/git/org/igu.org
+:ARCHIVE_OLPATH: IGU/Meetings
+:ARCHIVE_CATEGORY: igu
+:ARCHIVE_TODO: MEETING
+:ARCHIVE_ITAGS: IGU 142265
+:END:
+[2015-04-23 Thu 09:30]
+
+** DONE IGU crossings
+   CLOSED: [2015-04-10 Fri 09:01]
+  :LOGBOOK:
+  CLOCK: [2015-04-01 Wed 13:28]--[2015-04-01 Wed 13:49] =>  0:21
+  CLOCK: [2015-04-01 Wed 10:53]--[2015-04-01 Wed 11:04] =>  0:11
+  CLOCK: [2015-04-01 Wed 07:51]--[2015-04-01 Wed 10:34] =>  2:43
+  CLOCK: [2015-03-31 Tue 12:46]--[2015-03-31 Tue 19:51] =>  7:05
+  CLOCK: [2015-03-31 Tue 07:35]--[2015-03-31 Tue 12:01] =>  4:26
+  CLOCK: [2015-03-30 Mon 15:08]--[2015-03-30 Mon 19:35] =>  4:27
+  CLOCK: [2015-03-30 Mon 10:23]--[2015-03-30 Mon 12:35] =>  4:45
+  CLOCK: [2015-03-30 Mon 07:47]--[2015-03-30 Mon 09:40] =>  1:53
+  CLOCK: [2015-03-27 Fri 12:26]--[2015-03-27 Fri 16:19] =>  3:53
+  CLOCK: [2015-03-27 Fri 08:24]--[2015-03-27 Fri 12:04] =>  3:40
+  CLOCK: [2015-03-27 Fri 07:36]--[2015-03-27 Fri 07:39] =>  0:03
+  CLOCK: [2015-03-26 Thu 12:28]--[2015-03-26 Thu 15:52] =>  3:24
+  CLOCK: [2015-03-26 Thu 10:11]--[2015-03-26 Thu 12:01] =>  1:50
+  CLOCK: [2015-03-26 Thu 09:59]--[2015-03-26 Thu 10:10] =>  0:11
+  CLOCK: [2015-03-26 Thu 07:41]--[2015-03-26 Thu 09:28] =>  1:47
+  CLOCK: [2015-03-25 Wed 15:57]--[2015-03-25 Wed 16:32] =>  0:35
+  CLOCK: [2015-03-25 Wed 14:18]--[2015-03-25 Wed 15:35] =>  1:17
+  CLOCK: [2015-03-25 Wed 07:37]--[2015-03-25 Wed 11:45] =>  4:08
+  CLOCK: [2015-03-24 Tue 15:53]--[2015-03-24 Tue 16:46] =>  0:53
+  CLOCK: [2015-03-24 Tue 13:43]--[2015-03-24 Tue 14:56] =>  1:13
+  :END:
+  :PROPERTIES:
+  :ORDERED:  t
+  :ARCHIVE_TIME: 2015-06-10 Wed 10:43
+  :ARCHIVE_FILE: ~/git/org/igu.org
+  :ARCHIVE_OLPATH: IGU
+  :ARCHIVE_CATEGORY: igu
+  :ARCHIVE_TODO: DONE
+  :ARCHIVE_ITAGS: IGU 142265
+  :END:
+[2015-03-24 Tue 13:43]
+[[file:~/git/org/igu.org::*IGU%20details][IGU details]]
+
+[[outlook:00000000910682B0D29B304A8E16A9B42C4ACF5B07000282B60224BDCA439465B2C86147F76C00006087000B00000282B60224BDCA439465B2C86147F76C000061115F110000][MESSAGE: RE: HDD points and notes (Thatcher, Garrett)]]
+- 120 ft bend radius, per JT1220 Mach 1 Ditch Witch
+
+** MEETING with IGU CAD standards				    :MEETING:
+  :LOGBOOK:
+  CLOCK: [2015-04-13 Mon 11:00]--[2015-04-13 Mon 11:55] =>  0:55
+  :END:
+:PROPERTIES:
+:ARCHIVE_TIME: 2015-06-10 Wed 10:43
+:ARCHIVE_FILE: ~/git/org/igu.org
+:ARCHIVE_OLPATH: IGU
+:ARCHIVE_CATEGORY: igu
+:ARCHIVE_TODO: MEETING
+:ARCHIVE_ITAGS: IGU 142265
+:END:
+[2015-04-13 Mon 11:55]
