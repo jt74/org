@@ -5,7 +5,7 @@
   :ToodledoLastEdit: 1443719851
   :ToodledoLastDelete: 1443659917
   :END:
-** TODO [#D] Get Chaz quote					      :@home:
+** TODO [#B] Get Chaz quote					      :@home:
    :PROPERTIES:
    :ToodledoID: 213929467
    :Hash:     e0c37ed4eddf577312bd31b752881f98
@@ -24,3 +24,29 @@
    :Hash:     0cd79f435b3b24ce275e47dc8629db40
    :END:
 
+** TODO [#C] PE Comity [2/6] 
+  :LOGBOOK:  
+  CLOCK: [2015-10-01 Thu 11:09]--[2015-10-01 Thu 11:42] =>  0:33
+  :END:      
+[2015-10-01 Thu 11:09]
+[[file:~/git/org/toodledo.org::http://ergoemacs.org/emacs/emacs_magit-mode_tutorial.html][Emacs: magit-mode Tutorial]]
+
+
+  - [ ] 5 references
+    - [ ] Derek
+    - [ ] Mwasi
+    - [ ] Cindie
+    - [ ] Dan
+    - [ ] Regan
+  - [ ] Registration and Exam verifications
+  - [X] Official Transcripts or NCEES council record/transcripts
+    - [X] NAU
+      <2015-10-01 Thu>
+      [[https://www.evernote.com/shard/s15/nl/1651877/40d1dbc5-bf11-4c6a-b251-2acb7dfb400a]]
+    - [X] CU BOULDER
+      <2015-10-01 Thu 14:12>
+      [[https://www.evernote.com/shard/s15/nl/1651877/0eb89c84-ba37-43f0-b653-ba9ea14f7178]]
+  - [X] Arctic Engineering Requirement
+  - [ ] Statement of Experience
+  - [ ] Fees
+  
