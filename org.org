@@ -2280,7 +2280,7 @@ Dominik that operates on plain text files.  Org-mode is part of Emacs.
 
     #+begin_src org :exports src
     ,* NEXT Weekly Review [0/6]
-      SCHEDULED: <2009-05-18 Mon ++1w> 
+      SCHEDLED: <2009-05-18 Mon ++1w> 
       :LOGBOOK:...
       :PROPERTIES:...
 
@@ -4492,7 +4492,7 @@ like this
 
 #+begin_src org :exports src
 ,* TODO Invoicing and Archive Tasks [0/7]
-  DEADLINE: <2009-07-01 Wed +1m -0d> 
+  DEADLNE: <2009-07-01 Wed +1m -0d> 
   :PROPERTIES:
   :RESET_CHECK_BOXES: t
   :END:
@@ -4564,7 +4564,7 @@ property on the repeated tasks as follows:
 
 #+begin_src org :exports src
 ,* TODO New Repeating Task
-  SCHEDULED: <2009-06-16 Tue +1w>
+  SCHEDULE: <2009-06-16 Tue +1w>
   :PROPERTIES:
   :NOBLOCKING: t
   :END:
@@ -4830,7 +4830,7 @@ date as follows:
 
 #+begin_src org :exports src
 ,* TODO Pay Wages
-  DEADLINE: <2009-07-01 Wed +1m -0d>   
+  DEADLIE: <2009-07-01 Wed +1m -0d>   
 #+end_src
 
 This example repeats monthly and shows up in the agenda on the day it
@@ -5029,8 +5029,8 @@ value setting and a special =SCHEDULED= date entry like this:
 
 #+begin_src org :exports src
 ,* TODO Update Org Mode Doc
-  SCHEDULED: <2009-11-21 Sat .+7d/30d>
-  [2009-11-14 Sat 11:45]
+,  SHEDULED: <2009-11-21 Sat .+7d/30d>
+'  [2009-11-14 Sat 11:45]
   :PROPERTIES:
   :STYLE: habit
   :END:  

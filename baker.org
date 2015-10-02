@@ -236,24 +236,6 @@ re: temp technical help
 Michael Giarrusso
 phone: 888-431-6300
 * Repsol							     :REPSOL:
-** DONE sideslope study, Repsol
-   CLOSED: [2015-08-26 Wed 11:05]
- 144546 T 3.1  make sure to comment your time charged. 
- :LOGBOOK:
- CLOCK: [2015-08-19 Wed 13:09]--[2015-08-19 Wed 16:08] =>  2:59
- CLOCK: [2015-08-19 Wed 08:24]--[2015-08-19 Wed 11:10] =>  2:46
- :END:
- [2015-08-19 Wed 08:24]
-
-** DONE sideslope study, Repsol
-   CLOSED: [2015-08-26 Wed 11:05]
- 144546 T 3.1  make sure to comment your time charged. 
- :LOGBOOK:
- CLOCK: [2015-08-19 Wed 13:09]--[2015-08-19 Wed 16:08] =>  2:59
- CLOCK: [2015-08-19 Wed 08:24]--[2015-08-19 Wed 11:10] =>  2:46
- :END:
- [2015-08-19 Wed 08:24]
-
 * Ref
 ** Files
 *** REF
@@ -270,38 +252,6 @@ phone: 888-431-6300
   :ToodledoLastSync: 0
   :OrgToodledoVersion: 2.16
   :END:
-** DONE H&H Kotz
-   CLOSED: [2015-08-12 Wed 14:22]
-   :LOGBOOK:
-   CLOCK: [2015-08-11 Tue 11:18]--[2015-08-11 Tue 12:03] =>  0:45
-   :END:
- [2015-08-11 Tue 11:18]
-** DONE Sterling frontage study
-   CLOSED: [2015-08-18 Tue 11:47]
-   :LOGBOOK:
-   CLOCK: [2015-08-14 Fri 07:56]--[2015-08-14 Fri 10:54] =>  2:58
-   :END:
- [2015-08-13 Thu 08:41]
-
- [[\\ANCHFS1.bkr.mbakercorp.com\PROJECTS\AKDOT\148009 - DOT&PF Sterling Hwy 60-79 VE\02 Project Documents\02 Recommendations\09]]
-
-** DONE RaeAnne print job, Northern Region Hydro
-   CLOSED: [2015-08-26 Wed 11:05]
- 106334 T1.5   
- :LOGBOOK:
-   CLOCK: [2015-08-21 Fri 13:18]--[2015-08-21 Fri 15:03] =>  1:45
-   :END:
- [2015-08-21 Fri 13:18]
- [[file:~/git/org/refile.org::*Geo%20Donlin%20Alignment%202][Geo Donlin Alignment 2]]
-
- [[T:\106334 - Northern Region Hydro\Project Documents\Cold Foot\Task 6 - PS&E Design\CADD]]
-** DONE DOT xyz points to Haley
- 128262, task 6.2
-   :LOGBOOK:
-   CLOCK: [2015-08-26 Wed 11:06]--[2015-08-26 Wed 11:40] =>  0:34
-   :END:
- [2015-08-26 Wed 11:06]
-
 ** DONE Kiddo's resume to RaeAnne
    CLOSED: [2015-09-11 Fri 09:06]
  [2015-09-10 Thu 15:29]
@@ -367,30 +317,4 @@ T:\128262 - Kotzebue Cape Blossom EA\02 Project Documents\6.1 Sadie Creek H&H
 * Structural
 ** Lifting Plan
 142460 2
-*** DONE Lift 2
-   CLOSED: [2015-08-03 Mon 16:00]
-  :LOGBOOK:
-  CLOCK: [2015-07-14 Tue 15:00]--[2015-07-14 Tue 16:40] =>  1:40
-  CLOCK: [2015-06-30 Tue 13:05]--[2015-06-30 Tue 16:46] =>  3:41
-  CLOCK: [2015-06-30 Tue 10:33]--[2015-06-30 Tue 11:50] =>  1:17
-  CLOCK: [2015-06-29 Mon 13:09]--[2015-06-29 Mon 16:40] =>  3:31
-  CLOCK: [2015-06-29 Mon 08:55]--[2015-06-29 Mon 12:05] =>  3:10
-  CLOCK: [2015-06-26 Fri 13:05]--[2015-06-26 Fri 13:18] =>  0:13
-  CLOCK: [2015-06-26 Fri 12:08]--[2015-06-26 Fri 12:10] =>  0:02
-  CLOCK: [2015-06-26 Fri 10:48]--[2015-06-26 Fri 11:02] =>  0:14
-  CLOCK: [2015-06-26 Fri 08:20]--[2015-06-26 Fri 09:27] =>  1:07
-  CLOCK: [2015-06-25 Thu 12:35]--[2015-06-25 Thu 16:07] =>  3:32
-  CLOCK: [2015-06-25 Thu 08:45]--[2015-06-25 Thu 12:12] =>  3:27
-  CLOCK: [2015-06-23 Tue 08:27]--[2015-06-23 Tue 08:28] =>  0:01
-  CLOCK: [2015-06-18 Thu 17:05]--[2015-06-18 Thu 15:33] => -8:32
-  CLOCK: [2015-06-18 Thu 15:02]--[2015-06-18 Thu 15:30] =>  0:28
-
-  :END:
-[2015-06-18 Thu 15:02]
-[[file:~/git/org/refile.org::*Yukon%20AKLNG%20re-draw][Yukon AKLNG re-draw]]
-
-[[T:\Alyeska\142460 - Z721 Lifting Plans\02 - Lift 1 South of Loop\04 - CAD\Working]]
-
-[[T:\Alyeska\142460 - Z721 Lifting Plans\03 - Lift 2 North of Loop\04 - CAD\WORKING\JT][Jared's sketch]]
-
 * Archive							    :ARCHIVE:

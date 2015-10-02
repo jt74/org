@@ -3,4 +3,3 @@
 :ToodledoLastSync: 0
 :OrgToodledoVersion: 2.16
 :END:
-* TODO Check out org-toodledo!!

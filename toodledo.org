@@ -1,20 +1,21 @@
 * TASKS
   :PROPERTIES:
-  :ToodledoLastSync: 1443719852
+  :ToodledoLastSync: 1443746798
   :OrgToodledoVersion: 2.16
-  :ToodledoLastEdit: 1443719851
+  :ToodledoLastEdit: 1443746797
   :ToodledoLastDelete: 1443659917
   :END:
+* HOME
 ** TODO [#B] Get Chaz quote					      :@home:
    :PROPERTIES:
    :ToodledoID: 213929467
-   :Hash:     e0c37ed4eddf577312bd31b752881f98
+   :Hash:     72632aa5588c6836a8b54135001f377c
    :END:
-** TODO [#D] Emacs: magit-mode Tutorial				      :@home:
-      SCHEDULED: <2015-10-01 Thu>
+** DONE [#D] Emacs: magit-mode Tutorial				      :@home:
+   CLOSED: [2015-10-01 Thu 16:46] SCHEDULED: <2015-10-01 Thu>
    :PROPERTIES:
    :ToodledoID: 213931995
-   :Hash:     4ff56cf10a75fdfea8174b867d741b44
+   :Hash:     c315ba6a54d734008702db87b570c2fb
    :END:
    http://ergoemacs.org/emacs/emacs_magit-mode_tutorial.html
 ** DONE [#D] Phoenix rent					      :@HOME:
@@ -24,10 +25,14 @@
    :Hash:     0cd79f435b3b24ce275e47dc8629db40
    :END:
 
-** TODO [#C] PE Comity [2/6] 
+* TODO [#C] PE Comity [2/6] 
   :LOGBOOK:  
   CLOCK: [2015-10-01 Thu 11:09]--[2015-10-01 Thu 11:42] =>  0:33
   :END:      
+   :PROPERTIES:
+   :ToodledoID: 213971945
+   :Hash:     9d552efc503056226cdc25b7bc147c94
+   :END:
 [2015-10-01 Thu 11:09]
 [[file:~/git/org/toodledo.org::http://ergoemacs.org/emacs/emacs_magit-mode_tutorial.html][Emacs: magit-mode Tutorial]]
 
@@ -50,3 +55,25 @@
   - [ ] Statement of Experience
   - [ ] Fees
   
+* DONE [#C] Fwd: New Patient Appointment from j@redtravis.com	:IFTTT:Gmail:
+  CLOSED: [2015-10-01 Thu 15:25]
+  :PROPERTIES:
+  :ToodledoID: 213962879
+  :Hash:     8ebd927090957b93365635f547bfe1bd
+  :END:
+  From: j@redtravis.com
+  Subject: Fwd: New Patient Appointment
+  First Attachment: http://ift.tt/19fNRe4
+  Date: October 01, 2015 at 11:51AM
+  Label: todo
+* DONE [#C] New Patient Appointment from PleaseDoNotReplyE-Mail@allergyalaska.com :IFTTT:Gmail:
+  CLOSED: [2015-10-01 Thu 15:25]
+  :PROPERTIES:
+  :ToodledoID: 213962881
+  :Hash:     5d808f6bf416f99dc872a725e97cd584
+  :END:
+  From: PleaseDoNotReplyE-Mail@allergyalaska.com
+  Subject: New Patient Appointment
+  First Attachment: http://ift.tt/19fNRe4
+  Date: October 01, 2015 at 11:46AM
+  Label: todo
