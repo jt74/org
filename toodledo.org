@@ -1,41 +1,44 @@
 * TASKS
   :PROPERTIES:
-  :ToodledoLastSync: 1443746798
+  :ToodledoLastSync: 1443810990
   :OrgToodledoVersion: 2.16
-  :ToodledoLastEdit: 1443746797
+  :ToodledoLastEdit: 1443810989
   :ToodledoLastDelete: 1443659917
   :END:
 * HOME
+  :PROPERTIES:
+  :ToodledoFolderID: 1692559
+  :END:
 ** TODO [#B] Get Chaz quote					      :@home:
    :PROPERTIES:
    :ToodledoID: 213929467
-   :Hash:     72632aa5588c6836a8b54135001f377c
+   :Hash:     3decf2483ec8a1f9ee064505e67683ae
    :END:
 ** DONE [#D] Emacs: magit-mode Tutorial				      :@home:
    CLOSED: [2015-10-01 Thu 16:46] SCHEDULED: <2015-10-01 Thu>
    :PROPERTIES:
    :ToodledoID: 213931995
-   :Hash:     c315ba6a54d734008702db87b570c2fb
+   :Hash:     b40530952f6942fdecc8787e288ac839
    :END:
    http://ergoemacs.org/emacs/emacs_magit-mode_tutorial.html
 ** DONE [#D] Phoenix rent					      :@HOME:
    CLOSED: [2015-10-01 Thu 09:17] SCHEDULED: <2015-10-01 Thu>
    :PROPERTIES:
    :ToodledoID: 213931797
-   :Hash:     0cd79f435b3b24ce275e47dc8629db40
+   :Hash:     deb7385f440262091d8bcfef5f97da85
    :END:
 
-* TODO [#C] PE Comity [2/6] 
+** TODO [#A] PE Comity [2/6]
   :LOGBOOK:  
   CLOCK: [2015-10-01 Thu 11:09]--[2015-10-01 Thu 11:42] =>  0:33
   :END:      
    :PROPERTIES:
    :ToodledoID: 213971945
-   :Hash:     9d552efc503056226cdc25b7bc147c94
+   :Hash:     192372365b6e3bac53ad540d39648bd4
    :END:
 [2015-10-01 Thu 11:09]
-[[file:~/git/org/toodledo.org::http://ergoemacs.org/emacs/emacs_magit-mode_tutorial.html][Emacs: magit-mode Tutorial]]
 
+https://www.evernote.com/shard/s15/nl/1651877/6b6ed0bf-8bee-4374-8a4c-59db01a32420
 
   - [ ] 5 references
     - [ ] Derek
@@ -44,6 +47,25 @@
     - [ ] Dan
     - [ ] Regan
   - [ ] Registration and Exam verifications
+*** PHONE VTBTR, Kara Shangraw, 802-828-1134			      :@PHONE:
+  :LOGBOOK:  
+  CLOCK: [2015-10-02 Fri 10:36]--[2015-10-02 Fri 10:39] =>  0:03
+  :END:      
+[2015-10-02 Fri 10:36]
+
+-left message re: FE Verificatoin in VT
+
+[[https://www.sec.state.vt.us/professional-regulation/frequently-asked-questions.aspx#][Verificiation Form]], confusing re: PE license only, or does it pertain to FE too?
+*** PHONE AZBTR, 602-364-4930					      :@PHONE:
+  :LOGBOOK:  
+  CLOCK: [2015-10-02 Fri 10:39]--[2015-10-02 Fri 10:40] =>  0:01
+  :END:      
+[2015-10-02 Fri 10:39]
+
+-left message re: confusion re: process
+
+[[https://btr.az.gov/licensing-exams/Verifications][Verification Form]], confusing re: request process
+
   - [X] Official Transcripts or NCEES council record/transcripts
     - [X] NAU
       <2015-10-01 Thu>

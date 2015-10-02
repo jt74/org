@@ -158,6 +158,11 @@ GeoTek Alaska presents their GeoProbe and Ground Penetrating Technology capabili
   :ID:       eb155a82-92b2-4f25-a3c6-0304591af2f9
   :END:
  :LOGBOOK:
+ CLOCK: [2015-10-02 Fri 10:53]
+ CLOCK: [2015-10-02 Fri 10:51]--[2015-10-02 Fri 10:53] =>  0:02
+ CLOCK: [2015-10-02 Fri 10:50]--[2015-10-02 Fri 10:51] =>  0:01
+ CLOCK: [2015-10-02 Fri 10:40]--[2015-10-02 Fri 10:50] =>  0:10
+ CLOCK: [2015-10-02 Fri 07:53]--[2015-10-02 Fri 10:36] =>  2:43
  CLOCK: [2015-09-30 Wed 13:33]--[2015-09-30 Wed 15:33] =>  2:00
  CLOCK: [2015-09-30 Wed 08:32]--[2015-09-30 Wed 10:13] =>  1:41
  CLOCK: [2015-09-28 Mon 15:50]--[2015-09-28 Mon 16:44] =>  0:54
