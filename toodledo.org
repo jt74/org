@@ -1,18 +1,33 @@
+#+SEQ_TODO: TODO(t) DELEGATED(g) SOMEDAY(s) WAITING(w) | DONE(d) CANCELLED(c) REFERENCE(r) 
 * TASKS
   :PROPERTIES:
-  :ToodledoLastSync: 1443810990
+  :ToodledoLastSync: 1443825685
   :OrgToodledoVersion: 2.16
-  :ToodledoLastEdit: 1443810989
+  :ToodledoLastEdit: 1443825684
   :ToodledoLastDelete: 1443659917
   :END:
+** WAITING [#B] AZBTR, 602-364-4930				   :@WAITING:
+   :LOGBOOK:  
+   CLOCK: [2015-10-02 Fri 10:39]--[2015-10-02 Fri 10:40] =>  0:01
+   :END:      
+   :PROPERTIES:
+   :ToodledoID: 214027455
+   :Hash:     58d27ace812f09c93b4c74b8833789c3
+   :END:
+   [2015-10-02 Fri 10:39]
+
+   - left message re: confusion re: process
+
+   [[https://btr.az.gov/licensing-exams/Verifications][Verification Form]], confusing re: request process
 * HOME
   :PROPERTIES:
   :ToodledoFolderID: 1692559
   :END:
-** TODO [#B] Get Chaz quote					      :@home:
+** DONE [#B] Get Chaz quote					      :@home:
+   CLOSED: [2015-10-02 Fri 13:17]
    :PROPERTIES:
    :ToodledoID: 213929467
-   :Hash:     3decf2483ec8a1f9ee064505e67683ae
+   :Hash:     f6090e63d02fcd1143c41ecb3d29b566
    :END:
 ** DONE [#D] Emacs: magit-mode Tutorial				      :@home:
    CLOSED: [2015-10-01 Thu 16:46] SCHEDULED: <2015-10-01 Thu>
@@ -28,17 +43,44 @@
    :Hash:     deb7385f440262091d8bcfef5f97da85
    :END:
 
-** TODO [#A] PE Comity [2/6]
+** DONE [#C] Fwd: New Patient Appointment from j@redtravis.com	:IFTTT:Gmail:
+   CLOSED: [2015-10-01 Thu 15:25]
+   :PROPERTIES:
+   :ToodledoID: 213962879
+   :Hash:     71e79c5f62a9f302aa4e89f315b5a7d4
+   :END:
+   From: j@redtravis.com
+   Subject: Fwd: New Patient Appointment
+   First Attachment: http://ift.tt/19fNRe4
+   Date: October 01, 2015 at 11:51AM
+   Label: todo
+** DONE [#C] New Patient Appointment from PleaseDoNotReplyE-Mail@allergyalaska.com :IFTTT:Gmail:
+   CLOSED: [2015-10-01 Thu 15:25]
+   :PROPERTIES:
+   :ToodledoID: 213962881
+   :Hash:     d48d5b690d4403b53f9e59183b66ac20
+   :END:
+   From: PleaseDoNotReplyE-Mail@allergyalaska.com
+   Subject: New Patient Appointment
+   First Attachment: http://ift.tt/19fNRe4
+   Date: October 01, 2015 at 11:46AM
+   Label: todo
+
+* WORK
+  :PROPERTIES:
+  :ToodledoFolderID: 3900437
+  :END:
+** TODO [#B] PE Comity [2/6]
   :LOGBOOK:  
   CLOCK: [2015-10-01 Thu 11:09]--[2015-10-01 Thu 11:42] =>  0:33
   :END:      
    :PROPERTIES:
    :ToodledoID: 213971945
-   :Hash:     192372365b6e3bac53ad540d39648bd4
+   :Hash:     06fc3d161346e57a7af201aadd0c4025
    :END:
 [2015-10-01 Thu 11:09]
 
-https://www.evernote.com/shard/s15/nl/1651877/6b6ed0bf-8bee-4374-8a4c-59db01a32420
+  https://www.evernote.com/shard/s15/nl/1651877/6b6ed0bf-8bee-4374-8a4c-59db01a32420
 
   - [ ] 5 references
     - [ ] Derek
@@ -47,25 +89,6 @@ https://www.evernote.com/shard/s15/nl/1651877/6b6ed0bf-8bee-4374-8a4c-59db01a324
     - [ ] Dan
     - [ ] Regan
   - [ ] Registration and Exam verifications
-*** PHONE VTBTR, Kara Shangraw, 802-828-1134			      :@PHONE:
-  :LOGBOOK:  
-  CLOCK: [2015-10-02 Fri 10:36]--[2015-10-02 Fri 10:39] =>  0:03
-  :END:      
-[2015-10-02 Fri 10:36]
-
--left message re: FE Verificatoin in VT
-
-[[https://www.sec.state.vt.us/professional-regulation/frequently-asked-questions.aspx#][Verificiation Form]], confusing re: PE license only, or does it pertain to FE too?
-*** PHONE AZBTR, 602-364-4930					      :@PHONE:
-  :LOGBOOK:  
-  CLOCK: [2015-10-02 Fri 10:39]--[2015-10-02 Fri 10:40] =>  0:01
-  :END:      
-[2015-10-02 Fri 10:39]
-
--left message re: confusion re: process
-
-[[https://btr.az.gov/licensing-exams/Verifications][Verification Form]], confusing re: request process
-
   - [X] Official Transcripts or NCEES council record/transcripts
     - [X] NAU
       <2015-10-01 Thu>
@@ -76,26 +99,31 @@ https://www.evernote.com/shard/s15/nl/1651877/6b6ed0bf-8bee-4374-8a4c-59db01a324
   - [X] Arctic Engineering Requirement
   - [ ] Statement of Experience
   - [ ] Fees
-  
-* DONE [#C] Fwd: New Patient Appointment from j@redtravis.com	:IFTTT:Gmail:
-  CLOSED: [2015-10-01 Thu 15:25]
-  :PROPERTIES:
-  :ToodledoID: 213962879
-  :Hash:     8ebd927090957b93365635f547bfe1bd
-  :END:
-  From: j@redtravis.com
-  Subject: Fwd: New Patient Appointment
-  First Attachment: http://ift.tt/19fNRe4
-  Date: October 01, 2015 at 11:51AM
-  Label: todo
-* DONE [#C] New Patient Appointment from PleaseDoNotReplyE-Mail@allergyalaska.com :IFTTT:Gmail:
-  CLOSED: [2015-10-01 Thu 15:25]
-  :PROPERTIES:
-  :ToodledoID: 213962881
-  :Hash:     5d808f6bf416f99dc872a725e97cd584
-  :END:
-  From: PleaseDoNotReplyE-Mail@allergyalaska.com
-  Subject: New Patient Appointment
-  First Attachment: http://ift.tt/19fNRe4
-  Date: October 01, 2015 at 11:46AM
-  Label: todo
+
+*** WAITING VTBTR, Kara Shangraw, 802-828-1134			   :@WAITING:
+   :LOGBOOK:  
+  CLOCK: [2015-10-02 Fri 10:36]--[2015-10-02 Fri 10:39] =>  0:03
+  :END:      
+   :PROPERTIES:
+   :ToodledoID: 214027453
+   :Hash:     805789315e7997965f3c73da29bf567d
+   :END:
+    [2015-10-02 Fri 10:36]
+
+    left message re: FE Verificatoin in VT
+
+    [[https://www.sec.state.vt.us/professional-regulation/frequently-asked-questions.aspx#][Verificiation Form]], confusing re: PE license only, or does it pertain to FE too?
+
+*** WAITING AZBTR, 602-364-4930					   :@WAITING:
+    :LOGBOOK:  
+    CLOCK: [2015-10-02 Fri 10:39]--[2015-10-02 Fri 10:40] =>  0:01
+    :END:      
+    :PROPERTIES:
+    :ToodledoID: 214027623
+    :Hash:     b096597cdabfc7c00466759f7fd54598
+    :END:
+    [2015-10-02 Fri 10:39]
+
+    left message re: confusion re: process
+
+    [[https://btr.az.gov/licensing-exams/Verifications][Verification Form]], confusing re: request process
