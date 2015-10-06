@@ -1,49 +1,243 @@
-#+SEQ_TODO: TODO(t) DELEGATED(g) SOMEDAY(s) WAITING(w) | DONE(d) CANCELLED(c) REFERENCE(r) 
+#+SEQ_TODO: TODO(t) NEXT(n) DELEGATED(g) SOMEDAY(s) WAITING(w) | DONE(d) CANCELLED(c) REFERENCE(r) 
 * TASKS
+  :LOGBOOK:  
+  CLOCK: [2015-10-05 Mon 11:07]--[2015-10-05 Mon 11:54] =>  0:47
+  :END:      
   :PROPERTIES:
-  :ToodledoLastSync: 1443825685
+  :ToodledoLastSync: 1444091915
   :OrgToodledoVersion: 2.16
-  :ToodledoLastEdit: 1443825684
+  :ToodledoLastEdit: 1444091914
   :ToodledoLastDelete: 1443659917
   :END:
-** WAITING [#B] AZBTR, 602-364-4930				   :@WAITING:
+** TODO [#A] Drop off Subaru at Chaz
+   DEADLINE: <2015-10-06 Tue>
+   :PROPERTIES:
+   :ToodledoID: 214164149
+   :Hash:     4f07f74aaab4a02a1295c7148919a85d
+   :END:
+   [2015-10-05 Mon 10:44]
+
+** TODO [#C] Due: PHONE AZBTR 602-364-930 via Toodledo starts October 05 2015 at 04:01PM :IFTTT:Google Calendar:
+   :PROPERTIES:
+   :ToodledoID: 214176555
+   :Hash:     52dcd84a0f318dc6cfe865d7c4a00693
+   :END:
+   Title: Due: PHONE AZBTR, 602-364-930 via Toodledo
+   Description:
+   Location:
+   Starts: October 05, 2015 at 04:01PM
+   Ends: October 05, 2015 at 05:01PM
+   Created: October 05, 2015 at 04:01PM
+   http://ift.tt/1MUX7IC
+** TODO [#C] Due: PHONE 602-369-4942 via Toodledo starts October 05 2015 at 04:01PM :IFTTT:Google Calendar:
+   :PROPERTIES:
+   :ToodledoID: 214176557
+   :Hash:     06c50ae2f4e1de97c12fd37f84c98d5e
+   :END:
+   Title: Due: PHONE 602-369-4942 via Toodledo
+   Description:
+   Location:
+   Starts: October 05, 2015 at 04:01PM
+   Ends: October 05, 2015 at 05:01PM
+   Created: October 05, 2015 at 04:01PM
+   http://ift.tt/1LuhG1c
+** TODO [#C] Due: PHONE VTBTR Kara Shangraw 802-828-1134 via Toodledo starts October 05 2015 at 04:01PM :IFTTT:Google Calendar:
+   :PROPERTIES:
+   :ToodledoID: 214176559
+   :Hash:     e78cff9ae446e01c71dfc21c77b5e9be
+   :END:
+   Title: Due: PHONE VTBTR, Kara Shangraw, 802-828-1134 via Toodledo
+   Description:
+   Location:
+   Starts: October 05, 2015 at 04:01PM
+   Ends: October 05, 2015 at 05:01PM
+   Created: October 05, 2015 at 04:01PM
+   http://ift.tt/1LuhG1e
+* WORK
+  :PROPERTIES:
+  :ToodledoFolderID: 3900437
+  :END:
+*** TODO [#B] PE Comity [3/3]
+    :LOGBOOK:  
+    CLOCK: [2015-10-05 Mon 14:45]--[2015-10-05 Mon 16:01] =>  1:16
+    CLOCK: [2015-10-01 Thu 11:09]--[2015-10-01 Thu 11:42] =>  0:33
+    :END:      
+    :PROPERTIES:
+    :ToodledoID: 213971945
+    :Hash:     b2bcbaf45d4307228b3668107a95b4a9
+    :END:
+    [2015-10-01 Thu 11:09]
+
+    https://www.evernote.com/shard/s15/nl/1651877/6b6ed0bf-8bee-4374-8a4c-59db01a32420
+    1. [ ] 5 references
+     a. [ ] Derek
+     b. [ ] Mwasi
+     c. [ ] Cindie
+     d. [ ] Dan
+     e. [ ] Regan
+    2. [ ] Registration and Exam verifications
+    a. [ ] AZ: Request sent [2015-10-05 Mon 14:23], waiting on verification of shipment
+    [[https://mail.google.com/mail/u/0/#sent/1503a18e180dc97b]]
+    b. [ ] VT: Email sent, waiting on response
+    https://mail.google.com/mail/u/0/#sent/1503a2cc3a257ee2
+    3. [X] Official Transcripts or NCEES council record/transcripts
+     a. [X] NAU
+    <2015-10-01 Thu>
+    [[https://www.evernote.com/shard/s15/nl/1651877/40d1dbc5-bf11-4c6a-b251-2acb7dfb400a]]
+     b. [X] CU BOULDER
+    <2015-10-01 Thu 14:12>
+    [[https://www.evernote.com/shard/s15/nl/1651877/0eb89c84-ba37-43f0-b653-ba9ea14f7178]]
+    4. [X] Arctic Engineering Requirement
+    5. [ ] Statement of Experience
+    6. [ ] Fees
+**** DONE PHONE AZBTR, 602-364-930                                   :@PHONE:
+     CLOSED: [2015-10-05 Mon 15:03]
+  :LOGBOOK:  
+  CLOCK: [2015-10-05 Mon 13:56]--[2015-10-05 Mon 14:31] =>  0:35
+  CLOCK: [2015-10-05 Mon 13:51]--[2015-10-05 Mon 13:54] =>  0:03
+  :END:      
+     :PROPERTIES:
+     :ToodledoID: 214176479
+     :Hash:     ce21fec2c62de0580706fd732524b98a
+     :END:
+[2015-10-05 Mon 13:51]
+
+0, 
+
+transferred to Shelly McGeetran
+shelly.mceachrin@azbtr.gov
+**** DONE PHONE 602-369-4942                                         :@PHONE:
+     CLOSED: [2015-10-05 Mon 15:03]
+  :LOGBOOK:  
+  CLOCK: [2015-10-05 Mon 13:54]--[2015-10-05 Mon 13:56] =>  0:02
+  :END:      
+     :PROPERTIES:
+     :ToodledoID: 214176481
+     :Hash:     884e5a1efade5a887a4568f30e1bc63b
+     :END:
+[2015-10-05 Mon 13:54]
+
+Fingerprint verifications?
+**** DONE PHONE VTBTR, Kara Shangraw, 802-828-1134                   :@PHONE:
+     CLOSED: [2015-10-05 Mon 15:03]
+  :LOGBOOK:  
+  CLOCK: [2015-10-05 Mon 14:31]--[2015-10-05 Mon 14:33] =>  0:02
+  :END:      
+     :PROPERTIES:
+     :ToodledoID: 214176483
+     :Hash:     eec70ac3e3e67128366bfa28400b067d
+     :END:
+[2015-10-05 Mon 14:31]
+
+left message again
+
+*** WAITING VTBTR, Kara Shangraw, 802-828-1134             :@WAITING:WAITING:
    :LOGBOOK:  
-   CLOCK: [2015-10-02 Fri 10:39]--[2015-10-02 Fri 10:40] =>  0:01
+  CLOCK: [2015-10-02 Fri 10:36]--[2015-10-02 Fri 10:39] =>  0:03
+  :END:      
+   :PROPERTIES:
+   :ToodledoID: 214027453
+   :Hash:     896dd1dc6835f5cc710409be6a67abc1
+   :END:
+    [2015-10-02 Fri 10:36]
+
+    left message re: FE Verificatoin in VT
+
+    [[https://www.sec.state.vt.us/professional-regulation/frequently-asked-questions.aspx#][Verificiation Form]], confusing re: PE license only, or does it pertain to FE too?
+
+*** WAITING AZBTR, 602-364-4930                                    :@WAITING:
+    :LOGBOOK:  
+    CLOCK: [2015-10-02 Fri 10:39]--[2015-10-02 Fri 10:40] =>  0:01
+    :END:      
+    :PROPERTIES:
+    :ToodledoID: 214027623
+    :Hash:     8cb719316aa99a25971415e6ce0556b9
+    :END:
+    [2015-10-02 Fri 10:39]
+
+    left message re: confusion re: process
+
+    [[https://btr.az.gov/licensing-exams/Verifications][Verification Form]], confusing re: request process
+    
+
+* Abbott
+  DEADLINE: <2015-10-20 Tue>
+  :PROPERTIES:
+  :ToodledoFolderID: 3901439
+  :END:
+** DONE [#B] complete DWGs for signage
+   CLOSED: [2015-10-05 Mon 15:59]
+   :LOGBOOK:  
+   - Note taken on [2015-10-05 Mon 16:00] \\
+     HOLD UNTIL WE RECEIVE CLARIFICATION RE: BLOCK OF SIGNS VS. FULL DWG SET
+   CLOCK: [2015-10-05 Mon 14:33]--[2015-10-05 Mon 14:45] =>  0:12
+   CLOCK: [2015-10-05 Mon 13:33]--[2015-10-05 Mon 13:51] =>  0:18
+   CLOCK: [2015-10-05 Mon 10:36]--[2015-10-05 Mon 11:55] =>  1:19
+   CLOCK: [2015-10-05 Mon 10:35]--[2015-10-05 Mon 10:36] =>  0:01
+   CLOCK: [2015-10-05 Mon 09:45]--[2015-10-05 Mon 09:54] =>  0:09
    :END:      
    :PROPERTIES:
-   :ToodledoID: 214027455
-   :Hash:     58d27ace812f09c93b4c74b8833789c3
+   :ToodledoID: 214156193
+   :Hash:     c582dcf1b3a0be387c29087142aeb0dc
    :END:
-   [2015-10-02 Fri 10:39]
 
-   - left message re: confusion re: process
+   Email sent 05/26/15
+   [[outlook:00000000910682B0D29B304A8E16A9B42C4ACF5B0700C0A793B8F8B0314D968219788477D54F000000105F5C00000282B60224BDCA439465B2C86147F76C0000611164DC0000][MESSAGE: Abbott Rd Striping Sheets (Travis, Jared M)]]
 
-   [[https://btr.az.gov/licensing-exams/Verifications][Verification Form]], confusing re: request process
+** NEXT [#B] Check TCP for Ph. 1 vs Ph. 2
+   :LOGBOOK:  
+   CLOCK: [2015-10-05 Mon 16:02]--[2015-10-05 Mon 16:38] =>  0:36
+   :END:      
+    :PROPERTIES:
+    :ToodledoID: 214156195
+    :Hash:     8e465c08951dbf226416ea24789969ad
+    :END:
+** TODO [#B] Update the estimate
+    :PROPERTIES:
+    :ToodledoID: 214156197
+    :Hash:     ea2c6627a726a62621a8d8d1ef8c88aa
+    :END:
+** DONE [#B] Check on MCL template, sent from Kristen
+    CLOSED: [2015-10-05 Mon 10:37]
+    :LOGBOOK:  
+    CLOCK: [2015-10-05 Mon 09:30]--[2015-10-05 Mon 09:43] =>  0:13
+    :END:      
+    :PROPERTIES:
+    :ToodledoID: 214156199
+    :Hash:     a3ecc0c483b5e647746b8ba39d51c59f
+    :END:
+    [2015-10-05 Mon 09:22]
+    [2015-10-05 Mon 09:22]
+    [2015-10-05 Mon 09:22]
+
+    Email sent to Derek <2015-10-05 Mon 09:42>
+    [[outlook:00000000910682B0D29B304A8E16A9B42C4ACF5B0700C0A793B8F8B0314D968219788477D54F000000105F5C00000282B60224BDCA439465B2C86147F76C000061116D140000][MESSAGE: RE: DOT.CR.HwyDes Standards Email - August XX (Travis, Jared M)]]
+
 * HOME
   :PROPERTIES:
   :ToodledoFolderID: 1692559
   :END:
-** DONE [#B] Get Chaz quote					      :@home:
+** DONE [#B] Get Chaz quote                                           :@home:
    CLOSED: [2015-10-02 Fri 13:17]
    :PROPERTIES:
    :ToodledoID: 213929467
    :Hash:     f6090e63d02fcd1143c41ecb3d29b566
    :END:
-** DONE [#D] Emacs: magit-mode Tutorial				      :@home:
+** DONE [#D] Emacs: magit-mode Tutorial                               :@home:
    CLOSED: [2015-10-01 Thu 16:46] SCHEDULED: <2015-10-01 Thu>
    :PROPERTIES:
    :ToodledoID: 213931995
    :Hash:     b40530952f6942fdecc8787e288ac839
    :END:
    http://ergoemacs.org/emacs/emacs_magit-mode_tutorial.html
-** DONE [#D] Phoenix rent					      :@HOME:
+** DONE [#D] Phoenix rent                                             :@HOME:
    CLOSED: [2015-10-01 Thu 09:17] SCHEDULED: <2015-10-01 Thu>
    :PROPERTIES:
    :ToodledoID: 213931797
    :Hash:     deb7385f440262091d8bcfef5f97da85
    :END:
 
-** DONE [#C] Fwd: New Patient Appointment from j@redtravis.com	:IFTTT:Gmail:
+** DONE [#C] Fwd: New Patient Appointment from j@redtravis.com  :IFTTT:Gmail:
    CLOSED: [2015-10-01 Thu 15:25]
    :PROPERTIES:
    :ToodledoID: 213962879
@@ -56,74 +250,19 @@
    Label: todo
 ** DONE [#C] New Patient Appointment from PleaseDoNotReplyE-Mail@allergyalaska.com :IFTTT:Gmail:
    CLOSED: [2015-10-01 Thu 15:25]
-   :PROPERTIES:
-   :ToodledoID: 213962881
-   :Hash:     d48d5b690d4403b53f9e59183b66ac20
-   :END:
-   From: PleaseDoNotReplyE-Mail@allergyalaska.com
-   Subject: New Patient Appointment
-   First Attachment: http://ift.tt/19fNRe4
-   Date: October 01, 2015 at 11:46AM
-   Label: todo
-
-* WORK
-  :PROPERTIES:
-  :ToodledoFolderID: 3900437
-  :END:
-** TODO [#B] PE Comity [2/6]
-  :LOGBOOK:  
-  CLOCK: [2015-10-01 Thu 11:09]--[2015-10-01 Thu 11:42] =>  0:33
-  :END:      
-   :PROPERTIES:
-   :ToodledoID: 213971945
-   :Hash:     06fc3d161346e57a7af201aadd0c4025
-   :END:
-[2015-10-01 Thu 11:09]
-
-  https://www.evernote.com/shard/s15/nl/1651877/6b6ed0bf-8bee-4374-8a4c-59db01a32420
-
-  - [ ] 5 references
-    - [ ] Derek
-    - [ ] Mwasi
-    - [ ] Cindie
-    - [ ] Dan
-    - [ ] Regan
-  - [ ] Registration and Exam verifications
-  - [X] Official Transcripts or NCEES council record/transcripts
-    - [X] NAU
-      <2015-10-01 Thu>
-      [[https://www.evernote.com/shard/s15/nl/1651877/40d1dbc5-bf11-4c6a-b251-2acb7dfb400a]]
-    - [X] CU BOULDER
-      <2015-10-01 Thu 14:12>
-      [[https://www.evernote.com/shard/s15/nl/1651877/0eb89c84-ba37-43f0-b653-ba9ea14f7178]]
-  - [X] Arctic Engineering Requirement
-  - [ ] Statement of Experience
-  - [ ] Fees
-
-*** WAITING VTBTR, Kara Shangraw, 802-828-1134			   :@WAITING:
-   :LOGBOOK:  
-  CLOCK: [2015-10-02 Fri 10:36]--[2015-10-02 Fri 10:39] =>  0:03
-  :END:      
-   :PROPERTIES:
-   :ToodledoID: 214027453
-   :Hash:     805789315e7997965f3c73da29bf567d
-   :END:
-    [2015-10-02 Fri 10:36]
-
-    left message re: FE Verificatoin in VT
-
-    [[https://www.sec.state.vt.us/professional-regulation/frequently-asked-questions.aspx#][Verificiation Form]], confusing re: PE license only, or does it pertain to FE too?
-
-*** WAITING AZBTR, 602-364-4930					   :@WAITING:
-    :LOGBOOK:  
-    CLOCK: [2015-10-02 Fri 10:39]--[2015-10-02 Fri 10:40] =>  0:01
-    :END:      
     :PROPERTIES:
-    :ToodledoID: 214027623
-    :Hash:     b096597cdabfc7c00466759f7fd54598
+    :ToodledoID: 213962881
+    :Hash:     d48d5b690d4403b53f9e59183b66ac20
     :END:
-    [2015-10-02 Fri 10:39]
+    From: PleaseDoNotReplyE-Mail@allergyalaska.com
+    Subject: New Patient Appointment
+    First Attachment: http://ift.tt/19fNRe4
+    Date: October 01, 2015 at 11:46AM
+    Label: todo
 
-    left message re: confusion re: process
 
-    [[https://btr.az.gov/licensing-exams/Verifications][Verification Form]], confusing re: request process
+
+
+
+
+    

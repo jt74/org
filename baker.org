@@ -82,6 +82,7 @@ Staff meeting to discuss open enrollment and benefits.
   :END:
 ** Civil Group Weekly Coordination Meeting			    :@office:
    :LOGBOOK:
+   CLOCK: [2015-10-05 Mon 09:54]--[2015-10-05 Mon 10:35] =>  0:41
    CLOCK: [2015-06-08 Mon 09:54]--[2015-06-08 Mon 10:30] =>  0:36
    CLOCK: [2015-04-13 Mon 09:54]--[2015-04-13 Mon 10:39] =>  0:45
    CLOCK: [2015-04-06 Mon 09:56]--[2015-04-06 Mon 10:20] =>  0:24
@@ -158,7 +159,8 @@ GeoTek Alaska presents their GeoProbe and Ground Penetrating Technology capabili
   :ID:       eb155a82-92b2-4f25-a3c6-0304591af2f9
   :END:
  :LOGBOOK:
- CLOCK: [2015-10-02 Fri 10:53]
+ CLOCK: [2015-10-05 Mon 07:59]--[2015-10-05 Mon 09:21] =>  1:22
+ CLOCK: [2015-10-02 Fri 10:53]--[2015-10-02 Fri 16:36] =>  5:43
  CLOCK: [2015-10-02 Fri 10:51]--[2015-10-02 Fri 10:53] =>  0:02
  CLOCK: [2015-10-02 Fri 10:50]--[2015-10-02 Fri 10:51] =>  0:01
  CLOCK: [2015-10-02 Fri 10:40]--[2015-10-02 Fri 10:50] =>  0:10
