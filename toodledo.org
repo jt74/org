@@ -4,93 +4,159 @@
   CLOCK: [2015-10-05 Mon 11:07]--[2015-10-05 Mon 11:54] =>  0:47
   :END:      
   :PROPERTIES:
-  :ToodledoLastSync: 1444091915
+  :ToodledoLastSync: 1445388923
   :OrgToodledoVersion: 2.16
-  :ToodledoLastEdit: 1444091914
+  :ToodledoLastEdit: 1445388921
   :ToodledoLastDelete: 1443659917
   :END:
-** TODO [#A] Drop off Subaru at Chaz
-   DEADLINE: <2015-10-06 Tue>
+** DONE [#A] Drop off Subaru at Chaz
+   CLOSED: [2015-10-07 Wed 07:34] DEADLINE: <2015-10-06 Tue>
    :PROPERTIES:
    :ToodledoID: 214164149
-   :Hash:     4f07f74aaab4a02a1295c7148919a85d
+   :Hash:     4bddaeab2243d40113e00cf562b1d0bc
    :END:
    [2015-10-05 Mon 10:44]
 
-** TODO [#C] Due: PHONE AZBTR 602-364-930 via Toodledo starts October 05 2015 at 04:01PM :IFTTT:Google Calendar:
+
+** DONE [#B] Hold newspaper
+   CLOSED: [2015-10-06 Tue 08:19]
    :PROPERTIES:
-   :ToodledoID: 214176555
-   :Hash:     52dcd84a0f318dc6cfe865d7c4a00693
+   :ToodledoID: 214216363
+   :Hash:     445583b0ea2b8adf0ebac2c353a82ab5
    :END:
-   Title: Due: PHONE AZBTR, 602-364-930 via Toodledo
+** DONE [#C] Due: Hold newspaper via Toodledo starts October 06 2015 at 07:00AM :IFTTT:Google Calendar:
+   CLOSED: [2015-10-07 Wed 07:35]
+   :PROPERTIES:
+   :ToodledoID: 214217403
+   :Hash:     7d5696935ac13c53b6edc5ef977b3f8d
+   :END:
+   Title: Due: Hold newspaper via Toodledo
    Description:
    Location:
-   Starts: October 05, 2015 at 04:01PM
-   Ends: October 05, 2015 at 05:01PM
-   Created: October 05, 2015 at 04:01PM
-   http://ift.tt/1MUX7IC
-** TODO [#C] Due: PHONE 602-369-4942 via Toodledo starts October 05 2015 at 04:01PM :IFTTT:Google Calendar:
+   Starts: October 06, 2015 at 07:00AM
+   Ends: October 06, 2015 at 08:00AM
+   Created: October 06, 2015 at 07:00AM
+   http://ift.tt/1FRPaEv
+** DONE [#C] Due: Due: Hold newspaper via Toodledo starts via Toodledo starts October 06 2015 at 07:00AM :IFTTT:Google Calendar:
+   CLOSED: [2015-10-07 Wed 07:35]
    :PROPERTIES:
-   :ToodledoID: 214176557
-   :Hash:     06c50ae2f4e1de97c12fd37f84c98d5e
+   :ToodledoID: 214218523
+   :Hash:     824f22e6cc3da99bfb92b90a24a7221b
    :END:
-   Title: Due: PHONE 602-369-4942 via Toodledo
+   Title: Due: Due: Hold newspaper via Toodledo starts via Toodledo
    Description:
    Location:
-   Starts: October 05, 2015 at 04:01PM
-   Ends: October 05, 2015 at 05:01PM
-   Created: October 05, 2015 at 04:01PM
-   http://ift.tt/1LuhG1c
-** TODO [#C] Due: PHONE VTBTR Kara Shangraw 802-828-1134 via Toodledo starts October 05 2015 at 04:01PM :IFTTT:Google Calendar:
+   Starts: October 06, 2015 at 07:00AM
+   Ends: October 06, 2015 at 08:00AM
+   Created: October 06, 2015 at 07:30AM
+   http://ift.tt/1Q4QV1t
+** DONE [#B] Thermostat
+   CLOSED: [2015-10-16 Fri 08:54]
    :PROPERTIES:
-   :ToodledoID: 214176559
-   :Hash:     e78cff9ae446e01c71dfc21c77b5e9be
+   :ToodledoID: 214252777
+   :Hash:     e0d5973f46c763f2b371903047278fa0
    :END:
-   Title: Due: PHONE VTBTR, Kara Shangraw, 802-828-1134 via Toodledo
-   Description:
-   Location:
-   Starts: October 05, 2015 at 04:01PM
-   Ends: October 05, 2015 at 05:01PM
-   Created: October 05, 2015 at 04:01PM
-   http://ift.tt/1LuhG1e
+
+** DONE [#B] Check TCP for Ph. 1 vs Ph. 2
+   CLOSED: [2015-10-16 Fri 16:42]
+   :LOGBOOK:  
+   CLOCK: [2015-10-16 Fri 11:03]--[2015-10-16 Fri 11:50] =>  0:47
+   CLOCK: [2015-10-16 Fri 08:55]--[2015-10-16 Fri 09:32] =>  0:37
+   CLOCK: [2015-10-07 Wed 08:34]--[2015-10-07 Wed 11:21] =>  2:47
+   CLOCK: [2015-10-06 Tue 13:39]--[2015-10-06 Tue 16:42] =>  3:03
+   CLOCK: [2015-10-06 Tue 08:21]--[2015-10-06 Tue 08:39] =>  0:18
+   CLOCK: [2015-10-05 Mon 16:02]--[2015-10-05 Mon 16:38] =>  0:36
+   :END:
+   :PROPERTIES:
+   :ToodledoID: 214156195
+   :Hash:     6cfe582200750c8ae7da22aad998eaa4
+   :END:
+   [[T:\AKDOT\143833 - DOT&PF Abbott Rd Design\02 Project Documents\03 PS&E\05 PS&E Final Draft\03 Draft Submittal 20151020\01 TCP]]
+** DONE [#B] Update the estimate
+   CLOSED: [2015-10-20 Tue 11:12]
+   :LOGBOOK:  
+   CLOCK: [2015-10-20 Tue 10:09]--[2015-10-20 Tue 11:12] =>  1:03
+   CLOCK: [2015-10-19 Mon 07:58]--[2015-10-19 Mon 08:06] =>  0:08
+   CLOCK: [2015-10-16 Fri 12:34]--[2015-10-16 Fri 14:28] =>  1:54
+   CLOCK: [2015-10-16 Fri 08:35]--[2015-10-16 Fri 08:40] =>  0:05
+   :END:
+   :PROPERTIES:
+   :ToodledoID: 214156197
+   :Hash:     76b7729688e949dfd7fee5ae0258bdc8
+   :END:
+** DONE [#E] locate DOT title blocksc
+   CLOSED: [2015-10-19 Mon 08:05]
+   :LOGBOOK:  
+   CLOCK: [2015-10-06 Tue 08:58]--[2015-10-06 Tue 09:06] =>  0:08
+   :END:      
+   :PROPERTIES:
+   :ToodledoID: 214273299
+   :Hash:     bca352a77ba446173f2f89341615702f
+   :END:
+   [2015-10-06 Tue 08:58]
+   [[file:~/git/org/toodledo.org::*PHONE%20Jourdyn%20Ruggles%20from%20Chaz%20Limited][PHONE Jourdyn Ruggles from Chaz Limited]]
+   [[T:\AKDOT\143833 - DOT&PF Abbott Rd Design\04 CADD\Working\JT\xls]]
+** DONE [#E] Parks image geo placement
+   CLOSED: [2015-10-19 Mon 08:05]
+   :LOGBOOK:  
+   CLOCK: [2015-10-06 Tue 13:25]--[2015-10-06 Tue 13:39] =>  0:14
+   CLOCK: [2015-10-06 Tue 08:39]--[2015-10-06 Tue 08:58] =>  0:19
+   :END:      
+   :PROPERTIES:
+   :ToodledoID: 214745611
+   :Hash:     f1002b512887245be7e7020e2d88e96a
+   :END:
+   [2015-10-06 Tue 08:39]
+   [[file:~/git/org/toodledo.org::*PHONE%20Jourdyn%20Ruggles%20from%20Chaz%20Limited][PHONE Jourdyn Ruggles from Chaz Limited]]
+** DONE [#E] Parks alignment to KMZ
+   CLOSED: [2015-10-19 Mon 08:05]
+   :LOGBOOK:  
+   CLOCK: [2015-10-16 Fri 08:40]--[2015-10-16 Fri 08:55] =>  0:15
+   :END:      
+   :PROPERTIES:
+   :ToodledoID: 214745615
+   :Hash:     d5bd0aa092debabd659296863cc89f72
+   :END:
+   [2015-10-16 Fri 08:40]
+   [[file:~/git/org/toodledo.org::*PARKS][PARKS]]
 * WORK
   :PROPERTIES:
   :ToodledoFolderID: 3900437
   :END:
-*** TODO [#B] PE Comity [3/3]
-    :LOGBOOK:  
-    CLOCK: [2015-10-05 Mon 14:45]--[2015-10-05 Mon 16:01] =>  1:16
-    CLOCK: [2015-10-01 Thu 11:09]--[2015-10-01 Thu 11:42] =>  0:33
-    :END:      
-    :PROPERTIES:
-    :ToodledoID: 213971945
-    :Hash:     b2bcbaf45d4307228b3668107a95b4a9
-    :END:
-    [2015-10-01 Thu 11:09]
+** TODO [#B] PE Comity [4/5]
+   :LOGBOOK:  
+   CLOCK: [2015-10-05 Mon 14:45]--[2015-10-05 Mon 16:01] =>  1:16
+   CLOCK: [2015-10-01 Thu 11:09]--[2015-10-01 Thu 11:42] =>  0:33
+   :END:      
+   :PROPERTIES:
+   :ToodledoID: 213971945
+   :Hash:     87a600fe51ff788f07c9e94dd63f2aca
+   :END:
+   [2015-10-01 Thu 11:09]
 
-    https://www.evernote.com/shard/s15/nl/1651877/6b6ed0bf-8bee-4374-8a4c-59db01a32420
-    1. [ ] 5 references
-     a. [ ] Derek
-     b. [ ] Mwasi
-     c. [ ] Cindie
-     d. [ ] Dan
-     e. [ ] Regan
-    2. [ ] Registration and Exam verifications
-    a. [ ] AZ: Request sent [2015-10-05 Mon 14:23], waiting on verification of shipment
-    [[https://mail.google.com/mail/u/0/#sent/1503a18e180dc97b]]
-    b. [ ] VT: Email sent, waiting on response
-    https://mail.google.com/mail/u/0/#sent/1503a2cc3a257ee2
-    3. [X] Official Transcripts or NCEES council record/transcripts
-     a. [X] NAU
-    <2015-10-01 Thu>
-    [[https://www.evernote.com/shard/s15/nl/1651877/40d1dbc5-bf11-4c6a-b251-2acb7dfb400a]]
-     b. [X] CU BOULDER
-    <2015-10-01 Thu 14:12>
-    [[https://www.evernote.com/shard/s15/nl/1651877/0eb89c84-ba37-43f0-b653-ba9ea14f7178]]
-    4. [X] Arctic Engineering Requirement
-    5. [ ] Statement of Experience
-    6. [ ] Fees
-**** DONE PHONE AZBTR, 602-364-930                                   :@PHONE:
+   https://www.evernote.com/shard/s15/nl/1651877/6b6ed0bf-8bee-4374-8a4c-59db01a32420
+   1. [ ] 5 references
+    a. [ ] Derek
+    b. [ ] Mwasi
+    c. [ ] Cindie
+    d. [ ] Dan
+    e. [ ] Regan
+   2. [ ] Registration and Exam verifications
+   a. [ ] AZ: Request sent [2015-10-05 Mon 14:23], waiting on verification of shipment
+   [[https://mail.google.com/mail/u/0/#sent/1503a18e180dc97b]]
+   b. [ ] VT: Email sent, waiting on response
+   https://mail.google.com/mail/u/0/#sent/1503a2cc3a257ee2
+   3. [X] Official Transcripts or NCEES council record/transcripts
+    a. [X] NAU
+   <2015-10-01 Thu>
+   [[https://www.evernote.com/shard/s15/nl/1651877/40d1dbc5-bf11-4c6a-b251-2acb7dfb400a]]
+    b. [X] CU BOULDER
+   <2015-10-01 Thu 14:12>
+   [[https://www.evernote.com/shard/s15/nl/1651877/0eb89c84-ba37-43f0-b653-ba9ea14f7178]]
+   4. [X] Arctic Engineering Requirement
+   5. [ ] Statement of Experience
+   6. [ ] Fees
+*** DONE PHONE AZBTR, 602-364-930                                    :@PHONE:
      CLOSED: [2015-10-05 Mon 15:03]
   :LOGBOOK:  
   CLOCK: [2015-10-05 Mon 13:56]--[2015-10-05 Mon 14:31] =>  0:35
@@ -106,7 +172,7 @@
 
 transferred to Shelly McGeetran
 shelly.mceachrin@azbtr.gov
-**** DONE PHONE 602-369-4942                                         :@PHONE:
+*** DONE PHONE 602-369-4942                                          :@PHONE:
      CLOSED: [2015-10-05 Mon 15:03]
   :LOGBOOK:  
   CLOCK: [2015-10-05 Mon 13:54]--[2015-10-05 Mon 13:56] =>  0:02
@@ -118,7 +184,7 @@ shelly.mceachrin@azbtr.gov
 [2015-10-05 Mon 13:54]
 
 Fingerprint verifications?
-**** DONE PHONE VTBTR, Kara Shangraw, 802-828-1134                   :@PHONE:
+*** DONE PHONE VTBTR, Kara Shangraw, 802-828-1134                    :@PHONE:
      CLOSED: [2015-10-05 Mon 15:03]
   :LOGBOOK:  
   CLOCK: [2015-10-05 Mon 14:31]--[2015-10-05 Mon 14:33] =>  0:02
@@ -130,6 +196,7 @@ Fingerprint verifications?
 [2015-10-05 Mon 14:31]
 
 left message again
+
 
 *** WAITING VTBTR, Kara Shangraw, 802-828-1134             :@WAITING:WAITING:
    :LOGBOOK:  
@@ -145,13 +212,14 @@ left message again
 
     [[https://www.sec.state.vt.us/professional-regulation/frequently-asked-questions.aspx#][Verificiation Form]], confusing re: PE license only, or does it pertain to FE too?
 
-*** WAITING AZBTR, 602-364-4930                                    :@WAITING:
+*** DONE AZBTR, 602-364-4930                                       :@WAITING:
+    CLOSED: [2015-10-07 Wed 08:34]
     :LOGBOOK:  
     CLOCK: [2015-10-02 Fri 10:39]--[2015-10-02 Fri 10:40] =>  0:01
     :END:      
     :PROPERTIES:
     :ToodledoID: 214027623
-    :Hash:     8cb719316aa99a25971415e6ce0556b9
+    :Hash:     425730bb379a4b38d93d62e231ff347f
     :END:
     [2015-10-02 Fri 10:39]
 
@@ -159,12 +227,12 @@ left message again
 
     [[https://btr.az.gov/licensing-exams/Verifications][Verification Form]], confusing re: request process
     
-
 * Abbott
   DEADLINE: <2015-10-20 Tue>
   :PROPERTIES:
   :ToodledoFolderID: 3901439
   :END:
+143833 Task 3 [[outlook:00000000910682B0D29B304A8E16A9B42C4ACF5B07000282B60224BDCA439465B2C86147F76C00006087000B00000282B60224BDCA439465B2C86147F76C0000611144E50000][MESSAGE: Abbott Rd PN, Tasks and Budgets (Christianson, Derek M)]]
 ** DONE [#B] complete DWGs for signage
    CLOSED: [2015-10-05 Mon 15:59]
    :LOGBOOK:  
@@ -184,19 +252,6 @@ left message again
    Email sent 05/26/15
    [[outlook:00000000910682B0D29B304A8E16A9B42C4ACF5B0700C0A793B8F8B0314D968219788477D54F000000105F5C00000282B60224BDCA439465B2C86147F76C0000611164DC0000][MESSAGE: Abbott Rd Striping Sheets (Travis, Jared M)]]
 
-** NEXT [#B] Check TCP for Ph. 1 vs Ph. 2
-   :LOGBOOK:  
-   CLOCK: [2015-10-05 Mon 16:02]--[2015-10-05 Mon 16:38] =>  0:36
-   :END:      
-    :PROPERTIES:
-    :ToodledoID: 214156195
-    :Hash:     8e465c08951dbf226416ea24789969ad
-    :END:
-** TODO [#B] Update the estimate
-    :PROPERTIES:
-    :ToodledoID: 214156197
-    :Hash:     ea2c6627a726a62621a8d8d1ef8c88aa
-    :END:
 ** DONE [#B] Check on MCL template, sent from Kristen
     CLOSED: [2015-10-05 Mon 10:37]
     :LOGBOOK:  
@@ -213,9 +268,43 @@ left message again
     Email sent to Derek <2015-10-05 Mon 09:42>
     [[outlook:00000000910682B0D29B304A8E16A9B42C4ACF5B0700C0A793B8F8B0314D968219788477D54F000000105F5C00000282B60224BDCA439465B2C86147F76C000061116D140000][MESSAGE: RE: DOT.CR.HwyDes Standards Email - August XX (Travis, Jared M)]]
 
+** DONE Abbott ESCP sheets
+   CLOSED: [2015-10-20 Tue 10:08]
+  :LOGBOOK:  
+  CLOCK: [2015-10-22 Thu 09:00]--[2015-10-22 Thu 10:10] =>  1:10
+  CLOCK: [2015-10-20 Tue 07:51]--[2015-10-20 Tue 10:08] =>  2:17
+  CLOCK: [2015-10-19 Mon 12:40]--[2015-10-19 Mon 15:35] =>  2:55
+  :END:      
+   :PROPERTIES:
+   :ToodledoID: 214965585
+   :Hash:     71fde5d9f6ad6c525bafa6d9ff9686f0
+   :END:
+[2015-10-19 Mon 12:40]
+[[file:~/git/org/toodledo.org::*Donlin%20updates][Donlin updates]]
+
+* PARKS
+  :PROPERTIES:
+  :ToodledoFolderID: 3901959
+  :Hash:     0
+  :END:
+148830 9
+** DONE Parks print
+  CLOSED: [2015-10-06 Tue 13:25]
+148830 9
+  :LOGBOOK:  
+  CLOCK: [2015-10-06 Tue 09:07]--[2015-10-06 Tue 11:34] =>  2:27
+  :END:      
+   :PROPERTIES:
+   :ToodledoID: 214745613
+   :Hash:     1148a6f804497b9ad99920468a3d9ff1
+   :END:
+[2015-10-06 Tue 09:07]
+[[file:~/git/org/toodledo.org::*PHONE%20Jourdyn%20Ruggles%20from%20Chaz%20Limited][PHONE Jourdyn Ruggles from Chaz Limited]]
+
 * HOME
   :PROPERTIES:
   :ToodledoFolderID: 1692559
+  :Hash:     0
   :END:
 ** DONE [#B] Get Chaz quote                                           :@home:
    CLOSED: [2015-10-02 Fri 13:17]
@@ -266,3 +355,210 @@ left message again
 
 
     
+** PHONE Jourdyn Ruggles from Chaz Limited                           :@PHONE:
+  :LOGBOOK:  
+  CLOCK: [2015-10-05 Mon 10:39]--[2015-10-05 Mon 10:43] =>  0:04
+  :END:      
+[2015-10-05 Mon 10:39]
+
+ETA parts 10-12-15, generarous estimate = 18 business days of work
+
+We're to drop off car 10/6
+
+* Donlin
+144912 3
+[[T:\DONLIN\144912 - 2015 Pipeline Eng\08-CADD\3D_DONLIN\Production Drawings]]
+  :PROPERTIES:
+  :ToodledoFolderID: 3899905
+  :Hash:     0
+  :END:
+** NEXT [#E] Donlin updates
+   :LOGBOOK:  
+   CLOCK: [2015-10-22 Thu 14:59]--[2015-10-22 Thu 16:41] =>  1:42
+   CLOCK: [2015-10-22 Thu 10:10]--[2015-10-22 Thu 10:53] =>  0:43
+   CLOCK: [2015-10-22 Thu 07:53]--[2015-10-22 Thu 09:00] =>  1:07
+   CLOCK: [2015-10-21 Wed 12:26]--[2015-10-21 Wed 16:34] =>  4:08
+   CLOCK: [2015-10-21 Wed 08:04]--[2015-10-21 Wed 11:59] =>  3:55
+   CLOCK: [2015-10-20 Tue 15:29]--[2015-10-20 Tue 16:54] =>  1:25
+   CLOCK: [2015-10-20 Tue 13:44]--[2015-10-20 Tue 14:09] =>  0:25
+   CLOCK: [2015-10-19 Mon 12:39]--[2015-10-19 Mon 12:40] =>  0:01
+   CLOCK: [2015-10-19 Mon 08:06]--[2015-10-19 Mon 12:17] =>  4:11
+   CLOCK: [2015-10-16 Fri 14:28]--[2015-10-16 Fri 16:40] =>  2:12
+   CLOCK: [2015-10-16 Fri 08:30]--[2015-10-16 Fri 08:31] =>  0:01
+   :END:      
+   :PROPERTIES:
+   :ToodledoID: 214745617
+   :Hash:     d5f4e8bffb606ea496bc84b10bb99e59
+   :END:
+   [2015-10-16 Fri 08:30]
+
+   [[outlook:00000000910682B0D29B304A8E16A9B42C4ACF5B07000282B60224BDCA439465B2C86147F76C00006087000B00000282B60224BDCA439465B2C86147F76C0000611170A00000][MESSAGE: donlin (Anderson, Eric S)]]
+
+
+Function layerData()
+Dim gRowNum, gColNum, sRowNum, sColNum, strata As Long
+Dim holeID As String
+
+gRowNum = 2
+gColNum = 1
+sRowNum = 2
+sColNum = 2
+strata = 1
+
+
+
+
+
+
+' Set layers
+Do While ThisWorkbook.Sheets("SOURCE").Cells(sRowNum, sColNum) <> ""
+   
+    ' LocationID
+    holeID = ThisWorkbook.Sheets("SOURCE").Cells(sRowNum, 1)
+    Cells(gRowNum, gColNum) = holeID
+    gColNum = gColNum + 1
+    ' DepthTop
+    If strata = 1 Then
+        Cells(gRowNum, gColNum) = 0
+                Else
+        Cells(gRowNum, gColNum) = Cells(gRowNum - 1, gColNum + 1)
+            End If
+    strata = strata + 1
+    gColNum = gColNum + 1
+    sColNum = sColNum + 1
+    
+    'depth of base
+    Dim depthTop, depthBot As Double
+    depthTop = Cells(gRowNum, gColNum - 1)
+    depthBot = ThisWorkbook.Sheets("SOURCE").Cells(sRowNum, sColNum) + depthTop
+    
+    If ThisWorkbook.Sheets("SOURCE").Cells(sRowNum, sColNum + 1) <> "" Then
+     '   If depthBot = 50 Then
+      '  Cells(gRowNum, gColNum) = 50
+      '  Cells(gRowNum, gColNum + 1) = "70"
+       ' Cells(gRowNum, gColNum + 2) = "70"
+       ' End If
+        
+        Cells(gRowNum, gColNum) = depthBot
+        Else
+            If depthBot > 50 Then
+            Cells(gRowNum, gColNum) = depthBot
+            Else
+            Cells(gRowNum, gColNum) = depthBot
+            End If
+    End If
+        
+    'description
+    If Cells(gRowNum, gColNum + 2) <> "70" Then
+    Cells(gRowNum, gColNum + 1) = ThisWorkbook.Sheets("SOURCE").Cells(sRowNum, sColNum - 1)
+    End If
+    
+    ' LegCode
+    If Cells(gRowNum, gColNum + 1) = "M" Then
+        Cells(gRowNum, gColNum + 1) = "1"
+        Cells(gRowNum, gColNum + 2) = "1"
+        ElseIf Cells(gRowNum, gColNum + 1) = "B" Then
+        Cells(gRowNum, gColNum + 1) = "70"
+        Cells(gRowNum, gColNum + 2) = "70"
+        ElseIf Cells(gRowNum, gColNum + 1) = "B-w" Then
+        Cells(gRowNum, gColNum + 1) = "70"
+        Cells(gRowNum, gColNum + 2) = "70"
+        ElseIf Cells(gRowNum, gColNum + 1) = "Bx-w" Then
+        Cells(gRowNum, gColNum + 1) = "70"
+        Cells(gRowNum, gColNum + 2) = "70"
+        ElseIf Cells(gRowNum, gColNum + 1) = "C" Then
+        Cells(gRowNum, gColNum + 1) = "3"
+        Cells(gRowNum, gColNum + 2) = "3"
+        ElseIf Cells(gRowNum, gColNum + 1) = "Cg" Then
+        Cells(gRowNum, gColNum + 1) = "4"
+        Cells(gRowNum, gColNum + 2) = "4"
+        ElseIf Cells(gRowNum, gColNum + 1) = "E" Then
+        Cells(gRowNum, gColNum + 1) = "9"
+        Cells(gRowNum, gColNum + 2) = "9"
+        ElseIf Cells(gRowNum, gColNum + 1) = "El" Then
+        Cells(gRowNum, gColNum + 1) = "9"
+        Cells(gRowNum, gColNum + 2) = "9"
+        ElseIf Cells(gRowNum, gColNum + 1) = "Es" Then
+        Cells(gRowNum, gColNum + 1) = "7"
+        Cells(gRowNum, gColNum + 2) = "7"
+        ElseIf Cells(gRowNum, gColNum + 1) = "F" Then
+        Cells(gRowNum, gColNum + 1) = "2"
+        Cells(gRowNum, gColNum + 2) = "2"
+        ElseIf Cells(gRowNum, gColNum + 1) = "Ff" Then
+        Cells(gRowNum, gColNum + 1) = "2"
+        Cells(gRowNum, gColNum + 2) = "2"
+        ElseIf Cells(gRowNum, gColNum + 1) = "Ffg" Then
+        Cells(gRowNum, gColNum + 1) = "2"
+        Cells(gRowNum, gColNum + 2) = "2"
+        ElseIf Cells(gRowNum, gColNum + 1) = "Fp" Then
+        Cells(gRowNum, gColNum + 1) = "2"
+        Cells(gRowNum, gColNum + 2) = "2"
+        ElseIf Cells(gRowNum, gColNum + 1) = "Fpb" Then
+        Cells(gRowNum, gColNum + 1) = "6"
+        Cells(gRowNum, gColNum + 2) = "6"
+        ElseIf Cells(gRowNum, gColNum + 1) = "Fp-c" Then
+        Cells(gRowNum, gColNum + 1) = "6"
+        Cells(gRowNum, gColNum + 2) = "6"
+        ElseIf Cells(gRowNum, gColNum + 1) = "Fpm" Then
+        Cells(gRowNum, gColNum + 1) = "2"
+        Cells(gRowNum, gColNum + 2) = "2"
+        ElseIf Cells(gRowNum, gColNum + 1) = "Fpm-c" Then
+        Cells(gRowNum, gColNum + 1) = "6"
+        Cells(gRowNum, gColNum + 2) = "6"
+        ElseIf Cells(gRowNum, gColNum + 1) = "Fpm-r" Then
+        Cells(gRowNum, gColNum + 1) = "2"
+        Cells(gRowNum, gColNum + 2) = "2"
+        ElseIf Cells(gRowNum, gColNum + 1) = "Fp-r" Then
+        Cells(gRowNum, gColNum + 1) = "2"
+        Cells(gRowNum, gColNum + 2) = "2"
+        ElseIf Cells(gRowNum, gColNum + 1) = "Fpt" Then
+        Cells(gRowNum, gColNum + 1) = "6"
+        Cells(gRowNum, gColNum + 2) = "6"
+        ElseIf Cells(gRowNum, gColNum + 1) = "Fpt-c" Then
+        Cells(gRowNum, gColNum + 1) = "7"
+        Cells(gRowNum, gColNum + 2) = "7"
+        ElseIf Cells(gRowNum, gColNum + 1) = "Fpt-r" Then
+        Cells(gRowNum, gColNum + 1) = "3"
+        Cells(gRowNum, gColNum + 2) = "3"
+        ElseIf Cells(gRowNum, gColNum + 1) = "Fs" Then
+        Cells(gRowNum, gColNum + 1) = "OL"
+        Cells(gRowNum, gColNum + 2) = "OL"
+        ElseIf Cells(gRowNum, gColNum + 1) = "GF" Then
+        Cells(gRowNum, gColNum + 1) = "6"
+        Cells(gRowNum, gColNum + 2) = "6"
+        ElseIf Cells(gRowNum, gColNum + 1) = "GL" Then
+        Cells(gRowNum, gColNum + 1) = "12"
+        Cells(gRowNum, gColNum + 2) = "12"
+        ElseIf Cells(gRowNum, gColNum + 1) = "Gt" Then
+        Cells(gRowNum, gColNum + 1) = "10"
+        Cells(gRowNum, gColNum + 2) = "10"
+        ElseIf Cells(gRowNum, gColNum + 1) = "H" Then
+        Cells(gRowNum, gColNum + 1) = "20"
+        Cells(gRowNum, gColNum + 2) = "20"
+        ElseIf Cells(gRowNum, gColNum + 1) = "Hf" Then
+        Cells(gRowNum, gColNum + 1) = "20"
+        Cells(gRowNum, gColNum + 2) = "20"
+        ElseIf Cells(gRowNum, gColNum + 1) = "L" Then
+        Cells(gRowNum, gColNum + 1) = "11"
+        Cells(gRowNum, gColNum + 2) = "11"
+        ElseIf Cells(gRowNum, gColNum + 1) = "O" Then
+        Cells(gRowNum, gColNum + 1) = "ORGANICS"
+        Cells(gRowNum, gColNum + 2) = "ORGANICS"
+        ElseIf Cells(gRowNum, gColNum + 1) = "Gt" Then
+        Cells(gRowNum, gColNum + 1) = "10"
+        Cells(gRowNum, gColNum + 2) = "10"
+    End If
+    gRowNum = gRowNum + 1
+    If ThisWorkbook.Sheets("SOURCE").Cells(sRowNum, sColNum + 1) = "" Then
+        sColNum = 2
+        sRowNum = sRowNum + 1
+        strata = 1
+        Else
+    sColNum = sColNum + 1
+    End If
+    gColNum = 1
+   
+Loop
+
+
+End Function

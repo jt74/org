@@ -159,6 +159,15 @@ GeoTek Alaska presents their GeoProbe and Ground Penetrating Technology capabili
   :ID:       eb155a82-92b2-4f25-a3c6-0304591af2f9
   :END:
  :LOGBOOK:
+ CLOCK: [2015-10-22 Thu 16:41]
+ CLOCK: [2015-10-22 Thu 07:50]--[2015-10-22 Thu 07:53] =>  0:03
+ CLOCK: [2015-10-21 Wed 07:56]--[2015-10-21 Wed 08:04] =>  0:08
+ CLOCK: [2015-10-20 Tue 11:12]--[2015-10-20 Tue 13:23] =>  2:11
+ CLOCK: [2015-10-19 Mon 07:48]--[2015-10-19 Mon 07:58] =>  0:10
+ CLOCK: [2015-10-16 Fri 12:33]--[2015-10-16 Fri 12:34] =>  0:01
+ CLOCK: [2015-10-16 Fri 08:31]--[2015-10-16 Fri 08:35] =>  0:04
+ CLOCK: [2015-10-07 Wed 11:21]--[2015-10-07 Wed 11:30] =>  0:09
+ CLOCK: [2015-10-07 Wed 07:34]--[2015-10-07 Wed 08:34] =>  1:00
  CLOCK: [2015-10-05 Mon 07:59]--[2015-10-05 Mon 09:21] =>  1:22
  CLOCK: [2015-10-02 Fri 10:53]--[2015-10-02 Fri 16:36] =>  5:43
  CLOCK: [2015-10-02 Fri 10:51]--[2015-10-02 Fri 10:53] =>  0:02
@@ -225,7 +234,6 @@ GeoTek Alaska presents their GeoProbe and Ground Penetrating Technology capabili
  CLOCK: [2014-10-28 Tue 10:24]--[2014-10-28 Tue 10:32] =>  0:08
  CLOCK: [2014-10-28 Tue 07:37]--[2014-10-28 Tue 09:13] =>  1:36
  :END:
-
 * CAD notes								:CAD:
 ** DOT									:DOT:
    - [[outlook:00000000910682B0D29B304A8E16A9B42C4ACF5B07000282B60224BDCA439465B2C86147F76C00006087000B00000282B60224BDCA439465B2C86147F76C0000611167A30000][Templates and standards email update 062515]]
@@ -264,7 +272,6 @@ phone: 888-431-6300
  [2015-09-10 Thu 15:29]
  [[file:~/git/org/baker.org::*Geo%20DONLIN%20ALIGNMENT%202][Geo DONLIN ALIGNMENT 2]]
 * Marketing
-* 
 * Hilcorp
 145673 6.1
 * Proposals
